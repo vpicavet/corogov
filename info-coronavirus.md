@@ -80,7 +80,7 @@ Suggestions :
 
  
 
-Mise à jour le mardi 17 mars, 19h30
+Mise à jour le mercredi 18 mars, 19h30
 
 informations **Coronavirus**
 ============================
@@ -91,6 +91,7 @@ informations **Coronavirus**
 
 -   [Français](/info-coronavirus){.active}
 -   [FALC](/info-coronavirus/francais-simplifie-falc)
+-   [Espace handicap](/info-coronavirus/espace-handicap)
 -   [English](/en/coronavirus-covid-19)
 
 []{#haut}
@@ -124,14 +125,19 @@ pour :
 
 -   **l\'attestation individuelle, à [télécharger en cliquant
     ici](/sites/default/files/contenu/piece-jointe/2020/03/attestation_de_deplacement_derogatoire.pdf)
-    ou à reproduire sur papier libre ;**
+    ou à reproduire sur papier libre. Elle doit être remplie pour chaque
+    déplacement non professionnel ;**
 -   **l\'attestation de l\'employeur, [à télécharger en cliquant
-    ici](/sites/default/files/contenu/piece-jointe/2020/03/justificatif_de_deplacement_professionnel.pdf).**
+    ici](/sites/default/files/contenu/piece-jointe/2020/03/justificatif_de_deplacement_professionnel.pdf).
+    Elle est valable pendant toute la durée des mesures de confinement
+    et n'a donc pas à être renouvelée tous les jours.**
 
 Les infractions à ces règles seront sanctionnées d\'une amende de 135
 euros. En cas de doute sur ces restrictions de déplacement, vous pouvez
 consulter les [questions / réponses en cliquant
-ici](/sites/default/files/contenu/piece-jointe/2020/03/faq-restrictions.pdf).
+ici](/sites/default/files/contenu/piece-jointe/2020/03/faq-restrictions.pdf).\
+Les attestations officielles imprimées et les attestations sur l'honneur
+rédigées sur papier libre sont les seules valables.
 
 
 []{#corona}[]{#ancre1}Qu'est-ce que le coronavirus COVID-19 ?
@@ -140,10 +146,10 @@ ici](/sites/default/files/contenu/piece-jointe/2020/03/faq-restrictions.pdf).
 Depuis janvier 2020 une épidémie de Coronavirus COVID-19 (ex 2019-nCoV)
 s'est propagée depuis la Chine. Retrouvez sur cette plateforme toutes
 les réponses officielles aux questions que vous vous posez sur ce qu'est
-le Coronavirus COVID-19 et les recommandations pour votre santé et vos
-voyages.\
+le Coronavirus COVID-19 et les recommandations pour votre santé et votre
+vie quotidienne.\
 \
-Face aux infections, il existe des gestes simples pour préserver votre
+Face à l'épidémie , il existe des gestes simples pour préserver votre
 santé et celle de votre entourage :
 
 -   Se laver les mains très régulièrement
@@ -160,12 +166,11 @@ Coronavirus) à des pathologies plus sévères comme le MERS-COV ou le
 SRAS.
 
 Le virus identifié en janvier 2020 en Chine est un nouveau Coronavirus.
-La maladie provoquée par ce Coronavirus a été nommée COVID-19 par
+La maladie provoquée par ce Coronavirus a été nommée SARS-CoV-2. par
 [l'Organisation mondiale de la Santé -
 OMS](https://www.who.int/fr/emergencies/diseases/novel-coronavirus-2019/advice-for-public).\
 Depuis le 11 mars 2020, l'OMS qualifie la situation mondiale du COVID-19
-de pandémie ; c'est-à-dire que l'épidémie touche désormais 137 pays sur
-une zone étendue.
+de pandémie ; c'est-à-dire que l'épidémie est désormais mondiale.
 
 #### Quels sont les symptômes du Coronavirus COVID-19 ?
 
@@ -181,23 +186,24 @@ le traitement est symptomatique.
 
 #### La prise d\'anti-inflammatoires (ibuprofène, cortisone\...) pourrait être un facteur d\'aggravation de l\'infection.
 
-De nombreux programmes français et européens et des essais cliniques,
-sont en cours afin d'améliorer le diagnostic, la compréhension et la
-prise en charge de cette maladie. Par ailleurs, des équipes travaillent
-sur plusieurs pistes de traitement à Paris, Marseille ou encore Lyon ;
-les protocoles ont commencé. Des équipes sont également à pied d\'œuvre
-pour inventer un vaccin, qui pourrait voir le jour dans les prochains
-mois.
+De manière générale, l'auto-médication par anti-inflammatoires doit être
+proscrite. De plus, il semblerait que les anti-inflammatoires pourraient
+être un facteur d'aggravation de l\'infection. Ainsi, dans le cas d'une
+infection au coronavirus COVID-19, le paracétamol est recommandé. Si
+vous êtes déjà sous anti-inflammatoires ou en cas de doute, demandez
+conseil à votre médecin.
 
 #### Comment se transmet le Coronavirus COVID-19 ?
 
-La maladie se transmet par les postillons (éternuements, toux). On
-considère donc qu'un contact étroit avec une personne malade est
-nécessaire pour transmettre la maladie : même lieu de vie, contact
-direct à moins d'un mètre lors d'une toux, d'un éternuement ou une
-discussion en l'absence de mesures de protection.  Un des vecteurs
-privilégiés de la transmission du virus est le contact des mains non
-lavées.
+La maladie se transmet par les gouttelettes (sécrétions projetées lors
+d'éternuements ou de la toux). On considère donc qu'un contact étroit
+avec une personne malade est nécessaire pour transmettre la maladie :
+même lieu de vie, contact direct à moins d'un mètre lors d'une toux,
+d'un éternuement ou une discussion en l'absence de mesures de
+protection.  Un des autres vecteurs privilégiés de la transmission du
+virus est le contact des mains non lavées. \
+C'est donc pourquoi les gestes barrières et les mesures de distanciation
+sociale sont indispensables pour se protéger de la maladie.
 
 #### Quel est le délai d'incubation de la maladie ?
 
@@ -217,17 +223,13 @@ pas été confirmée.
 
 #### Le virus a-t-il muté ? 
 
-Non, mais selon les dernières données scientifiques, il existerait deux
-souches circulantes du virus (L et S).\
-\
-La souche S serait plus ancienne que la souche L. À ce stade, rien ne
-permet de confirmer si la mutation a eu lieu chez l'homme ou chez les
-hôtes intermédiaires (animal).\
-\
-La souche L serait la souche circulante la plus sévère et la plus
-fréquente (70% des échantillons testés dans l'étude), tandis que la
-souche S serait moins agressive et moins fréquente (30% des
-échantillons).\
+Ce jour il n'existe pas d'arguments scientifiques suffisamment robustes
+en cette faveur.  Les travaux de recherche se poursuivent aujourd'hui
+pour mieux connaître le virus. Il convient de rappeler que la grande
+majorité des mutations des virus sont neutres, et le reste plus souvent
+bénéfiques pour l'Homme que l'inverse. En effet, dans la majorité des
+épidémies, les virus évoluent vers moins de dangerosité mais plus de
+diffusion.\
 \
 Grâce aux moyens de détection et aux mesures de lutte contre le
 coronavirus, la circulation de la souche L, plus sévère et donc plus
@@ -236,14 +238,16 @@ facilement détectable, tend à diminuer.
 #### Peut-on attraper la maladie par l'eau ?
 
 A ce jour, il n'a pas été rapporté de contamination par l'eau. Cette
-maladie est à transmission respiratoire et probablement de l'animal à
-l'homme, mais la source n'est pas encore identifiée.
+maladie est à transmission interhumaine par la voie des gouttelettes
+(toux, éternuements). La source originelle du virus n'est pas encore
+identifiée mais semble d'origine animale.
 
 #### Existe-t-il des risques liés aux animaux domestiques (d\'élevage et familiers) ?
 
 Il n\'existe aucune preuve que les animaux domestiques jouent un rôle
-dans la propagation coronavirus COVID-19, le coronavirus à l'origine du
-COVID-19 (sources OIE, OMS et Anses).
+dans la propagation coronavirus COVID-19. De plus, le passage du
+coronavirus COVID-19 de l'être humain vers une autre espèce animale
+semble peu probable.
 
 #### Existe-t-il des risques liés aux aliments ?
 
@@ -267,9 +271,12 @@ simples, notamment en fonction de l'âge ou de l'existence de plusieurs
 maladies n'est pas modifié. Les études internationales nous montrent que
 si les personnes fragiles sont les plus à risque de développer une forme
 grave d'infection au Coronavirus, l'ensemble de la population peut
-également être concernée. Quelques cas d'infection grave au Coronavirus
-chez des patients hors personnes âgées ou fragiles ont effectivement été
-constatés dans d'autres pays.
+également être concernée. La notion de seconde vague évoquée par le
+Président de la République se fonde sur les observations scientifiques
+montrant que les sujets jeunes, au début de leur contamination,
+présentent des symptômes peu graves, mais qu'après environ une semaine
+d'évolution, certains présentent des atteintes plus sévères, nécessitant
+de possibles hospitalisations.
 
 #### Comment s'organise la recherche autour du virus en France ?
 
@@ -292,7 +299,7 @@ sont en cours afin d'améliorer le diagnostic, la compréhension et la
 prise en charge de cette maladie. Par ailleurs, des équipes travaillent
 sur plusieurs pistes de traitement à Paris, Marseille ou encore Lyon ;
 les protocoles ont commencé. Des équipes sont également à pied d\'œuvre
-pour inventer un vaccin, qui pourra voir le jour dans les prochains
+pour inventer un vaccin, qui pourrait voir le jour dans les prochains
 mois.
 
 #### Quelle est la stratégie des autorités sanitaires pour les tests ?
@@ -306,16 +313,16 @@ populations :
 
 -   les personnes fragiles(cf liste) présentant des symptômes évocateurs
     du COVID-19, à risque de développer des complications. 
--   les deux premières personnes présentant des symptômes évocateurs du
+-   les deux trois personnes présentant des symptômes évocateurs du
     COVID-19 dans les structures médico-sociales, notamment les maisons
     de retraites, et dans les structures collectives hébergeant des
     personnes vulnérables, pour prendre des mesures immédiates afin
     d'éviter une transmission entre les résidents, 
 -   les personnes hospitalisées présentant des symptômes évocateurs de
-    Covid-19 car il faut pouvoir comprendre rapidement l'état du patient
+    COVID-19 car il faut pouvoir comprendre rapidement l'état du patient
     et éviter les transmissions,
 -   les professionnels de santé présentant des symptômes évocateurs de
-    Covid-19.
+    COVID-19.
 
 #### Pourquoi ne plus tester tous les patients avec symptômes ?
 
@@ -360,7 +367,7 @@ chapitre](# "Fermer le chapitre : Qu’est-ce que le coronavirus COVID-19 ?"){.b
 []{#point}[]{#ancre3}Point de situation en France
 -------------------------------------------------
 
-#### Le 17 mars à 19h30
+#### Le 18 mars à 19h30
 
 Le ministre des Solidarités et de la Santé, tient un [point presse
 quotidien](http://www.dailymotion.com/MinSoliSante) pour vous informer
@@ -372,9 +379,9 @@ Les informations du jour :
     plusieurs zones de regroupement de cas appelés \"clusters\". Nous
     sommes actuellement au stade 3 du plan d'actions du Gouvernement qui
     a pour objectif de prévenir et limiter la circulation du virus.
--   Depuis le 24 janvier 2020, la France compte 7 730 cas de Coronavirus
+-   Depuis le 24 janvier 2020, la France compte 9 134 cas de Coronavirus
     COVID-19 confirmés.
--   175 personnes sont décédées depuis le début de l\'épidémie.
+-   264 personnes sont décédées depuis le début de l\'épidémie.
 
 Retrouvez le point épidémiologique quotidien sur [Santé publique
 France](http://www.santepubliquefrance.fr/maladies-et-traumatismes/maladies-et-infections-respiratoires/infection-a-coronavirus/articles/infection-au-nouveau-coronavirus-sars-cov-2-covid-19-france-et-monde).\
@@ -409,7 +416,7 @@ santé et celle de votre entourage :
 -   Utiliser des mouchoirs à usage unique et les jeter
 -   Eviter les rassemblements, limiter les déplacements et les contacts
 
-**J'ai des symptômes (toux, fièvre) qui me font penser au Covid-19 : je
+**J'ai des symptômes (toux, fièvre) qui me font penser au COVID-19 : je
 reste à domicile, j'évite les contacts, j'appelle un médecin avant de me
 rendre à son cabinet ou j'appelle le numéro de permanence de soins de ma
 région. Je peux également bénéficier d'une téléconsultation.**
@@ -419,58 +426,45 @@ signes d'étouffement, j'appelle le [SAMU- Centre 15](tel:15).
 
 #### Qui est considéré comme une personne « à risque » ?
 
- 
-
-Le Haut conseil de la santé publique (HCSP) considère que les personnes
-à risque de développer une forme grave d'infection à SARS-CoV-2 sont les
-suivantes : 
-
--   personnes âgées de 70 ans et plus (même si les patients entre 50 ans
-    et 70 ans doivent être surveillés de façon plus rapprochée) ;
--   patients présentant une insuffisance rénale chronique dialysée,
-    insuffisance cardiaque stade NYHA III ou IV
--   les malades atteints de cirrhose au stade B au moins
--   les patients aux antécédents (ATCD) cardiovasculaires : hypertension
-    artérielle, ATCD d'accident vasculaire cérébral ou de
-    coronaropathie, chirurgie cardiaque ;
--   les diabétiques insulinodépendants ou présentant des complications
-    secondaires à leur pathologie (micro ou macro angiopathie) ;
--   les insuffisants respiratoires chroniques sous oxygénothérapie ou
-    asthme ou mucoviscidose ou toute pathologie chronique respiratoire
+-   les personnes âgées de 70 ans et plus ;
+-   les patients présentant une insuffisance rénale chronique dialysée,
+    une insuffisance cardiaque stade NYHA III ou IV
+-   les patients aux antécédents cardiovasculaires : hypertension
+    artérielle compliquée, antécédents d'accident vasculaire cérébral ou
+    de coronaropathie, chirurgie cardiaque, insuffisance cardiaque stade
+    NYHA III ou IV ;
+-   les diabétiques insulinodépendants non équilibrés ou présentant des
+    complications secondaires à leur pathologie ;
+-   les personnes présentant une pathologie chronique respiratoire
     susceptible de décompenser lors d'une infection virale ;
--   les personnes avec une immunodépression :
-    -   médicamenteuses : chimiothérapie anti cancéreuse,
-        immunosuppresseur, biothérapie et/ou une corticothérapie à dose
-        immunosuppressive,
-    -   infection à VIH non contrôlé avec des CD4 \<200/mn^3^
-    -   consécutive à une greffe d'organe solide ou de cellules souche
-        hématopoïétiques,
-    -   atteint d'hémopathie maligne en cours de traitement,
-    -   présentant un cancer métastasé.
+-    les patients présentant une insuffisance rénale chronique dialysée
+    ;
+-   les personnes avec une immunodépression congénitale ou acquise
+    (médicamenteuses : chimiothérapie anti cancéreuse,
+    immunosuppresseur, biothérapie et/ou une corticothérapie à dose
+    immunosuppressive, infection à VIH non contrôlé avec des CD4
+    \<200/mm³, consécutive à une greffe d'organe solide ou de cellules
+    souche hématopoïétiques, atteints d'hémopathie maligne en cours de
+    traitement, présentant un cancer métastasé) ;
+-   les malades de cirrhose au stade B au moins ;
+-   les femmes enceintes à partir du 3eme trimestre de grossesse ;
+-    les personnes présentant une obésité morbide (indice de masse
+    corporelle \> 40kg/m²)
 
-<!-- -->
-
--   Les femmes enceintes à partir du 3e trimestre
--   Les personnes présentant une obésité morbide (indice de masse
-    corporelle \> 40kg/m^2^ : par analogie avec la grippe A(H1N1)
-
-Comme pour beaucoup de maladies infectieuses, les personnes souffrant de
-maladies chroniques (hypertension, diabète), les personnes âgées (plus
-de 70 ans), immunodéprimées ou fragiles présentent un risque plus élevé.
-Dans les cas plus sévères, la maladie peut entraîner un décès.
+ 
 
 #### Quel comportement individuel adopter face au Coronavirus ?
 
- 
-
-Si je n'ai **pas de symptômes** et que je n'ai **pas eu de contact
-étroit avec un cas COVID-19**, j'applique les gestes barrières (je me
+ \
+Si je n'ai **pas de symptômes** j'applique les gestes barrières (je me
 lave les mains très régulièrement, je tousse et j'éternue dans mon
 coude, j'utilise des mouchoirs à usage unique, je salue sans serrer la
-main et j'évite les embrassades) et je réduis mes sorties au strict
-nécessaire : travail (si télétravail impossible), courses, médecin.
+main et j'évite les embrassades Je réduis mes sorties au strict
+nécessaire : travail (si télétravail impossible), courses et visites
+médicales indispensables.
 
-Si je n'ai **pas de symptôme** mais que j'ai eu un **contact étroit ou
+\
+Si je n'ai **pas de symptômes** mais que j'ai eu un **contact étroit ou
 je vis avec une personne malade du COVID-19** : je m'isole à domicile,
 je réduis strictement mes sorties sauf pour ravitaillement alimentaire,
 j'applique les gestes barrières (je me lave les mains très
@@ -482,14 +476,32 @@ télétravail.**\
 \
 Si je suis un **professionnel de santé** ne présentant **pas de
 symptômes** mais que j'ai eu un **contact avec une personne malade du
-COVID-19 en l'absence de mesures de protection appropriées** : je
+COVID-19** **en l'absence de mesures de protection appropriées** : je
 m'auto-surveille en prenant ma température 2 fois par jour, j'applique
 les gestes barrières (je me lave les mains très régulièrement, je tousse
 et j'éternue dans mon coude, j'utilise des mouchoirs à usage unique, je
 salue sans serrer la main et j'évite les embrassades), je porte un
-masque sur mon lieu de travail et avec les malades, je contacte un
-médecin et me fait tester systématiquement en cas d'apparition de
-symptômes.\
+masque sur mon lieu de travail et avec les malades pendant 14 jours, je
+contacte un médecin et me fait tester systématiquement en cas
+d'apparition de symptômes.\
+Si j'ai des symptômes évocateurs de COVID 19 (toux, fièvre, difficultés
+respiratoires) : j'appelle mon médecin traitant ou un médecin par
+téléconsultation, je n'appelle le 15 que si j'ai des difficultés
+respiratoires ou si j'ai fait un malaise, je m'isole strictement à
+domicile. Je me fais tester uniquement si je suis une personne fragile
+ou à risque, si je présente des signes de gravité, si je suis déjà
+hospitalisé, si je suis un professionnel de santé, si je suis une
+personne fragile en structure collective (EPHAD, handicap). Les tests en
+ambulatoire, avec prélèvements à domicile, sont possibles. Si je
+n'appartiens à aucune de ces catégories, un médecin effectue le
+diagnostic sur signes cliniques.\
+Si je suis testé positif ou si je suis diagnostiqué cliniquement : je
+reste strictement à domicile, si j'ai un rendez-vous médical
+indispensable je porte un masque pour m'y rendre. En cas de difficulté
+respiratoire, j'appelle le 15. Je me fais prescrire un arrêt de travail
+par mon médecin. Selon ma situation, je m'auto-surveille, ou mon médecin
+met en place un protocole de surveillance. Mon isolement sera levé 48h
+après la résolution complète des symptômes.\
 \
 **Si j'ai des symptômes évocateurs de COVID 19** (toux, fièvre,
 difficultés respiratoires) : j'appelle mon médecin traitant ou un
@@ -519,12 +531,13 @@ j'éternue dans mon coude, j'utilise des mouchoirs à usage unique, je
 salue sans serrer la main et j'évite les embrassades) et je limite mes
 déplacements au strict nécessaire.\
 \
-Si je suis un **professionnel de santé et que je présente des symptômes
-évocateurs du COVID-19** (toux, fièvre, difficultés respiratoires) : je
-contacte mon médecin, le médecin de ma structure de soin ou un médecin
-par téléconsultation. Je n'appelle le 15 que si j'ai des difficultés
-respiratoires. Je m'isole strictement à domicile et je me fais tester
-systématiquement (les tests en ambulatoire sont possibles).
+**Si je suis un professionnel de santé** et que je présente des
+symptômes évocateurs du COVID-19 (toux, fièvre, difficultés
+respiratoires) : je contacte mon médecin, le médecin de ma structure de
+soin ou un médecin par téléconsultation. Je n'appelle le 15 que si j'ai
+des difficultés respiratoires. Je m'isole strictement à domicile et je
+me fais tester systématiquement. Si je suis positif, je m'isole
+strictement. Si je suis négatif, je peux continuer le travail.
 
 #### Dois-je porter un masque ?
 
@@ -533,8 +546,8 @@ symptômes. Le masque n'est pas la bonne réponse pour le grand public car
 il ne peut être porté en permanence et surtout n'a pas d'indication sans
 contact rapproché et prolongé avec un malade.\
 \
-Comme pour l'épisode de grippe saisonnière, ce sont les \"gestes
-barrières\" qui sont efficaces.
+Ce sont les gestes barrières et la distanciation sociale qui sont
+efficaces.
 
 #### Quelles mesures sanitaires sont prises pour éviter les contacts?
 
@@ -585,10 +598,15 @@ dans les cas suivants et sur attestation uniquement pour :
 -   Faire de l'exercice physique uniquement à titre individuel, autour
     du domicile et sans aucun rassemblement.
 
+**Que se passe-t-il si je ne respecte pas les mesures de confinement
+? **\
+100 000 policiers et gendarmes sont chargés de s'assurer que chaque
+personne soit en possession de son attestation pour quitter son
+domicile, sur l'intégralité du territoire national avec des points de
+contrôle fixes et mobiles.  \
+Si vous ne respectez pas cette obligation, vous vous exposez à une
+amende de 135 euros.\
  
-
-**Les infractions à ces règles seront sanctionnées d'une amende allant
-de 135 euros.**
 
 #### Puis-je aller travailler ?
 
@@ -600,6 +618,27 @@ carte d'identité. \
 \
 Mon employeur est tenu d'adapter mon travail pour assurer ma sécurité si
 le télétravail est impossible dans mon secteur.\
+\
+**Je suis en formation, que faire ? **\
+Pour garantir le lien continu et régulier avec les stagiaires de la
+formation professionnelle et d'éviter ainsi les ruptures de parcours, le
+ministère du Travail travaille, avec Régions de France, travaillent à la
+mise à disposition des organismes de formation de ressources
+pédagogiques, à la fois sous la forme de plateformes et solutions
+techniques permettant de diffuser, d'animer des formations et d'assurer
+le lien pédagogique à distance, de contenus de formation et d'éléments
+de méthodes pour faciliter la transformation d'une formation en
+présentiel en formation à distance.\
+\
+Le type de ressources mobilisables et les accès à ces ressources seront
+proposés cette semaine, à la fois sur le site du Ministère du travail et
+de Régions de France.\
+\
+Dans tous les cas, et notamment lorsque le lien avec les stagiaires qui
+ont débuté leur formation ne pourra pas être maintenu, le ministère du
+Travail et Régions de France prendront les dispositions pour maintenir
+le niveau de rémunération des stagiaires durant toute la période de
+report.\
  
 
 #### Puis-je faire mes courses au supermarché ou à l\'épicerie ?
@@ -610,7 +649,9 @@ jours et les semaines à venir et les règles du travail de nuit
 notamment, seront assouplies pour les magasins. Il n'y a donc aucun
 risque de rationnement et il faut éviter la surconsommation préventive.
 Les espaces culturels et les cafétérias de la grande distribution seront
-fermés.\
+fermés. La liste des établissements qui bénéficient d'une dérogation
+pour rester ouverts se trouve dans la rubrique "Les établissements
+fermés".\
 \
 **Dans la rue et dans le magasin, je dois respecter une distance de 1
 mètre avec les gens qui m'entourent** et mettre en oeuvre les gestes
@@ -728,10 +769,9 @@ personnes au sein d'un lieu de culte.
 
 #### Puis-je sortir prendre l'air ? 
 
-Je peux aller dans mon jardin ou sur mon balcon mais je ne peux pas
-sortir sans raison ou rejoindre des amis ou ma famille à l'extérieur. \
-\
-Mon conjoint et mes enfants ne peuvent pas sortir si je suis malade.
+Je peux sortir pour une brève activité physique à proximité de mon
+domicile, mais je ne peux pas faire une activité sportive en groupe
+(jogging, football) ni une pique-nique avec des amis.
 
 #### Puis-je aller auprès de parents dépendants ou de proches ?
 
@@ -741,13 +781,11 @@ personnes les plus vulnérables : il faut les protéger le plus possible
 de tout contact et porter une attention encore renforcée aux gestes
 barrières.
 
-#### Puis-je partir en vacances ?
+#### Puis-je partir en vacances à l\'étranger ?
 
-Je ne peux pas quitter la France ni voyager pour mes loisirs ou pendant
-mes congés. Les frontières de l'espace Schengen seront fermées à partir
-du 17 mars à midi pour une période de 30 jours. \
-\
-Si je suis à l'étranger, je peux rentrer en France.
+Le Président a annoncé la fermeture, à partir du 17 mars à midi et pour
+30 jours, des frontières extérieures de l'espace européen, c'est-à-dire
+de l'Union européenne, de l'Espace Schengen et du Royaume-Uni.
 
 #### Les activités physiques à l'extérieur sont-elles autorisées ?
 
@@ -775,11 +813,20 @@ pourra leur être demandée. 
 
 #### Puis-je aller voter ? 
 
-Le second tour des élections municipales est reporté.
+Le second tour des élections municipales est reporté.\
+\
+**La vente de paracétamol est-elle limitée ? **\
+L'Agence nationale de sécurité du médicament (ANSM) a décidé, afin de
+garantir leur disponibilité, qu'à partir du 18 mars 2020, les
+pharmaciens pourront délivrer sans ordonnance une seule boite de
+paracétamol (500 mg ou 1g) par patient ne présentant aucun symptôme, ou
+deux boites (500 mg ou 1g) en cas de symptômes (douleurs et/ou fièvre).
+La vente sur Internet des médicaments à base de paracétamol,
+d\'ibuprofène et d\'aspirine est suspendue.
 
 #### Quel comportement dois-je adopter face au Coronavirus ?
 
-Je n'ai pas encore été exposé au Covid-19 à ma connaissance : j'applique
+Je n'ai pas encore été exposé au COVID-19 à ma connaissance : j'applique
 en permanence les gestes et comportements qui permettent de freiner
 l'épidémie.\
 \
@@ -801,8 +848,8 @@ domicile, et j'évite de les confier à leurs grands-parents qui sont plus
 vulnérables face à l'épidémie. Une procédure simplifiée me permet de
 bénéficier d'un arrêt de travail indemnisé dans ce cadre.\
 \
-J'ai été en contact avec un cas confirmé de Covid-19 ou je vis avec un
-cas confirmé de Covid-19 : je m'isole et je surveille mon état de
+J'ai été en contact avec un cas confirmé de COVID-19 ou je vis avec un
+cas confirmé de COVID-19 : je m'isole et je surveille mon état de
 santé.\
 \
 Je reste à mon domicile, je m'isole 2 semaines, je respecte
@@ -812,7 +859,7 @@ difficultés respiratoires, fièvre) et j'adopte le télétravail. Si des
 symptômes surviennent, je peux appeler mon médecin, mais je ne me
 déplace pas jusqu'à son cabinet, ni au laboratoire ni aux urgences.
 
-#### J'ai des symptômes (toux, fièvre) qui me font penser au Covid-19
+#### J'ai des symptômes (toux, fièvre) qui me font penser au COVID-19
 
 Je reste à domicile, j'évite les contacts, j'appelle un médecin si
 besoin et ne me rends pas directement au cabinet, au laboratoire ou aux
@@ -829,10 +876,11 @@ outils de télémédecine. La prise en charge ambulatoire des patients qui
 présentent des symptômes modérés a vocation à être organisée par les
 médecins habituels des patients. Cela implique, de la part des
 professionnels de santé concernés, d'organiser des circuits spécifiques
-ou de la téléconsultation pour la prise en charge des patients.
-
-#### Je suis un élu local
-
+ou de la téléconsultation pour la prise en charge des patients. Je
+m'abonne et je suis les recommandations sanitaires via le service
+DGS-Urgent.\
+\
+**Je suis un élu local**\
 En lien avec les services de l'Etat, je veille à faire respecter les
 consignes de fermeture de l'ensemble des services non essentiels à la
 vie publique (cinémas, restaurants, bars...) et à limiter les
@@ -878,37 +926,10 @@ de 10 ans).
     sont mineurs) et privilégie les contacts téléphoniques ou
     audiovisuels
 -   Je ne reçois aucune visite et m'abstiens de toute sortie
--   Si j'ai des symptômes grippaux mal tolérés, je contacte le [SAMU
-    Centre 15](tel:15)
-
-#### Je suis une personne en situation de handicap
-
--   Exposée à des risques de forme grave ou de complication du COVID 19,
-    je réduis mes sorties et déplacements au strict minimum
--   Je limite les rencontres avec mes proches et privilégie les contacts
-    téléphoniques ou audiovisuels
--   Je respecte strictement les gestes barrières
--   Si je vis en établissement pour personne en situation de handicap :
-    Je ne reçois aucune visite et m'abstiens de toute sortie,
--   Si j'ai des symptômes grippaux mal tolérés, je contacte le [SAMU
-    Centre 15](tel:15)
--   **Les externats médico-sociaux accueillant des enfants et des jeunes
-    en situation de handicap organiseront les conditions du maintien à
-    domicile, avec continuité de l'accompagnement, et garantiront aux
-    enfants ne pouvant être pris en charge par les familles des
-    solutions adaptées dans un délai maximum de 8 jours.**  Ce délai
-    tient à la nécessité d'organiser la continuité des prises en charge
-    en soins et en interventions pour les enfants. Il doit aussi être
-    mobilisé pour bien construire les solutions pour les enfants aux
-    besoins les plus complexes.
--   **Les internats pour les enfants et adultes fonctionnant 365 jours /
-    365 sont maintenus ouverts**, mais les capacités d'accueil peuvent
-    être adaptées en fonction des besoins, pour tenir compte par exemple
-    du choix des familles d'un retour accompagné à leur domicile pendant
-    cette période
--   **Les parents qui seraient amenés à garder leur enfant handicapé à
-    domicile, quelle qu'en soit la raison, bénéficieront d'une prise en
-    charge par la Sécurité Sociale des indemnités journalières**
+-   Si j'ai des symptômes grippaux simples, je contacte mon médecin
+    généraliste.
+-   Si j'ai une mauvaise tolérance (difficultés respiratoires, malaise,
+    je contacte le SAMU Centre-15.)
 
 #### Je suis une assistante maternelle
 
@@ -941,7 +962,8 @@ d\'établissement ne peuvent plus accueillir de public, et ce, jusqu'au
 
 -   Salles d\'auditions, de conférences, de réunions, de spectacles ou à
     usage multiple (par exemple, les cinémas) ;
--   Centres commerciaux ;
+-   Centres commerciaux et commerces autres que ceux autorisés à rester
+    ouverts ;
 -   Restaurants et débits de boissons ;
 -   Salles de danse et salles de jeux ;
 -   Bibliothèques, centres de documentation ;
@@ -951,10 +973,9 @@ d\'établissement ne peuvent plus accueillir de public, et ce, jusqu'au
 
 Les restaurants et bars d'hôtels, à l'exception du "room service", sont
 considérés comme relevant de la catégorie "restaurants et débits de
-boissons", et ne peuvent donc pas accueillir de public. Cependant,
-l'ensemble des établissements appartenant à cette catégorie sont
-autorisés à maintenir leurs activités de ventes à emporter et de
-livraison.\
+boissons", et ne peuvent donc pas accueillir de public. Les commerces
+qui ne peuvent plus accueillir de clients peuvent maintenir leurs
+activités de livraison et de retrait de commandes.\
 \
 Par ailleurs, les navires de croisière et navires à passagers
 transportant plus de 100 passagers ont interdiction de faire escale en
@@ -1023,6 +1044,7 @@ Les animaleries restent également ouvertes.
 -   Commerce de détail de produits pharmaceutiques en magasin spécialisé
 -   Commerce de détail d\'articles médicaux et orthopédiques en magasin
     spécialisé
+-   Commerce de détail d'optique
 -   Commerce de détail d\'aliments et fournitures pour les animaux de
     compagnie
 -   Commerce de détail alimentaire sur éventaires et marchés
@@ -1035,6 +1057,7 @@ Les animaleries restent également ouvertes.
 -   Terrains de camping et parcs pour caravanes ou véhicules de loisirs
     lorsqu\'ils constituent pour les personnes qui y vivent un domicile
     régulier
+-   Location de véhicules automobiles
 -   Location et location-bail d\'autres machines, équipements et biens
 -   Location et location-bail de machines et équipements agricoles
 -   Location et location-bail de machines et équipements pour la
@@ -1058,95 +1081,80 @@ chapitre](# "Fermer le chapitre : Les établissements fermés"){.backtotop
 []{#voyageurs}[]{#ancre6}Conseils aux voyageurs
 -----------------------------------------------
 
+**Quelles sont les consignes si je pars en voyage ?**\
+Le Président a annoncé la fermeture, à partir du 17 mars à midi et pour
+30 jours, des frontières extérieures de l'espace européen, c'est-à-dire
+de l'Union européenne, de l'Espace Schengen et du Royaume-Uni.\
+Il est nécessaire de restreindre les mouvements internationaux dans
+toute la mesure du possible.\
+ \
+**Quelles sont les consignes si je réside à l'étranger ?**\
+S'agissant des Français qui ont leur résidence habituelle à l'étranger,
+il est recommandé, dans les 30 jours à venir,d'éviter autant que
+possible les déplacements internationaux, et notamment de chercher à
+revenir sur le territoire national. A moins que des raisons impératives
+ne vous y contraignent. \
 \
-**L'ensemble des déplacements sont interdits pendant les 15 prochains
-jours.** Les frontières de l'espace Schengen seront fermées à partir du
-17 mars à midi pour une période de 30 jours. \
+Limiter au maximum les contacts sociaux -- comme le demande la
+communauté scientifique --, c'est aussi limiter ses déplacements
+internationaux.\
 \
-Si je suis à l'étranger, je suis autorisé à rentrer en France.
-
-#### Quelles sont les consignes si je pars en voyage ?
-
-Il est préférable de différer les déplacements à l'étranger (y compris
-les croisières), dans toute la mesure du possible, compte tenu de
-l'évolution de l'épidémie de Coronavirus Covid-19 et des mesures
-restrictives prises par certains pays (interdiction d'entrée sur le
-territoire, isolement obligatoire, mesures de détection des
-symptômes...), à l'égard des voyageurs en provenance de France, du fait
-du développement de l'épidémie dans notre pays.\
+Si certaines personnes résidant en dehors de l'Europe jugeaient
+nécessaire de rentrer en France, notamment au regard des conditions
+sanitaires, elles sont invitées à se faire connaître auprès des
+consulats et ambassades de France. Une attention particulière leur sera
+portée, ainsi qu'aux étudiants.\
+ \
+**Quelles sont les consignes si je suis en déplacement temporaire à
+l'étranger ?**\
+Il est recommandé aux Français actuellement en déplacement temporaire à
+l'étranger, en dehors de l'Europe, de prendre les mesures nécessaires
+pour rentrer en France. \
 \
-A titre de précaution, les personnes qui présentent des symptômes
-potentiellement liés au coronavirus Covid-19 doivent impérativement
-éviter tout déplacement à l'étranger. En cas d'apparition de symptômes à
-l'étranger, il convient de suivre les recommandations des autorités
-locales et le cas échéant, de prendre contact avec la représentation
-diplomatique française compétente. Dans un souci de ne pas propager
-l'épidémie et dans l'attente des instructions de la part des autorité
-locales, les personnes présentant des symptômes doivent restreindre au
-maximum leurs contacts.\
+Si vous êtes français, vous pouvez bien sûr, avec votre conjoint et vos
+enfants, continuer d'entrer sur le territoire national et rejoindre
+votre domicile. Tout comme pourront le faire les autres citoyens
+européens.\
 \
-Par ailleurs, pour les voyages vers les zones où le virus circule
-activement ([liste des zones d'exposition à risque établie par le
-ministère de la
-santé](http://www.santepubliquefrance.fr/maladies-et-traumatismes/maladies-et-infections-respiratoires/infection-a-coronavirus/articles/infection-au-nouveau-coronavirus-sars-cov-2-covid-19-france-et-monde)),
-il convient de se référer aux recommandations spécifiques qui figurent
-dans les Conseils aux voyageurs du pays concerné.\
-\
-Dans la mesure où de plus en plus de pays prennent avec un préavis
-souvent très court des mesures d'interruption des liaisons aériennes
-vers la France, il est conseillé aux personnes actuellement en
-déplacement à l'étranger et qui le peuvent de prendre toutes les mesures
-nécessaires pour un retour en France par voie aérienne dès que
+Le ministre de l'Europe et des Affaires étrangères a demandé à toutes
+les compagnies aériennes et aux voyagistes de participer à cet effort
+collectif exceptionnel, en maintenant leurs lignes ouvertes vers la
+France, et en modérant leurs prix. Le ministre est en lien régulier avec
+ses homologues étrangers pour obtenir l'autorisation du maintien de
+liaisons aériennes et pour que ces liaisons puissent être assurées sur
+des vols commerciaux. Ces démarches ont déjà porté leurs fruits en
+plusieurs endroits. Les efforts se poursuivent en ce sens.\
+ \
+Les ambassades et les consulats sont mobilisés 24 heures sur 24, auprès
+des Français se trouvant à l'étranger, pour apporter toute l'aide
 possible.\
-\
-Le ministère de l'Éducation nationale indique que tous les voyages
-scolaires à l'étranger doivent être interrompus
-([https://education.gouv.fr/info-coronavirus](http://www.education.gouv.fr/info-coronavirus)).\
-\
-Le ministère de l'Europe et des Affaires étrangères met régulièrement à
-jour ses [Conseils aux
-voyageurs](http://www.diplomatie.gouv.fr/fr/conseils-aux-voyageurs/).
-Ils sont disponibles sur le site du ministère de l'Europe et des
-Affaires étrangères et sont réévalués en fonction de l'évolution de la
-situation épidémiologique internationale et des mesures prises par les
-autorités locales.
-
-####  Qu'est-ce qu'une zone à risque ? 
-
-Un pays, ou une région, est considéré comme une zone à risque quand il a
-franchi le seuil épidémique, c'est à dire que le coronavirus COVID-19
-circule activement. Consulter la [liste des zones d'exposition à
-risque](http://www.santepubliquefrance.fr/maladies-et-traumatismes/maladies-et-infections-respiratoires/infection-a-coronavirus/articles/infection-au-nouveau-coronavirus-sars-cov-2-covid-19-france-et-monde)
-établie par le ministère de la santé. La liste est régulièrement mise à
-jour en fonction de l'évolution de la situation.\
-\
-Pour plus d'informations avant d'envisager de vous déplacer à
-l'étranger, consultez les [Conseils aux
-voyageurs](www.diplomatie.gouv.fr/fr/conseils-aux-voyageurs/) du
-ministère de l'Europe et des Affaires étrangères.\
+ \
+**Quelles sont les consignes si je reviens en France ?**\
+Il convient de se référer aux [informations
+Coronavirus](http://www.gouvernement.fr/info-coronavirus) du
+Gouvernement ainsi qu'au site Internet de [Santé Publique
+France](http://www.santepubliquefrance.fr/maladies-et-traumatismes/maladies-et-infections-respiratoires/infection-a-coronavirus/articles/infection-au-nouveau-coronavirus-sars-cov-2-covid-19-france-et-monde).
+Vous pouvez également contacter le numéro vert : 0 800 130 000. Pour
+toute question d'ordre médical, il convient de vous adresser à votre
+médecin.\
  
-
-#### Quelles sont les mesures mises en place dans les lieux de passage (gares, aéroports, ports) ?
-
-Un dispositif d'information des voyageurs a été mis en place dans
-l'ensemble des points de contact des voyageurs. Ce dispositif rappelle
-les consignes sanitaires pour se protéger du virus et les bons réflexes
-à adopter en cas de contamination.
-
-#### Comment sont pris en charge les éventuels patients symptomatiques à l'aéroport ?
-
-Ils sont pris en charge par le service médical d'urgence de l'aéroport.
-Puis ils sont isolés et pris en charge, comme tout cas possible, par le
-[SAMU Centre 15](tel:15) , conformément aux procédures en vigueur.
-
-[Fermer le
-chapitre](# "Fermer le chapitre : Conseils aux voyageurs"){.backtotop
-.button-cta .red}
 
 []{#elections}[]{#ancre10}Les élections municipales
 ---------------------------------------------------
 
-Le second tour des élections municipales est reporté.
+Le second tour des élections municipales est reporté.\
+\
+Cette décision concerne 3 253 communes dont le conseil municipal a été
+partiellement pourvu et 1 669 où aucun conseil municipal n'a été élu à
+l'issue du premier tour du 15 mars 2020. \
+Pour les 30 000 autres communes environ, un conseil municipal a été élu
+dès le premier tour qui pourra se réunir en fin de semaine pour élire
+maire et adjoints (troisième tour) à huis clos et en respectant les
+mesures barrières. \
+Un projet de loi sera présenté prochainement pour encadrer le prochain
+tour des élections municipales, la date limite de dépôt de candidature
+du 17 mars 18h00 ne s'applique donc plus.\
+ 
 
 [Fermer le
 chapitre](# "Fermer le chapitre : Les élections municipales"){.backtotop
@@ -1165,27 +1173,8 @@ chapitre](# "Fermer le chapitre : Les élections municipales"){.backtotop
 
 ### []{#partie2n1}Questions d'actualité
 
-#### Quelles sont les consignes si je présente les symptômes du COVID-19, et que le Samu me demande de rester à mon domicile ?
-
-Si un médecin prescrit un isolement, il est demandé de limiter au
-maximum ses déplacements, à savoir les transports en commun, le lieu de
-travail et les lieux publics, à l'exception de rendez-vous médicaux.
-Dans ce cas, les malades doivent porter un masque, prévenir en amont le
-personnel soignant de leur arrivée et signaler leur condition.\
-Au sein du logement : il est conseillé de rester dans une pièce
-spécifique, en évitant les contacts avec les autres occupants du
-domicile. Si possible, une salle de bain et des toilettes spécifiques
-sont à privilégier.\
-Dans le cas contraire, il est recommandé de porter un masque, de se
-laver les mains fréquemment, de ne pas toucher d'objets communs et de
-laver quotidiennement les surfaces fréquemment touchées (poignées,
-etc.). Il est déconseillé de recevoir de visites sauf indispensables,
-comme les aidants à domiciles. Enfin, les livraisons à domicile sont
-possibles, en laissant le colis sur le palier.\
-Seul les cas confirmés sont signalés aux ARS. Ce signalement est fait
-par les laboratoires et centres de référence.
-
-#### Comment me protéger du coronavirus COVID-19 ?
+\
+**Comment me protéger du coronavirus COVID-19 ?**
 
 Face au coronavirus, il existe des gestes simples pour préserver votre
 santé et celle de votre entourage :
@@ -1206,15 +1195,29 @@ signes d'étouffement, j'appelle le SAMU- Centre 15.
 
 #### Y a-t-il suffisamment de masques en France ? 
 
-15 millions de masques chirurgicaux du stock national sont mis en
-circulation. Les 157 établissements de santé qui prennent en charge des
-cas confirmés de Coronavirus COVID-19 ont  déjà reçu des dotations de
-masques chirurgicaux.\
+Dès le début du mois, deux opérations nationales de déstockage, à
+hauteur de 25 millions de masques, ont été réalisées. En complément, le
+gouvernement a réquisitionné par décret du 3 mars dernier l'ensemble des
+stocks et productions de masques sur le territoire national.\
 \
+La stratégie sanitaire est de fournir en priorité des masques dans les
+zones où le virus circule activement, pour les professionnels de santé
+amenés à prendre en charge des patients COVID-19 en ville, à l'hôpital
+et dans les structures médico-sociales accueillant des personnes
+fragiles, ainsi qu'aux services d'aide à domicile, pour garantir la
+continuité de l'accompagnement à domicile des personnes âgées et en
+situation de handicap.\
+\
+Un approvisionnement complémentaire est également réalisé
+prioritairement pour les médecins généralistes, les infirmiers et les
+pharmaciens en ville sur l'ensemble du territoire national.\
 Le respect des indications scientifiques et sanitaires d'utilisation de
 ces masques, dans les cas où ils sont utiles, est à l'évidence une
 condition pour que le stock et les réassorts de ces dispositifs de
-protection soient exploités au mieux.
+protection soient exploités au mieux. La bonne mise en œuvre de cette
+stratégie repose sur le civisme, la responsabilité individuelle et
+l'évaluation permanente du risque face à une situation inédite et très
+évolutive
 
 #### La réquisition des masques concerne-t-elle toute la production française et les stocks des ministères ?
 
@@ -1233,7 +1236,14 @@ décret :
 -   15 € TTC maximum le litre
 
 Les pharmacies pourront prochainement vendre leur propre solution de gel
-hydro-alcoolique.
+hydro-alcoolique.\
+\
+**Puis-je continuer de recevoir et envoyer du courrier, notamment à
+destination des personnes fragiles (EHPAD...) ? Existe-t'il un risque de
+contamination ?**\
+Il n'existe aucun risque de contamination par le courrier ou les colis.
+La Poste continue également son travail de distribution du courrier
+pendant l'épidémie.
 
 ### []{#partie2n2}Les conséquences de l'épidémie
 
@@ -1255,7 +1265,8 @@ en fonction du développement de l'épidémie). Les conséquences
 
 A ce stade, aucun problème d\'accès aux médicaments n\'a été signalé en
 relation avec l\'épidémie de Coronavirus COVID-19 en France, ni en
-Europe. Néanmoins, l'industrie pharmaceutique mondiale est très
+Europe. Il n'existe notamment aucune pénurie actuelle ou à venir de
+paracétamol. Néanmoins, l'industrie pharmaceutique mondiale est très
 dépendante des activités de production en Asie. Si l'épidémie devait se
 poursuivre pendant une longue période, des impacts sur la disponibilité
 de certains médicaments ne seraient pas à exclure. Le ministère des
@@ -1289,10 +1300,9 @@ médicaments provenant de la Chine.
 
 #### Que fait l'Europe ? 
 
-Les ministres de la santé de l'Union Européenne et la Commission
-Européenne échangent régulièrement pour faire un point de situation sur
-l'épidémie de coronavirus COVID-19 et se coordonner sur les mesures
-prises en terme de confinement ou d'organisation du système de santé.\
+Les ministres de l'Union Européenne et la Commission Européenne
+échangent régulièrement pour faire un point de situation sur l'épidémie
+de coronavirus COVID-19 et se coordonner sur la réponse à la crise. \
 Les membres de l'Union Européenne se coordonnent pour organiser leurs
 besoins en matériels médicaux, en passant par exemple, des marchés
 communs. De nouveaux projets de recherches sont également lancés ainsi
@@ -1389,6 +1399,24 @@ sont fortement impactées. **Nous sommes actuellement en stade 3. **\
 \
 **Stade 4 : Fin de l'épidémie. Retour à la normale.**
 
+**Qu'est-ce que le centre de crise ? **\
+Le centre de crise de Beauvau est un outil de gestion des crises, placé
+au ministère de l'Intérieur, qui peut accueillir la cellule
+interministérielle de crise.\
+\
+**Pourquoi avoir activé le centre de crise du ministère de l'intérieur
+? **\
+Depuis le début de l'épidémie, une organisation interministérielle de
+crise est progressivement montée en puissance. Elle a été placée auprès
+du ministre des solidarités et de la santé, dans les locaux de ce
+ministère.\
+La mise en place du confinement a conduit le Premier ministre à faire
+évoluer cette organisation : le pilotage des aspects sanitaires reste
+assuré par le ministère des Solidarités et de la Santé. Le pilotage des
+autres aspects est assuré depuis le centre de crise du ministère de
+l'intérieur. La coordination entre les deux sites est naturellement
+assurée de façon permanente, et une communication quotidienne conjointe
+sera assurée.\
  
 
 #### Qu'est-ce que le plan blanc ?
@@ -1489,7 +1517,10 @@ atteints du COVID-19 : il n'est plus nécessaire de passer par son
 médecin traitant ou d'avoir eu une consultation présentielle au cours
 des 12 mois précédant la réalisation d'une consultation à distance pour
 que la téléconsultation soit prise en charge par l'assurance maladie
-(télémédecine).
+(télémédecine). La télémédecine est maintenant remboursée par la
+sécurité sociale et ouverte aux sages-femmes pour faciliter la
+consultation des femmes enceintes.\
+ 
 
 #### Pourquoi les heures supplémentaires des professionnels de santé sont-elles déplafonnées ? 
 
@@ -1517,23 +1548,11 @@ ministère des solidarités et de la santé pour limiter la propagation du
 COVID-19 sont mises en oeuvre au sein de l'établissement afin de
 protéger les personnes détenues, les personnels pénitentiaires et les
 visiteurs.\
-Afin d'éviter l'entrée du virus dans les établissements et de protéger
-les personnes qui s'y trouvent, les visiteurs ne peuvent pas accéder à
-l'établissement pénitentiaire et sont invités à se signaler au personnel
-si :
-
--   ils ont été en contact avec une personne infectée par le
-    coronavirus,
--   ils ont voyagé dans l'une des zones géographiques exposées au
-    coronavirus.
-
-Si le visiteur n'est pas concerné par ces situations : une fois au sein
-de l'établissement pénitentiaire, l'ensemble des mesures de sécurité et
-d'hygiène recommandées par le ministère des solidarités et de la santé
-est mis en oeuvre.\
-Des documents d'information sont diffusés auprès des personnes en
-détention afin de les informer de la situation sanitaire et des
-consignes d'hygiène à suivre.
+\
+L'accès aux parloirs sont désormais suspendus. L'administration
+pénitentiaire mettra tout en œuvre pour préserver les liens familiaux en
+s'appuyant notamment sur le déploiement des téléphones en cellule.\
+ 
 
 [Retour aux questions fréquentes](#ancre2){.backmenuh2}
 
@@ -1617,9 +1636,44 @@ publics essentiels** resteront évidemment ouverts.\
 **L'objectif est d'éviter de se rassembler, limiter les réunions
 amicales et familiales,\
 \
-n\'utiliser les transports en commun que pour aller au travail et
+N\'utilisez les transports en commun que pour aller au travail et
 seulement si la présence physique au travail est indispensable.**\
- 
+\
+**Le 16 mars 2020, le Président de la République a décidé de prendre des
+mesures supplémentaires pour réduire à leur plus strict minimum les
+contacts et les déplacements. Un dispositif de confinement est mis en
+place sur l'ensemble du territoire à compter du mardi 17 mars à 12h00,
+pour quinze jours minimum. Les déplacements sont interdits sauf dans les
+cas suivants et uniquement à condition d\'être munis d\'une attestation
+pour :**
+
+-   **Se déplacer de son domicile à son lieu de travail dès lors que le
+    télétravail n'est pas possible ;**
+-   **Faire ses achats de première nécessité dans les commerces de
+    proximité autorisés ;**
+-   **Se rendre auprès d'un professionnel de santé ;**
+-   **Se déplacer pour la garde de ses enfants ou pour aider les
+    personnes vulnérables, ou pour un motif familial impérieux, dûment
+    justifié, à la stricte condition de respecter les gestes barrières
+    ;**
+-   **Faire de l'exercice physique uniquement à titre individuel, autour
+    du domicile et sans aucun rassemblement.**
+
+**Les deux documents nécessaires pour circuler sont disponibles :**
+
+-   **l\'attestation individuelle, [à télécharger en cliquant
+    ici](http://www.gouvernement.fr/sites/default/files/contenu/piece-jointe/2020/03/attestation_de_deplacement_derogatoire.pdf)
+    ou à reproduire sur papier libre ; elle doit être remplie pour
+    chaque déplacement non professionnel ;**
+-   **l\'attestation de l\'employeur, [à télécharger en cliquant
+    ici](http://www.gouvernement.fr/sites/default/files/contenu/piece-jointe/2020/03/justificatif_de_deplacement_professionnel.pdf)
+    ; elle est valable pendant toute la durée des mesures de confinement
+    et n'a donc pas à être renouvelée tous les jours**
+
+**Les infractions à ces règles seront sanctionnées d\'une amende de 135
+euros. En cas de doute sur ces restrictions de déplacement, vous pouvez
+consulter les [questions / réponses en cliquant
+ici](www.gouvernement.fr/sites/default/files/contenu/piece-jointe/2020/03/faq-restrictions.pdf).**
 
 ### []{#partie7n1}Pour votre santé
 
@@ -1853,6 +1907,10 @@ Pour les entreprises, le Gouvernement a annoncé les mesures suivantes : 
     pour les petites entreprises les plus en difficulté ainsi que la
     suspension de leurs impôts et cotisations sociales.
 
+Pour connaitre les modalités d'accès aux différentes aides [télécharger
+la
+brochure](/sites/default/files/contenu/piece-jointe/2020/03/brochure_fiches_pratiques_sur_les_mesures_de_soutien.pdf).
+
 Pour plus d'informations dans votre région, contactez le [0 800 130
 000](tel:0800130000).
 
@@ -1996,11 +2054,13 @@ prévention.**
     -   Possibilité de reporter le paiement des cotisations et impôts
         dus en mars pour toutes les entreprises qui le souhaitent sans
         justification, ni pénalité.
--   **13 mars :** Interdiction des rassemblements de plus de 100
+-   **13 mars :** interdiction des rassemblements de plus de 100
     personnes
 -   **14 mars :** passage en stade 3
--   **17 mars :** Restriction des déplacements au strict minimum
+-   **17 mars :** restriction des déplacements au strict minimum
 -   **17 mars :** fermeture des frontières de l'espace Schengen
+-   **17 mars** : activation de la cellule interministérielle de crise
+    par le Premier ministre
 
 [Retour aux mesures prises par le Gouvernement](#ancre7){.backmenuh2}
 
@@ -2057,22 +2117,17 @@ explicatives produite par le Gouvernement.\
 \
 Elles sont libres de droit.
 
--   [Téléchargez l\'affiche des gestes barrières (Pdf, 73
-    Ko)](https://www.gouvernement.fr/sites/default/files/contenu/piece-jointe/2020/03/coronavirus_gestes_barierre_spf.pdf)
--   [Téléchargez l\'affiche coronavirus : ce qu'il faut savoir (Pdf,
-    1Mo)](https://www.gouvernement.fr/sites/default/files/contenu/piece-jointe/2020/03/coronavirus_ce_quil_faut_savoir.pdf)
 -   [Téléchargez la déclaration Premier ministre 14 mars 2020 (Pdf,
     300Ko)](https://www.gouvernement.fr/sites/default/files/contenu/piece-jointe/2020/03/declaration_premier_ministre_14_mars_2020.pdf)
 -   [Téléchargez la déclaration du président de la République 16 mars
     2020 (Pdf,
     314Ko)](https://www.gouvernement.fr/sites/default/files/contenu/piece-jointe/2020/03/declaration_du_president_de_la_republique_16_mars_2020.pdf)
--   [Téléchargez l\'attestation individuelle (Pdf,
-    0.38Ko)](https://www.gouvernement.fr/sites/default/files/contenu/piece-jointe/2020/03/attestation_de_deplacement_derogatoire.pdf)
--   [Téléchargez l\'attestation de l\'employeur (Pdf,
-    38Ko)](https://www.gouvernement.fr/sites/default/files/contenu/piece-jointe/2020/03/justificatif_de_deplacement_professionnel.pdf)
 -   [Téléchargez les questions / réponses sur les restrictions de
     déplacement (Pdf,
     500Ko)](/sites/default/files/contenu/piece-jointe/2020/03/faq-restrictions.pdf)
+-   [Téléchargez la brochure fiches pratiques sur les mesures de soutien
+    (Pdf,
+    153Ko)](/sites/default/files/contenu/piece-jointe/2020/03/brochure_fiches_pratiques_sur_les_mesures_de_soutien.pdf)
 
 [Fermer le chapitre](# "Fermer le chapitre : Ressources"){.backtotop
 .button-cta .red}
