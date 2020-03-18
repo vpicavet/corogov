@@ -80,7 +80,7 @@ Suggestions :
 
  
 
-Mise à jour le lundi 16 mars, 08h00
+Mise à jour le mardi 17 mars, 19h30
 
 informations **Coronavirus**
 ============================
@@ -89,9 +89,9 @@ informations **Coronavirus**
 -   [Point de situation](#ancre3){.button-cta .bleu}
 -   [Numéros utiles](#ancre5){.button-cta .bleu}
 
--   [Français](/node/10041){.active}
--   [FALC](/node/10066)
--   [English](node/10065)
+-   [Français](/info-coronavirus){.active}
+-   [FALC](/info-coronavirus/francais-simplifie-falc)
+-   [English](/en/coronavirus-covid-19)
 
 []{#haut}
 
@@ -100,27 +100,42 @@ informations **Coronavirus**
 Coronavirus COVID-19 :**
 
 
+
+Le 16 mars 2020, le Président de la République a décidé de prendre des
+mesures pour réduire à leur plus strict minimum les contacts et les
+déplacements. Un dispositif de confinement est mis en place sur
+l'ensemble du territoire à compter du mardi 17 mars à 12h00, pour quinze
+jours minimum. **Les déplacements sont interdits sauf dans les cas
+suivants et uniquement à condition d\'être munis d\'une attestation**
+pour :
+
+-   Se déplacer de son domicile à son lieu de travail dès lors que le
+    télétravail n'est pas possible ;
+-   Faire ses achats de première nécessité dans les commerces de
+    proximité autorisés ;
+-   Se rendre auprès d'un professionnel de santé ;
+-   Se déplacer pour la garde de ses enfants ou pour aider les personnes
+    vulnérables à la stricte condition de respecter les gestes barrières
+    ;
+-   Faire de l'exercice physique uniquement à titre individuel, autour
+    du domicile et sans aucun rassemblement.
+
+**Les deux documents nécessaires pour circuler sont disponibles :**
+
+-   **l\'attestation individuelle, à [télécharger en cliquant
+    ici](/sites/default/files/contenu/piece-jointe/2020/03/attestation_de_deplacement_derogatoire.pdf)
+    ou à reproduire sur papier libre ;**
+-   **l\'attestation de l\'employeur, [à télécharger en cliquant
+    ici](/sites/default/files/contenu/piece-jointe/2020/03/justificatif_de_deplacement_professionnel.pdf).**
+
+Les infractions à ces règles seront sanctionnées d\'une amende de 135
+euros. En cas de doute sur ces restrictions de déplacement, vous pouvez
+consulter les [questions / réponses en cliquant
+ici](/sites/default/files/contenu/piece-jointe/2020/03/faq-restrictions.pdf).
+
+
 []{#corona}[]{#ancre1}Qu'est-ce que le coronavirus COVID-19 ?
 -------------------------------------------------------------
-
-
-[![ - voir en plus
-grand](https://www.gouvernement.fr/sites/default/files/styles/340x200/public/affiche/image/2020/03/coronavirus_vignette.jpg?itok=qmrPvWiJ)](/partage/11439-coronavirus-ce-qu-il-faut-savoir)
-
-[Coronavirus: ce qu\'il faut
-savoir](/partage/11439-coronavirus-ce-qu-il-faut-savoir)
-
-[[[]{.icone
-.icone-partage-twitter}[Tweeter]{.bouton-texte}](https://twitter.com/intent/tweet?text=Coronavirus%3A%20ce%20qu%27il%20faut%20savoir%20https%3A//www.gouvernement.fr/partage/11439-coronavirus-ce-qu-il-faut-savoir&tweet_id&via=gouvernementfr "Tweeter : Coronavirus: ce qu&#039;il faut savoir - nouvelle fenêtre"){.bouton
-.bouton-partage .bouton-social
-.bouton-partage-twitter}]{.bouton-partage-tw-wrapper
-.pmv6-hidden}[[[]{.icone
-.icone-partage-facebook}[Partager]{.bouton-texte}](https://www.facebook.com/sharer/sharer.php?u=https%3A//www.gouvernement.fr/partage/11439-coronavirus-ce-qu-il-faut-savoir "Partager sur Facebook : Coronavirus: ce qu&#039;il faut savoir - nouvelle fenêtre"){.bouton
-.bouton-partage .bouton-social .bouton-partage-facebook
-.partage-social}]{.bouton-partage-fb-wrapper .pmv6-hidden}[[]{.icone
-.icone-partage-mail}[Envoyer]{.bouton-texte}](/partager?type=asset&id=11439&destination=node/10041&lang=fr "Envoyer par e-mail : Coronavirus: ce qu'il faut savoir"){.bouton
-.colorbox-link .bouton-partage .bouton-partage-mail}
-
 
 Depuis janvier 2020 une épidémie de Coronavirus COVID-19 (ex 2019-nCoV)
 s'est propagée depuis la Chine. Retrouvez sur cette plateforme toutes
@@ -136,22 +151,6 @@ santé et celle de votre entourage :
 -   Saluer sans se serrer la main, éviter les embrassades
 -   Utiliser des mouchoirs à usage unique et les jeter
 -   Eviter les rassemblements, limiter les déplacements et les contacts.
-
-Le 14 mars 2020, le Premier ministre a décidé, à la suite du passage en
-stade 3 du plan de lutte contre l'épidémie et jusqu'à nouvel ordre, de
-fermer tous les lieux recevant du public qui ne sont pas indispensables
-à la vie du pays. Il s'agit notamment des restaurants, cafés, cinémas,
-discothèques. Les lieux de culte resteront ouverts, mais les
-rassemblements et les cérémonies devront être reportés. Il s'agit
-également de tous les commerces à l'exception des commerces
-essentiels.Resteront notamment ouvert les pharmacies, commerces
-alimentaires, stations-services, banques, bureaux de tabac, ainsi que
-les services publics essentiels.\
-\
-L'objectif est d'éviter de se rassembler, limiter les réunions amicales
-et familiales, n\'utiliser les transports en commun que pour aller au
-travail et seulement si la présence physique au travail est
-indispensable.
 
 #### Qu'est-ce que le Coronavirus COVID-19 ?
 
@@ -187,7 +186,7 @@ sont en cours afin d'améliorer le diagnostic, la compréhension et la
 prise en charge de cette maladie. Par ailleurs, des équipes travaillent
 sur plusieurs pistes de traitement à Paris, Marseille ou encore Lyon ;
 les protocoles ont commencé. Des équipes sont également à pied d\'œuvre
-pour inventer un vaccin, qui pourra voir le jour dans les prochains
+pour inventer un vaccin, qui pourrait voir le jour dans les prochains
 mois.
 
 #### Comment se transmet le Coronavirus COVID-19 ?
@@ -272,33 +271,6 @@ grave d'infection au Coronavirus, l'ensemble de la population peut
 chez des patients hors personnes âgées ou fragiles ont effectivement été
 constatés dans d'autres pays.
 
-#### Quels sont les trois stades de gestion de l'épidémie de Coronavirus COVID-19 en France ?
-
- 
-
-**Le stade 1** prévoit de freiner l'introduction du virus sur le
-territoire national. Il correspond à la mise en alerte du système de
-santé. Les autorités sanitaires sont mobilisées pour isoler les malades,
-détecter et identifier rapidement les cas contact, et prendre en charge
-les cas graves dans les établissements de santé habilités.
-
-Pour **le stade 2**, l'objectif des pouvoirs publics est de freiner la
-propagation du virus sur le territoire et d'empêcher ou, tout du moins,
-de retarder aussi longtemps que possible le passage au stade 3.
-
-**Stade 3 : Le virus circule largement dans la population.**
-
-Le stade 3 ou stade épidémique correspond à une circulation active du
-virus. La stratégie repose alors sur l'atténuation des effets de
-l'épidémie. L'organisation prévoit la mobilisation complète du système
-sanitaire hospitalier et de ville, ainsi que les établissement
-médico-sociaux pour protéger les populations fragiles, assurer la prise
-en charge des patients sans gravité en ville, et des patients avec
-signes de gravité en établissement de soins. Les activités collectives
-sont fortement impactées. **Nous sommes actuellement en stade 3.**
-
-**Stade 4 : Fin de l'épidémie. Retour à la normale**
-
 #### Comment s'organise la recherche autour du virus en France ?
 
 Le Président de la République a fait un point avec des médecins, des
@@ -381,20 +353,14 @@ Concernant les patients non testés,ils seront diagnostiqués COVID-19 sur
 signes cliniques par un médecin. Les modalités de prise en charge
 médicale entre patients testés ou non restent identiques.
 
-#### La réquisition des masques concerne-t-elle toute la production française et les stocks des ministères ?
-
-Oui, sont réquisitionnés les stocks de masques anti-projections et de
-protection respiratoire de type FFP2 ainsi que ceux qui seront produits
-jusqu'au 31 mai 2020.
-
 [Fermer le
-chapitre](# "Fermer le chapitre : Qu’est-ce que le coronavirus COVID-19 ?"){.backtotop
+chapitre](# "Fermer le chapitre : Qu’est-ce que le coronavirus COVID-19 ?"){.backtotop
 .button-cta .red}
 
 []{#point}[]{#ancre3}Point de situation en France
 -------------------------------------------------
 
-#### Le 16 mars à 08h00
+#### Le 17 mars à 19h30
 
 Le ministre des Solidarités et de la Santé, tient un [point presse
 quotidien](http://www.dailymotion.com/MinSoliSante) pour vous informer
@@ -406,9 +372,9 @@ Les informations du jour :
     plusieurs zones de regroupement de cas appelés \"clusters\". Nous
     sommes actuellement au stade 3 du plan d'actions du Gouvernement qui
     a pour objectif de prévenir et limiter la circulation du virus.
--   Depuis le 24 janvier 2020, la France compte 5 423 cas de Coronavirus
+-   Depuis le 24 janvier 2020, la France compte 7 730 cas de Coronavirus
     COVID-19 confirmés.
--   127 personnes sont décédées depuis le début de l\'épidémie.
+-   175 personnes sont décédées depuis le début de l\'épidémie.
 
 Retrouvez le point épidémiologique quotidien sur [Santé publique
 France](http://www.santepubliquefrance.fr/maladies-et-traumatismes/maladies-et-infections-respiratoires/infection-a-coronavirus/articles/infection-au-nouveau-coronavirus-sars-cov-2-covid-19-france-et-monde).\
@@ -449,7 +415,7 @@ rendre à son cabinet ou j'appelle le numéro de permanence de soins de ma
 région. Je peux également bénéficier d'une téléconsultation.**
 
 Si les symptômes s'aggravent avec des difficultés respiratoires et
-signes d'étouffement, j'appelle le SAMU- Centre 15.
+signes d'étouffement, j'appelle le [SAMU- Centre 15](tel:15).
 
 #### Qui est considéré comme une personne « à risque » ?
 
@@ -493,13 +459,16 @@ maladies chroniques (hypertension, diabète), les personnes âgées (plus
 de 70 ans), immunodéprimées ou fragiles présentent un risque plus élevé.
 Dans les cas plus sévères, la maladie peut entraîner un décès.
 
-#### Quel comportement individuel adopter face au Coronavirus?
+#### Quel comportement individuel adopter face au Coronavirus ?
+
+ 
 
 Si je n'ai **pas de symptômes** et que je n'ai **pas eu de contact
-étroit avec un cas COVID-19**, j'applique simplement les gestes
-barrières (je me lave les mains très régulièrement, je tousse et
-j'éternue dans mon coude, j'utilise des mouchoirs à usage unique, je
-salue sans serrer la main et j'évite les embrassades).  
+étroit avec un cas COVID-19**, j'applique les gestes barrières (je me
+lave les mains très régulièrement, je tousse et j'éternue dans mon
+coude, j'utilise des mouchoirs à usage unique, je salue sans serrer la
+main et j'évite les embrassades) et je réduis mes sorties au strict
+nécessaire : travail (si télétravail impossible), courses, médecin.
 
 Si je n'ai **pas de symptôme** mais que j'ai eu un **contact étroit ou
 je vis avec une personne malade du COVID-19** : je m'isole à domicile,
@@ -508,7 +477,7 @@ j'applique les gestes barrières (je me lave les mains très
 régulièrement, je tousse et j'éternue dans mon coude, j'utilise des
 mouchoirs à usage unique, je salue sans serrer la main et j'évite les
 embrassades), je prends ma température 2 fois par jour et
-j'auto-surveille les symptômes de la maladie, **j'opte pour le
+j'auto-surveille les symptômes de la maladie, **je fais du
 télétravail.**\
 \
 Si je suis un **professionnel de santé** ne présentant **pas de
@@ -537,40 +506,25 @@ possibles.\
 **Si je suis testé positif ou si je suis diagnostiqué cliniquement** :
 je reste strictement à domicile, si j'ai un rendez-vous médical
 indispensable je porte un masque pour m'y rendre. En cas de difficulté
-respiratoire, j'appelle le 15. Je me fais prescrire un arrêt de travail
-initial d'une durée de 7 à 14 jours, entre le 6ème et le 8ème jour j'ai
-un avis médical, à distance, pour faire surveiller mes symptômes. En
-fonction de mon état je renouvelle cet arrêt pour 7 jours
+respiratoire, j'appelle le [15](tel:15). Je me fais prescrire un arrêt
+de travail initial d'une durée de 7 à 14 jours, entre le 6ème et le 8ème
+jour j'ai un avis médical, à distance, pour faire surveiller mes
+symptômes. En fonction de mon état je renouvelle cet arrêt pour 7 jours
 supplémentaires. Mon isolement sera levé 48h après la résolution
 complète des symptômes.\
 \
-**Si je suis testé négatif**, mon isolement à domicile est levé,
-j'applique les gestes barrières (je me lave les mains très
-régulièrement, je tousse et j'éternue dans mon coude, j'utilise des
-mouchoirs à usage unique, je salue sans serrer la main et j'évite les
-embrassades). \
+**Si je suis testé négatif**, je continue d\'appliquer les gestes
+barrières (je me lave les mains très régulièrement, je tousse et
+j'éternue dans mon coude, j'utilise des mouchoirs à usage unique, je
+salue sans serrer la main et j'évite les embrassades) et je limite mes
+déplacements au strict nécessaire.\
 \
 Si je suis un **professionnel de santé et que je présente des symptômes
 évocateurs du COVID-19** (toux, fièvre, difficultés respiratoires) : je
 contacte mon médecin, le médecin de ma structure de soin ou un médecin
 par téléconsultation. Je n'appelle le 15 que si j'ai des difficultés
 respiratoires. Je m'isole strictement à domicile et je me fais tester
-systématiquement (les tests en ambulatoire sont possibles).\
-\
-**Si mon test est positif** : je reste strictement à domicile, si j'ai
-un rendez-vous médical indispensable je porte un masque pour m'y rendre.
-En cas de difficulté respiratoire, j'appelle le 15. Je me fais prescrire
-un arrêt de travail initial d'une durée de 7 à 14 jours, entre le 6ème
-et le 8ème jour je consulte un médecin pour faire surveiller mes
-symptômes en fonction de mon état je renouvelle cet arrêt pour 7 jours
-supplémentaires. Mon isolement sera levé 48h après la résolution
-complète des symptômes.\
-\
-**Si je suis testé négatif**, mon isolement à domicile est levé,
-j'applique les gestes barrières (je me lave les mains très
-régulièrement, je tousse et éternue dans mon coude, j'utilise des
-mouchoirs à usage unique, je salue sans serrer la main et j'évite les
-embrassades).
+systématiquement (les tests en ambulatoire sont possibles).
 
 #### Dois-je porter un masque ?
 
@@ -582,73 +536,142 @@ contact rapproché et prolongé avec un malade.\
 Comme pour l'épisode de grippe saisonnière, ce sont les \"gestes
 barrières\" qui sont efficaces.
 
-#### Que sont les gestes barrières ?
-
-Coronavirus : quels sont les gestes barrières ?
-
-
-
-
-[[[]{.icone
-.icone-partage-twitter}[Tweeter]{.bouton-texte}](https://twitter.com/intent/tweet?text=Coronavirus%20%3A%20quels%20sont%20les%20gestes%20barri%C3%A8res%20%3F%20%20https%3A//www.gouvernement.fr/partage/11432-coronavirus-les-gestes-barrieres&tweet_id&via=gouvernementfr "Tweeter : Coronavirus : quels sont les gestes barrières ?  - nouvelle fenêtre"){.bouton
-.bouton-partage .bouton-social
-.bouton-partage-twitter}]{.bouton-partage-tw-wrapper
-.pmv6-hidden}[[[]{.icone
-.icone-partage-facebook}[Partager]{.bouton-texte}](https://www.facebook.com/sharer/sharer.php?u=https%3A//www.gouvernement.fr/partage/11432-coronavirus-les-gestes-barrieres "Partager sur Facebook : Coronavirus : quels sont les gestes barrières ?  - nouvelle fenêtre"){.bouton
-.bouton-partage .bouton-social .bouton-partage-facebook
-.partage-social}]{.bouton-partage-fb-wrapper .pmv6-hidden}[[]{.icone
-.icone-partage-mail}[Envoyer]{.bouton-texte}](/partager?type=asset&id=11432&destination=node/10041&lang=fr "Envoyer par e-mail : Coronavirus : quels sont les gestes barrières ? "){.bouton
-.colorbox-link .bouton-partage .bouton-partage-mail}
-
-
-\
-Face au coronavirus, il existe des gestes simples pour préserver votre
-santé et celle de votre entourage :
-
--   Se laver les mains très régulièrement.
--   Tousser ou éternuer dans son coude ou dans un mouchoir.
--   Saluer sans se serrer la main, éviter les embrassades.
--   Utiliser des mouchoirs à usage unique et les jeter.
--   Eviter les rassemblements, limiter les déplacements et les contacts
-
-Coronavirus : comment bien se laver les mains ?
-
-
-
-
-[[[]{.icone
-.icone-partage-twitter}[Tweeter]{.bouton-texte}](https://twitter.com/intent/tweet?text=Coronavirus%20%3A%20comment%20bien%20se%20laver%20les%20mains%20%3F%20%20https%3A//www.gouvernement.fr/partage/11434-coronavirus-le-lavage-des-mains&tweet_id&via=gouvernementfr "Tweeter : Coronavirus : comment bien se laver les mains ?  - nouvelle fenêtre"){.bouton
-.bouton-partage .bouton-social
-.bouton-partage-twitter}]{.bouton-partage-tw-wrapper
-.pmv6-hidden}[[[]{.icone
-.icone-partage-facebook}[Partager]{.bouton-texte}](https://www.facebook.com/sharer/sharer.php?u=https%3A//www.gouvernement.fr/partage/11434-coronavirus-le-lavage-des-mains "Partager sur Facebook : Coronavirus : comment bien se laver les mains ?  - nouvelle fenêtre"){.bouton
-.bouton-partage .bouton-social .bouton-partage-facebook
-.partage-social}]{.bouton-partage-fb-wrapper .pmv6-hidden}[[]{.icone
-.icone-partage-mail}[Envoyer]{.bouton-texte}](/partager?type=asset&id=11434&destination=node/10041&lang=fr "Envoyer par e-mail : Coronavirus : comment bien se laver les mains ? "){.bouton
-.colorbox-link .bouton-partage .bouton-partage-mail}
-
-
 #### Quelles mesures sanitaires sont prises pour éviter les contacts?
 
-[Fermeture de tous les lieux recevant du public]{.underline}
+Le 16 mars 2020, le Président de la République a décidé de prendre des
+mesures pour réduire à leur plus strict minimum les contacts et
+déplacements sur l'ensemble du territoire à compter du mardi 17 mars à
+12h00, pour quinze jours minimum. Les déplacements sont interdits sauf
+dans les cas suivants et sur attestation uniquement pour :\
+ 
 
--   Fermeture de tous les lieux publics (bars,  restaurants,
-    discothèques) sauf ceux indispensables à la vie du pays, notamment
-    marchés, pharmacies, commerces alimentaires, banques, bureaux de
-    tabac, essence à compter du 14 mars 2020 et jusqu'à nouvel ordre.
--   Fermeture des crèches, écoles, collèges, lycées et universités pour
-    une durée minimum de 15 jours, et autant que nécessaire, à partir du
-    lundi 16 mars 2020, et mise en place d'un service de garde pour les
-    personnels qui sont indispensables à la gestion de la crise
-    sanitaire.
--   Limitation des déplacements, des rassemblements, sauf ceux
-    essentiels à la vie sociale et démocratique.
--   Diminuer les déplacement en transports en commun, et éviter au
-    maximum les déplacements interurbains.
--   Incitation forte à recourir au télétravail : à compter du lundi 16
-    mars, un plan massif de recours au télétravail sera mis en place.
+-   Se déplacer de son domicile à son lieu de travail dès lors que le
+    télétravail n'est pas possible ;
+-   Faire ses achats de première nécessité dans les commerces de
+    proximité autorisés ;
+-   Se rendre auprès d'un professionnel de santé ;
+-   Se déplacer pour la garde de ses enfants ou aider les personnes
+    vulnérables à la stricte condition de respecter les gestes barrières
+    ;
+-   Faire de l'exercice physique uniquement à titre individuel, autour
+    du domicile et sans aucun rassemblement.
 
-#### Préservation des personnes fragiles
+**Les infractions à ces règles seront sanctionnées d'une amende allant
+de 38 à 135 euros.**
+
+[Fermer le
+chapitre](# "Fermer le chapitre : Consignes sanitaires"){.backtotop
+.button-cta .red}
+
+[]{#vie-quotidienne}[]{#ancre11}Vie quotidienne
+-----------------------------------------------
+
+####  
+
+Le 16 mars 2020, le Président de la République a décidé de prendre des
+mesures pour réduire à leur plus strict minimum les contacts et
+déplacements sur l'ensemble du territoire à compter du mardi 17 mars à
+12h00, pour quinze jours minimum. Les déplacements sont interdits sauf
+dans les cas suivants et sur attestation uniquement pour :
+
+-   Se déplacer de son domicile à son lieu de travail dès lors que le
+    télétravail n'est pas possible ;
+-   Faire ses achats de première nécessité dans les commerces de
+    proximité autorisés ;
+-   Se rendre auprès d'un professionnel de santé ;
+-   Se déplacer pour la garde de ses enfants ou aider les personnes
+    vulnérables à la stricte condition de respecter les gestes barrières
+    ;
+-   Faire de l'exercice physique uniquement à titre individuel, autour
+    du domicile et sans aucun rassemblement.
+
+ 
+
+**Les infractions à ces règles seront sanctionnées d'une amende allant
+de 135 euros.**
+
+#### Puis-je aller travailler ?
+
+Non, je reste chez moi et je fais du télétravail. \
+\
+Si le télétravail n'est pas possible je peux me rendre au travail en
+transports ou par mes moyens personnels, muni d'une attestation et d'une
+carte d'identité. \
+\
+Mon employeur est tenu d'adapter mon travail pour assurer ma sécurité si
+le télétravail est impossible dans mon secteur.\
+ 
+
+#### Puis-je faire mes courses au supermarché ou à l\'épicerie ?
+
+Les supermarchés et épiceries resteront ouverts. Leur approvisionnement
+en produits alimentaires et de première nécessité sera garanti dans les
+jours et les semaines à venir et les règles du travail de nuit
+notamment, seront assouplies pour les magasins. Il n'y a donc aucun
+risque de rationnement et il faut éviter la surconsommation préventive.
+Les espaces culturels et les cafétérias de la grande distribution seront
+fermés.\
+\
+**Dans la rue et dans le magasin, je dois respecter une distance de 1
+mètre avec les gens qui m'entourent** et mettre en oeuvre les gestes
+barrières avant d'y aller et en y rentrant.
+
+#### Puis-je aller en cours ?
+
+Ecoles, collèges, lycées et universités du pays ferment lundi, au moins
+jusqu\'aux vacances de printemps, ce qui concerne plus de 12 millions
+d\'élèves et 2,6 millions d\'étudiants. Trois à quatre heures
+d\'enseignement par jour - exercices en ligne, \"classe virtuelle\" en
+visioconférence- doivent être proposées. Les examens et les concours de
+recrutement sont reportés.\
+\
+Tous les étudiants en santé qui souhaitent proposer leur aide pour la
+gestion de crise peuvent se signaler auprès de leur Université (par
+exemple, apporter un appui aux centres d'appels du 15)\
+\
+Un service de garde sera mis en place département par département, pour
+les personnels indispensables à la gestion de la crise sanitaire.
+
+#### L'école de mes enfants est fermée, comment faire ?
+
+Dans le cadre des fermetures d'écoles, si vous êtes parent d'un enfant
+âgé de moins de 16 ans vous pouvez bénéficier d'un arrêt maladie
+indemnisé, si vous ne pouvez pas bénéficier d'un aménagement de vos
+conditions de travail vous permettant de rester chez vous pour garder
+votre enfant.\
+\
+A noter qu'un seul des deux parents peut bénéficier d'un arrêt dans ce
+contexte.
+
+#### Quelle est la procédure pour bénéficier de cet arrêt ?
+
+La procédure est la suivante :\
+Contactez votre employeur et évaluez avec lui les modalités de
+télétravail qui pourraient être mises en place ;\
+Si aucune autre solution ne peut être retenue, c'est l'employeur qui
+doit, via la page employeur du site dédié <https://declare.ameli.fr/>,
+déclarer votre arrêt de travail ;\
+\
+L'indemnisation est ensuite enclenchée à partir de cette déclaration.
+Vous percevrez les indemnités journalières et, le cas échéant, le
+complément de salaire de votre employeur dès le 1er jour d'arrêt, sans
+application du délai de carence ;\
+\
+Vous n'avez pas à contacter l'ARS ou votre caisse d'assurance maladie,
+c'est la déclaration de votre employeur, accompagné de la transmission
+des éléments de salaires selon les canaux habituels, qui va permettre
+l'indemnisation de votre arrêt de travail ;\
+\
+Les employeurs sont invités à pratiquer dans le maximum de cas le
+maintien de salaire au bénéfice de leurs salariés, auquel cas ils
+versent le salaire à hauteur du complément sans attendre le versement
+des indemnités journalières par l'assurance maladie ;\
+\
+Si vous êtes non-salarié (travailleurs indépendant ou exploitant
+agricole), vous déclarez directement votre arrêt sur le site Internet
+dédié.
+
+#### Puis-je rendre visite à une personne âgée ?
 
 Les visites aux personnes fragiles et âgées à domicile comme dans les
 établissements médico-sociaux sont suspendues. Les mineurs et les
@@ -658,25 +681,389 @@ d'accompagnement à domicile continuent à intervenir auprès des plus
 fragiles lorsque cela est nécessaire ; ils doivent néanmoins appliquer
 les gestes barrières avec une attention extrême.
 
-#### Annulation des événements
+#### Puis-je me rendre chez un professionnel de santé ?
 
-Le 14 mars 2020, le Premier ministre a décidé, à la suite du passage en
-stade 3 du plan de lutte contre l'épidémie et jusqu'à nouvel ordre, de
-fermer tous les lieux recevant du public qui ne sont pas indispensables
-à la vie du pays. Il s'agit notamment des restaurants, cafés, cinémas,
-discothèques. Les lieux de culte resteront ouverts, mais les
-rassemblements et les cérémonies devront être reportés. Il s'agit
-également de tous les commerces à l'exception des commerces essentiels.
-Resteront notamment ouvert les pharmacies, commerces alimentaires,
-stations-services, banques, bureaux de tabac, ainsi que les services
-publics essentiels.
+A l\'instar des pharmacies, les cabinets de médecine resteront ouverts,
+mais attention : il est demandé aux personnes qui ressentent les
+symptômes du Coronavirus de ne pas se rendre au cabinet de leur médecin
+de ville. En cas de symptômes légers (fièvre et toux), il faut d'abord
+appeler son médecin traitant ou opter pour une téléconsultation. Si les
+symptômes s'aggravent au bout de quelques jours, il faut appeler le
+[15](tel:15).\
+\
+Les commerces de matériel médical restent ouverts.
+
+#### Puis- je me faire opérer ?
+
+Toutes les capacités hospitalières nationales et le maximum de médecins
+et de soignants sont mobilisés, et les consultations et les soins \"non
+essentiels\" sont reportés dans les hôpitaux.
+
+#### Puis-je me faire livrer un repas ?
+
+Les restaurants ont fermé leurs portes le 15 mars, comme tout comme les
+bars, brasseries, cafés et discothèques, jusqu\'à nouvel ordre. En
+revanche les activités de vente à emporter et de livraison sont
+maintenues dans les restaurants et débits de boissons, avec la
+recommandation d\'éviter tout contact.
+
+#### Puis-je aller voir un film ou un match, aller à la piscine ?
+
+Les cinémas sont fermés, tandis que tous les événements culturels et
+sportifs ont été annulés et les rassemblements publics de plus de 100
+personnes ont été interdits à l\'échelle nationale. Ce chiffre peut
+tomber à 50 dans les zones les plus touchées (arrêtés préfectoraux comme
+Haut Rhin, Oise etc \...). Les musées, théâtres, opéras, piscines sont
+également fermés. Les salles de sport sont également fermées.
+
+#### Puis-je organiser une fête ?
+
+Je ne peux pas aller à une fête ou recevoir chez moi en dehors des
+membres de mon foyer. Je ne peux pas non plus organiser mon mariage. 
+
+#### Puis-je me rendre dans mon lieu de culte ? 
+
+Je ne peux pas participer à rassemblement ou une réunion de plus de 20
+personnes au sein d'un lieu de culte.
+
+#### Puis-je sortir prendre l'air ? 
+
+Je peux aller dans mon jardin ou sur mon balcon mais je ne peux pas
+sortir sans raison ou rejoindre des amis ou ma famille à l'extérieur. \
+\
+Mon conjoint et mes enfants ne peuvent pas sortir si je suis malade.
+
+#### Puis-je aller auprès de parents dépendants ou de proches ?
+
+Uniquement pour vous occuper de personnes vulnérables comme par exemple
+les personnes handicapées et en vous rappelant que les seniors sont les
+personnes les plus vulnérables : il faut les protéger le plus possible
+de tout contact et porter une attention encore renforcée aux gestes
+barrières.
+
+#### Puis-je partir en vacances ?
+
+Je ne peux pas quitter la France ni voyager pour mes loisirs ou pendant
+mes congés. Les frontières de l'espace Schengen seront fermées à partir
+du 17 mars à midi pour une période de 30 jours. \
+\
+Si je suis à l'étranger, je peux rentrer en France.
+
+#### Les activités physiques à l'extérieur sont-elles autorisées ?
+
+Les sorties indispensables à l'équilibre des enfants et l'activité
+physique individuelle sont autorisées à proximité du domicile, dans le
+respect des gestes barrières et en évitant tout rassemblement.
+
+#### Puis-je sortir avec mon chien ?
+
+Oui, pour lui permettre de satisfaire ses besoins ou pour un rendez-vous
+vétérinaire.
+
+#### Puis-je aller à l'hôtel ?
+
+Je peux rester dans un hôtel ou une cité universitaire si je n'ai pas
+d'autre domicile, mais les restaurants et bars doivent garder leurs
+portes closes. Il est toutefois possible d\'y prendre son petit déjeuner
+ou tout autre repas, mais uniquement en chambre.
+
+#### Puis-je prendre les transports ? 
+
+Les transports ne seront ouverts qu'aux personnes étant dans
+l'obligation de se rendre sur leur lieu de travail. Une attestation
+pourra leur être demandée. 
+
+#### Puis-je aller voter ? 
+
+Le second tour des élections municipales est reporté.
+
+#### Quel comportement dois-je adopter face au Coronavirus ?
+
+Je n'ai pas encore été exposé au Covid-19 à ma connaissance : j'applique
+en permanence les gestes et comportements qui permettent de freiner
+l'épidémie.\
+\
+Je reste chez moi et je limite mes déplacements au strict nécessaire
+(travail, courses, rendez-vous médicaux). J'applique les gestes
+barrières : je me lave régulièrement les mains, je tousse et éternue
+dans mon coude, j'utilise des mouchoirs à usage unique et les jette
+immédiatement, je ne salue pas les autres par une poignée de main ou par
+une embrassade, je respecte une distance de 1 mètre avec toute autre
+personne.
+
+#### Je suis parent :
+
+Si c'est possible, j'assure la garde de mes enfants à mon domicile.\
+\
+Les établissements scolaires étant temporairement fermés pour freiner la
+propagation de l'épidémie, je garde mes enfants de moins de 16 ans à
+domicile, et j'évite de les confier à leurs grands-parents qui sont plus
+vulnérables face à l'épidémie. Une procédure simplifiée me permet de
+bénéficier d'un arrêt de travail indemnisé dans ce cadre.\
+\
+J'ai été en contact avec un cas confirmé de Covid-19 ou je vis avec un
+cas confirmé de Covid-19 : je m'isole et je surveille mon état de
+santé.\
+\
+Je reste à mon domicile, je m'isole 2 semaines, je respecte
+scrupuleusement les gestes-barrières, je surveille ma température 2 fois
+par jour, je surveille l'apparition éventuelle de symptômes (toux,
+difficultés respiratoires, fièvre) et j'adopte le télétravail. Si des
+symptômes surviennent, je peux appeler mon médecin, mais je ne me
+déplace pas jusqu'à son cabinet, ni au laboratoire ni aux urgences.
+
+#### J'ai des symptômes (toux, fièvre) qui me font penser au Covid-19
+
+Je reste à domicile, j'évite les contacts, j'appelle un médecin si
+besoin et ne me rends pas directement au cabinet, au laboratoire ou aux
+urgences ou j'appelle le numéro de permanence de soins de ma région. Je
+peux également bénéficier d'une téléconsultation. Si les symptômes
+s'aggravent avec des difficultés respiratoires et signes d'étouffement,
+j'appelle le [SAMU- Centre 15](tel:15).
+
+#### Je suis médecin libéral
+
+J'organise mon activité pour être en mesure d'accueillir ou de
+conseiller des patients symptomatiques du COVID-19, notamment avec des
+outils de télémédecine. La prise en charge ambulatoire des patients qui
+présentent des symptômes modérés a vocation à être organisée par les
+médecins habituels des patients. Cela implique, de la part des
+professionnels de santé concernés, d'organiser des circuits spécifiques
+ou de la téléconsultation pour la prise en charge des patients.
+
+#### Je suis un élu local
+
+En lien avec les services de l'Etat, je veille à faire respecter les
+consignes de fermeture de l'ensemble des services non essentiels à la
+vie publique (cinémas, restaurants, bars...) et à limiter les
+rassemblements. Je diffuse régulièrement les gestes barrières et les
+recommandations du ministère de la santé.
+
+#### Je suis un employeur
+
+Je généralise le recours au télétravail dans mon entreprise et suspens
+toute réunion physique de personnes qui ne serait pas indispensable à la
+continuation de l'activité. J'informe tous mes salariés des bonnes
+pratiques et recommandations pour protéger la population. Si mon
+entreprise a des difficultés je contact le 0 800 130 000.
+
+#### Je suis un étudiant
+
+Mon établissement est fermé à compter du 16 mars. Je consulte
+quotidiennement les informations que m'adressent mes professeurs. Je
+poursuis mon cursus au moyen des outils et supports numériques mis à ma
+disposition. Si je suis étudiant en santé et volontaire, je signale ma
+disponibilité à mon Université pour aider à la gestion de crise en appui
+aux équipes médicales mobilisées face à l'épidémie (exemple : appui aux
+centres 15 pour la gestion des appels téléphoniques).
+
+#### Je suis une femme enceinte
+
+En l'état actuel des connaissances, rien n'indique que ma grossesse
+m'expose particulièrement au coronavirus. J'applique les gestes et
+comportements qui permettent de freiner l'épidémie. Le Haut Conseil de
+la santé publique recommande cependant d'appliquer aux femmes enceintes,
+à partir du troisième trimestre de grossesse, les mesures préventives
+applicables aux personnes fragiles (par exemple : restriction voire
+interdiction des visites, contre-indication quant à l'usage des
+transports collectifs, limitation des contacts avec les enfants de moins
+de 10 ans).
+
+#### Je suis une personne âgée
+
+-   Je respecte strictement les gestes barrières
+-   Exposée à des risques de forme grave ou de complication du COVID 19,
+    je réduis mes sorties et mes déplacements au strict minimum
+-   Je limite les rencontres avec mes proches (en particulier lorsqu'ils
+    sont mineurs) et privilégie les contacts téléphoniques ou
+    audiovisuels
+-   Je ne reçois aucune visite et m'abstiens de toute sortie
+-   Si j'ai des symptômes grippaux mal tolérés, je contacte le [SAMU
+    Centre 15](tel:15)
+
+#### Je suis une personne en situation de handicap
+
+-   Exposée à des risques de forme grave ou de complication du COVID 19,
+    je réduis mes sorties et déplacements au strict minimum
+-   Je limite les rencontres avec mes proches et privilégie les contacts
+    téléphoniques ou audiovisuels
+-   Je respecte strictement les gestes barrières
+-   Si je vis en établissement pour personne en situation de handicap :
+    Je ne reçois aucune visite et m'abstiens de toute sortie,
+-   Si j'ai des symptômes grippaux mal tolérés, je contacte le [SAMU
+    Centre 15](tel:15)
+-   **Les externats médico-sociaux accueillant des enfants et des jeunes
+    en situation de handicap organiseront les conditions du maintien à
+    domicile, avec continuité de l'accompagnement, et garantiront aux
+    enfants ne pouvant être pris en charge par les familles des
+    solutions adaptées dans un délai maximum de 8 jours.**  Ce délai
+    tient à la nécessité d'organiser la continuité des prises en charge
+    en soins et en interventions pour les enfants. Il doit aussi être
+    mobilisé pour bien construire les solutions pour les enfants aux
+    besoins les plus complexes.
+-   **Les internats pour les enfants et adultes fonctionnant 365 jours /
+    365 sont maintenus ouverts**, mais les capacités d'accueil peuvent
+    être adaptées en fonction des besoins, pour tenir compte par exemple
+    du choix des familles d'un retour accompagné à leur domicile pendant
+    cette période
+-   **Les parents qui seraient amenés à garder leur enfant handicapé à
+    domicile, quelle qu'en soit la raison, bénéficieront d'une prise en
+    charge par la Sécurité Sociale des indemnités journalières**
+
+#### Je suis une assistante maternelle
+
+Je peux poursuivre mon activité professionnelle si je l'exerce à titre
+individuel. Je veille à éviter les contacts entre les enfants que je
+garde et les personnes fragiles (personnes âgées notamment).
+
+#### Dois-je porter un masque ?
+
+Le port du masque chirurgical n'est pas recommandé sans présence de
+symptômes. Le masque n'est pas la bonne réponse pour le grand public car
+il ne peut être porté en permanence et surtout n'a pas d'indication sans
+contact rapproché et prolongé avec un malade.\
+\
+Comme pour l'épisode de grippe saisonnière, ce sont les \"gestes
+barrières\" qui sont efficaces.
 
 [Fermer le
-chapitre](# "Fermer le chapitre : Consignes sanitaires"){.backtotop
+chapitre](# "Fermer le chapitre : Vie quotidienne"){.backtotop
+.button-cta .red}
+
+[]{#etablissements-fermes}[]{#ancre12}Les établissements fermés
+---------------------------------------------------------------
+
+#### Quels sont les établissements soumis à l\'obligation de fermeture ?
+
+Afin de ralentir la propagation du COVID-19, plusieurs catégories
+d\'établissement ne peuvent plus accueillir de public, et ce, jusqu'au
+15 avril 2020 :
+
+-   Salles d\'auditions, de conférences, de réunions, de spectacles ou à
+    usage multiple (par exemple, les cinémas) ;
+-   Centres commerciaux ;
+-   Restaurants et débits de boissons ;
+-   Salles de danse et salles de jeux ;
+-   Bibliothèques, centres de documentation ;
+-   Salles d\'expositions ;
+-   Etablissements sportifs couverts ;
+-   Musées.
+
+Les restaurants et bars d'hôtels, à l'exception du "room service", sont
+considérés comme relevant de la catégorie "restaurants et débits de
+boissons", et ne peuvent donc pas accueillir de public. Cependant,
+l'ensemble des établissements appartenant à cette catégorie sont
+autorisés à maintenir leurs activités de ventes à emporter et de
+livraison.\
+\
+Par ailleurs, les navires de croisière et navires à passagers
+transportant plus de 100 passagers ont interdiction de faire escale en
+Corse, et ont interdiction de faire escale ou de mouiller dans les eaux
+intérieures et territoriales des départements et régions d\'outre-mer,
+ainsi que de Saint-Barthélemy et Saint-Martin, Saint-Pierre-et-Miquelon,
+et Wallis-et-Futuna, sauf dérogation accordée par le représentant de
+l\'Etat compétent pour ces mêmes collectivités.
+
+#### Quels sont les établissements autorisés à recevoir du public ?
+
+Tous les établissements indispensables à la vie de la Nation, notamment
+les marchés alimentaires clos ou ouverts et commerces alimentaires (y
+compris les Drive alimentaires), les pharmacies, les stations-services,
+les banques, les bureaux de tabac et distribution de la presse.
+
+Compte tenu de leur contribution à la vie de la Nation, les services
+publics restent également ouverts, y compris ceux assurant les services
+de transport.
+
+Tous les services de livraison de repas à domicile restent disponibles,
+et les établissements de la catégorie "restaurants et débits de
+boissons" sont autorisés à maintenir leurs activités de ventes à
+emporter et de livraison.
+
+Les hôtels sont assimilés à des domiciles privés et restent donc
+ouverts, et leurs "room service" restent disponibles. Cependant, les
+restaurants et bars d'hôtels ne peuvent pas accueillir de public.
+
+Les animaleries restent également ouvertes.
+
+#### Par dérogation, restent également ouverts :
+
+-   Entretien et réparation de véhicules automobiles, de véhicules,
+    engins et matériels agricoles
+-   Commerce d\'équipements automobiles
+-   Commerce et réparation de motocycles et cycles
+-   Fourniture nécessaire aux exploitations agricoles
+-   Commerce de détail de produits surgelés
+-   Commerce d\'alimentation générale
+-   Supérettes
+-   Supermarchés
+-   Magasins multi-commerces
+-   Hypermarchés
+-   Commerce de détail de fruits et légumes en magasin spécialisé
+-   Commerce de détail de viandes et de produits à base de viande en
+    magasin spécialisé
+-   Commerce de détail de poissons, crustacés et mollusques en magasin
+    spécialisé
+-   Commerce de détail de pain, pâtisserie et confiserie en magasin
+    spécialisé
+-   Commerce de détail de boissons en magasin spécialisé
+-   Autres commerces de détail alimentaires en magasin spécialisé
+-   Les distributions alimentaires assurées par des associations
+    caritatives
+-   Commerce de détail de carburants en magasin spécialisé
+-   Commerce de détail d\'équipements de l\'information et de la
+    communication en magasin spécialisé
+-   Commerce de détail d\'ordinateurs, d\'unités périphériques et de
+    logiciels en magasin spécialisé
+-   Commerce de détail de matériels de télécommunication en magasin
+    spécialisé
+-   Commerce de détail de matériaux de construction, quincaillerie,
+    peintures et verres en magasin spécialisé
+-   Commerce de détail de journaux et papeterie en magasin spécialisé
+-   Commerce de détail de produits pharmaceutiques en magasin spécialisé
+-   Commerce de détail d\'articles médicaux et orthopédiques en magasin
+    spécialisé
+-   Commerce de détail d\'aliments et fournitures pour les animaux de
+    compagnie
+-   Commerce de détail alimentaire sur éventaires et marchés
+-   Vente par automates et autres commerces de détail hors magasin,
+    éventaires ou marchés n.c.a.
+-   Hôtels et hébergement similaire
+-   Hébergement touristique et autre hébergement de courte durée
+    lorsqu\'il constitue pour les personnes qui y vivent un domicile
+    régulier
+-   Terrains de camping et parcs pour caravanes ou véhicules de loisirs
+    lorsqu\'ils constituent pour les personnes qui y vivent un domicile
+    régulier
+-   Location et location-bail d\'autres machines, équipements et biens
+-   Location et location-bail de machines et équipements agricoles
+-   Location et location-bail de machines et équipements pour la
+    construction
+-   Activités des agences de placement de main-d\'oeuvre
+-   Activités des agences de travail temporaire
+-   Réparation d\'ordinateurs et de biens personnels et domestiques
+-   Réparation d\'ordinateurs et d\'équipements de communication
+-   Réparation d\'ordinateurs et d\'équipements périphériques
+-   Réparation d\'équipements de communication
+-   Blanchisserie-teinturerie
+-   Blanchisserie-teinturerie de gros
+-   Blanchisserie-teinturerie de détail
+-   Services funéraires
+-   Activités financières et d\'assurance
+
+[Fermer le
+chapitre](# "Fermer le chapitre : Les établissements fermés"){.backtotop
 .button-cta .red}
 
 []{#voyageurs}[]{#ancre6}Conseils aux voyageurs
 -----------------------------------------------
+
+\
+**L'ensemble des déplacements sont interdits pendant les 15 prochains
+jours.** Les frontières de l'espace Schengen seront fermées à partir du
+17 mars à midi pour une période de 30 jours. \
+\
+Si je suis à l'étranger, je suis autorisé à rentrer en France.
 
 #### Quelles sont les consignes si je pars en voyage ?
 
@@ -759,46 +1146,7 @@ chapitre](# "Fermer le chapitre : Conseils aux voyageurs"){.backtotop
 []{#elections}[]{#ancre10}Les élections municipales
 ---------------------------------------------------
 
-Le 12 mars 2020, le Président de la République a annoncé, après
-consultation du conseil scientifique, que les élections municipales
-seraient maintenues les 15 et 22 mars afin « d'assurer la continuité de
-la vie démocratique de notre nation ».
-
-Des mesures seront prises afin d'assurer la protection sanitaire des
-électeurs comme des responsables de opérations électorales au sein des
-bureaux de vote et ont été transmises aux maires par circulaire
-([circulaire du ministre de l\'Intérieur - protection sanitaire des
-opérations électorales dans le contexte du
-Covid19](https://www.interieur.gouv.fr/Elections/Elections-municipales-2020/Organisation-des-elections-municipales-des-15-et-22-mars-2020-en-situation-d-epidemie-de-coronavirus-COVID-19))
-: l'aménagement de chaque bureau de vote doit être conçu de manière à
-éviter les contacts prolongés ; un schéma-type d'organisation des
-bureaux de vote a été diffusé par circulaire du ministère de l'Intérieur
-en date du 9 mars.
-
-Afin de rappeler aux électeurs et aux membres du bureau de vote les
-mesures-barrières, dont la plus efficace est le lavage des mais chaque
-bureau de vote apposera de manière visible l'affiche sur les gestes
-barrières ainsi que l'affiche sur les bons comportements à adopter. Des
-modèles d'affiches à apposer dans les bureaux de vote pour rappeler ces
-règles ont été fournis aux maires.
-
-Chaque bureau de vote devra prévoir un point d'eau afin de se laver les
-mains à proximité ou, à défaut, mettre à disposition du gel
-hydro-alcoolique ; la plupart des bureaux de vote se situent dans locaux
-communaux, scolaires ou sportifs. Une signalétique devra être mise en
-place dans chaque bureau de vote vers le point le plus proche pour se
-laver les mains ; un nettoyage particulièrement attentif des bureaux de
-vote est prévu avant et après chaque tour de scrutin, avec la
-recommandation d'utiliser des solutions nettoyantes à base
-d'hypochlorite de sodium (eau de Javel).
-
-#### Quelles sont les recommandations à adopter quand je vais voter ?
-
-Pour aller voter, les recommandations suivantes doivent être adoptées :
-
--   Privilégier les heures de moindre affluence
--   Apporter son propre stylo pour émarger (bleu ou noir indélébile)
--   Apporter son bulletin de vote (reçu par la poste)
+Le second tour des élections municipales est reporté.
 
 [Fermer le
 chapitre](# "Fermer le chapitre : Les élections municipales"){.backtotop
@@ -817,232 +1165,7 @@ chapitre](# "Fermer le chapitre : Les élections municipales"){.backtotop
 
 ### []{#partie2n1}Questions d'actualité
 
-#### L'école de mes enfants est fermée, comment faire ?
-
-Dans le cadre des fermetures d'écoles dans les zones de circulation
-active du virus, si vous êtes parent d'un enfant âgé de moins de 16 ans,
-vous pouvez bénéficier d'un arrêt maladie indemnisé si vous ne pouvez
-pas bénéficier d'un aménagement de vos conditions de travail vous
-permettant de rester chez vous pour garder votre enfant. \
-\
-À noter qu'un seul des deux parents peut bénéficier d'un arrêt dans ce
-contexte.
-
-#### Quelle est la procédure pour bénéficier de cet arrêt ? 
-
-La procédure est la suivante :
-
--   Contactez votre employeur et évaluez avec lui les modalités de
-    télétravail qui pourraient être mises en place ;  
--   Si aucune autre solution ne peut être retenue, c'est l'employeur qui
-    doit, via la page employeur du site dédié
-    <https://declare.ameli.fr/>, déclarer votre arrêt de travail ;  
--   L'indemnisation est ensuite enclenchée à partir de cette
-    déclaration. Vous percevrez les indemnités journalières et, le cas
-    échéant, le complément de salaire de votre employeur dès le 1er jour
-    d'arrêt, sans application du délai de carence ; 
--   Vous n'avez pas à contacter l'ARS ou votre caisse d'assurance
-    maladie, c'est la déclaration de votre employeur, accompagnée de la
-    transmission des éléments de salaires selon les canaux habituels,
-    qui va permettre l'indemnisation de votre arrêt de travail ;
--   Les employeurs sont invités à pratiquer dans le maximum de cas le
-    maintien de salaire au bénéfice de leurs salariés, auquel cas ils
-    versent le salaire à hauteur du complément sans attendre le
-    versement des indemnités journalières par l'assurance maladie ;
--   Si vous êtes non-salarié (travailleur indépendant ou exploitant
-    agricole), vous déclarez directement votre arrêt sur le site
-    Internet dédié.
-
-**Puis-je me faire livrer un repas ?**\
-Les restaurants ont fermé leurs portes le 15 mars, comme tout comme les
-bars, brasseries, cafés et discothèques, jusqu\'à nouvel ordre. En
-revanche les activités de vente à emporter et de livraison sont
-maintenues dans les restaurants et débits de boissons, avec la
-recommandation d\'éviter tout contact.\
-\
-**Puis-je me rendre chez un professionnel de santé ?**\
-A l\'instar des pharmacies, les parapharmacies resteront ouvertes. Les
-cabinets de médecine resteront ouverts, mais attention : il est demandé
-aux personnes qui ressentent les symptômes du Coronavirus de ne pas se
-rendre au cabinet de leur médecin de ville. En cas de symptômes légers
-(fièvre et toux), il faut d'abord appeler son médecin traitant ou opter
-pour une téléconsultation. Si les symptômes s'aggravent au bout de
-quelques jours, il faut appeler le 15.\
-Les commerces de matériel médical restent ouverts.  \
- \
-**Puis-je aller voir un film ou un match, aller à la piscine ? **\
-Les cinémas sont fermés, tandis que tous les événements culturels et
-sportifs ont été annulés et les rassemblements publics de plus de 100
-personnes ont été interdits à l\'échelle nationale. Ce chiffre peut
-tomber à 50 dans les zones les plus touchées (arrêtés préfectoraux comme
-Haut Rhin, Oise etc \...). Les musées, théâtres, opéras, piscines sont
-également fermés. Les salles de sport sont également fermées.\
-\
-**Puis-je partir en vacances ?**\
-Les transports longue distance vont être drastiquement réduits : trafic
-ferroviaire bientôt divisé par deux - pour les TGV et les Intercités -,
-à partir de mardi, et seulement quelques vols internationaux vers
-Etats-Unis, Afrique, Outre-mer et quelques vols domestiques. La SNCF va
-adapter son offre pour permettre aux Français de rentrer de vacances, et
-de quitter les stations de ski - qui ferment - ou le Maroc - dont 12.000
-touristes sont progressivement rapatriés.  Il est recommandé d'être
-précautionneux sur les destinations étrangères, les pays peuvent décider
-de restreindre l'entrée sur le territoire ou la mise en quatorzaine :
-les informations sont à retrouver sur le site du ministère de l'Europe
-et des Affaires étrangères.\
-\
-**Puis-je aller à l'hôtel ? **\
-Les hôtels peuvent continuer à accueillir leurs clients, mais leurs
-restaurants et bars doivent garder portes closes. Il est toutefois
-possible d\'y prendre son petit déjeuner ou tout autre repas, mais
-uniquement en chambre.\
-\
-**Puis-je prendre les transports, un taxi ou un VTC ?**\
-Les transports en commun dans les agglomérations sont maintenus, avec à
-Paris 80% des métros en circulation, un \"trafic normal\" pour les bus
-et tramways, ainsi que les RER A et B. Les transports en taxi et VTC
-sont maintenus.\
-\
-**Puis-je aller travailler ?**\
-Le télétravail est très fortement encouragé et une mobilisation des
-entreprises en ce sens est attendue dans le courant de la semaine
-prochaine. Les parents devant garder des enfants de moins de 16 ans et
-ne pouvant y recourir ont droit à un arrêt maladie avec indemnités
-journalières dès le premier jour. \
-\
-**Puis-je faire mes courses au supermarché ou à l\'épicerie ?**\
-Les supermarchés et épiceries resteront ouverts. Leur approvisionnement
-en produits alimentaires et de première nécessité sera garanti dans les
-jours et les semaines à venir et les règles du travail de nuit
-notamment, seront assouplies pour les magasins. Il n'y a donc aucun
-risque de rationnement et il faut éviter la surconsommation préventive.
-Les espaces culturels et les cafétérias de la grande distribution seront
-fermés.\
-\
-**Puis-je aller en cours ?**\
-Ecoles, collèges, lycées et universités du pays ferment lundi, au moins
-jusqu\'aux vacances de printemps, ce qui concerne plus de 12 millions
-d\'élèves et 2,6 millions d\'étudiants. Trois à quatre heures
-d\'enseignement par jour - exercices en ligne, \"classe virtuelle\" en
-visioconférence- doivent être proposées. Les examens et les concours de
-recrutement sont reportés.\
-\
-Tous les étudiants en santé qui souhaitent proposer leur aide pour la
-gestion de crise peuvent se signaler auprès de leur Université (par
-exemple, apporter un appui aux centres d'appels du 15)\
-\
-Un service de garde sera mis en place département par département, pour
-les personnels indispensables à la gestion de la crise sanitaire.\
-\
-**Puis- je me faire opérer ?**\
-Toutes les capacités hospitalières nationales et le maximum de médecins
-et de soignants sont mobilisés, et les consultations et les soins \"non
-essentiels\" sont reportés dans les hôpitaux.\
-\
-**Quel comportement dois-je adopter face au Coronavirus ?**
-
--   Je n'ai pas encore été exposé au Covid-19 à ma connaissance :
-    j'applique en permanence les gestes et comportements qui permettent
-    de freiner l'épidémie. Je reste chez moi et je limite mes
-    déplacements au maximum (courses, essence...) et j'évite tous les
-    rassemblements. J'applique les gestes barrières : je me lave
-    régulièrement les mains, je tousse et éternue dans mon coude,
-    j'utilise des mouchoirs à usage unique et les jette immédiatement,
-    je ne salue pas les autres par une poignée de main ou par une
-    embrassade, je respecte une distance de 1 mètre avec toute autre
-    personne.
--   Je suis parent : si c'est possible, j'assure la garde de mes enfants
-    à mon domicile. Les établissements scolaires étant temporairement
-    fermés pour freiner la propagation de l'épidémie, je garde mes
-    enfants de moins de 16 ans à domicile, et j'évite de les confier à
-    leurs grands-parents qui sont plus vulnérables face à l'épidémie.
-    Une procédure simplifiée me permet de bénéficier d'un arrêt de
-    travail indemnisé dans ce cadre. 
--   J'ai été en contact avec un cas confirmé de Covid-19 ou je vis avec
-    un cas confirmé de Covid-19 : je m'isole et je surveille mon état de
-    santé. Je reste à mon domicile, je m'isole 2 semaines, je respecte
-    scrupuleusement les gestes-barrières, je surveille ma température 2
-    fois par jour, je surveille l'apparition éventuelle de symptômes
-    (toux, difficultés respiratoires, fièvre) et j'adopte le
-    télétravail. Si des symptômes surviennent, je peux appeler mon
-    médecin, mais je ne me déplace pas jusqu'à son cabinet, ni au
-    laboratoire ni aux
-    urgences.                                                                                                                                                                        
--   J'ai des symptômes (toux, fièvre) qui me font penser au Covid-19. Je
-    reste à domicile, j'évite les contacts, j'appelle un médecin si
-    besoin et ne me rends pas directement au cabinet, au laboratoire ou
-    aux urgences ou j'appelle le numéro de permanence de soins de ma
-    région. Je peux également bénéficier d'une téléconsultation. Si les
-    symptômes s'aggravent avec des difficultés respiratoires et signes
-    d'étouffement, j'appelle le SAMU- Centre 15.
--   Je suis médecin libéral. J'organise mon activité pour être en mesure
-    d'accueillir ou de conseiller des patients symptomatiques du
-    COVID-19, notamment avec des outils de telemedecine. La prise en
-    charge ambulatoire des patients qui présentent des symptômes modérés
-    a vocation à être organisée par les médecins habituels des patients.
-    Cela implique, de la part des professionnels de santé concernés,
-    d'organiser des circuits spécifiques ou de la téléconsultation pour
-    la prise en charge des patients. 
--   Je suis un élu local. En lien avec les services de l'Etat, je veille
-    à faire respecter les consignes de fermeture de l'ensemble des
-    services non essentiels à la vie publique (cinémas, restaurants,
-    bars...) et à limiter les rassemblements. Je diffuse régulièrement
-    les gestes barrières et les recommandations du ministère de la
-    santé. 
--   Je suis un employeur. Je généralise le recours au télétravail dans
-    mon entreprise et suspens toute réunion physique de personnes qui ne
-    serait pas indispensable à la continuation de l'activité. J'informe
-    tous mes salariés des bonnes pratiques et recommandations pour
-    protéger la population
--   Je suis un étudiant. Mon établissement est fermé à compter du 16
-    mars. Je consulte quotidiennement les informations que m'adressent
-    mes professeurs. Je poursuis mon cursus au moyen des outils et
-    supports numériques mis à ma disposition. Si je suis étudiant en
-    santé et volontaire, je signale ma disponibilité à mon Université
-    pour aider à la gestion de crise en appui aux équipes médicales
-    mobilisées face à l'épidémie (exemple : appui aux centres 15 pour la
-    gestion des appels téléphoniques).
--   Je suis une femme enceinte. En l'état actuel des connaissances, rien
-    n'indique que ma grossesse m'expose particulièrement au coronavirus.
-    J'applique les gestes et comportements qui permettent de freiner
-    l'épidémie. Le Haut Conseil de la santé publique recommande
-    cependant d'appliquer aux femmes enceintes, à partir du troisième
-    trimestre de grossesse, les mesures préventives applicables aux
-    personnes fragiles (par exemple : restriction voire interdiction des
-    visites, contre-indication quant à l'usage des transports
-    collectifs, limitation des contacts avec les enfants de moins de 10
-    ans).
--   Je suis une personne âgée :\
-    •    Je respecte strictement les gestes barrières\
-    •    Exposée à des risques de forme grave ou de complication du
-    COVID 19, je réduis mes sorties et mes déplacements au strict
-    minimum. Je m'abstiens de fréquenter toute réunion ou rassemblement\
-    •    Je limite les rencontres avec mes proches (en particulier
-    lorsqu'ils sont mineurs) et privilégie les contacts téléphoniques ou
-    audiovisuels\
-    •    Je ne reçois aucune visite et m'abstiens de toute sortie \
-    •    Si j'ai des symptômes grippaux mal tolérés, je contacte le SAMU
-    Centre 15\
-    Je suis une personne en situation de handicap  \
-    •    Exposée à des risques de forme grave ou de complication du
-    COVID 19, je réduis mes sorties et déplacements au strict minimum \
-    •    Je m'abstiens de fréquenter toute réunion ou rassemblement \
-    •    Je limite les rencontres avec mes proches et privilégie les
-    contacts téléphoniques ou audiovisuels\
-    •    Je respecte strictement les gestes barrières \
-    •    si je vis en établissement pour personne en situation de
-    handicap : Je ne reçois aucune visite et m'abstiens de toute
-    sortie, \
-    •    Si j'ai des symptômes grippaux mal tolérés, je contacte le SAMU
-    Centre 15
--    Je suis une assistante maternelle. Je peux poursuivre mon activité
-    professionnelle si je l'exerce à titre individuel. Je veille à
-    éviter les contacts entre les enfants que je garde et les personnes
-    fragiles (personnes âgées notamment).
-
-\
-**Quelles sont les consignes si je présente les symptômes du COVID-19,
-et que le Samu me demande de rester à mon domicile ?**
+#### Quelles sont les consignes si je présente les symptômes du COVID-19, et que le Samu me demande de rester à mon domicile ?
 
 Si un médecin prescrit un isolement, il est demandé de limiter au
 maximum ses déplacements, à savoir les transports en commun, le lieu de
@@ -1061,35 +1184,6 @@ comme les aidants à domiciles. Enfin, les livraisons à domicile sont
 possibles, en laissant le colis sur le palier.\
 Seul les cas confirmés sont signalés aux ARS. Ce signalement est fait
 par les laboratoires et centres de référence.
-
-#### Les événements et rassemblements sont-ils annulés ?
-
-Le 14 mars 2020, le Premier ministre a décidé, à la suite du passage en
-stade 3 du plan de lutte contre l'épidémie et jusqu'à nouvel ordre, de
-fermer tous les lieux recevant du public qui ne sont pas indispensables
-à la vie du pays. Il s'agit notamment des restaurants, cafés, cinémas,
-discothèques. Les lieux de culte resteront ouverts, mais les
-rassemblements et les cérémonies devront être reportés. Il s'agit
-également de tous les commerces à l'exception des commerces
-essentiels.Resteront notamment ouvert les pharmacies, commerces
-alimentaires, stations-services, banques, bureaux de tabac, ainsi que
-**les services publics essentiels**. \
-\
-**L'objectif est d'éviter de se rassembler, limiter les réunions
-amicales et familiales, n\'utiliser les transports en commun que pour
-aller au travail et seulement si la présence physique au travail est
-indispensable.**
-
-#### Les élections municipales seront-elles maintenues ?
-
-Le 9 mars, le ministre de l'Intérieur a pris une circulaire permettant
-de garantir la tenue des élections municipales et communautaires des 15
-et 22 mars, dans le contexte du COVID-19. Les mesures de la circulaire
-visent à assurer la protection sanitaire des électeurs comme des
-responsables des opérations électorales au sein des bureaux de vote.\
-Le 12 mars 2020, le Président de la République a rappelé l'importance
-d'assurer la continuité de la vie démocratique des institutions, tout en
-veillant au respect strict des gestes barrières.
 
 #### Comment me protéger du coronavirus COVID-19 ?
 
@@ -1122,6 +1216,12 @@ ces masques, dans les cas où ils sont utiles, est à l'évidence une
 condition pour que le stock et les réassorts de ces dispositifs de
 protection soient exploités au mieux.
 
+#### La réquisition des masques concerne-t-elle toute la production française et les stocks des ministères ?
+
+Oui, sont réquisitionnés les stocks de masques anti-projections et de
+protection respiratoire de type FFP2 ainsi que ceux qui seront produits
+jusqu'au 31 mai 2020.
+
 #### Combien coûte le gel hydro-alcoolique ?
 
 Le prix du gel hydro-alcoolique est encadré depuis le 6 mars 2020 par
@@ -1134,20 +1234,6 @@ décret :
 
 Les pharmacies pourront prochainement vendre leur propre solution de gel
 hydro-alcoolique.
-
-#### La réquisition des masques concerne-t-elle toute la production française et les stocks des ministères ?
-
-Oui, sont réquisitionnés les stocks de masques anti-projections et de
-protection respiratoire de type FFP2 ainsi que ceux qui seront produits
-jusqu'au 31 mai 2020.
-
-#### Puis-je prendre les transports en commun ?
-
-Les transports en commun sont maintenus. Néanmoins, pour freiner la
-propagation du virus, il est demandé de limiter les déplacements au
-strict nécessaire. Pensez à vous laver les mains avant et après avoir
-pris les transports en commun, et tout au long de la journée.\
- 
 
 ### []{#partie2n2}Les conséquences de l'épidémie
 
@@ -1274,17 +1360,36 @@ internet](https://cn.ambafrance.org/-Consulat-Wuhan-), tout comme le
 
 [Retour aux questions fréquentes](#ancre2){.backmenuh2}
 
-### []{#partie2n1}Plan et gestion de crise
+### []{#partie2n6}Plan et gestion de crise
 
-#### Combien de temps vont durer les mesures prises pour lutter contre le Coronavirus COV-19 ?
+ 
 
-Les mesures prises pour limiter la diffusion du virus sont provisoires.
-Le Gouvernement est prêt à les faire évoluer en fonction de l'évolution
-de la situation.
+#### Quels sont les stades de gestion de l'épidémie de Coronavirus COVID-19 en France ?
 
-#### Existe-t-il un stade 4 ?
+Le **stade 1** prévoit de freiner l'introduction du virus sur le
+territoire national. Il correspond à la mise en alerte du système de
+santé. Les autorités sanitaires sont mobilisées pour isoler les malades,
+détecter et identifier rapidement les cas contact, et prendre en charge
+les cas graves dans les établissements de santé habilités.\
+\
+Pour le **stade 2**, l'objectif des pouvoirs publics est de freiner la
+propagation du virus sur le territoire et d'empêcher ou, tout du moins,
+de retarder aussi longtemps que possible le passage au stade 3.\
+\
+**Stade 3 : Le virus circule largement dans la population.**\
+\
+Le stade 3 ou stade épidémique correspond à une circulation active du
+virus. La stratégie repose alors sur l'atténuation des effets de
+l'épidémie. L'organisation prévoit la mobilisation complète du système
+sanitaire hospitalier et de ville, ainsi que les établissement
+médico-sociaux pour protéger les populations fragiles, assurer la prise
+en charge des patients sans gravité en ville, et des patients avec
+signes de gravité en établissements de soins. Les activités collectives
+sont fortement impactées. **Nous sommes actuellement en stade 3. **\
+\
+**Stade 4 : Fin de l'épidémie. Retour à la normale.**
 
-Oui, c'est le stade du retour progressif à une situation normale.
+ 
 
 #### Qu'est-ce que le plan blanc ?
 
@@ -1326,15 +1431,6 @@ sont prises pour être en capacité d'accueillir et de prendre en charge
 les patients qui en ont besoin : mobilisation de l'ensemble des
 soignants, rappel de la réserve sanitaire mais aussi d'étudiants et de
 jeunes retraités.
-
-#### Quelles activités sont déprogrammées dans les hôpitaux ?
-
-Il a été décidé de reporter les soins non essentiels et non urgents à
-l\'hôpital (public et privé), c\'est à dire les opérations,
-interventions et consultations qui ne sont pas urgentes et dont le
-report n\'entraîne pas de perte de chance pour les patients. Une note du
-Ministère des Solidarités et de la Santé est envoyée en ce sens aux
-établissements hospitaliers.
 
 #### Qu'est-ce que le plan bleu ? 
 
@@ -1448,28 +1544,30 @@ chapitre](# "Fermer le chapitre : Questions Fréquentes"){.backtotop
 []{#numeros}[]{#ancre5}Numéros utiles
 -------------------------------------
 
-Coronavirus : un numéro gratuit d'information
-
-
-
-
-[[[]{.icone
-.icone-partage-twitter}[Tweeter]{.bouton-texte}](https://twitter.com/intent/tweet?text=Coronavirus%20%3A%20un%20num%C3%A9ro%20gratuit%20d%E2%80%99information%20https%3A//www.gouvernement.fr/partage/11433-coronavirus-le-numero-vert&tweet_id&via=gouvernementfr "Tweeter : Coronavirus : un numéro gratuit d’information - nouvelle fenêtre"){.bouton
-.bouton-partage .bouton-social
-.bouton-partage-twitter}]{.bouton-partage-tw-wrapper
-.pmv6-hidden}[[[]{.icone
-.icone-partage-facebook}[Partager]{.bouton-texte}](https://www.facebook.com/sharer/sharer.php?u=https%3A//www.gouvernement.fr/partage/11433-coronavirus-le-numero-vert "Partager sur Facebook : Coronavirus : un numéro gratuit d’information - nouvelle fenêtre"){.bouton
-.bouton-partage .bouton-social .bouton-partage-facebook
-.partage-social}]{.bouton-partage-fb-wrapper .pmv6-hidden}[[]{.icone
-.icone-partage-mail}[Envoyer]{.bouton-texte}](/partager?type=asset&id=11433&destination=node/10041&lang=fr "Envoyer par e-mail : Coronavirus : un numéro gratuit d’information"){.bouton
-.colorbox-link .bouton-partage .bouton-partage-mail}
-
-
 Un numéro vert répond à vos questions sur le Coronavirus COVID-19 en
 permanence, 24h/24 et 7j/7 : [0 800 130 000](tel:0800130000).\
 \
 Attention, la plateforme téléphonique n'est pas habilitée à dispenser
 des conseils médicaux.
+
+**Si j'ai des symptômes (toux, fièvre) qui me font penser au Covid-19 :
+je reste à domicile, j'évite les contacts, j'appelle un médecin avant de
+me rendre à son cabinet ou j'appelle le numéro de permanence de soins de
+ma région. Je peux également bénéficier d'une téléconsultation.** Si les
+symptômes s'aggravent avec des difficultés respiratoires et signes
+d'étouffement, j'appelle le [SAMU- Centre 15](tel:15).
+
+#### J'ai des difficultés pour entendre ou parler par téléphone en raison d'un handicap
+
+Vous pouvez vous rendre sur [cette page de contact dédiée aux personnes
+sourdes, malentendantes, sourde, aveugles et
+aphasiques](/info-coronavirus/espace-handicap), ouverte 24h/24 et 7j/7.
+
+Attention, cette plateforme d'échange n'est pas habilitée à dispenser
+des conseils médicaux. Si vous avez les symptômes du Covid-19 : restez à
+votre domicile, évitez les contacts et contacter votre médecin. Appelez
+le numéro d'appel d'urgence pour les sourds et malentendants
+([114](tel:114)) si les symptômes s'aggravent.
 
 #### J'habite à l'étranger, qui appeler ?
 
@@ -1545,36 +1643,7 @@ l'OMS.
 
 Le ministère chargé de la Santé s'engage à communiquer sans délai pour
 chaque cas confirmé mais ne délivre pas d'information sur les cas en
-cours d'investigation (cas suspect, cas possible en cours de bilan...).\
-\
-Pour les personnes en situation de handicap, **des mesures ont été
-prises pour protéger les personnes, avec la mobilisation de l'ensemble
-de la solidarité nationale.**\
- 
-
--   **Les personnes en situation de handicap exposées à des
-    complications de santé et qui vivent à domicile doivent adapter
-    leurs habitudes de vie pour limiter les contacts et les
-    déplacements.** Une attention toute particulière doit leur être
-    apportée par le maintien voire le renforcement des accompagnement et
-    soins à domicile, autant que de possible.
--   **Les externats médico-sociaux accueillant des enfants et des jeunes
-    en situation de handicap organiseront les conditions du maintien à
-    domicile, avec continuité de l'accompagnement, et garantir aux
-    enfants ne pouvant être pris en charge par les familles des
-    solutions adaptées dans un délais maximum de 8 jours.**  Ce délai
-    tient à la nécessité d'organiser la continuité des prises en charge
-    en soins et en interventions pour les enfants. Il doit aussi être
-    mobilisé pour bien construire les solutions pour les enfants aux
-    besoins les plus complexes.
--   **Les internats pour les enfants et adultes fonctionnant 365 jours /
-    365 sont maintenus ouverts**, mais les capacités d'accueil peuvent
-    être adaptées en fonction des besoins, pour tenir compte par exemple
-    du choix des familles d'un retour accompagné à domicile dans la
-    période.
--   Les parents qui seraient **amenés à garder leur enfant handicapé à
-    domicile, quelle qu'en soit la raison, bénéficieront d'une prise en
-    charge par la Sécurité Sociale des indemnités journalières.**
+cours d'investigation (cas suspect, cas possible en cours de bilan...).
 
 **Des mesures de protection sont prises dans ces établissements et
 services pour les personnes et pour freiner la propagation du virus :**
@@ -1607,7 +1676,13 @@ professionnels de santé.\
 **Les professionnels médico-sociaux sont soutenus au vu de l'importance
 de leur mission. Ils comptent parmi les personnels prioritaires pour la
 mobilisation de systèmes de gardes d'enfants** organisés par l'Education
-nationale et ses partenaires.
+nationale et ses partenaires. L'Etat mobilise également les taxis et les
+hôtels pour les accompagner dans leurs missions. \
+\
+Un hôpital de campagne du service de santé des Armées sera déployé dans
+les jours à venir en Alsace. Les armées apporteront leur concours pour
+déplacer les malades des régions les plus affectées et ainsi réduire la
+congestion dans les hôpitaux de certains territoires.
 
 [Retour aux mesures prises par le Gouvernement](#ancre7){.backmenuh2}
 
@@ -1744,13 +1819,6 @@ situation sanitaire le permet :
 
 ### []{#partie7n5}Pour l'économie
 
-L'Etat considère le coronavirus COVID-19 comme un "cas de force majeure"
-ainsi les entreprises qui ont des marchés publics d'Etat ne seront pas
-pénalisées en cas retard de livraison. Depuis le 2 mars la Banque
-publique d'Investissement (BPI) se porte garante de l'ensemble des prêts
-demandés par les PME afin de les accompagner pendant cette période
-difficile.\
-\
 Une cellule de continuité économique a été activée le 3 mars au
 ministère de l'Économie. Cette cellule va permettre d\'obtenir toutes
 les informations nécessaires sur la situation économique du pays en
@@ -1758,61 +1826,34 @@ temps réel, de mieux gérer l\'impact de cette crise sanitaire sur notre
 économie en prenant des décisions quotidiennes qui pourraient s\'avérer
 nécessaires.\
 \
-Pour les entreprises, le Gouvernement a  annoncé les mesures suivantes :
+Pour les entreprises, le Gouvernement a annoncé les mesures suivantes : 
 
--   L\'application de mesures de soutien au cas par cas aux entreprises
-    qui rencontreraient des difficultés sérieuses, notamment le recours
-    à l'activité partielle ou l'étalement des charges sociales et
-    fiscales.
--   La mise à disposition de toutes les informations utiles sur la
-    situation d'activité et logistique dans les différentes provinces
-    chinoises. Les entreprises pourront connaître l'état exact de la
-    situation, province par province, ainsi que dans les grands ports
-    chinois où arrivent les exportations en provenance de France et
-    d'Europe.
--   L'accélération des procédures d'agrément dans certaines filières
-    pour les nouvelles sources d'approvisionnement, en particulier pour
-    le secteur de la construction ou de la chimie afin de les aider à
-    diversifier leurs sources d'approvisionnement tout en respectant les
-    normes sociales, environnementales et européennes.
--   Lancement d'une réflexion sur la sécurisation des approvisionnements
-    pour certaines filières stratégiques, comme la filière automobile,
-    afin de les faire gagner en indépendance par rapport à leurs
-    approvisionnements à l'étranger.
--   En lien avec le gouverneur de la Banque de France, il a été décidé
-    de rétablir la médiation du crédit pour accompagner sur les
-    territoires dans les départements toutes les PME qui auraient besoin
-    de renégocier leurs contrats et de renégocier leurs crédits.
--   La simplification du dispositif d'aide pour les entreprises
-    impactées par le COVID-19 :
+-   Mise en place de [délais de paiement d'échéances sociales et/ou
+    fiscales](https://www.economie.gouv.fr/mesures-exceptionnelles-urssaf-et-services-impots-entreprises)
+    (URSSAF, impôts) ; 
+-   Dans les situations les plus difficiles, des remises d'impôts
+    directs pouvant être décidées dans le cadre d\'un examen
+    individualisé des demandes ;
+-   Un soutien de l'État et de la banque de France (médiation du crédit)
+    pour négocier avec sa banque un rééchelonnement des crédits
+    bancaires ;
+-   La mobilisation de Bpifrance pour garantir des lignes de trésorerie
+    bancaires dont les entreprises pourraient avoir besoin à cause de
+    l'épidémie ;
+-   Le maintien de l\'emploi dans les entreprises par le dispositif de
+    chômage partiel simplifié et renforcé ;
+-   L'appui au traitement d'un conflit avec des clients ou fournisseurs
+    par le médiateur des entreprises ;
+-   La reconnaissance par l'État et les collectivités locales du
+    Coronavirus comme un cas de force majeure pour leurs marchés
+    publics. En conséquence, pour tous les marchés publics d'État et des
+    collectivités locales, les pénalités de retard ne seront pas
+    appliquées ;
+-   La suspension des factures d'eau, de gaz, d'électricité et de loyers
+    pour les petites entreprises les plus en difficulté ainsi que la
+    suspension de leurs impôts et cotisations sociales.
 
-1.  Possibilité de reporter le paiement des cotisations et impôts dus en
-    mars pour toutes les entreprises qui le souhaitent sans
-    justification, ni pénalité.
-2.  Dégrèvement pour les impôts directs, au cas par cas, pour les
-    entreprises menacées de disparition en raison de l'impact économique
-    du COVID-19.
-
--   Un document détaillant les mesures d'accompagnement des entreprises
-    touchées par le COVID-19 et les contacts utiles est disponible
-    [ici](https://www.entreprises.gouv.fr/files/files/Coronavirus_MINEFI1203.pdf).
-
-Pour les salariés, le Gouvernement a également annoncé plusieurs mesures
-:\
- 
-
--   Renforcement et simplification du dispositif d'activité partielle
-    afin de préserver l'emploi (délai de réponse de 48h, augmentation de
-    l'allocation à hauteur du SMIC dans les TPE-PME).
--   Mise en oeuvre d'un mécanisme exceptionnel et massif de chômage
-    partiel, avec une prise en charge par l'Etat de l\'indemnisation des
-    salariés contraints à rester chez eux.
--   Pour les parents sans solution de garde pour leurs enfants de moins
-    16 ans, l'arrêt de travail sera automatique et sans délai de
-    carence.
-
-\
-Pour plus d'information dans votre région contacter le [0 800 130
+Pour plus d'informations dans votre région, contactez le [0 800 130
 000](tel:0800130000).
 
 [Retour aux mesures prises par le Gouvernement](#ancre7){.backmenuh2}
@@ -1958,6 +1999,8 @@ prévention.**
 -   **13 mars :** Interdiction des rassemblements de plus de 100
     personnes
 -   **14 mars :** passage en stade 3
+-   **17 mars :** Restriction des déplacements au strict minimum
+-   **17 mars :** fermeture des frontières de l'espace Schengen
 
 [Retour aux mesures prises par le Gouvernement](#ancre7){.backmenuh2}
 
@@ -2018,6 +2061,18 @@ Elles sont libres de droit.
     Ko)](https://www.gouvernement.fr/sites/default/files/contenu/piece-jointe/2020/03/coronavirus_gestes_barierre_spf.pdf)
 -   [Téléchargez l\'affiche coronavirus : ce qu'il faut savoir (Pdf,
     1Mo)](https://www.gouvernement.fr/sites/default/files/contenu/piece-jointe/2020/03/coronavirus_ce_quil_faut_savoir.pdf)
+-   [Téléchargez la déclaration Premier ministre 14 mars 2020 (Pdf,
+    300Ko)](https://www.gouvernement.fr/sites/default/files/contenu/piece-jointe/2020/03/declaration_premier_ministre_14_mars_2020.pdf)
+-   [Téléchargez la déclaration du président de la République 16 mars
+    2020 (Pdf,
+    314Ko)](https://www.gouvernement.fr/sites/default/files/contenu/piece-jointe/2020/03/declaration_du_president_de_la_republique_16_mars_2020.pdf)
+-   [Téléchargez l\'attestation individuelle (Pdf,
+    0.38Ko)](https://www.gouvernement.fr/sites/default/files/contenu/piece-jointe/2020/03/attestation_de_deplacement_derogatoire.pdf)
+-   [Téléchargez l\'attestation de l\'employeur (Pdf,
+    38Ko)](https://www.gouvernement.fr/sites/default/files/contenu/piece-jointe/2020/03/justificatif_de_deplacement_professionnel.pdf)
+-   [Téléchargez les questions / réponses sur les restrictions de
+    déplacement (Pdf,
+    500Ko)](/sites/default/files/contenu/piece-jointe/2020/03/faq-restrictions.pdf)
 
 [Fermer le chapitre](# "Fermer le chapitre : Ressources"){.backtotop
 .button-cta .red}
