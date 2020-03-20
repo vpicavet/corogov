@@ -80,7 +80,7 @@ Suggestions :
 
  
 
-Mise à jour le mercredi 18 mars, 19h30
+Mise à jour le jeudi 19 mars, 19h30
 
 informations **Coronavirus**
 ============================
@@ -136,8 +136,10 @@ Les infractions à ces règles seront sanctionnées d\'une amende de 135
 euros. En cas de doute sur ces restrictions de déplacement, vous pouvez
 consulter les [questions / réponses en cliquant
 ici](/sites/default/files/contenu/piece-jointe/2020/03/faq-restrictions.pdf).\
-Les attestations officielles imprimées et les attestations sur l'honneur
-rédigées sur papier libre sont les seules valables.
+Attention à vos données personnelles, n\'utilisez pas de support
+numérique pour vos attestations. Seuls le document officiel  du
+ministère de l\'Intérieur ou une attestation sur l\'honneur sur papier
+libre peuvent être utilisés comme justificatifs.
 
 
 []{#corona}[]{#ancre1}Qu'est-ce que le coronavirus COVID-19 ?
@@ -235,6 +237,33 @@ Grâce aux moyens de détection et aux mesures de lutte contre le
 coronavirus, la circulation de la souche L, plus sévère et donc plus
 facilement détectable, tend à diminuer.
 
+**Le virus circule-t-il dans l'air ?**\
+Non. Le coronavirus responsable du COVID-19 se transmet par les
+gouttelettes, qui sont les sécrétions respiratoires qu'on émet quand on
+tousse, qu'on éternue ou qu'on parle. Le virus ne circule pas dans l'air
+mais peut atteindre une personne à proximité (\<1 mètre) ou se fixer sur
+une surface souillée par les gouttelettes, comme les mains ou les
+mouchoirs. C'est pour cela qu'il est important de respecter les gestes
+barrières et les mesures de distanciation sociale.\
+\
+**Combien de temps le Covid-19 peut-il vivre sur une surface ?**\
+Dans des conditions propices à sa survie, le virus pourrait survivre,
+sous forme de traces, plusieurs jours sur une surface. Toutefois, ce
+n'est pas parce qu'un peu de virus survit que cela est suffisant pour
+contaminer une personne qui toucherait cette surface. En effet, au bout
+de quelques heures, la grande majorité du virus meurt et n'est
+probablement plus contagieux. Pour rappel, la grande transmissibilité du
+coronavirus COVID-19 n'est pas liée à sa survie sur les surfaces, mais à
+sa transmission quand on tousse, qu'on éternue , qu'on discute ou par
+les gouttelettes expulsées et transmises par les mains. C'est pour cela
+qu'il est important de respecter les gestes barrières et les mesures de
+distanciation sociale.\
+\
+**Les moustiques peuvent-ils transmettre le virus ?**\
+Non il n'existe aucune preuve de transmission du virus à travers les
+moustiques, ou tout autre animal d'ailleurs. Le coronavirus COVID-19 se
+transmet entre humains, via les gouttelettes respiratoires. 
+
 #### Peut-on attraper la maladie par l'eau ?
 
 A ce jour, il n'a pas été rapporté de contamination par l'eau. Cette
@@ -258,7 +287,15 @@ d'origine animale (DAOA) à partir d'un animal infecté par le COVID-19
 est exclue. Les aliments crus ou peu cuits ne présentent pas de risques
 de transmission d'infection particuliers, dès lors que les bonnes règles
 d'hygiène habituelles sont respectées lors de la manipulation et de la
-préparation des denrées alimentaires.
+préparation des denrées alimentaires.\
+\
+**Les femmes enceintes sont-elles des personnes à risque ?**\
+Les femmes enceintes sont de manière générale des sujets fragiles et qui
+nécessitent une grande attention. Les premières informations sur
+l'impact du coronavirus chez les femmes enceintes et le fœtus sont
+cependant rassurantes. Toutefois, par précaution, le Haut Conseil de
+Santé Publique a classé les femmes enceintes  **à partir du 3ème
+trimestre** comme personnes à risque.
 
 #### Y aura t-il une seconde vague de virus qui touchera les plus jeunes ?
 
@@ -276,7 +313,26 @@ Président de la République se fonde sur les observations scientifiques
 montrant que les sujets jeunes, au début de leur contamination,
 présentent des symptômes peu graves, mais qu'après environ une semaine
 d'évolution, certains présentent des atteintes plus sévères, nécessitant
-de possibles hospitalisations.
+de possibles hospitalisations.\
+\
+**La chloroquine est-elle vraiment un remède miracle contre le
+Coronavirus ?**\
+Les résultats restent trop préliminaires pour recommander la chloroquine
+comme traitement du coronavirus. La piste reste ouverte mais d'autres
+études sont nécessaires ce jour.  La chloroquine n'est pas un médicament
+anodin, et n'est pas recommandé ce jour par les autorités de santé.
+Plusieurs essais cliniques, sur la chloroquine et d'autres molécules
+sont en cours. Les autorités de santé sont en attente des résultats pour
+recommander un traitement évalué cliniquement, efficace et sûr pour le
+patient. Pour les patients atteints à domicile, il ne faut pas
+s'auto-médiquer, ou alors uniquement avec du paracétamol, dans la limite
+de 1g par prise (toutes les 6h) et 3g/jour max (60 mg/kg pour les
+enfants). Si vous avez des doutes sur vos traitements si vous êtes
+atteints du COVID-19, contactez votre médecin traitant ou visitez le
+site
+[https://www.covid19-medicaments.com/](http://www.covid19-medicaments.com/)
+(réalisé avec le Réseau Français des Centres Régionaux de
+Pharmacovigilance). 
 
 #### Comment s'organise la recherche autour du virus en France ?
 
@@ -313,9 +369,9 @@ populations :
 
 -   les personnes fragiles(cf liste) présentant des symptômes évocateurs
     du COVID-19, à risque de développer des complications. 
--   les deux trois personnes présentant des symptômes évocateurs du
-    COVID-19 dans les structures médico-sociales, notamment les maisons
-    de retraites, et dans les structures collectives hébergeant des
+-   les trois personnes présentant des symptômes évocateurs du COVID-19
+    dans les structures médico-sociales, notamment les maisons de
+    retraites, et dans les structures collectives hébergeant des
     personnes vulnérables, pour prendre des mesures immédiates afin
     d'éviter une transmission entre les résidents, 
 -   les personnes hospitalisées présentant des symptômes évocateurs de
@@ -367,7 +423,7 @@ chapitre](# "Fermer le chapitre : Qu’est-ce que le coronavirus COVID-19 ?"){.b
 []{#point}[]{#ancre3}Point de situation en France
 -------------------------------------------------
 
-#### Le 18 mars à 19h30
+#### Le 19 mars à 19h30
 
 Le ministre des Solidarités et de la Santé, tient un [point presse
 quotidien](http://www.dailymotion.com/MinSoliSante) pour vous informer
@@ -379,9 +435,9 @@ Les informations du jour :
     plusieurs zones de regroupement de cas appelés \"clusters\". Nous
     sommes actuellement au stade 3 du plan d'actions du Gouvernement qui
     a pour objectif de prévenir et limiter la circulation du virus.
--   Depuis le 24 janvier 2020, la France compte 9 134 cas de Coronavirus
-    COVID-19 confirmés.
--   264 personnes sont décédées depuis le début de l\'épidémie.
+-   Depuis le 24 janvier 2020, la France compte 10 995 cas de
+    Coronavirus COVID-19 confirmés.
+-   372 personnes sont décédées depuis le début de l\'épidémie.
 
 Retrouvez le point épidémiologique quotidien sur [Santé publique
 France](http://www.santepubliquefrance.fr/maladies-et-traumatismes/maladies-et-infections-respiratoires/infection-a-coronavirus/articles/infection-au-nouveau-coronavirus-sars-cov-2-covid-19-france-et-monde).\
@@ -547,7 +603,28 @@ il ne peut être porté en permanence et surtout n'a pas d'indication sans
 contact rapproché et prolongé avec un malade.\
 \
 Ce sont les gestes barrières et la distanciation sociale qui sont
-efficaces.
+efficaces.\
+\
+**Les gants sont-ils utiles ?**\
+Non. Les gants peuvent également servir de support au virus après
+souillage par des gouttelettes (les sécrétions respiratoires qu'on émet
+quand on tousse, éternue, ou discute), qui sont le moyen de transmission
+du coronavirus. Porter des gants est donc inutile, sauf dans des
+situations très spécifiques (personnels soignants réalisant des
+prélèvements ou gestes à risque). Ce sont les gestes barrières (se laver
+fréquemment les mains, tousser dans son coude, utiliser des mouchoirs à
+usage unique et les jeter après utilisation) et les mesures de
+distanciation sociale\
+ \
+**Faut-il désinfecter les surfaces ? **\
+Oui. Les produits de nettoyage et désinfectants couramment utilisés sont
+efficaces contre le COVID-19. En plus du nettoyage régulier, les
+surfaces qui sont fréquemment touchées avec les mains doivent être
+nettoyées et désinfectées deux fois par jour, notamment lorsqu'elles
+sont visiblement souillées. Il s'agit par exemple des poignées de porte,
+des boutons d'ascenseur, des interrupteurs d'éclairage, des poignées de
+toilettes, des comptoirs, des mains courantes, des surfaces d'écran
+tactile et des claviers.
 
 #### Quelles mesures sanitaires sont prises pour éviter les contacts?
 
@@ -606,6 +683,112 @@ domicile, sur l'intégralité du territoire national avec des points de
 contrôle fixes et mobiles.  \
 Si vous ne respectez pas cette obligation, vous vous exposez à une
 amende de 135 euros.\
+\
+**Des reconduites à domicile auront-elles lieu ? Comment seront
+organisés les contrôles ? **\
+Il sera infligé une contravention et on demandera aux personnes de
+retourner chez elles mais il n'y aura pas de reconduites à domicile.\
+ \
+**Sera-t-on suivi par les forces de l'ordre pour vérifier qu\'on fait
+bien ce qu\'on a dit ?**\
+Les forces de l'ordre exercent des missions de contrôle fixe et
+dynamique sur l'ensemble du territoire. Les documents présentés par les
+personnes en déplacement pourront donner lieu à des contrôles plus
+approfondis au besoin.\
+\
+**Doit-on déclarer le lieu où nous sommes confinés ?**\
+Lors d'un contrôle par les forces de l'ordre vous devez indiquer votre
+lieu de confinement s'il vous est demandé afin que la nature de votre
+déplacement puisse être vérifiée.\
+\
+**Est-il indispensable d\'imprimer l\'attestation ou peut-on la remplir
+sur mobile/ordinateur et la présenter directement depuis son smartphone
+?**\
+ Il existe deux documents différents permettant de se déplacer : 
+
+-    l'attestation de déplacement dérogatoire, qui est un document
+    papier signé par la personne qui en fait usage. Elle ne peut donc
+    pas être présentée depuis un smartphone. Nous étudions la
+    possibilité de mettre en place un dispositif digital et mobile;
+-   l'attestation de l'employeur, qui est un document papier renseigné
+    et signé par l'employeur attestant qu'une personne exerce une
+    profession entrant dans la catégorie des professions autorisées à se
+    déplacer et ne pouvant exercer en télétravail. Cette attestation
+    doit être utilisée lors des déplacements domicile-travail et doit
+    être présentée aux forces de l'ordre sur demande.
+
+Par ailleurs, la carte professionnelle des professionnels de santé
+(médecins, soignants, pharmaciens), des forces de sécurité et de secours
+(policiers, gendarmes et pompiers), des élus, des magistrats etc. et des
+journalistes, peut être utilisée pour se rendre sur son lieu de travail.
+Elle ne constitue pas pour autant un « passe-droit » permettant de
+s'exonérer des règles applicables aux déplacements personnels, et de la
+présentation pour ceux-ci de l'attestation de déplacement dérogatoire.\
+\
+**Je n\'ai pas d'imprimante chez moi, comment faire ?**\
+L'attestation de déplacement dérogatoire peut être ou choix imprimée ou
+rédigée sur papier libre selon le modèle téléchargeable en ligne. En
+revanche, l'attestation employeur doit être visée par l'employeur. \
+\
+**C'est à imprimer tous les jours ou juste une fois ? **\
+Pour chaque déplacement, une attestation de déplacement dérogatoire doit
+être renseignée et signée le jour même du déplacement : cette
+attestation n'est donc valable qu'une fois et doit être renouvelée au
+besoin.\
+\
+**On ne précise pas l\'heure du déplacement ?**\
+L'attestation de déplacement dérogatoire ne prévoit pas de mention
+d'heure du déplacement. C'est à chacun, en responsabilité, de réduire au
+maximum son temps de déplacement afin de limiter le plus possible ses
+contacts.L'attestation de déplacement dérogatoire ne prévoit pas de
+mention d'heure du déplacement. C'est à chacun, en responsabilité, de
+réduire au maximum son temps de déplacement afin de limiter le plus
+possible ses contacts. En revanche, lors d'un contrôle, les forces de
+l'ordre pourront inscrire l'heure du contrôle, afin que la même
+attestation ne puisse pas servir pour un second déplacement au cours de
+la même journée.\
+L'attestation de l'employeur, elle, a une validité permanente.\
+\
+**Peut-on écrire au crayon à papier et gommer ?**\
+L'attestation de déplacement dérogatoire est à usage unique. Elle doit
+donc être renseignée à l'aide d'un stylo à encre indélébile et doit être
+renouvelée pour chaque déplacement.\
+\
+**Quand c\'est la même activité réalisée plusieurs fois, elle doit être
+automatiquement indiquée à la date du jour sur le formulaire ?**\
+Il convient de limiter le plus possible les déplacements. Ainsi il sera
+nécessaire de réaliser une déclaration signée à la date du jour , pour
+chaque déplacement personnel.\
+\
+**Peut-on cocher plusieurs cases et grouper ses sorties ?**\
+Vous êtes incités à limiter vos sorties aux cas limitatifs énumérés,
+donc il est conseillé de grouper vos sorties et il est donc possible
+d'indiquer plusieurs motifs.\
+\
+**L'attestation implique qu'on doive toujours sortir avec une pièce
+d'identité ? **\
+Il est obligatoire de disposer de sa pièce d'identité pendant les
+déplacements afin que les contrôles puissent être réalisés par les
+forces de l'ordre.\
+\
+**Pour les enseignants qui accueillent les enfants de soignants, leur
+faut-il un justificatif en plus de l\'attestation ?**\
+Les enseignants qui accueillent des enfants de soignants n'ont pas
+besoin de justificatif complémentaire. \
+\
+**Comment font les personnes illettrées ? **\
+Les personnes illettrées peuvent faire appel à un proche, un voisin ou
+une connaissance. Au besoin, elles peuvent se rendre dans le
+commissariat ou la brigade de gendarmerie la plus proche de leur
+domicile pour être accompagnées dans la rédaction de leur attestation de
+déplacement dérogatoire.\
+\
+**Certaines catégories de personnes sont-elles exemptées de cette
+attestation ?**\
+Non. Mais la carte professionnelle des professionnels de santé
+(médecins, soignants, pharmaciens), des forces de sécurité et de secours
+(policiers, gendarmes et pompiers), des élus, des magistrats etc. et des
+journalistes peut être utilisée pour se rendre sur son lieu de travail.\
  
 
 #### Puis-je aller travailler ?
@@ -655,7 +838,15 @@ fermés".\
 \
 **Dans la rue et dans le magasin, je dois respecter une distance de 1
 mètre avec les gens qui m'entourent** et mettre en oeuvre les gestes
-barrières avant d'y aller et en y rentrant.
+barrières avant d'y aller et en y rentrant.\
+\
+**Peut-on être contaminé en touchant un caddie de supermarché ?**\
+Oui mais c'est peu probable. Les caddies, comme toutes les surfaces,
+peuvent servir de support au virus si elles sont souillées par des
+gouttelettes respiratoires d'un sujet contaminé. Le virus peut rester
+quelques heures sur une surface comme un caddy, mais en quantité faible.
+En appliquant les mesures barrières (se laver les mains notamment) et en
+nettoyant le caddy avec une lingette, le risque devient négligeable.
 
 #### Puis-je aller en cours ?
 
@@ -732,7 +923,8 @@ appeler son médecin traitant ou opter pour une téléconsultation. Si les
 symptômes s'aggravent au bout de quelques jours, il faut appeler le
 [15](tel:15).\
 \
-Les commerces de matériel médical restent ouverts.
+Les commerces de matériel médical restent ouverts vous pouvez donc vous
+rendre chez l'opticien par exemple.
 
 #### Puis- je me faire opérer ?
 
@@ -760,18 +952,36 @@ Haut Rhin, Oise etc \...). Les musées, théâtres, opéras, piscines sont
 #### Puis-je organiser une fête ?
 
 Je ne peux pas aller à une fête ou recevoir chez moi en dehors des
-membres de mon foyer. Je ne peux pas non plus organiser mon mariage. 
-
-#### Puis-je me rendre dans mon lieu de culte ? 
-
-Je ne peux pas participer à rassemblement ou une réunion de plus de 20
-personnes au sein d'un lieu de culte.
+membres de mon foyer. Je ne peux pas non plus organiser mon mariage.\
+\
+**Contrôles techniques voitures arrivant à échéance pendant la période
+de confinement :  y-aura-t-il une prorogation du délai ?**\
+Les entreprises d'entretien et réparation de véhicules automobiles, de
+véhicules, engins et matériels agricoles, de commerce d\'équipements
+automobiles et de commerce et réparation de motocycles et cycles restent
+ouverts. Il est donc possible de procéder à un contrôle technique
+réglementaire si vous ne pouvez pas le reporter. Dans ce cas cochez la
+case \"déplacements pour effectuer des achats de première nécessité\"
+sur l\'attestation de déplacement dérogatoire.\
+\
+**Pourquoi ce n\'est pas à l\'employeur de remplir l\'attestation pour
+ses salariés ? **\
+L'employeur doit renseigner et signer une attestation dédiée, différente
+de l'attestation de déplacement dérogatoire. Il s'agit d'un document
+papier renseigné et signé par l'employeur attestant qu'une personne
+exerce une profession entrant dans la catégorie des professions
+autorisées à se déplacer et ne pouvant exercer en télétravail. Cette
+attestation doit être utilisée lors des déplacements domicile travail et
+doit être présentée aux forces de l'ordre sur demande.
 
 #### Puis-je sortir prendre l'air ? 
 
-Je peux sortir pour une brève activité physique à proximité de mon
-domicile, mais je ne peux pas faire une activité sportive en groupe
-(jogging, football) ni une pique-nique avec des amis.
+Oui, les sorties indispensables à l'équilibre des enfants, le sport et
+l'activité physique individuels dans les espaces ouverts, sont autorisés
+à proximité du domicile, dans le respect des gestes-barrières et en
+évitant tout rassemblement. Une seule attestation sur l'honneur suffit
+pour un adulte avec des enfants. Les activités physiques en groupe ou
+les pique-niques entre amis sont par contre interdits.
 
 #### Puis-je aller auprès de parents dépendants ou de proches ?
 
@@ -779,19 +989,24 @@ Uniquement pour vous occuper de personnes vulnérables comme par exemple
 les personnes handicapées et en vous rappelant que les seniors sont les
 personnes les plus vulnérables : il faut les protéger le plus possible
 de tout contact et porter une attention encore renforcée aux gestes
-barrières.
+barrières.\
+\
+**Les vols internes à la France sont-ils maintenus ?**\
+Afin de permettre la poursuite de l'activité économique et les
+déplacements autorisés limitativement,  en respectant les précautions
+des gestes barrières, certains vols sont maintenus.\
+ \
+**Pourquoi les trains continuent-ils de circuler ?**\
+Afin de permettre la poursuite de l'activité économique et les
+déplacements autorisés limitativement, en respectant les précautions des
+gestes-barrières, certaines liaisons ferroviaires diminuent leur
+fréquence mais la majorité des liaisons sont maintenues.
 
 #### Puis-je partir en vacances à l\'étranger ?
 
 Le Président a annoncé la fermeture, à partir du 17 mars à midi et pour
 30 jours, des frontières extérieures de l'espace européen, c'est-à-dire
 de l'Union européenne, de l'Espace Schengen et du Royaume-Uni.
-
-#### Les activités physiques à l'extérieur sont-elles autorisées ?
-
-Les sorties indispensables à l'équilibre des enfants et l'activité
-physique individuelle sont autorisées à proximité du domicile, dans le
-respect des gestes barrières et en évitant tout rassemblement.
 
 #### Puis-je sortir avec mon chien ?
 
@@ -815,6 +1030,48 @@ pourra leur être demandée. 
 
 Le second tour des élections municipales est reporté.\
 \
+**Puis-je déménager ? **\
+Les déménagements sont autorisés mais doivent être limités aux besoins
+stricts comme par exemple une fin de bail. Il est conseillé de reporter
+votre déménagement si cela est possible. \
+\
+**Puis-je aller à la banque ? **\
+Les opérations bancaires essentielles (retrait d'argent, opérations pour
+les personnes placées sous tutelle ou curatelles démarches des
+responsables d\'entreprises pour contracter des prêts garantis par
+l\'État, - les retraits de chéquiers ou de CB...) sont autorisées et
+considérées comme nécessaires afin de pouvoir payer les activités
+essentielles (consultations médicales, courses alimentaires).\
+\
+**Qu\'est ce qu\'un déplacement \"pour motif familial impérieux\" ?**\
+Il s'agit d'autoriser des déplacements dont la nécessité ne saurait être
+remise en cause (blessure d'un proche, accompagnement d'une personne
+vulnérable ou non autonome, décès d'un membre de la famille proche)\
+\
+**Peut-on aller chercher des proches à la gare ?  **\
+Sauf nécessité pour porter assistance à des personnes ne pouvant se
+déplacer seules (personne à mobilité réduite, enfants...) vous ne devez
+pas aller accueillir vos proches dans les gares et aéroports.\
+\
+**A-t-on le droit d\'aller à des obsèques ?**\
+L\'organisation des cérémonies funéraires demeure possible mais dans la
+stricte limite du cercle des intimes, donc en nombre très réduit et en
+observant scrupuleusement les gestes barrières. \
+Seuls les membres proches de la famille (20 personnes au maximum) ainsi
+que les desservants de rites funéraires pourront donc faire l\'objet
+d\'une dérogation aux mesures de confinement fondée sur des \"motifs
+familiaux impérieux\".\
+ \
+**Les ministres des cultes peuvent-ils effectuer des visites à des
+personnes malades ou en fin de vie?**\
+Les ministres des cultes ont le droit de se rendre au chevet des
+personnes malades ou en fin de vie. \
+\
+**Puis-je me rendre dans mon lieu de culte ? **\
+Oui, les lieux de culte ont été autorisés à rester ouverts. Mais je ne
+peux pas participer à un rassemblement ou une réunion de plus de 20
+personnes au sein d'un lieu de culte.\
+\
 **La vente de paracétamol est-elle limitée ? **\
 L'Agence nationale de sécurité du médicament (ANSM) a décidé, afin de
 garantir leur disponibilité, qu'à partir du 18 mars 2020, les
@@ -822,7 +1079,14 @@ pharmaciens pourront délivrer sans ordonnance une seule boite de
 paracétamol (500 mg ou 1g) par patient ne présentant aucun symptôme, ou
 deux boites (500 mg ou 1g) en cas de symptômes (douleurs et/ou fièvre).
 La vente sur Internet des médicaments à base de paracétamol,
-d\'ibuprofène et d\'aspirine est suspendue.
+d\'ibuprofène et d\'aspirine est suspendue.\
+\
+**Combien de commissariats fermés par précaution ? **\
+Les commissariats ouverts au public 24h/24h le resteront, seuls les
+bureaux de police qui offraient un accueil limité en journée sont
+fermés. Il est néanmoins conseillé de prendre attache avec le 17 afin de
+pouvoir disposer d'informations permettant soit de reporter votre
+déplacement soit d'effectuer des démarches en ligne.
 
 #### Quel comportement dois-je adopter face au Coronavirus ?
 
@@ -1243,7 +1507,13 @@ destination des personnes fragiles (EHPAD...) ? Existe-t'il un risque de
 contamination ?**\
 Il n'existe aucun risque de contamination par le courrier ou les colis.
 La Poste continue également son travail de distribution du courrier
-pendant l'épidémie.
+pendant l'épidémie.\
+\
+**Aidons-nous les personnes sans abri ? **\
+Les personnes sans-abri sont prises accueillies dans des lieux qui
+restent ouverts et respectent le seuil de rassemblement maximal. Des
+distributions de nourritures sont organisées de même que des maraudes
+maintenues. La période hivernale a également été prolongée de 2 mois.
 
 ### []{#partie2n2}Les conséquences de l'épidémie
 
@@ -1286,8 +1556,7 @@ d'une zone à risque est considéré comme extrêmement faible.\
 Les mesures d'hygiène standard (lavage des mains, nettoyage de surfaces)
 sont efficaces.\
 \
-Il n'y a donc pas de contre-indication à se faire livrer des colis de
-Chine.
+Il n'y a donc pas de contre-indication à se faire livrer des colis.
 
 #### Y a-t-il des mesures particulières pour les médicaments produits en Chine ?
 
@@ -1579,8 +1848,9 @@ d'étouffement, j'appelle le [SAMU- Centre 15](tel:15).
 #### J'ai des difficultés pour entendre ou parler par téléphone en raison d'un handicap
 
 Vous pouvez vous rendre sur [cette page de contact dédiée aux personnes
-sourdes, malentendantes, sourde, aveugles et
-aphasiques](/info-coronavirus/espace-handicap), ouverte 24h/24 et 7j/7.
+sourdes, malentendantes, sourdes ou
+aveugles](https://www.gouvernement.fr/info-coronavirus/espace-handicap)
+ouverte 24h/24 et 7j/7.
 
 Attention, cette plateforme d'échange n'est pas habilitée à dispenser
 des conseils médicaux. Si vous avez les symptômes du Covid-19 : restez à
@@ -1673,7 +1943,12 @@ pour :**
 **Les infractions à ces règles seront sanctionnées d\'une amende de 135
 euros. En cas de doute sur ces restrictions de déplacement, vous pouvez
 consulter les [questions / réponses en cliquant
-ici](www.gouvernement.fr/sites/default/files/contenu/piece-jointe/2020/03/faq-restrictions.pdf).**
+ici](www.gouvernement.fr/sites/default/files/contenu/piece-jointe/2020/03/faq-restrictions.pdf).\
+\
+Attention à vos données personnelles, n\'utilisez pas de support
+numérique pour vos attestations. Seuls le document officiel  du
+ministère de l\'Intérieur ou une attestation sur l\'honneur sur papier
+libre peuvent être utilisés comme justificatifs.**
 
 ### []{#partie7n1}Pour votre santé
 
@@ -1882,30 +2157,30 @@ nécessaires.\
 \
 Pour les entreprises, le Gouvernement a annoncé les mesures suivantes : 
 
--   Mise en place de [délais de paiement d'échéances sociales et/ou
-    fiscales](https://www.economie.gouv.fr/mesures-exceptionnelles-urssaf-et-services-impots-entreprises)
-    (URSSAF, impôts) ; 
+-   Des délais de paiement d'échéances sociales et/ou fiscales (URSSAF,
+    impôts) ;
 -   Dans les situations les plus difficiles, des remises d'impôts
     directs pouvant être décidées dans le cadre d\'un examen
     individualisé des demandes ;
--   Un soutien de l'État et de la banque de France (médiation du crédit)
+-   La suspension des loyers, des factures d\'eau, de gaz et
+    d'électricité pour les PME en difficulté
+-   L'aide de 1 500 euros pour toutes les petites entreprises, les
+    indépendants, et les microentreprises grâce au fonds de solidarité ;
+-   La mobilisation de l'Etat à hauteur de 300 milliards d'euros et de
+    Bpifrance pour garantir des lignes de trésorerie bancaires dont les
+    entreprises pourraient avoir besoin à cause de l'épidémie ;
+-   Un soutien de l'Etat et de la Banque de France (médiation du crédit)
     pour négocier avec sa banque un rééchelonnement des crédits
     bancaires ;
--   La mobilisation de Bpifrance pour garantir des lignes de trésorerie
-    bancaires dont les entreprises pourraient avoir besoin à cause de
-    l'épidémie ;
 -   Le maintien de l\'emploi dans les entreprises par le dispositif de
     chômage partiel simplifié et renforcé ;
--   L'appui au traitement d'un conflit avec des clients ou fournisseurs
-    par le médiateur des entreprises ;
--   La reconnaissance par l'État et les collectivités locales du
+-    L'appui au traitement d'un conflit avec des clients ou fournisseurs
+    par le Médiateur des entreprises ;
+-   La reconnaissance par l'Etat et les collectivités locales du
     Coronavirus comme un cas de force majeure pour leurs marchés
-    publics. En conséquence, pour tous les marchés publics d'État et des
-    collectivités locales, les pénalités de retard ne seront pas
-    appliquées ;
--   La suspension des factures d'eau, de gaz, d'électricité et de loyers
-    pour les petites entreprises les plus en difficulté ainsi que la
-    suspension de leurs impôts et cotisations sociales.
+    publics. En conséquence, pour tous les marchés publics d'Etat et des
+    collectivités locales, les pénalités de retards ne seront pas
+    appliquées
 
 Pour connaitre les modalités d'accès aux différentes aides [télécharger
 la
