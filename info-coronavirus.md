@@ -80,7 +80,7 @@ Suggestions :
 
  
 
-Mise à jour le jeudi 19 mars, 19h30
+Mise à jour le vendredi 20 mars, 09h00
 
 informations **Coronavirus**
 ============================
@@ -101,7 +101,21 @@ informations **Coronavirus**
 Coronavirus COVID-19 :**
 
 
+[X](#)
 
+Restez au courant
+
+Vous pouvez recevoir les prochaines informations officielles à propos du
+COVID-19.
+
+[J\'active les notifications](#){#get-notifications .notif .button-cta
+.red}
+
+[Consulter le traitement des données
+personnelles](/donnees-personnelles-et-cookies#notifications).
+
+
+\
 Le 16 mars 2020, le Président de la République a décidé de prendre des
 mesures pour réduire à leur plus strict minimum les contacts et les
 déplacements. Un dispositif de confinement est mis en place sur
@@ -123,12 +137,20 @@ pour :
 
 **Les deux documents nécessaires pour circuler sont disponibles :**
 
--   **l\'attestation individuelle, à [télécharger en cliquant
-    ici](/sites/default/files/contenu/piece-jointe/2020/03/attestation_de_deplacement_derogatoire.pdf)
+-   **l\'attestation individuelle, à télécharger [au format PDF (73
+    ko)](/sites/default/files/contenu/piece-jointe/2020/03/attestation-deplacement-fr.pdf),
+    [au format DOC (16
+    ko)](/sites/default/files/contenu/piece-jointe/2020/03/attestation-deplacement-fr.docx),
+    [au format TXT (1
+    ko)](/sites/default/files/contenu/piece-jointe/2020/03/attestation-deplacement-fr.txt)
     ou à reproduire sur papier libre. Elle doit être remplie pour chaque
     déplacement non professionnel ;**
--   **l\'attestation de l\'employeur, [à télécharger en cliquant
-    ici](/sites/default/files/contenu/piece-jointe/2020/03/justificatif_de_deplacement_professionnel.pdf).
+-   **l\'attestation de l\'employeur, [au format PDF (227
+    ko)](/sites/default/files/contenu/piece-jointe/2020/03/justificatif-deplacement-professionnel-fr.pdf),
+    [au format DOC (18
+    ko)](/sites/default/files/contenu/piece-jointe/2020/03/justificatif-deplacement-professionnel-fr.docx)
+    ou [au format TXT (2
+    ko)](/sites/default/files/contenu/piece-jointe/2020/03/justificatif-deplacement-professionnel-fr.txt).
     Elle est valable pendant toute la durée des mesures de confinement
     et n'a donc pas à être renouvelée tous les jours.**
 
@@ -356,7 +378,12 @@ prise en charge de cette maladie. Par ailleurs, des équipes travaillent
 sur plusieurs pistes de traitement à Paris, Marseille ou encore Lyon ;
 les protocoles ont commencé. Des équipes sont également à pied d\'œuvre
 pour inventer un vaccin, qui pourrait voir le jour dans les prochains
-mois.
+mois.\
+\
+Par ailleurs, le président de la République a annoncé le 19 mars la mise
+en place d'un fonds d'urgence de 50 millions d'euros pour lutter contre
+l'épidémie ainsi que le réinvestissement de 5 milliards d'euros
+supplémentaires dans la recherche sur les dix prochaines années.
 
 #### Quelle est la stratégie des autorités sanitaires pour les tests ?
 
@@ -423,7 +450,7 @@ chapitre](# "Fermer le chapitre : Qu’est-ce que le coronavirus COVID-19 ?"){.b
 []{#point}[]{#ancre3}Point de situation en France
 -------------------------------------------------
 
-#### Le 19 mars à 19h30
+#### Le 20 mars à 09h30
 
 Le ministre des Solidarités et de la Santé, tient un [point presse
 quotidien](http://www.dailymotion.com/MinSoliSante) pour vous informer
@@ -802,6 +829,34 @@ carte d'identité. \
 Mon employeur est tenu d'adapter mon travail pour assurer ma sécurité si
 le télétravail est impossible dans mon secteur.\
 \
+**Si le télétravail n'est pas possible, le travail est-il possible pour
+tous ?**\
+Oui, mis à part évidemment si vous êtes affectés par le Coronavirus ou
+si vous êtes une personne dite à risque (personnes enceintes, souffrant
+de maladies chroniques ou d'insuffisances cardiaques, âgées,
+immunodéprimées ou fragiles... la liste complète est sur
+[www.ameli.fr](http://www.ameli.fr), ou si vous devez garder vos
+enfants.\
+\
+Le gouvernement a interdit les déplacements et les activités qui
+génèrent des rassemblements publics (commerce, restaurants, spectacles,
+cinéma, manifestations sportives, salons, etc) pour éviter la
+propagation du virus. Seuls restent autorisés, les services « essentiels
+» c'est à dire les commerces alimentaires, les pharmacies etc.\
+\
+Les autres activités économiques ne font pas l'objet de restriction.
+Elles doivent quand c'est possible s'exercer par télétravail. Quand ce
+n'est pas possible, employeurs comme salariés doivent impérativement,
+comme dans leur vie quotidienne, respecter les  gestes barrière (se
+laver les mains, tousser ou éternuer dans son coude ou un mouchoir,
+jeter les mouchoirs en papier usagers...), et les règles de
+distanciation de plus d'un mètre entre chaque collègue ou avec la
+clientèle.\
+\
+Les entreprises doivent par ailleurs adapter leur organisation pour
+limiter au strict nécessaire les réunions, éviter les regroupements de
+salariés dans des espaces réduits, éviter les déplacements...\
+\
 **Je suis en formation, que faire ? **\
 Pour garantir le lien continu et régulier avec les stagiaires de la
 formation professionnelle et d'éviter ainsi les ruptures de parcours, le
@@ -822,6 +877,16 @@ ont débuté leur formation ne pourra pas être maintenu, le ministère du
 Travail et Régions de France prendront les dispositions pour maintenir
 le niveau de rémunération des stagiaires durant toute la période de
 report.\
+\
+**Je suis en fin de droits de chômage, que faire ? **\
+La situation de confinement imposée aux Français a pour effet de
+ralentir considérablement l'activité économique, et de limiter les
+opportunités de reprise d'emploi. \
+ \
+Dans ce contexte le gouvernement a décidé de prolonger la durée
+d'indemnisation des personnes dont les droits prennent fin durant la
+période de confinement. L'indemnisation sera automatiquement prolongée
+jusqu'à la fin de cette période de confinement.\
  
 
 #### Puis-je faire mes courses au supermarché ou à l\'épicerie ?
@@ -901,10 +966,15 @@ des indemnités journalières par l'assurance maladie ;\
 \
 Si vous êtes non-salarié (travailleurs indépendant ou exploitant
 agricole), vous déclarez directement votre arrêt sur le site Internet
-dédié.
-
-#### Puis-je rendre visite à une personne âgée ?
-
+dédié.\
+\
+**Dois-je continuer de rémunérer mon assistante maternelle ? **\
+En tant que particulier-employeur vous êtes lié par un contrat avec la
+personne qui garde votre enfant. Les assistante maternelle peuvent
+toutefois bénéficier des mesures de chômage partiel. Vous êtes donc tenu
+de lui payer 80% de son salaire qui vous sera remboursé ultérieurement.\
+\
+**Puis-je rendre visite à une personne âgée ?**\
 Les visites aux personnes fragiles et âgées à domicile comme dans les
 établissements médico-sociaux sont suspendues. Les mineurs et les
 personnes malades ne peuvent plus accéder à ces établissements,
@@ -981,7 +1051,35 @@ l'activité physique individuels dans les espaces ouverts, sont autorisés
 à proximité du domicile, dans le respect des gestes-barrières et en
 évitant tout rassemblement. Une seule attestation sur l'honneur suffit
 pour un adulte avec des enfants. Les activités physiques en groupe ou
-les pique-niques entre amis sont par contre interdits.
+les pique-niques entre amis sont par contre interdits.\
+\
+**Quelles sont les règles concernant l\'activité physique ? **\
+Les sports collectifs ou de contact sont à proscrire. Plus simplement,
+tout ceux qui imposent à rassemblement ne conviennent pas à la période.
+A part éventuellement pour ceux qui disposent d'un jardin et peuvent
+pratiquer un sport dans le cercle familial auquel le confinement
+s'applique, sauf, évidemment, si l'un des membres de la famille est
+malade.\
+\
+Faire du sport en extérieur, c'est donc avant tout faire une marche ou
+un petit footing mais en respectant 3 règles importantes :
+
+-   **Rester à proximité de son domicile -- donc dans son quartier ;**
+-   **Que cette sortie soit brève ;**
+-   **Et sans autre contact qu'avec sa cellule familiale**. Vous pouvez
+    sortir avec vos enfants ou seul mais pas retrouver des amis.
+
+**Comment faire du sport chez soi ? **\
+Les applications qui ont déjà conventionné avec les fédérations
+sportives ainsi qu'avec le Comité National Olympique et Sportif
+Français, s'engagent à proposer gratuitement, dans les jours à venir,
+aux Françaises et aux Françaises leurs programmes conçus par des
+professionnels du sport, mais également de la santé et de l'activité
+physique adaptée. Des séances d'entraînement variées à base d'exercices
+de renforcement musculaire, proprioception, massages, stretching et
+mouvements fondamentaux seront notamment proposées en accès libre sur
+les différentes plateformes (mobile, tablette et ordinateur).\
+ 
 
 #### Puis-je aller auprès de parents dépendants ou de proches ?
 
@@ -1033,7 +1131,30 @@ Le second tour des élections municipales est reporté.\
 **Puis-je déménager ? **\
 Les déménagements sont autorisés mais doivent être limités aux besoins
 stricts comme par exemple une fin de bail. Il est conseillé de reporter
-votre déménagement si cela est possible. \
+votre déménagement si cela est possible.\
+\
+Si toutefois les déménagements s'avèrent indispensables, vous devez
+remplir une déclaration sur l'honneur en notant la date du déménagement,
+l'adresse de départ et celle d'arrivée dans le nouveau logement. Vous
+devez avoir attestation sur vous au moment du déménagement.\
+\
+Pour les locataires qui avaient posé leur congé et qui n'ont pas
+l'obligation de partir, ils peuvent rester dans le logement après la
+date initialement fixée et jusqu'à la fin du confinement. Ils doivent
+signer une convention d'occupation précaire au bailleur. Cette
+convention leur donne un titre d'occupation, contractualise un report de
+la date de sortie et le versement d'une indemnisation d'occupation
+(égale au loyer). Cette convention permet de sécuriser juridiquement les
+locataires et les propriétaires.\
+\
+La convention peut être signée, de part et d'autre, par voie
+électronique. \
+\
+Pour plus d'information, contactez l'Adil de votre département\
+\
+**Attention : le loyer est dû pour tous les locataires, la suspension
+des loyers, annoncée par le Président de la République le 16 mars ne
+concerne que les petites entreprises en difficulté.**\
 \
 **Puis-je aller à la banque ? **\
 Les opérations bancaires essentielles (retrait d'argent, opérations pour
@@ -1418,7 +1539,12 @@ mesures barrières. \
 Un projet de loi sera présenté prochainement pour encadrer le prochain
 tour des élections municipales, la date limite de dépôt de candidature
 du 17 mars 18h00 ne s'applique donc plus.\
- 
+Pour les 30 000 autres communes environ, un conseil municipal a été élu
+dès le premier tour il ne pourra pas se réunir pour élire son nouveau
+maire et ses adjoints dans les conditions actuelles.\
+L'ensemble des équipes municipales sortantes conserveront leur mandat,
+au moins jusqu'à mi-mai et projet de loi sera présenté prochainement
+pour encadrer le prochain tour des élections municipales.
 
 [Fermer le
 chapitre](# "Fermer le chapitre : Les élections municipales"){.backtotop
@@ -1815,13 +1941,18 @@ peuvent être en activité, sans emploi, à la retraite ou en formation
 L'ensemble des mesures de sécurité et d'hygiène recommandées par le
 ministère des solidarités et de la santé pour limiter la propagation du
 COVID-19 sont mises en oeuvre au sein de l'établissement afin de
-protéger les personnes détenues, les personnels pénitentiaires et les
-visiteurs.\
-\
-L'accès aux parloirs sont désormais suspendus. L'administration
-pénitentiaire mettra tout en œuvre pour préserver les liens familiaux en
-s'appuyant notamment sur le déploiement des téléphones en cellule.\
- 
+protéger les personnes détenues et les personnels pénitentiaires : 
+
+-   L'accès aux parloirs est suspendu ; 
+-   Les détenus bénéficient d'un crédit de 40€ par mois sur leur compte
+    téléphonique permettant de rester en contact avec leur famille et
+    leurs proches ; 
+-   Les activités sont suspendus et compensées par la gratuité de la
+    télévision : 
+-   Les détenus les plus démunis peuvent bénéficier d'une aide majorée
+    de 40 euros par mois pour leur permettre notamment de cantiner ; 
+-   L\'exécution des courtes peines sont différées afin de réguler
+    l'occupation des maisons d'arrêt.
 
 [Retour aux questions fréquentes](#ancre2){.backmenuh2}
 
@@ -2403,9 +2534,22 @@ Elles sont libres de droit.
 -   [Téléchargez la brochure fiches pratiques sur les mesures de soutien
     (Pdf,
     153Ko)](/sites/default/files/contenu/piece-jointe/2020/03/brochure_fiches_pratiques_sur_les_mesures_de_soutien.pdf)
+-   Téléchargez l'attestation dérogatoire [au format PDF (73
+    ko)](/sites/default/files/contenu/piece-jointe/2020/03/attestation-deplacement-fr.pdf),
+    [au format DOC (16
+    ko)](/sites/default/files/contenu/piece-jointe/2020/03/attestation-deplacement-fr.docx)
+    ou [au format TXT (1
+    ko)](/sites/default/files/contenu/piece-jointe/2020/03/attestation-deplacement-fr.txt)
+-   Téléchargez l'attestation professionnelle [au format PDF (227
+    ko)](/sites/default/files/contenu/piece-jointe/2020/03/justificatif-deplacement-professionnel-fr.pdf),
+    [au format DOC (18
+    ko)](/sites/default/files/contenu/piece-jointe/2020/03/justificatif-deplacement-professionnel-fr.docx)
+    ou [au format TXT (2
+    ko)](/sites/default/files/contenu/piece-jointe/2020/03/justificatif-deplacement-professionnel-fr.txt)
 
 [Fermer le chapitre](# "Fermer le chapitre : Ressources"){.backtotop
 .button-cta .red}
+
 
 
 
