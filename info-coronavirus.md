@@ -80,7 +80,7 @@ Suggestions :
 
  
 
-Mise à jour le vendredi 20 mars, 09h00
+Mise à jour le samedi 21 mars, 09h00
 
 informations **Coronavirus**
 ============================
@@ -199,7 +199,11 @@ de pandémie ; c'est-à-dire que l'épidémie est désormais mondiale.
 #### Quels sont les symptômes du Coronavirus COVID-19 ?
 
 Les symptômes principaux sont la fièvre ou la sensation de fièvre et des
-signes de difficultés respiratoires de type toux ou essoufflement.
+signes de difficultés respiratoires de type toux ou essoufflement.\
+\
+La perte brutale de l'odorat, sans obstruction nasale et disparition
+totale du goût sont égalements des symptômes qui ont été observés chez
+les malades.
 
 #### Existe-t-il un vaccin ?
 
@@ -450,7 +454,7 @@ chapitre](# "Fermer le chapitre : Qu’est-ce que le coronavirus COVID-19 ?"){.b
 []{#point}[]{#ancre3}Point de situation en France
 -------------------------------------------------
 
-#### Le 20 mars à 09h30
+#### Le 20 mars à 19h30
 
 Le ministre des Solidarités et de la Santé, tient un [point presse
 quotidien](http://www.dailymotion.com/MinSoliSante) pour vous informer
@@ -462,9 +466,9 @@ Les informations du jour :
     plusieurs zones de regroupement de cas appelés \"clusters\". Nous
     sommes actuellement au stade 3 du plan d'actions du Gouvernement qui
     a pour objectif de prévenir et limiter la circulation du virus.
--   Depuis le 24 janvier 2020, la France compte 10 995 cas de
+-   Depuis le 24 janvier 2020, la France compte 12 612 cas de
     Coronavirus COVID-19 confirmés.
--   372 personnes sont décédées depuis le début de l\'épidémie.
+-   450 personnes sont décédées depuis le début de l\'épidémie.
 
 Retrouvez le point épidémiologique quotidien sur [Santé publique
 France](http://www.santepubliquefrance.fr/maladies-et-traumatismes/maladies-et-infections-respiratoires/infection-a-coronavirus/articles/infection-au-nouveau-coronavirus-sars-cov-2-covid-19-france-et-monde).\
@@ -702,12 +706,21 @@ dans les cas suivants et sur attestation uniquement pour :
 -   Faire de l'exercice physique uniquement à titre individuel, autour
     du domicile et sans aucun rassemblement.
 
+Le secrétariat d'Etat au Numérique a recensé l'ensemble des offres
+gratuites des plateformes numériques susceptibles de vous accompagner
+pendant cette période de confinement : télétravail, connectivité,
+apprentissage, livraison, téléconsultation, accès à l'information et au
+divertissement.\
+Retrouvez l'ensemble de ces offres sur la plateforme dédiée
+[www.mobilisation-numerique.gouv.fr](http://www.mobilisation-numerique.gouv.fr)\
+\
 **Que se passe-t-il si je ne respecte pas les mesures de confinement
 ? **\
 100 000 policiers et gendarmes sont chargés de s'assurer que chaque
 personne soit en possession de son attestation pour quitter son
 domicile, sur l'intégralité du territoire national avec des points de
-contrôle fixes et mobiles.  \
+contrôle fixes et mobiles en particulier dans les gares et les
+aéroports.\
 Si vous ne respectez pas cette obligation, vous vous exposez à une
 amende de 135 euros.\
 \
@@ -889,6 +902,36 @@ période de confinement. L'indemnisation sera automatiquement prolongée
 jusqu'à la fin de cette période de confinement.\
  
 
+#### Je dois faire ma déclaration trimestrielle de ressources, comment faire ? 
+
+Tous ceux qui doivent faire maintenant ou prochainement une déclaration
+trimestrielle de ressources sont encouragés à le faire par internet.
+Cependant, toute personne dans l'incapacité de renouveler sa déclaration
+trimestrielle auprès des services des CAF verra le versement des
+prestations auxquelles elle avait droit jusqu'alors automatiquement
+renouvelé. Ce dispositif mis en place par les CAF permettra la
+continuité des droits pour celles et ceux qui en ont besoin.\
+\
+Sont en particulier ainsi concernés : le revenu de solidarité active
+(RSA), le revenu de solidarité (RSO) dans les outremers, l'allocation
+adulte handicapés (AAH), l'allocation d'éducation de l'enfant handicapé
+(AEEH), et l'ensemble des aides sociales versées sous condition de
+ressource par les CAF. Les aides au logement seront automatiquement
+maintenues.\
+\
+Par ailleurs, les droits à l'allocation adulte handicapées (AAH) et à
+l'allocation d'éducation de l'enfant handicapé (AEEH) qui arriveraient à
+échéance seront automatiquement prorogés de six mois.\
+\
+De la même manière, les droits à la complémentaire santé solidaire et de
+l'aide au paiement d'une assurance complémentaire de santé dont le
+bénéfice expirera au cours des prochains mois seront prolongés de 3
+mois.\
+\
+Ces dispositions seront votées dans le cadre du Projet de loi d'urgence
+présenté au Parlement cette semaine.\
+ 
+
 #### Puis-je faire mes courses au supermarché ou à l\'épicerie ?
 
 Les supermarchés et épiceries resteront ouverts. Leur approvisionnement
@@ -985,13 +1028,13 @@ les gestes barrières avec une attention extrême.
 
 #### Puis-je me rendre chez un professionnel de santé ?
 
-A l\'instar des pharmacies, les cabinets de médecine resteront ouverts,
-mais attention : il est demandé aux personnes qui ressentent les
-symptômes du Coronavirus de ne pas se rendre au cabinet de leur médecin
-de ville. En cas de symptômes légers (fièvre et toux), il faut d'abord
-appeler son médecin traitant ou opter pour une téléconsultation. Si les
-symptômes s'aggravent au bout de quelques jours, il faut appeler le
-[15](tel:15).\
+A l\'instar des pharmacies, les cabinets de médecine resteront ouverts
+tout comme les centres d'IVG, mais attention : il est demandé aux
+personnes qui ressentent les symptômes du Coronavirus de ne pas se
+rendre au cabinet de leur médecin de ville. En cas de symptômes légers
+(fièvre et toux), il faut d'abord appeler son médecin traitant ou opter
+pour une téléconsultation. Si les symptômes s'aggravent au bout de
+quelques jours, il faut appeler le [15](tel:15).\
 \
 Les commerces de matériel médical restent ouverts vous pouvez donc vous
 rendre chez l'opticien par exemple.
@@ -1473,46 +1516,112 @@ de l'Union européenne, de l'Espace Schengen et du Royaume-Uni.\
 Il est nécessaire de restreindre les mouvements internationaux dans
 toute la mesure du possible.\
  \
-**Quelles sont les consignes si je réside à l'étranger ?**\
-S'agissant des Français qui ont leur résidence habituelle à l'étranger,
-il est recommandé, dans les 30 jours à venir,d'éviter autant que
-possible les déplacements internationaux, et notamment de chercher à
-revenir sur le territoire national. A moins que des raisons impératives
-ne vous y contraignent. \
+**Je suis un ressortissant français actuellement en déplacement
+temporaire à l'étranger. Dois-je rentrer immédiatement en France ?**\
+Si vous êtes Français, que vous vous trouvez à l'étranger en déplacement
+temporaire, mais que vous vivez habituellement en France, revenez
+rapidement, tant que les lignes aériennes commerciales restent ouvertes
+; et restez ensuite chez vous confinés.\
 \
-Limiter au maximum les contacts sociaux -- comme le demande la
-communauté scientifique --, c'est aussi limiter ses déplacements
-internationaux.\
+Pour plus d'informations, consultez la page dédiée du [ministère de
+l'Europe et des Affaires
+étrangères.](https://www.diplomatie.gouv.fr/fr/le-ministere-et-son-reseau/actualites-du-ministere/informations-coronavirus-covid-19/coronavirus-les-reponses-a-vos-questions/)\
 \
-Si certaines personnes résidant en dehors de l'Europe jugeaient
-nécessaire de rentrer en France, notamment au regard des conditions
-sanitaires, elles sont invitées à se faire connaître auprès des
-consulats et ambassades de France. Une attention particulière leur sera
-portée, ainsi qu'aux étudiants.\
- \
-**Quelles sont les consignes si je suis en déplacement temporaire à
-l'étranger ?**\
-Il est recommandé aux Français actuellement en déplacement temporaire à
-l'étranger, en dehors de l'Europe, de prendre les mesures nécessaires
-pour rentrer en France. \
+**Je suis Français, je suis à l'étranger, comment va être organisé le
+retour des Français ?**\
+[*A/ Si vous êtes Français résident au sein de l'espace européen (Union
+européenne, espace Schengen, Royaume-Uni).*]{.underline}\
+Si vous êtes Français ayant une résidence habituelle hors de France mais
+au sein de l'espace européen, nous vous recommandons d'éviter des
+déplacements intra-européens, même pour revenir sur le territoire
+national, à moins que des raisons impératives ne vous y contraignent. Si
+plusieurs frontières terrestres devaient être franchies pour regagner la
+France, des retours directs par voie aérienne devraient, dans la mesure
+du possible, être privilégiés.\
 \
-Si vous êtes français, vous pouvez bien sûr, avec votre conjoint et vos
-enfants, continuer d'entrer sur le territoire national et rejoindre
-votre domicile. Tout comme pourront le faire les autres citoyens
-européens.\
+[*B/ Si vous êtes Français ayant votre résidence habituelle en dehors de
+l'espace européen.*]{.underline}\
+Nous vous recommandons, à partir du 17 mars à midi et pour 30 jours,
+d'éviter autant que possible les déplacements internationaux, même pour
+revenir sur le territoire national, à moins que des raisons impératives
+ne vous y contraignent. Si vous jugez nécessaire de rentrer en France,
+notamment au regard vos conditions sanitaires, vous devez vous faire
+connaître de nos ambassades et consulats dès que possible.\
 \
-Le ministre de l'Europe et des Affaires étrangères a demandé à toutes
-les compagnies aériennes et aux voyagistes de participer à cet effort
-collectif exceptionnel, en maintenant leurs lignes ouvertes vers la
-France, et en modérant leurs prix. Le ministre est en lien régulier avec
-ses homologues étrangers pour obtenir l'autorisation du maintien de
-liaisons aériennes et pour que ces liaisons puissent être assurées sur
-des vols commerciaux. Ces démarches ont déjà porté leurs fruits en
-plusieurs endroits. Les efforts se poursuivent en ce sens.\
- \
+[*C/ Si vous êtes Français actuellement en déplacement temporaire à
+l'étranger*]{.underline}\
+Nous vous recommandons de prendre toutes les mesures nécessaires pour
+rentrer rapidement en France. Pour vous y aider, le ministère chargé des
+transports a demandé aux compagnies aériennes de maintenir au maximum
+leurs lignes ouvertes vers la France et de modérer leurs prix.\
+\
+Le ministère de l'Europe et des Affaires étrangères est mobilisé pour
+obtenir l'autorisation de liaisons aériennes spéciales et pour qu'elles
+puissent être assurées par des vols commerciaux. Ces démarches ont déjà
+porté leurs fruits dans plusieurs pays.\
+\
+En outre, un mécanisme global et mondial pourra permettre à nos
+ressortissants qui le souhaitent de rentrer chez eux en France par voie
+aérienne. Il va être mis en place très rapidement, en lien avec Air
+France. Il reposera sur un plan de transport aérien adapté pour
+l'ensemble du monde, en fonction des priorités et urgences locales, et
+permettra à chacun de réserver et acheter un billet retour auprès d'une
+compagnie.\
+\
+Les détails de ce mécanisme seront précisés d'ici la fin de la semaine à
+nos ressortissants en difficultés, par Air France et notre réseau
+diplomatique et consulaire. Il faut donc à la fois consulter
+régulièrement les sites des ambassades et d'Air France.\
+\
+Malgré la suspension progressive de la plupart des dessertes aériennes
+dans le monde dans les prochains jours, nous serons ainsi en mesure de
+proposer, avec les compagnies aériennes des solutions commerciales
+raisonnables permettant le retour en France.\
+\
+Les Français non - résidents sont invités à s'inscrire sur
+[Ariane](https://pastel.diplomatie.gouv.fr/fildariane/dyn/public/login.html),
+afin de recevoir des informations actualisées.\
+\
 Les ambassades et les consulats sont mobilisés 24 heures sur 24, auprès
 des Français se trouvant à l'étranger, pour apporter toute l'aide
 possible.\
+\
+Pour plus d'informations, consultez la page dédiée du [ministère de
+l'Europe et des Affaires
+étrangères](https://www.diplomatie.gouv.fr/fr/le-ministere-et-son-reseau/actualites-du-ministere/informations-coronavirus-covid-19/).\
+                          \
+**Je suis actuellement en déplacement temporaire à l'étranger et je suis
+en attente d'un vol, mais ne dispose pas d'hébergement et suis en
+difficulté, un service d'urgence peut-il me venir en aide ?**\
+Un service d'urgence a été mis en place pour mettre en relation des
+Français bloqués à l'étranger en situation de difficultés et des
+Français établis hors de France se portant volontaires pour les
+accueillir. Vous pouvez vous connecter à l'adresse
+[www.sosuntoit.fr](http://www.sosuntoit.fr/).\
+\
+**Le retour en France est-il permis pour les étrangers s'ils résident en
+France /s'ils ne résident pas en France ?**\
+Les citoyens européens et les ressortissants britanniques, islandais,
+liechtensteinois, norvégiens, andorrans, monégasques et suisses, leurs
+conjoints et leurs enfants sont admis à entrer sur le territoire
+national, de même que les citoyens du Saint Siège et de San Marin, leurs
+conjoints et leurs enfants, quel que soit leur lieu de résidence.\
+\
+Les étrangers titulaires d'un titre de séjour en cours de validité, y
+compris visa de long séjour valant titre de séjour, sont autorisés à
+entrer en France.\
+\
+Dans des cas limités (transport de marchandises notamment), des
+étrangers titulaires d'un visa de court séjour seront autorisés à entrer
+en France.\
+\
+Si vous êtes Français, vous pouvez bien sûr, avec votre conjoint et vos
+enfants, continuer d'entrer sur le territoire national et rejoindre
+votre domicile.\
+\
+Pour plus d'informations, consultez la page dédiée du [ministère de
+l'Europe et des Affaires
+étrangères](https://www.diplomatie.gouv.fr/fr/le-ministere-et-son-reseau/actualites-du-ministere/informations-coronavirus-covid-19/coronavirus-les-reponses-a-vos-questions/).\
  \
 **Quelles sont les consignes si je reviens en France ?**\
 Il convient de se référer aux [informations
@@ -1521,8 +1630,7 @@ Gouvernement ainsi qu'au site Internet de [Santé Publique
 France](http://www.santepubliquefrance.fr/maladies-et-traumatismes/maladies-et-infections-respiratoires/infection-a-coronavirus/articles/infection-au-nouveau-coronavirus-sars-cov-2-covid-19-france-et-monde).
 Vous pouvez également contacter le numéro vert : 0 800 130 000. Pour
 toute question d'ordre médical, il convient de vous adresser à votre
-médecin.\
- 
+médecin.
 
 []{#elections}[]{#ancre10}Les élections municipales
 ---------------------------------------------------
@@ -1912,9 +2020,11 @@ atteints du COVID-19 : il n'est plus nécessaire de passer par son
 médecin traitant ou d'avoir eu une consultation présentielle au cours
 des 12 mois précédant la réalisation d'une consultation à distance pour
 que la téléconsultation soit prise en charge par l'assurance maladie
-(télémédecine). La télémédecine est maintenant remboursée par la
-sécurité sociale et ouverte aux sages-femmes pour faciliter la
-consultation des femmes enceintes.\
+(télémédecine).\
+\
+La télémédecine est maintenant remboursée à 100% par la sécurité sociale
+et ouverte aux sages-femmes pour faciliter la consultation des femmes
+enceintes.\
  
 
 #### Pourquoi les heures supplémentaires des professionnels de santé sont-elles déplafonnées ? 
@@ -2062,13 +2172,21 @@ pour :**
 
 **Les deux documents nécessaires pour circuler sont disponibles :**
 
--   **l\'attestation individuelle, [à télécharger en cliquant
-    ici](http://www.gouvernement.fr/sites/default/files/contenu/piece-jointe/2020/03/attestation_de_deplacement_derogatoire.pdf)
+-   **l\'attestation individuelle, à télécharger [au format PDF (73
+    ko)](/sites/default/files/contenu/piece-jointe/2020/03/attestation-deplacement-fr.pdf),
+    [au format DOC (16
+    ko)](/sites/default/files/contenu/piece-jointe/2020/03/attestation-deplacement-fr.docx),
+    [au format TXT (1
+    ko)](/sites/default/files/contenu/piece-jointe/2020/03/attestation-deplacement-fr.txt)
     ou à reproduire sur papier libre ; elle doit être remplie pour
     chaque déplacement non professionnel ;**
--   **l\'attestation de l\'employeur, [à télécharger en cliquant
-    ici](http://www.gouvernement.fr/sites/default/files/contenu/piece-jointe/2020/03/justificatif_de_deplacement_professionnel.pdf)
-    ; elle est valable pendant toute la durée des mesures de confinement
+-   **l\'attestation de l\'employeur, à télécharger [au format PDF (227
+    ko)](/sites/default/files/contenu/piece-jointe/2020/03/justificatif-deplacement-professionnel-fr.pdf),
+    [au format DOC (18
+    ko)](/sites/default/files/contenu/piece-jointe/2020/03/justificatif-deplacement-professionnel-fr.docx)
+    ou [au format TXT (2
+    ko)](/sites/default/files/contenu/piece-jointe/2020/03/justificatif-deplacement-professionnel-fr.txt);
+    elle est valable pendant toute la durée des mesures de confinement
     et n'a donc pas à être renouvelée tous les jours**
 
 **Les infractions à ces règles seront sanctionnées d\'une amende de 135
@@ -2467,6 +2585,9 @@ prévention.**
 -   **17 mars :** fermeture des frontières de l'espace Schengen
 -   **17 mars** : activation de la cellule interministérielle de crise
     par le Premier ministre
+-   **20 mars** : Mobilisation du porte-hélicoptère amphibie "Tonnerre"
+    de la Marine nationale pour l'évacuation des patients en réanimation
+    en Corse vers des établissements de santé du continent
 
 [Retour aux mesures prises par le Gouvernement](#ancre7){.backmenuh2}
 
