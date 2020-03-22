@@ -80,7 +80,7 @@ Suggestions :
 
  
 
-Mise à jour le samedi 21 mars, 19h30
+Mise à jour le samedi 21 mars, 21h00
 
 informations **Coronavirus**
 ============================
@@ -391,35 +391,37 @@ supplémentaires dans la recherche sur les dix prochaines années.
 
 #### Quelle est la stratégie des autorités sanitaires pour les tests ?
 
-En phase épidémique, le principe est de ne plus tester systématiquement.
-Il n'y pas de droit à être dépisté, et pas d'avantage particulier à le
-faire pour la population générale. Après consultation du Haut Conseil de
-Santé Publique (HCSP), les tests ne seront plus réalisés de manière
-systématique et seront destinés en priorité à quatre types de
-populations :
+Les tests ne servent pas à mesurer, mais à contenir l'épidémie. En phase
+épidémique, le principe est de ne plus tester systématiquement. Il n'y
+pas de droit à être dépisté, et pas d'avantage particulier à le faire
+pour la population générale.\
+\
+Comme le font la plupart des pays et comme le recommande la Commission
+européenne, les tests sont donc actuellement réservés à des publics
+prioritaires qui sont : 
 
--   les personnes fragiles(cf liste) présentant des symptômes évocateurs
-    du COVID-19, à risque de développer des complications. 
--   les trois personnes présentant des symptômes évocateurs du COVID-19
-    dans les structures médico-sociales, notamment les maisons de
-    retraites, et dans les structures collectives hébergeant des
-    personnes vulnérables, pour prendre des mesures immédiates afin
-    d'éviter une transmission entre les résidents, 
--   les personnes hospitalisées présentant des symptômes évocateurs de
-    COVID-19 car il faut pouvoir comprendre rapidement l'état du patient
-    et éviter les transmissions,
--   les professionnels de santé présentant des symptômes évocateurs de
-    COVID-19.
+-   Les professionnels de santé symptomatiques, 
+-   Les personnes âgées symptomatiques, 
+-   Les personnes présentant des difficultés respiratoires sévères ou
+    des comorbidités, 
+-   Les personnes hospitalisées,
+-   Les nouveaux foyers et nouveaux territoires. 
 
-#### Pourquoi ne plus tester tous les patients avec symptômes ?
+4 000 tests sont effectués chaque jour sur ces personnes. Au total, 60
+000 tests ont été effectués en France depuis le début de l'épidémie. \
+\
+70 laboratoires, en plus des cinquante déjà équipés, sont déjà en
+capacité de réaliser des tests.
 
-Devant l'augmentation du nombre de cas, la recherche systématique de
-contacts est devenue inutile. Tester tous les patients présentant des
-symptômes conduirait à saturer la filière de dépistage alors que pour
-les cas graves et les structures collectives de personnes fragiles, le
-dépistage permet toujours de prendre des mesures immédiates (par exemple
-pour prévenir la diffusion du virus au sein d'un hôpital lorsqu'un
-patient est hospitalisé). Le décompte des cas ne se fonde plus
+#### Pourquoi tous les patients qui ont des symptômes ne sont-ils pas testés ?
+
+Devant l'augmentation actuelle du nombre de cas, la recherche
+systématique de contacts est devenue inutile. Tester tous les patients
+présentant des symptômes conduirait à saturer la filière de dépistage
+alors que pour les cas graves et les structures collectives de personnes
+fragiles, le dépistage permet toujours de prendre des mesures immédiates
+(par exemple pour prévenir la diffusion du virus au sein d'un hôpital
+lorsqu'un patient est hospitalisé). Le décompte des cas ne se fonde plus
 uniquement sur les cas diagnostiqués biologiquement, mais sur des
 estimations épidémiologiques, comme cela se fait pour la grippe tous les
 ans (nombre de consultations, nombre de cas graves ou de décès...). Ces
@@ -467,7 +469,7 @@ Les informations du jour :
     sommes actuellement au stade 3 du plan d'actions du Gouvernement qui
     a pour objectif de prévenir et limiter la circulation du virus.
 -   Depuis le 24 janvier 2020, la France compte 14 459 cas de
-    Coronavirus COVID-19 confirmés.
+    Coronavirus COVID-19.
 -   562 personnes sont décédées depuis le début de l\'épidémie.
 
 Retrouvez le point épidémiologique quotidien sur [Santé publique
@@ -727,7 +729,7 @@ amende de 135 euros.\
 **Des reconduites à domicile auront-elles lieu ? Comment seront
 organisés les contrôles ? **\
 Il sera infligé une contravention et on demandera aux personnes de
-retourner chez elles mais il n'y aura pas de reconduites à domicile.\
+retourner chez elles mais il n'y aura pas de reconduite à domicile.\
  \
 **Sera-t-on suivi par les forces de l'ordre pour vérifier qu\'on fait
 bien ce qu\'on a dit ?**\
@@ -770,6 +772,18 @@ L'attestation de déplacement dérogatoire peut être ou choix imprimée ou
 rédigée sur papier libre selon le modèle téléchargeable en ligne. En
 revanche, l'attestation employeur doit être visée par l'employeur. \
 \
+**Dois-je recopier l'entièreté de l'attestation ou puis-je simplement
+inscrire le motif de ma sortie sur papier libre ?**\
+Il est nécessaire de recopier : 
+
+-   la partie correspondant à son identité 
+-   la mention « certifie que mon déplacement est lié au motif suivant
+    autorisé par l'article 1er du décret du 16 mars 2020 portant
+    réglementation des déplacements dans le cadre de la lutte contre la
+    propagation du virus Covid-19 » 
+-   la ligne correspondant au motif
+-   le lieu, la date et la signature.
+
 **C'est à imprimer tous les jours ou juste une fois ? **\
 Pour chaque déplacement, une attestation de déplacement dérogatoire doit
 être renseignée et signée le jour même du déplacement : cette
@@ -780,19 +794,23 @@ besoin.\
 L'attestation de déplacement dérogatoire ne prévoit pas de mention
 d'heure du déplacement. C'est à chacun, en responsabilité, de réduire au
 maximum son temps de déplacement afin de limiter le plus possible ses
-contacts.L'attestation de déplacement dérogatoire ne prévoit pas de
-mention d'heure du déplacement. C'est à chacun, en responsabilité, de
-réduire au maximum son temps de déplacement afin de limiter le plus
-possible ses contacts. En revanche, lors d'un contrôle, les forces de
-l'ordre pourront inscrire l'heure du contrôle, afin que la même
-attestation ne puisse pas servir pour un second déplacement au cours de
-la même journée.\
+contacts. En revanche, lors d'un contrôle, les forces de l'ordre
+pourront inscrire l'heure du contrôle, afin que la même attestation ne
+puisse pas servir pour un second déplacement au cours de la même
+journée.\
+\
 L'attestation de l'employeur, elle, a une validité permanente.\
 \
 **Peut-on écrire au crayon à papier et gommer ?**\
 L'attestation de déplacement dérogatoire est à usage unique. Elle doit
 donc être renseignée à l'aide d'un stylo à encre indélébile et doit être
 renouvelée pour chaque déplacement.\
+\
+**J'ai des problèmes pour me déplacer. Puis-je bénéficier de la même
+attestation que mon accompagnateur ?**\
+Non, l'attestation dérogatoire de déplacement est nominative. Chacun
+doit remplir une attestation différente, en indiquant le motif et la
+date de sortie. Chacun doit disposer également de son titre d'identité.\
 \
 **Quand c\'est la même activité réalisée plusieurs fois, elle doit être
 automatiquement indiquée à la date du jour sur le formulaire ?**\
@@ -842,13 +860,18 @@ carte d'identité. \
 Mon employeur est tenu d'adapter mon travail pour assurer ma sécurité si
 le télétravail est impossible dans mon secteur.\
 \
+**A-t-on le droit de prendre un train pour un déplacement professionnel
+?**\
+Oui, à condition qu\'il s\'agisse d\'un déplacement professionnel
+indispensable et ne pouvant être différé.\
+\
 **Si le télétravail n'est pas possible, le travail est-il possible pour
 tous ?**\
 Oui, mis à part évidemment si vous êtes affectés par le Coronavirus ou
 si vous êtes une personne dite à risque (personnes enceintes, souffrant
 de maladies chroniques ou d'insuffisances cardiaques, âgées,
 immunodéprimées ou fragiles... la liste complète est sur
-[www.ameli.fr](http://www.ameli.fr), ou si vous devez garder vos
+[www.ameli.fr](http://www.ameli.fr)), ou si vous devez garder vos
 enfants.\
 \
 Le gouvernement a interdit les déplacements et les activités qui
@@ -873,13 +896,13 @@ salariés dans des espaces réduits, éviter les déplacements...\
 **Je suis en formation, que faire ? **\
 Pour garantir le lien continu et régulier avec les stagiaires de la
 formation professionnelle et d'éviter ainsi les ruptures de parcours, le
-ministère du Travail travaille, avec Régions de France, travaillent à la
-mise à disposition des organismes de formation de ressources
-pédagogiques, à la fois sous la forme de plateformes et solutions
-techniques permettant de diffuser, d'animer des formations et d'assurer
-le lien pédagogique à distance, de contenus de formation et d'éléments
-de méthodes pour faciliter la transformation d'une formation en
-présentiel en formation à distance.\
+ministère du Travail travaille, avec Régions de France, à la mise à
+disposition des organismes de formation de ressources pédagogiques, à la
+fois sous la forme de plateformes et solutions techniques permettant de
+diffuser, d'animer des formations et d'assurer le lien pédagogique à
+distance, de contenus de formation et d'éléments de méthodes pour
+faciliter la transformation d'une formation en présentiel en formation à
+distance.\
 \
 Le type de ressources mobilisables et les accès à ces ressources seront
 proposés cette semaine, à la fois sur le site du Ministère du travail et
@@ -891,6 +914,21 @@ Travail et Régions de France prendront les dispositions pour maintenir
 le niveau de rémunération des stagiaires durant toute la période de
 report.\
 \
+**Mon contrat de travail s'arrête pendant la période confinement.
+Pourrai-je prétendre aux allocations chômage ? **\
+Les conditions pour bénéficier des allocations chômage ne changent pas
+pendant la période de confinement. Vous pourrez prétendre aux
+allocations chômage en vous inscrivant à Pôle Emploi, à conditions de
+remplir notamment les conditions suivantes :
+
+-   Vous avez été salarié au moins 6 mois au cours des 24 derniers mois
+    (36 derniers mois si vous êtes âgé d\'au moins 53 ans à la date de
+    fin de votre dernier contrat de travail) ;
+-   Vous avez involontairement perdu votre emploi (licenciement - quel
+    qu'en soit le motif-, fin de CDD ou de mission d\'intérim) ou avez
+    perdu votre emploi dans le cadre d'une rupture conventionnelle ou
+    d'une rupture d'un commun accord.
+
 **Je suis en fin de droits de chômage, que faire ? **\
 La situation de confinement imposée aux Français a pour effet de
 ralentir considérablement l'activité économique, et de limiter les
@@ -1147,12 +1185,38 @@ fréquence mais la majorité des liaisons sont maintenues.
 
 Le Président a annoncé la fermeture, à partir du 17 mars à midi et pour
 30 jours, des frontières extérieures de l'espace européen, c'est-à-dire
-de l'Union européenne, de l'Espace Schengen et du Royaume-Uni.
+de l'Union européenne, de l'Espace Schengen et du Royaume-Uni.\
+\
+**Puis-je partir en vacances en France ?**\
+Non, partir en vacances, se rendre dans sa résidence secondaire ou une
+résidence de location ne font pas partie des déplacements autorisés.\
+\
+**Les vacanciers en station de ski peuvent-ils rentrer chez eux ou
+doivent-ils rester sur place ?**\
+Oui, ils peuvent rentrer chez eux en invoquant le motif impérieux sur
+l\'attestation dérogatoire de déplacement.
 
 #### Puis-je sortir avec mon chien ?
 
 Oui, pour lui permettre de satisfaire ses besoins ou pour un rendez-vous
-vétérinaire.
+vétérinaire.\
+\
+**Peut-on se rendre à la laverie ?**\
+Oui, les laveries font partie des établissements autorisés à ouvrir. Il
+convient de cocher sur l'attestation dérogatoire de déplacement la case
+« achat de première nécessité ».\
+\
+**Y a-t-il une zone délimitée autour de son domicile pour faire ses
+courses ?**\
+Non, mais la règle est le déplacement bref et à proximité du domicile.
+Chacun doit faire preuve de responsabilité.\
+\
+**Puis-je me rendre à la pharmacie située à 1 km de chez moi ?**\
+Oui.\
+\
+**Puis-je donner mon sang ?**\
+Oui, se déplacer pour donner son sang est autorisé. Il convient
+d\'indiquer un déplacement pour motif de santé.
 
 #### Puis-je aller à l'hôtel ?
 
@@ -1693,35 +1757,86 @@ signes d'étouffement, j'appelle le SAMU- Centre 15.
 
 #### Y a-t-il suffisamment de masques en France ? 
 
-Dès le début du mois, deux opérations nationales de déstockage, à
-hauteur de 25 millions de masques, ont été réalisées. En complément, le
-gouvernement a réquisitionné par décret du 3 mars dernier l'ensemble des
-stocks et productions de masques sur le territoire national.\
+Le 21 mars, le ministre des Solidarités et de la Santé Olivier Véran a
+réaffirmé la stratégie sanitaire : fournir en priorité des masques aux
+professionnels de santé amenés à prendre en charge des patients COVID-19
+en ville, à l'hôpital et dans les structures médico-sociales accueillant
+des personnes fragiles, ainsi qu'aux services d'aide à domicile, pour
+garantir la continuité de l'accompagnement à domicile des personnes
+âgées et en situation de handicap.\
 \
-La stratégie sanitaire est de fournir en priorité des masques dans les
-zones où le virus circule activement, pour les professionnels de santé
-amenés à prendre en charge des patients COVID-19 en ville, à l'hôpital
-et dans les structures médico-sociales accueillant des personnes
-fragiles, ainsi qu'aux services d'aide à domicile, pour garantir la
-continuité de l'accompagnement à domicile des personnes âgées et en
-situation de handicap.\
+Au 21 mars 2020, le stock d\'État est de 86 millions de masques : 81
+millions de masques chirurgicaux et 5 millions de masques de norme
+FFP2. \
 \
-Un approvisionnement complémentaire est également réalisé
-prioritairement pour les médecins généralistes, les infirmiers et les
-pharmaciens en ville sur l'ensemble du territoire national.\
-Le respect des indications scientifiques et sanitaires d'utilisation de
-ces masques, dans les cas où ils sont utiles, est à l'évidence une
-condition pour que le stock et les réassorts de ces dispositifs de
-protection soient exploités au mieux. La bonne mise en œuvre de cette
-stratégie repose sur le civisme, la responsabilité individuelle et
-l'évaluation permanente du risque face à une situation inédite et très
-évolutive
+La France est en mesure de fabriquer 6 millions de masques
+supplémentaires chaque semaine ; à partir du mois d'avril, cette
+capacité de production s'élèvera à 8 millions de masques par semaine,
+dont la moitié de FFP2. \
+\
+A cela s'ajoute des commandes de plus de 250 millions de masques, qui
+seront livrés progressivement à partir du 21 mars.\
+\
+**Comment les masques sont-ils distribués ?**\
+Depuis le début de la crise, les masques sont livrés en priorité : 
+
+-   aux professionnels de santé amenés à prendre en charge des patients
+    COVID 19 en ville comme à l'hôpital ; 
+-   aux personnes qui interviennent auprès des personnes âgées en EHPAD,
+    pour préserver les capacités hospitalières.
+
+Au total, depuis la dernière semaine de février, 70 millions de masques
+ont été livrés aux professionnels de santé de ville, à l'hôpital et dans
+les EHPAD. \
+\
+A partir du 21 mars, les masques seront distribués ainsi : 
+
+-   Pour les médecins de ville, les biologistes médicaux et les
+    infirmiers de ville : 18 masques par semaine et par professionnel,
+    dont des masques FFP2 dans le strict respect des indications ;
+-   Pour les pharmaciens de ville : 18 masques chirurgicaux par semaine
+    et par professionnel ; 
+-   Pour les masseurs-kinésithérapeutes : 6 masques par semaine et par
+    professionnel, chirurgicaux ou aux normes FFP2, dans le strict
+    respect des indications et selon les disponibilités, pour la
+    réalisation des actes prioritaires et non reportables ;
+-   Pour les sages-femmes : 6 masques chirurgicaux par semaine pour la
+    prise en charge des femmes confirmées COVID-19 ;
+-   Pour les prestataires de service et les distributeurs de matériel :
+    1 boîte de 50 masques chirurgicaux par semaine et, en moyenne, par
+    entreprise pour assurer les visites prioritaires ; 
+-   Pour les personnes exerçant des activités de services d'aide et de
+    soins à domicile : 9 masques chirurgicaux par semaine et par
+    professionnel exerçant au sein de la structure pour assurer les
+    visites prioritaires. 
+-   Pour les EHPAD et les structures médico-sociales accueillant des
+    personnes fragiles, notamment les personnes en situation de handicap
+    ou des patients COVID-19 sans domicile ne relevant pas d'une
+    hospitalisation :  5 masques chirurgicaux par lit ou place et par
+    semaine.
+-   Les EHPAD disposeront dans la durée de 500 000 masques chirurgicaux
+    par jour, comme le réclamaient les responsables de leurs
+    fédérations.
+-   Pour l'hospitalisation conventionnelle dans les établissements de
+    santé : 3 masques chirurgicaux par jour et par professionnel de
+    santé dans les services de soins prenant en charge les cas possibles
+    ou confirmés et, pour la réalisation des gestes à risque, des
+    masques FFP2 dans les services d'urgence, d'accueil des malades
+    COVID-19 et de soins critiques 
+-   Pour l'hospitalisation à domicile : 2 boîtes de 50 masques
+    chirurgicaux par semaine et, en moyenne, par structure ;
+-   Pour les transporteurs sanitaires et les centres de secours : 1
+    boîte de 50 masques par semaine et par structure.
+
+Les chirurgiens-dentistes disposent désormais d'un stock dédié de
+masques qu'ils ont eux-mêmes réparti sur le territoire de façon à
+pouvoir dans la durée assurer les soins urgents à la population.
 
 #### La réquisition des masques concerne-t-elle toute la production française et les stocks des ministères ?
 
-Oui, sont réquisitionnés les stocks de masques anti-projections et de
-protection respiratoire de type FFP2 ainsi que ceux qui seront produits
-jusqu'au 31 mai 2020.
+Oui, par décret du 3 mars 2020, sont réquisitionnés les stocks de
+masques anti-projections et de protection respiratoire de type FFP2
+ainsi que ceux qui seront produits jusqu'au 31 mai 2020.
 
 #### Combien coûte le gel hydro-alcoolique ?
 
@@ -2039,12 +2154,11 @@ exceptionnelle.
 La possibilité leur est donnée de le faire, en fonction de leurs
 besoins. Pour rappel, comme dans le cadre de la mobilisation de la
 réserve sanitaire, la mobilisation de professionnels de santé s'organise
-depuis plusieurs jo\
-urs. Selon les régions et les moyens humains disponible des
-professionnels de santé volontaires comme des directeurs d\'hôpital,
-médecins, psychologues, pharmaciens, infirmiers, ambulanciers. Ils
-peuvent être en activité, sans emploi, à la retraite ou en formation
-(étudiant).
+depuis plusieurs jours. Selon les régions et les moyens humains
+disponible des professionnels de santé volontaires comme des directeurs
+d\'hôpital, médecins, psychologues, pharmaciens, infirmiers,
+ambulanciers. Ils peuvent être en activité, sans emploi, à la retraite
+ou en formation (étudiant).
 
 #### Quels sont les dispositifs mis en place dans les établissements pénitentiaires ? 
 
@@ -2588,6 +2702,9 @@ prévention.**
 -   **20 mars** : Mobilisation du porte-hélicoptère amphibie "Tonnerre"
     de la Marine nationale pour l'évacuation des patients en réanimation
     en Corse vers des établissements de santé du continent
+-   **21 mars** : le ministre des Solidarités et de la Santé Olivier
+    Véran annonce que des commandes de plus de 250 millions de masques
+    ont été signées et seront livrées progressivement
 
 [Retour aux mesures prises par le Gouvernement](#ancre7){.backmenuh2}
 
