@@ -80,7 +80,7 @@ Suggestions :
 
  
 
-Mise à jour le samedi 21 mars, 09h00
+Mise à jour le samedi 21 mars, 19h30
 
 informations **Coronavirus**
 ============================
@@ -454,7 +454,7 @@ chapitre](# "Fermer le chapitre : Qu’est-ce que le coronavirus COVID-19 ?"){.b
 []{#point}[]{#ancre3}Point de situation en France
 -------------------------------------------------
 
-#### Le 20 mars à 19h30
+#### Le 21 mars à 19h00
 
 Le ministre des Solidarités et de la Santé, tient un [point presse
 quotidien](http://www.dailymotion.com/MinSoliSante) pour vous informer
@@ -466,9 +466,9 @@ Les informations du jour :
     plusieurs zones de regroupement de cas appelés \"clusters\". Nous
     sommes actuellement au stade 3 du plan d'actions du Gouvernement qui
     a pour objectif de prévenir et limiter la circulation du virus.
--   Depuis le 24 janvier 2020, la France compte 12 612 cas de
+-   Depuis le 24 janvier 2020, la France compte 14 459 cas de
     Coronavirus COVID-19 confirmés.
--   450 personnes sont décédées depuis le début de l\'épidémie.
+-   562 personnes sont décédées depuis le début de l\'épidémie.
 
 Retrouvez le point épidémiologique quotidien sur [Santé publique
 France](http://www.santepubliquefrance.fr/maladies-et-traumatismes/maladies-et-infections-respiratoires/infection-a-coronavirus/articles/infection-au-nouveau-coronavirus-sars-cov-2-covid-19-france-et-monde).\
