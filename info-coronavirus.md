@@ -80,7 +80,7 @@ Suggestions :
 
  
 
-Mise à jour le dimanche 22 mars, 19h30
+Mise à jour le lundi 23 mars, 08h00
 
 informations **Coronavirus**
 ============================
@@ -198,8 +198,8 @@ de pandémie ; c'est-à-dire que l'épidémie est désormais mondiale.
 
 #### Quels sont les symptômes du Coronavirus COVID-19 ?
 
-Les symptômes principaux sont la fièvre ou la sensation de fièvre et des
-signes de difficultés respiratoires de type toux ou essoufflement.\
+Les symptômes principaux sont la fièvre ou la sensation de fièvre et la
+toux.\
 \
 La perte brutale de l'odorat, sans obstruction nasale et disparition
 totale du goût sont également des symptômes qui ont été observés chez
@@ -212,23 +212,23 @@ Plusieurs traitements sont en cours d'évaluation en France, en lien avec
 l'OMS pour être utilisés contre le Coronavirus COVID-19. Dans l'attente,
 le traitement est symptomatique.
 
-#### La prise d\'anti-inflammatoires (ibuprofène, cortisone\...) pourrait être un facteur d\'aggravation de l\'infection.
+#### La prise d\'anti-inflammatoires (ibuprofène) pourrait être un facteur d\'aggravation de l\'infection.
 
 De manière générale, l'auto-médication par anti-inflammatoires doit être
-proscrite. De plus, il semblerait que les anti-inflammatoires pourraient
-être un facteur d'aggravation de l\'infection. Ainsi, dans le cas d'une
-infection au coronavirus COVID-19, le paracétamol est recommandé. Si
-vous êtes déjà sous anti-inflammatoires ou en cas de doute, demandez
-conseil à votre médecin.
+proscrite. De plus, il semblerait que les anti-inflammatoires non 
+stéroidiens pourraient être un facteur d'aggravation de l\'infection.
+Ainsi, dans le cas d'une infection au coronavirus COVID-19, le
+paracétamol est recommandé. Si vous êtes déjà sous anti-inflammatoires
+ou en cas de doute, demandez conseil à votre médecin.
 
 #### Comment se transmet le Coronavirus COVID-19 ?
 
-La maladie se transmet par les gouttelettes (sécrétions projetées lors
-d'éternuements ou de la toux). On considère donc qu'un contact étroit
-avec une personne malade est nécessaire pour transmettre la maladie :
-même lieu de vie, contact direct à moins d'un mètre lors d'une toux,
-d'un éternuement ou une discussion en l'absence de mesures de
-protection.  Un des autres vecteurs privilégiés de la transmission du
+La maladie se transmet par les gouttelettes (sécrétions projetées
+invisibles lors d'éternuements ou de toux). On considère donc qu'un
+contact étroit avec une personne malade est nécessaire pour transmettre
+la maladie : même lieu de vie, contact direct à moins d'un mètre lors
+d'une toux, d'un éternuement ou une discussion en l'absence de mesures
+de protection.  Un des autres vecteurs privilégiés de la transmission du
 virus est le contact des mains non lavées. \
 C'est donc pourquoi les gestes barrières et les mesures de distanciation
 sociale sont indispensables pour se protéger de la maladie.
@@ -245,9 +245,9 @@ symptômes ou à l'apparition de signaux faibles.
 #### D'où vient le coronavirus COVID-19 ? 
 
 Les premières personnes à avoir contracté le virus s'étaient rendues au
-marché de Wuhan dans la Province de Hubei en Chine. Une maladie
-transmise par l'animal (zoonose) est donc privilégiée mais l'origine n'a
-pas été confirmée.
+marché de Wuhan dans la Province de Hubei en Chine. La maladie
+semblerait venir d'un animal (zoonose) mais l'origine n'a pas été
+confirmée.
 
 #### Le virus a-t-il muté ? 
 
@@ -260,13 +260,15 @@ bénéfiques pour l'Homme que l'inverse. En effet, dans la majorité des
 diffusion.
 
 **Le virus circule-t-il dans l'air ?**\
-Non. Le coronavirus responsable du COVID-19 se transmet par les
-gouttelettes, qui sont les sécrétions respiratoires qu'on émet quand on
-tousse, qu'on éternue ou qu'on parle. Le virus ne circule pas dans l'air
-mais peut atteindre une personne à proximité (située à moins d'un mètre)
-ou se fixer sur une surface souillée par les gouttelettes, comme les
-mains ou les mouchoirs. C'est pour cela qu'il est important de respecter
-les gestes barrières et les mesures de distanciation sociale.\
+Non, le virus ne peut pas vire dans l\'air tout seul. Le coronavirus
+responsable du COVID-19 se transmet par les gouttelettes, qui sont les
+sécrétions respiratoires qu'on émet quand on tousse, qu'on éternue ou
+qu'on parle.\
+Le virus ne circule pas dans l'air tout seul mais peut atteindre une
+personne à proximité (située à moins d'un mètre) ou se fixer sur une
+surface souillée par les gouttelettes, comme les mains ou les mouchoirs.
+C'est pour cela qu'il est important de respecter les gestes barrières et
+les mesures de distanciation sociale.\
 \
 **Combien de temps le Covid-19 peut-il vivre sur une surface ?**\
 Dans des conditions propices à sa survie, le virus pourrait survivre,
@@ -405,13 +407,11 @@ prioritaires qui sont : 
 -   Les nouveaux foyers et nouveaux territoires. 
 
 4 000 tests sont effectués chaque jour sur ces personnes. Au total, 60
-000 tests ont été effectués en France depuis le début de l'épidémie. \
+000 tests ont été effectués en France depuis le début de l'épidémie et
+120 laboratoires sont maintenant en capacité de réaliser des tests.\
 \
-70 laboratoires, en plus des cinquante déjà équipés, sont déjà en
-capacité de réaliser des tests.
-
-#### Pourquoi tous les patients qui ont des symptômes ne sont-ils pas testés ?
-
+**Pourquoi tous les patients qui ont des symptômes ne sont-ils pas
+testés ?**\
 Devant l'augmentation actuelle du nombre de cas, la recherche
 systématique de contacts est devenue inutile. Tester tous les patients
 présentant des symptômes conduirait à saturer la filière de dépistage
@@ -453,7 +453,7 @@ chapitre](# "Fermer le chapitre : Qu’est-ce que le coronavirus COVID-19 ?"){.b
 []{#point}[]{#ancre3}Point de situation en France
 -------------------------------------------------
 
-#### Le 22 mars à 19h30
+#### Le 23 mars à 08h00
 
 Le ministre des Solidarités et de la Santé, tient un [point presse
 quotidien](http://www.dailymotion.com/MinSoliSante) pour vous informer
@@ -701,7 +701,10 @@ domicile, sur l'intégralité du territoire national avec des points de
 contrôle fixes et mobiles en particulier dans les gares et les
 aéroports.\
 Si vous ne respectez pas cette obligation, vous vous exposez à une
-amende de 135 euros.\
+amende de 135 euros. Depuis le début du confinement, 1 738 907 contrôles
+ont été effectués par les forces de l'ordre. 91 824 infractions ont été
+constatées.\
+\
 \
 **Des reconduites à domicile auront-elles lieu ? Comment seront
 organisés les contrôles ? **\
@@ -941,8 +944,8 @@ l'aide au paiement d'une assurance complémentaire de santé dont le
 bénéfice expirera au cours des prochains mois seront prolongés de 3
 mois.\
 \
-Ces dispositions seront votées dans le cadre du Projet de loi d'urgence
-présenté au Parlement cette semaine.\
+Ces dispositions sont intégrées dans le projet de loi d'urgence
+sanitaire présenté au Parlement cette semaine.\
  
 
 #### Puis-je faire mes courses au supermarché ou à l\'épicerie ?
@@ -1045,7 +1048,8 @@ personnes qui ressentent les symptômes du Coronavirus de ne pas se
 rendre au cabinet de leur médecin de ville. En cas de symptômes légers
 (fièvre et toux), il faut d'abord appeler son médecin traitant ou opter
 pour une téléconsultation. Si les symptômes s'aggravent au bout de
-quelques jours, il faut appeler le [15](tel:15).\
+quelques jours avec l\'apparition de symptômes respiratoires, il faut
+appeler le [15](tel:15).\
 \
 Les commerces de matériel médical restent ouverts vous pouvez donc vous
 rendre chez l'opticien par exemple.
@@ -1162,6 +1166,13 @@ de l'Union européenne, de l'Espace Schengen et du Royaume-Uni.\
 Non, partir en vacances, se rendre dans sa résidence secondaire ou une
 résidence de location ne font pas partie des déplacements autorisés.\
 \
+**Si je suis actuellement confiné dans un lieu qui n\'est pas ma
+résidence principale, ai-je le droit de rentrer chez moi ?**\
+Si vous avez choisi de débuter la période de confinement dans votre
+résidence secondaire, vous devez y rester. Seule la fin d\'un bail de
+location est un motif impérieux pour rentrer dans votre résidence
+principale.\
+\
 **Les vacanciers en station de ski peuvent-ils rentrer chez eux ou
 doivent-ils rester sur place ?**\
 Oui, ils peuvent rentrer chez eux en invoquant le motif impérieux sur
@@ -1182,11 +1193,18 @@ courses ?**\
 Non, mais la règle est le déplacement bref et à proximité du domicile.
 Chacun doit faire preuve de responsabilité.\
 \
+**Puis-je aller faire mes courses loin de chez moi ? **\
+La règle est le déplacement bref et à proximité du domicile. Cependant,
+si vous n\'avez pas d\'autre possibilité pour vous ravitailler, vous
+pouvez aller faire des courses loin de votre domicile, pour des achats
+de première nécessité.\
+\
 **Puis-je me rendre à la pharmacie située à 1 km de chez moi ?**\
 Oui.\
 \
-**Puis-je donner mon sang ?**\
-Oui, se déplacer pour donner son sang est autorisé. Il convient
+**Puis-je donner mon sang, même si le centre se trouve à plusieurs
+kilomètres de chez moi ?**\
+Oui. Se déplacer pour donner son sang est autorisé. Il convient
 d\'indiquer un déplacement pour motif de santé.
 
 #### Puis-je aller à l'hôtel ?
@@ -1200,7 +1218,12 @@ ou tout autre repas, mais uniquement en chambre.
 
 Les transports ne seront ouverts qu'aux personnes étant dans
 l'obligation de se rendre sur leur lieu de travail. Une attestation
-pourra leur être demandée. 
+pourra leur être demandée. \
+\
+**Combien de personnes sont autorisées dans un même véhicule ?**\
+Le covoiturage est possible pour effectuer les déplacements autorisés.
+Chaque passager du véhicule doit être muni d'une attestation (ou d'un
+justificatif de déplacement professionnel) en règle.
 
 #### Puis-je aller voter ? 
 
@@ -1252,6 +1275,18 @@ Sauf nécessité pour porter assistance à des personnes ne pouvant se
 déplacer seules (personne à mobilité réduite, enfants...) vous ne devez
 pas aller accueillir vos proches dans les gares et aéroports.\
 \
+**A-t-on le droit de se marier ou de se pacser ?**\
+Au regard des mesures limitant les déplacements et le regroupement des
+personnes afin de lutter contre la crise sanitaire, la célébration des
+mariages et l\'enregistrement des PACS doivent en principe être
+reportés.\
+Il peut toutefois être fait exception à cette règle pour des motifs
+justifiant qu\'il y a urgence à l\'établissement du lien matrimonial ou
+du partenariat (par exemple, mariage in extremis ou mariage d\'un
+militaire avant son départ sur un théâtre d\'opérations). Les officiers
+de l\'état civil doivent préalablement solliciter les instructions du
+procureur de la République.\
+\
 **A-t-on le droit d\'aller à des obsèques ?**\
 L\'organisation des cérémonies funéraires demeure possible mais dans la
 stricte limite du cercle des intimes, donc en nombre très réduit et en
@@ -1289,9 +1324,9 @@ d'effectuer des démarches en ligne.
 
 #### Quel comportement dois-je adopter face au Coronavirus ?
 
-Je n'ai pas encore été exposé au COVID-19 à ma connaissance : j'applique
-en permanence les gestes et comportements qui permettent de freiner
-l'épidémie.\
+Je n'ai pas de symptômes ou je n\'ai pas encore été exposé au COVID-19 à
+ma connaissance : j'applique en permanence les gestes et comportements
+qui permettent de freiner l'épidémie.\
 \
 Je reste chez moi et je limite mes déplacements au strict nécessaire
 (travail, courses, rendez-vous médicaux). J'applique les gestes
@@ -1312,7 +1347,7 @@ vulnérables face à l'épidémie. Une procédure simplifiée me permet de
 bénéficier d'un arrêt de travail indemnisé dans ce cadre.\
 \
 **J'ai été en contact avec un cas confirmé de COVID-19 ou je vis avec un
-cas confirmé de COVID-19** : je m'isole et je surveille mon état de
+cas confirmé de COVID-19** : Je m'isole et je surveille mon état de
 santé.\
 \
 Je reste à mon domicile, je m'isole 2 semaines, je respecte
@@ -1829,9 +1864,19 @@ pendant l'épidémie.\
 \
 **Aidons-nous les personnes sans abri ? **\
 Les personnes sans-abri sont accueillies dans des lieux qui restent
-ouverts et respectent le seuil de rassemblement maximal. Des
-distributions de nourritures sont organisées de même que des maraudes.
-La période hivernale a également été prolongée de 2 mois.
+ouverts et respectent le seuil de rassemblement maximal. 157 000 places
+d'hébergement sont actuellement disponibles pour les personnes sans abri
+qui ne sont pas malades. De nouvelles solutions d'hébergement sont en
+train d'être identifiées.\
+Des distributions de nourritures sont organisées de même que des
+maraudes. La période hivernale a également été prolongée de 2 mois.\
+En complément, depuis le 19 mars, 3 centres d'hébergement médicalisés
+ont ouverts pour accueillir des personnes sans-abris atteintes par le
+COVID-19, mais ne nécessitant pas d'hospitalisation. Ces centres sont
+situés à Paris (18e arrondissement), Toulouse et dans le département du
+Nord. D'autres établissements ouvriront bientôt, à raison d'au moins un
+par région.\
+ 
 
 ### []{#partie2n2}Les conséquences de l'épidémie
 
@@ -1988,8 +2033,9 @@ sont fortement impactées. **Nous sommes actuellement en stade 3. **\
 
 **Qu'est-ce que le centre de crise ? **\
 Le centre de crise de Beauvau est un outil de gestion des crises, placé
-au ministère de l'Intérieur, qui peut accueillir la cellule
-interministérielle de crise.\
+au ministère de l'Intérieur, qui peut accueillir la Cellule
+Interministérielle de Crise. Elle a été activée par le Premier ministre
+le 17 mars 2020.\
 \
 **Pourquoi avoir activé le centre de crise du ministère de l'Intérieur
 ? **\
@@ -1999,12 +2045,12 @@ du ministre des Solidarités et de la Santé, dans les locaux de ce
 ministère.\
 \
 La mise en place du confinement a conduit le Premier ministre à faire
-évoluer cette organisation : le pilotage des aspects sanitaires reste
-assuré par le ministère des Solidarités et de la Santé. Le pilotage des
-autres aspects est assuré depuis le centre de crise du ministère de
-l'Intérieur. La coordination entre les deux sites est naturellement
-assurée de façon permanente, et une communication quotidienne conjointe
-sera assurée.\
+évoluer cette organisation : le pilotage des aspects sanitaires de cette
+crise reste assuré par le ministère des Solidarités et de la Santé; e
+pilotage des autres aspects est assuré depuis le centre de crise du
+ministère de l'Intérieur. La coordination entre les deux sites est
+naturellement assurée de façon permanente, et une communication
+quotidienne conjointe est assurée.\
  
 
 #### Qu'est-ce que le plan blanc ?
@@ -2524,42 +2570,42 @@ Pour plus d'informations dans votre région, contactez le [0 800 130
 
 ### []{#partie7n6}Chronologie
 
--   **10 janvier :** envoi aux Agences Régionales de Santé - ARS, aux
+-   **10 janvier :** Envoi aux Agences Régionales de Santé - ARS, aux
     sociétés savantes (urgentistes, SAMU, infectiologues) de fiches de
     conduites à tenir et de définition de cas par le ministère des
     Solidarités et de la Santé.
--   **14 janvier :** sensibilisation des établissements hospitaliers,
+-   **14 janvier :** Sensibilisation des établissements hospitaliers,
     médico-sociaux et des professionnels de santé libéraux, à la
     situation et aux recommandations sanitaires.
--   **23 janvier :** mise en place d'un dispositif de suivi et de
+-   **23 janvier :** Mise en place d'un dispositif de suivi et de
     réponse aux préoccupations des Français présents en Chine par le
     Centre de crise et de soutien du ministère de l'Europe et des
     Affaires étrangères, en coordination avec l'Ambassade de France à
     Pékin et l'ensemble des consulats généraux en Chine.
--   **24 janvier :** confirmation des premiers cas confirmés de
+-   **24 janvier :** Confirmation des premiers cas confirmés de
     Coronavirus COVID-19 par Agnès Buzyn, ministre des solidarités et de
     la Santé.
--   **24 janvier :** déploiement de flyers et d'affiches d'information
+-   **24 janvier :** Déploiement de flyers et d'affiches d'information
     en français, anglais et mandarin dans les aéroports.
--   **25 janvier :** mise en place d'une procédure d'identification et
+-   **25 janvier :** Mise en place d'une procédure d'identification et
     de suivi des cas contacts personnalisée et quotidienne via les ARS.
--   **25 janvier :** mise en place d'un accueil spécifique des voyageurs
+-   **25 janvier :** Mise en place d'un accueil spécifique des voyageurs
     en provenance de Chine, Hong-Kong et Macao à Paris Charles de Gaulle
     et Saint-Denis de la Réunion assuré par des personnels
     d'associations agréées de sécurité civile en lien avec le service
     médical de l'aéroport, renforcés de professionnels de santé médicaux
     et paramédicaux issus de la réserve sanitaire du ministère des
     Solidarités et de la Santé.
--   **27 janvier :** développement d'un test diagnostic rapide par
+-   **27 janvier :** Développement d'un test diagnostic rapide par
     l'institut Pasteur permettant de donner un résultat en quelques
     heures.
--   **31 janvier :** première opération de retour des ressortissants
+-   **31 janvier :** Première opération de retour des ressortissants
     français vivant dans la province de Hubei, par vol direct depuis
     Wuhan accompagné d'une équipe médicale et confinement des passagers
     pendant 14 jours à Carry-le-Rouet.
--   **2 février :** deuxième opération de retour des ressortissants
+-   **2 février :** Deuxième opération de retour des ressortissants
     français de Hubei et confinement des passagers à Aix-en-Provence.
--   **8 février :** apparition d'un cluster (regroupement de plusieurs
+-   **8 février :** Apparition d'un cluster (regroupement de plusieurs
     cas autour d'un cas initial) en Haute-Savoie. Les cinq cas confirmés
     de Coronavirus COVID-19, quatre adultes et un enfant, ont été
     hospitalisés ainsi que six autres contacts proches. Une cellule de
@@ -2570,72 +2616,72 @@ Pour plus d'informations dans votre région, contactez le [0 800 130
     par mesure de précaution et pour mener les investigations
     nécessaires (test diagnostic). L'opération de recherche et de tests
     auprès des cas contacts est engagée immédiatement.
--   **9 février :** un centre de consultation exceptionnel est installé
+-   **9 février :** Un centre de consultation exceptionnel est installé
     dans la salle d'animation de la commune de Contamines-Montjoie afin
     de dépister les enfants de l'école où était scolarisé l'enfant
     malade.
--   **9 février :** troisième opération de retour de ressortissants
+-   **9 février :** Troisième opération de retour de ressortissants
     français de Hubei sur un vol britannique.
--   **13 février :** activation du plan ORSAN qui vise à organiser la
+-   **13 février :** Activation du plan ORSAN qui vise à organiser la
     mobilisation du système de santé pour se préparer à une éventuelle
     circulation active du Coronavirus COVID-19 sur le territoire
     français.
--   **14 février :** levée des mesures de confinement pour les passagers
+-   **14 février :** Levée des mesures de confinement pour les passagers
     du premier vol de retour des Français de Wuhan suite à la fin de la
     période d'incubation de 14 jours et la réalisation de tests de
     diagnostic revenus négatifs.
--   **14 février :** premier décès en France d'un patient âgé de 80 ans
+-   **14 février :** Premier décès en France d'un patient âgé de 80 ans
     hospitalisé en France des suites du Coronavirus COVID-19.
--   **16 février :** levée des mesures de confinement pour les passagers
+-   **16 février :** Levée des mesures de confinement pour les passagers
     du deuxième vol de retour.
--   **17 février :** envoi d'un guide pratique aux professionnels de
+-   **17 février :** Envoi d'un guide pratique aux professionnels de
     santé par le ministère des Solidarités et de la Santé.
--   **18 février :** confirmation de trois passagers Français atteints
+-   **18 février :** Confirmation de trois passagers Français atteints
     de Coronavirus COVID-19 à bord du paquebot de croisière Diamond
     Princess en confinement au large du Japon.
--   **19 février :** envoi de fret médical en solidarité avec la Chine à
+-   **19 février :** Envoi de fret médical en solidarité avec la Chine à
     destination des structures hospitalières de Wuhan et de la province
     du Hubei.
--   **21 février :** quatrième opération de retour de Français,
+-   **21 février :** Quatrième opération de retour de Français,
     Européens et ayants-droit.
--   **21 février :** rencontre de M. Bruno Le Maire et Mme Agnès
+-   **21 février :** Rencontre de M. Bruno Le Maire et Mme Agnès
     Pannier-Runacher avec les acteurs économiques nationaux sur les
     conséquences de l'épidémie de Coronavirus COVID-19.
--   **23 février :** levée des mesures de confinement pour les passagers
+-   **23 février :** Levée des mesures de confinement pour les passagers
     du troisième vol de retour.
--   **24 février :** activation de 70 établissements de santé siège d'un
+-   **24 février :** Activation de 70 établissements de santé siège d'un
     SAMU. 107 établissements de santé sont donc en capacité d'accueillir
     des patients atteints de Coronavirus COVID-19 soit au moins un par
     département métropolitain et d'Outre-mer.
--   **24 février :** augmentation des capacités de diagnostic biologique
+-   **24 février :** Augmentation des capacités de diagnostic biologique
     et commande de plusieurs millions de masques FFP2 supplémentaires
     pour les professionnels de santé.
--   **25 février :** déploiement d'affiches d'information sur le
+-   **25 février :** Déploiement d'affiches d'information sur le
     Coronavirus COVID-19 dans les gares.
--   **28 février :** déclaration du coronavirus COVID-19 comme "cas de
+-   **28 février :** Déclaration du coronavirus COVID-19 comme "cas de
     force majeure" pour les entreprises.
--   **28 février :** diffusion de spot radio et télévision de
+-   **28 février :** Diffusion de spot radio et télévision de
     prévention.
--   **29 février :** tenus d'un conseil de défense et d'un conseil des
+-   **29 février :** Tenus d'un conseil de défense et d'un conseil des
     ministres exceptionnels sous l'autorité du président de la
     République, consacrés au coronavirus. Officialisation du passage du
     stade 1 au stade 2 du plan de prévention et de gestion de la crise
     sanitaire impliquant de prendre de nouvelles mesures afin de limiter
     la diffusion du virus.
--   **29 février :** interdiction des rassemblements de plus de 5000
+-   **29 février :** Interdiction des rassemblements de plus de 5000
     personnes en espace clos.
 -   **2 mars** **:** Bpifrance est désormais garante des prêts demandés
     par les PME afin de les accompagner dans la gestion de la situation
--   **3 mars :** mise en place d'une cellule de continuité économique au
+-   **3 mars :** Mise en place d'une cellule de continuité économique au
     ministère de l'Economie et des Finances
--   **6 mars :** activation du plan blanc dans les hôpitaux et du plan
+-   **6 mars :** Activation du plan blanc dans les hôpitaux et du plan
     bleu dans les EHPAD
--   **6 mars :** publication du
+-   **6 mars :** Publication du
     [décret](https://www.service-public.fr/particuliers/actualites/A13909)
     encadrant les prix de vente du gel hydro-alcoolique
--   **8 mars :** interdiction des rassemblements de plus de 1000
+-   **8 mars :** Interdiction des rassemblements de plus de 1000
     personnes non indispensables à la continuité de la vie de la Nation
--   **9 mars :** diffusion d'une circulaire du ministre de l'Intérieur
+-   **9 mars :** Diffusion d'une circulaire du ministre de l'Intérieur
     pour garantir la sécurité et la sincérité des opérations de vote
     ainsi que des mesures de précautions sanitaires avant les élections
     municipales et communautaires des 15 et 22 mars.
@@ -2655,19 +2701,27 @@ Pour plus d'informations dans votre région, contactez le [0 800 130
     -   Possibilité de reporter le paiement des cotisations et impôts
         dus en mars pour toutes les entreprises qui le souhaitent sans
         justification, ni pénalité.
--   **13 mars :** interdiction des rassemblements de plus de 100
+-   **13 mars :** Interdiction des rassemblements de plus de 100
     personnes
--   **14 mars :** passage en stade 3
--   **17 mars :** restriction des déplacements au strict minimum
--   **17 mars :** fermeture des frontières de l'espace Schengen
--   **17 mars** : activation de la cellule interministérielle de crise
+-   **14 mars :** Passage en stade 3
+-   **17 mars :** Restriction des déplacements au strict minimum
+-   **17 mars : F**ermeture des frontières de l'espace Schengen
+-   **17 mars** : Activation de la cellule interministérielle de crise
     par le Premier ministre
 -   **20 mars** : Mobilisation du porte-hélicoptère amphibie "Tonnerre"
     de la Marine nationale pour l'évacuation des patients en réanimation
     en Corse vers des établissements de santé du continent
--   **21 mars :** le ministre des Solidarités et de la Santé Olivier
+-   **21 mars :** Le ministre des Solidarités et de la Santé Olivier
     Véran annonce que des commandes de plus de 250 millions de masques
-    ont été signées et seront livrées progressivement
+    ont été signées et seront livrées progressivement.
+-   12 patients atteints du coronavirus ont été évacués de Corse à bord
+    du "Tonnerre" pour être admis dans plusieurs hôpitaux des
+    Bouches-du-Rhône.
+-   22 patients hospitalisés dans le Grand Est et placés sous assistance
+    respiratoire seront accueillis dans des hôpitaux situés dans trois
+    pays frontaliers de la France : en Allemagne, en Suisse et au
+    Luxembourg.\
+     
 
 [Retour aux mesures prises par le Gouvernement](#ancre7){.backmenuh2}
 
