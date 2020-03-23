@@ -80,7 +80,7 @@ Suggestions :
 
  
 
-Mise à jour le lundi 23 mars, 08h00
+Mise à jour le lundi 23 mars, 19h00
 
 informations **Coronavirus**
 ============================
@@ -212,11 +212,11 @@ Plusieurs traitements sont en cours d'évaluation en France, en lien avec
 l'OMS pour être utilisés contre le Coronavirus COVID-19. Dans l'attente,
 le traitement est symptomatique.
 
-#### La prise d\'anti-inflammatoires (ibuprofène) pourrait être un facteur d\'aggravation de l\'infection.
+#### La prise d\'anti-inflammatoires (ibuprofène \...) pourrait être un facteur d\'aggravation de l\'infection.
 
 De manière générale, l'auto-médication par anti-inflammatoires doit être
 proscrite. De plus, il semblerait que les anti-inflammatoires non 
-stéroidiens pourraient être un facteur d'aggravation de l\'infection.
+stéroïdiens pourraient être un facteur d'aggravation de l\'infection.
 Ainsi, dans le cas d'une infection au coronavirus COVID-19, le
 paracétamol est recommandé. Si vous êtes déjà sous anti-inflammatoires
 ou en cas de doute, demandez conseil à votre médecin.
@@ -228,7 +228,7 @@ invisibles lors d'éternuements ou de toux). On considère donc qu'un
 contact étroit avec une personne malade est nécessaire pour transmettre
 la maladie : même lieu de vie, contact direct à moins d'un mètre lors
 d'une toux, d'un éternuement ou une discussion en l'absence de mesures
-de protection.  Un des autres vecteurs privilégiés de la transmission du
+de protection. Un des autres vecteurs privilégiés de la transmission du
 virus est le contact des mains non lavées. \
 C'est donc pourquoi les gestes barrières et les mesures de distanciation
 sociale sont indispensables pour se protéger de la maladie.
@@ -260,10 +260,11 @@ bénéfiques pour l'Homme que l'inverse. En effet, dans la majorité des
 diffusion.
 
 **Le virus circule-t-il dans l'air ?**\
-Non, le virus ne peut pas vire dans l\'air tout seul. Le coronavirus
+Non, le virus ne peut pas vivre dans l\'air tout seul. Le coronavirus
 responsable du COVID-19 se transmet par les gouttelettes, qui sont les
 sécrétions respiratoires qu'on émet quand on tousse, qu'on éternue ou
 qu'on parle.\
+\
 Le virus ne circule pas dans l'air tout seul mais peut atteindre une
 personne à proximité (située à moins d'un mètre) ou se fixer sur une
 surface souillée par les gouttelettes, comme les mains ou les mouchoirs.
@@ -453,7 +454,7 @@ chapitre](# "Fermer le chapitre : Qu’est-ce que le coronavirus COVID-19 ?"){.b
 []{#point}[]{#ancre3}Point de situation en France
 -------------------------------------------------
 
-#### Le 23 mars à 08h00
+#### Le 23 mars à 19h00
 
 Le ministre des Solidarités et de la Santé, tient un [point presse
 quotidien](http://www.dailymotion.com/MinSoliSante) pour vous informer
@@ -465,9 +466,9 @@ Les informations du jour :
     plusieurs zones de regroupement de cas (clusters). Nous sommes
     actuellement au stade 3 du plan d'actions du Gouvernement qui a pour
     objectif de prévenir et limiter la circulation du virus.
--   Depuis le 24 janvier 2020, la France compte 16 018 cas confirmés de
+-   Depuis le 24 janvier 2020, la France compte 19 856 cas confirmés de
     Coronavirus COVID-19.
--   674 personnes sont décédées depuis le début de l\'épidémie.
+-   860 personnes sont décédées depuis le début de l\'épidémie.
 
 Retrouvez le point épidémiologique quotidien sur [Santé publique
 France](http://www.santepubliquefrance.fr/maladies-et-traumatismes/maladies-et-infections-respiratoires/infection-a-coronavirus/articles/infection-au-nouveau-coronavirus-sars-cov-2-covid-19-france-et-monde).\
@@ -2714,13 +2715,13 @@ Pour plus d'informations dans votre région, contactez le [0 800 130
 -   **21 mars :** Le ministre des Solidarités et de la Santé Olivier
     Véran annonce que des commandes de plus de 250 millions de masques
     ont été signées et seront livrées progressivement.
--   12 patients atteints du coronavirus ont été évacués de Corse à bord
-    du "Tonnerre" pour être admis dans plusieurs hôpitaux des
-    Bouches-du-Rhône.
--   22 patients hospitalisés dans le Grand Est et placés sous assistance
-    respiratoire seront accueillis dans des hôpitaux situés dans trois
-    pays frontaliers de la France : en Allemagne, en Suisse et au
-    Luxembourg.\
+-   **22 mars :** 12 patients atteints du coronavirus ont été évacués de
+    Corse à bord du "Tonnerre" pour être admis dans plusieurs hôpitaux
+    des Bouches-du-Rhône.
+-   **22 mars :** 22 patients hospitalisés dans le Grand Est et placés
+    sous assistance respiratoire seront accueillis dans des hôpitaux
+    situés dans trois pays frontaliers de la France : en Allemagne, en
+    Suisse et au Luxembourg.\
      
 
 [Retour aux mesures prises par le Gouvernement](#ancre7){.backmenuh2}
