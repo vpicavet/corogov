@@ -116,7 +116,7 @@ class="field field-name-field-texte field-type-text-long field-label-hidden pros
 
 
 
-Mise à jour le mardi 24 mars, 11h00
+Mise à jour le mardi 24 mars, 20h00
 
 
 
@@ -193,11 +193,11 @@ prestations sociales et au retrait d’espèce
 **Les deux documents nécessaires pour circuler sont disponibles :**
 
 -   **l'attestation individuelle, à télécharger [au format PDF (73
-    ko)](/sites/default/files/contenu/piece-jointe/2020/03/attestation-deplacement-fr.pdf),
+    ko)](/sites/default/files/contenu/piece-jointe/2020/03/attestation-deplacement-fr-20200324.pdf),
     [au format DOC (16
-    ko)](/sites/default/files/contenu/piece-jointe/2020/03/attestation-deplacement-fr.docx),
+    ko)](/sites/default/files/contenu/piece-jointe/2020/03/attestation-deplacement-fr-20200324.docx),
     [au format TXT (1
-    ko)](/sites/default/files/contenu/piece-jointe/2020/03/attestation-deplacement-fr.txt)
+    ko)](/sites/default/files/contenu/piece-jointe/2020/03/attestation-deplacement-fr-20200324.txt)
     ou à reproduire sur papier libre. Elle doit être remplie pour chaque
     déplacement non professionnel ;**
 -   **l'attestation de l'employeur, [au format PDF (227
@@ -529,7 +529,7 @@ Point de situation en France
 
 
 
-#### Le 23 mars à 19h00
+#### Le 24 mars à 20h00
 
 Le ministre des Solidarités et de la Santé, tient un [point presse
 quotidien](http://www.dailymotion.com/MinSoliSante) pour vous informer
@@ -541,9 +541,9 @@ Les informations du jour :
     plusieurs zones de regroupement de cas (clusters). Nous sommes
     actuellement au stade 3 du plan d’actions du Gouvernement qui a pour
     objectif de prévenir et limiter la circulation du virus.
--   Depuis le 24 janvier 2020, la France compte 19 856 cas confirmés de
+-   Depuis le 24 janvier 2020, la France compte 22 300 cas confirmés de
     Coronavirus COVID-19.
--   860 personnes sont décédées depuis le début de l'épidémie.
+-   1 100 personnes sont décédées depuis le début de l'épidémie.
 
 Retrouvez le point épidémiologique quotidien sur [Santé publique
 France](http://www.santepubliquefrance.fr/maladies-et-traumatismes/maladies-et-infections-respiratoires/infection-a-coronavirus/articles/infection-au-nouveau-coronavirus-sars-cov-2-covid-19-france-et-monde).\
@@ -2508,11 +2508,11 @@ pour :**
 **Les deux documents nécessaires pour circuler sont disponibles :**
 
 -   **l'attestation individuelle, à télécharger [au format PDF (73
-    ko)](/sites/default/files/contenu/piece-jointe/2020/03/attestation-deplacement-fr.pdf),
+    ko)](/sites/default/files/contenu/piece-jointe/2020/03/attestation-deplacement-fr-20200324.pdf),
     [au format DOC (16
-    ko)](/sites/default/files/contenu/piece-jointe/2020/03/attestation-deplacement-fr.docx),
+    ko)](/sites/default/files/contenu/piece-jointe/2020/03/attestation-deplacement-fr-20200324.docx),
     [au format TXT (1
-    ko)](/sites/default/files/contenu/piece-jointe/2020/03/attestation-deplacement-fr.txt)
+    ko)](/sites/default/files/contenu/piece-jointe/2020/03/attestation-deplacement-fr-20200324.txt)
     ou à reproduire sur papier libre ; elle doit être remplie pour
     chaque déplacement non professionnel ;**
 -   **l'attestation de l'employeur, à télécharger [au format PDF (227
@@ -3005,11 +3005,11 @@ Elles sont libres de droit.
     (Pdf,
     153Ko)](/sites/default/files/contenu/piece-jointe/2020/03/brochure_fiches_pratiques_sur_les_mesures_de_soutien.pdf)
 -   Téléchargez l’attestation dérogatoire [au format PDF (73
-    ko)](/sites/default/files/contenu/piece-jointe/2020/03/attestation-deplacement-fr.pdf),
+    ko)](/sites/default/files/contenu/piece-jointe/2020/03/attestation-deplacement-fr-20200324.pdf),
     [au format DOC (16
-    ko)](/sites/default/files/contenu/piece-jointe/2020/03/attestation-deplacement-fr.docx)
+    ko)](/sites/default/files/contenu/piece-jointe/2020/03/attestation-deplacement-fr-20200324.docx)
     ou [au format TXT (1
-    ko)](/sites/default/files/contenu/piece-jointe/2020/03/attestation-deplacement-fr.txt)
+    ko)](/sites/default/files/contenu/piece-jointe/2020/03/attestation-deplacement-fr-20200324.txt)
 -   Téléchargez l’attestation professionnelle [au format PDF (227
     ko)](/sites/default/files/contenu/piece-jointe/2020/03/justificatif-deplacement-professionnel-fr.pdf),
     [au format DOC (18
