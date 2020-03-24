@@ -80,7 +80,7 @@ Suggestions :
 
  
 
-Mise à jour le lundi 23 mars, 19h00
+Mise à jour le mardi 24 mars, 9h00
 
 informations **Coronavirus**
 ============================
@@ -155,8 +155,9 @@ pour :
     et n'a donc pas à être renouvelée tous les jours.**
 
 Les infractions à ces règles seront sanctionnées d\'une amende de 135
-euros. En cas de doute sur ces restrictions de déplacement, vous pouvez
-consulter les [questions / réponses en cliquant
+euros avec une possible majoration à 375 euros et 1 500 euros en cas de
+récidive. En cas de doute sur ces restrictions de déplacement, vous
+pouvez consulter les [questions / réponses en cliquant
 ici](/sites/default/files/contenu/piece-jointe/2020/03/faq-restrictions.pdf).\
 Attention à vos données personnelles, n\'utilisez pas de support
 numérique pour vos attestations. Seuls le document officiel  du
@@ -167,12 +168,6 @@ libre peuvent être utilisés comme justificatifs.
 []{#corona}[]{#ancre1}Qu'est-ce que le coronavirus COVID-19 ?
 -------------------------------------------------------------
 
-Depuis janvier 2020, une épidémie de Coronavirus COVID-19 (ex 2019-nCoV)
-s'est propagée depuis la Chine. Retrouvez sur cette plateforme toutes
-les réponses officielles aux questions que vous vous posez sur ce qu'est
-le Coronavirus COVID-19 et les recommandations pour votre santé et votre
-vie quotidienne.\
-\
 Face à l'épidémie , il existe des gestes simples pour préserver votre
 santé et celle de votre entourage :
 
@@ -203,14 +198,22 @@ toux.\
 \
 La perte brutale de l'odorat, sans obstruction nasale et disparition
 totale du goût sont également des symptômes qui ont été observés chez
-les malades.
+les malades.\
+\
+Chez les personnes développant des formes plus graves, on retrouve des
+difficultés respiratoires, pouvant mener jusqu'à une hospitalisation en
+réanimation et au décès.
 
 #### Existe-t-il un vaccin ?
 
-Il n'existe pas de vaccin contre le Coronavirus COVID-19 pour le moment.
-Plusieurs traitements sont en cours d'évaluation en France, en lien avec
-l'OMS pour être utilisés contre le Coronavirus COVID-19. Dans l'attente,
-le traitement est symptomatique.
+Il n'existe pas de vaccin contre le coronavirus COVID-19 pour le moment.
+De nombreux laboratoires travaillent sur l'élaboration de vaccins, mais
+ceux-ci ne devraient pas être disponibles avant plusieurs mois.\
+\
+Concernant les traitements, plusieurs sont en cours d'évaluation en
+France, en lien avec l'OMS pour être utilisés contre le coronavirus
+COVID-19. Dans l'attente, le traitement est symptomatique, c'est-à-dire
+qu'on traite les symptômes et non pas directement le virus.
 
 #### La prise d\'anti-inflammatoires (ibuprofène \...) pourrait être un facteur d\'aggravation de l\'infection.
 
@@ -219,17 +222,20 @@ proscrite. De plus, il semblerait que les anti-inflammatoires non 
 stéroïdiens pourraient être un facteur d'aggravation de l\'infection.
 Ainsi, dans le cas d'une infection au coronavirus COVID-19, le
 paracétamol est recommandé. Si vous êtes déjà sous anti-inflammatoires
-ou en cas de doute, demandez conseil à votre médecin.
+ou en cas de doute, demandez conseil à votre médecin ou consultez le
+site <https://www.covid19-medicaments.com> (réalisé avec le Réseau
+Français des Centres Régionaux de Pharmacovigilance).
 
 #### Comment se transmet le Coronavirus COVID-19 ?
 
 La maladie se transmet par les gouttelettes (sécrétions projetées
-invisibles lors d'éternuements ou de toux). On considère donc qu'un
-contact étroit avec une personne malade est nécessaire pour transmettre
-la maladie : même lieu de vie, contact direct à moins d'un mètre lors
-d'une toux, d'un éternuement ou une discussion en l'absence de mesures
-de protection. Un des autres vecteurs privilégiés de la transmission du
-virus est le contact des mains non lavées. \
+invisibles lors d'une discussion, d'éternuements ou de toux). On
+considère donc qu'un contact étroit avec une personne malade est
+nécessaire pour transmettre la maladie : même lieu de vie, contact
+direct à moins d'un mètre lors d'une toux, d'un éternuement ou une
+discussion en l'absence de mesures de protection. Un des autres vecteurs
+privilégiés de la transmission du virus est le contact des mains
+souillées par des gouttelettes. \
 C'est donc pourquoi les gestes barrières et les mesures de distanciation
 sociale sont indispensables pour se protéger de la maladie.
 
@@ -251,13 +257,13 @@ confirmée.
 
 #### Le virus a-t-il muté ? 
 
-Ce jour il n'existe pas d'arguments scientifiques suffisamment robustes
-en cette faveur.  Les travaux de recherche se poursuivent aujourd'hui
-pour mieux connaître le virus. Il convient de rappeler que la grande
-majorité des mutations des virus sont neutres, et plus souvent
-bénéfiques pour l'Homme que l'inverse. En effet, dans la majorité des
-épidémies, les virus évoluent vers moins de dangerosité mais plus de
-diffusion.
+A ce jour il n'existe pas d'arguments scientifiques suffisamment
+robustes en cette faveur. Les travaux de recherche se poursuivent
+aujourd'hui pour mieux connaître le virus. Il convient de rappeler que
+la grande majorité des mutations des virus sont neutres, et le reste
+plus souvent bénéfiques pour l'Homme que l'inverse. En effet, dans la
+majorité des épidémies, les virus évoluent vers moins de dangerosité
+mais plus de diffusion.
 
 **Le virus circule-t-il dans l'air ?**\
 Non, le virus ne peut pas vivre dans l\'air tout seul. Le coronavirus
@@ -293,8 +299,8 @@ transmet entre humains, via les gouttelettes respiratoires. 
 
 A ce jour, il n'a pas été rapporté de contamination par l'eau. Cette
 maladie est à transmission interhumaine par la voie des gouttelettes
-(toux, éternuements). La source du virus n'est pas encore identifiée
-mais elle semble être d'origine animale.
+(toux, éternuements, mains souillées). La source du virus n'est pas
+encore identifiée mais elle semble être d'origine animale.
 
 #### Existe-t-il des risques liés aux animaux domestiques (d\'élevage et familiers) ?
 
@@ -342,23 +348,25 @@ de possibles hospitalisations.\
 \
 **La chloroquine est-elle vraiment un remède miracle contre le
 Coronavirus ?**\
-Les résultats restent trop préliminaires pour recommander la chloroquine
-comme traitement du coronavirus. La piste reste ouverte mais d'autres
-études sont nécessaires à ce jour.  La chloroquine n'est pas un
-médicament anodin, et n'est pas recommandée à ce jour par les autorités
-de santé. Plusieurs essais cliniques, sur la chloroquine et d'autres
-molécules sont en cours. Les autorités de santé sont en attente des
-résultats pour recommander un traitement évalué cliniquement, efficace
-et sûr pour le patient.\
+A ce stade, l'efficacité de la chloroquine dans le traitement de
+l'infection à COVID-19 n'a pas été scientifiquement démontrée. Le
+Haut-Conseil de Santé Publique recommande de ne pas utiliser ce
+traitement en l'absence de recommandation à l'exception des cas graves à
+l'hôpital, sur décision collégiale des médecins, et sous surveillance
+stricte.\
 \
-Pour les patients atteints à domicile, il ne faut pas s'auto-médiquer,
-ou alors uniquement avec du paracétamol, dans la limite de 1g par prise
-(toutes les 6h) et 3g/jour max (60 mg/kg pour les enfants). Si vous avez
-des doutes sur vos traitements ou si vous êtes atteints du COVID-19,
-contactez votre médecin traitant ou visitez le site
-[https://www.covid19-medicaments.com/](http://www.covid19-medicaments.com/)
-(réalisé avec le Réseau Français des Centres Régionaux de
-Pharmacovigilance). 
+Le Haut Conseil exclut toute prescription dans la population générale et
+pour des formes non sévères en l'absence de toutes données probantes
+pour le moment.\
+\
+Le ministre de la Santé et des Solidarités prendra prochainement un
+arrêté pour encadrer l'utilisation du médicament, qui sera accessible
+aux équipes hospitalières qui le souhaitent pour l'utiliser selon ces
+orientations précises. Il ne s'agit pas d'une autorisation de mise sur
+le marché ni d'une d'une utilisation libre. D'importantes études
+cliniques, sur plusieurs milliers de malades en Europe dont 800 malades
+en France, sont en cours pour identifier le ou les traitements les plus
+efficaces. 
 
 #### Comment s'organise la recherche autour du virus en France ?
 
@@ -549,15 +557,16 @@ nécessaire : travail (si télétravail impossible), courses et visites
 médicales indispensables.
 
 \
-Si je n'ai **pas de symptômes** mais que j'ai eu un **contact étroit ou
-que je vis avec une personne malade du COVID-19** : je m'isole à
-domicile, je réduis strictement mes sorties sauf pour ravitaillement
-alimentaire, j'applique les gestes barrières (je me lave les mains très
-régulièrement, je tousse et j'éternue dans mon coude, j'utilise des
-mouchoirs à usage unique, je salue sans serrer la main et j'arrête les
-embrassades), je prends ma température 2 fois par jour et
-j'auto-surveille les symptômes de la maladie, **je fais du
-télétravail.**\
+Si je n'ai **pas de symptômes** mais que je vis avec une personne malade
+du COVID-19 : je m'isole à domicile, je réduis strictement mes sorties
+sauf pour ravitaillement alimentaire, j'applique rigoureusement les
+gestes barrières (je me lave les mains très régulièrement, je tousse et
+j'éternue dans mon coude, j'utilise des mouchoirs à usage unique, je
+salue sans serrer la main et j'arrête les embrassades), je prends ma
+température 2 fois par jour et j'auto-surveille les symptômes de la
+maladie, je fais du télétravail. Je suis les recommandations sanitaires
+d'isolement à domicile disponibles sur le site du ministère de la
+Santé.\
 \
 Si je suis un **professionnel de santé** ne présentant **pas de
 symptômes** mais que j'ai eu un **contact avec une personne malade du
@@ -587,24 +596,29 @@ effectue le diagnostic sur signes cliniques.\
 **Si je suis testé positif ou si je suis diagnostiqué cliniquement** :
 je reste strictement à domicile, si j'ai un rendez-vous médical
 indispensable je porte un masque pour m'y rendre. En cas de difficulté
-respiratoire, j'appelle le [15](tel:15). Je me fais prescrire un arrêt
-de travail par mon médecin. Selon ma situation, je m'auto-surveille, ou
-mon médecin met en place un protocole de surveillance. Mon isolement
-sera levé 48h après la résolution complète des symptômes.\
+respiratoire, j'appelle le 15. Je me fais prescrire un arrêt de travail
+par mon médecin. Selon ma situation, je m'auto-surveille, ou mon médecin
+met en place un protocole de surveillance. J'applique les consignes de
+maintien à domicile, pour me protéger moi et mes proches, disponibles
+sur le site du ministère de la Santé. Mon isolement strict sera levé
+quand mon médecin confirmera ma guérison.\
 \
-**Si je suis testé négatif**, je continue d\'appliquer les gestes
+**Si je suis testé négatif,** je continue d'appliquer les gestes
 barrières (je me lave les mains très régulièrement, je tousse et
 j'éternue dans mon coude, j'utilise des mouchoirs à usage unique, je
-salue sans serrer la main et j'arrête les embrassades) et je limite mes
-déplacements au strict nécessaire.\
+salue sans serrer la main et j'arrête les embrassades) et continue de
+limiter mes déplacements au strict nécessaire (travail si le télétravail
+est impossible, courses, visites médicales indispensables).\
 \
 **Si je suis un professionnel de santé** et que je présente des
 symptômes évocateurs du COVID-19 (toux, fièvre, difficultés
-respiratoires) : je contacte mon médecin, le médecin de ma structure de
-soin ou un médecin par téléconsultation. Je n'appelle le 15 que si j'ai
-des difficultés respiratoires. Je m'isole strictement à domicile et je
-me fais tester systématiquement. Si je suis positif, je m'isole
-strictement. Si je suis négatif, je peux continuer le travail.
+respiratoires) : je contacte mon médecin, le médecin du travail de ma
+structure de soin ou un médecin par téléconsultation. Je n'appelle le 15
+que si j'ai des difficultés respiratoires. Je m'isole strictement à
+domicile et je me fais tester systématiquement. Si je suis positif, je
+m'isole strictement et je bénéficie d'un arrêt de travail, comme le
+reste de la population. Si je suis négatif, je peux continuer le
+travail.
 
 #### Dois-je porter un masque ?
 
@@ -628,14 +642,14 @@ usage unique et les jeter après utilisation) et les mesures de
 distanciation sociale qui sont efficaces.\
  \
 **Faut-il désinfecter les surfaces ? **\
-Oui. Les produits de nettoyage et désinfectants couramment utilisés sont
-efficaces contre le COVID-19. En plus du nettoyage régulier, les
-surfaces qui sont fréquemment touchées avec les mains doivent être
-nettoyées et désinfectées deux fois par jour, notamment lorsqu'elles
-sont visiblement souillées. Il s'agit par exemple des poignées de porte,
-des boutons d'ascenseur, des interrupteurs d'éclairage, des poignées de
-toilettes, des comptoirs, des mains courantes, des surfaces d'écran
-tactile et des claviers.
+Oui. Les produits de nettoyage et désinfectants couramment utilisés (eau
+de Javel, éthanol 70%\...) sont efficaces contre le COVID-19. En plus du
+nettoyage régulier, les surfaces qui sont fréquemment touchées avec les
+mains doivent être nettoyées et désinfectées deux fois par jour,
+notamment lorsqu'elles sont visiblement souillées. Il s'agit par exemple
+des poignées de porte, des boutons d'ascenseur, des interrupteurs
+d'éclairage, des poignées de toilettes, des comptoirs, des mains
+courantes, des surfaces d'écran tactile et des claviers.
 
 #### Quelles mesures sanitaires sont prises pour éviter les contacts?
 
@@ -658,7 +672,8 @@ dans les cas suivants et sur attestation uniquement pour :\
     du domicile et sans aucun rassemblement.
 
 **Les infractions à ces règles seront sanctionnées d'une amende de 135
-euros.**
+euros avec une possible majoration à 375 euros et 1 500 euros en cas de
+récidive..**
 
 [Fermer le
 chapitre](# "Fermer le chapitre : Consignes sanitaires"){.backtotop
@@ -702,10 +717,8 @@ domicile, sur l'intégralité du territoire national avec des points de
 contrôle fixes et mobiles en particulier dans les gares et les
 aéroports.\
 Si vous ne respectez pas cette obligation, vous vous exposez à une
-amende de 135 euros. Depuis le début du confinement, 1 738 907 contrôles
-ont été effectués par les forces de l'ordre. 91 824 infractions ont été
-constatées.\
-\
+amende de 135 euros avec une possible majoration à 375 euros et 1 500
+euros en cas de récidive.\
 \
 **Des reconduites à domicile auront-elles lieu ? Comment seront
 organisés les contrôles ? **\
@@ -917,6 +930,18 @@ Dans ce contexte, le Gouvernement a décidé de prolonger la durée
 d'indemnisation des personnes dont les droits prennent fin durant la
 période de confinement. L'indemnisation sera automatiquement prolongée
 jusqu'à la fin de cette période de confinement.\
+\
+**Dois-je me rendre à mon entretien prévu pendant la période de
+confinement ?**\
+Si cet entretien a été fixé avant la période de confinement, vous ne
+devez pas vous déplacer en agence. Vous pourrez vous voir proposer un
+contact par téléphone ou e-mail avec votre conseiller.\
+\
+**Est-ce que je peux être contrôlé par Pôle emploi pendant la période de
+confinement ?**\
+Le contrôle de la recherche d'emploi est suspendu pendant toute la
+période de confinement. Aucun demandeur d'emploi ne sera radié ou
+sanctionné pendant cette période.\
  
 
 #### Je dois faire ma déclaration trimestrielle de ressources, comment faire ? 
@@ -965,6 +990,18 @@ barrières en avant d'y aller et en rentrant. \
 \
 La liste des établissements qui bénéficient d'une dérogation pour rester
 ouverts se trouve dans la rubrique "Les établissements fermés".\
+\
+**Les marchés alimentaires ouverts sont-ils autorisés ?**\
+Les marchés alimentaires en milieu ouverts sont désormais fermés sauf
+dérogation préfectorale, sur avis ou demande du maire, si le marché est
+l'unique fournisseur en produits frais de la ville et que les mesures de
+sécurité sont respectées.\
+\
+**Puis-je aller faire mes courses loin de chez moi ?**\
+La règle est le déplacement bref et à proximité du domicile. Cependant,
+si vous n\'avez pas d\'autre possibilité pour vous ravitailler, vous
+pouvez aller faire des courses loin de votre domicile, pour des achats
+de première nécessité.\
 \
 **Peut-on être contaminé en touchant un caddie de supermarché ?**\
 Oui mais c'est peu probable. Les caddies, comme toutes les surfaces,
@@ -1053,7 +1090,30 @@ quelques jours avec l\'apparition de symptômes respiratoires, il faut
 appeler le [15](tel:15).\
 \
 Les commerces de matériel médical restent ouverts vous pouvez donc vous
-rendre chez l'opticien par exemple.
+rendre chez l'opticien par exemple.\
+\
+**Je n'ai plus de pilule contraceptive, comment faire ?**\
+Suite au décret paru au journal officiel le 15 mars dernier relatif aux
+mesures mises en place par le gouvernement pour lutter contre la
+propagation du coronavirus, les Françaises et les Français peuvent se
+voir délivrer leurs médicaments jusqu'au 31 mai, et ce sans
+renouvellement d'ordonnance.\
+\
+Ainsi, Les pharmaciens sont autorisés à délivrer la pilule contraceptive
+aux femmes dans l'impossibilité de faire renouveler leur ordonnance, sur
+simple présentation de leur ancienne ordonnance.\
+\
+**Les centres d'interruption volontaire de grossesse (IVG) sont-ils
+ouverts ?**\
+Les médecins en ville et les sages-femmes sont autorisés à conseiller
+les femmes et leurs partenaires sur les questions de contraception. Ces
+mêmes professionnels conventionnés avec un établissement de santé sont
+habilités à réaliser des IVG médicamenteuses sans passer par l'hôpital.\
+\
+Les interruptions de grossesse sont considérées comme des interventions
+urgentes par le ministère des Solidarités et de la Santé. Leur
+continuité doit être assurée. Le Planning Familial maintient son numéro
+vert, 0800 08 11 11, pour répondre à toute question à ce propos.
 
 #### Puis- je me faire opérer ?
 
@@ -1321,7 +1381,28 @@ Les commissariats ouverts au public 24h/24 le resteront, seuls les
 bureaux de police qui offraient un accueil limité en journée sont
 fermés. Il est néanmoins conseillé d'appeler le 17 afin de pouvoir
 disposer d'informations permettant soit de reporter le déplacement soit
-d'effectuer des démarches en ligne.
+d'effectuer des démarches en ligne.\
+\
+**Je veux me rendre utile, comment faire ?**\
+Pour que chacun puisse prendre sa part de cette mobilisation générale
+des solidarités, le Gouvernement lance la Réserve civique-COVID 19
+jeveuxaider.gouv.fr. Afin de permettre à tous ceux qui le peuvent et qui
+le souhaitent de s'engager et de donner de leur temps, pour que les plus
+démunis et les plus vulnérables ne soient pas les premières victimes de
+cette crise.\
+\
+Quatre missions prioritaires sont répertoriées :\
+\
+1. Aide alimentaire et d'urgence\
+2. Garde exceptionnelle d'enfants de soignants ou d'une structure de
+l'Aide Sociale à l'Enfance ;\
+3. Lien (téléphonique, visio, mail, etc.) avec les personnes fragiles
+isolées : personnes âgées, malades ou en situation de handicap ;\
+4. Solidarité de proximité : courses de produits essentiels pour les
+voisins (fragiles, isolés, handicapés).\
+\
+Cet espace est ouvert à tous, vous pouvez également y déposer des
+missions.
 
 #### Quel comportement dois-je adopter face au Coronavirus ?
 
@@ -1446,8 +1527,8 @@ symptômes. Le masque n'est pas la bonne réponse pour le grand public car
 il ne peut être porté en permanence et surtout n'a pas d'indication sans
 contact rapproché et prolongé avec un malade.\
 \
-Comme pour l'épisode de grippe saisonnière, ce sont les gestes barrières
-qui sont efficaces.
+Contre le coronavirus, ce sont les gestes barrières et les mesures de
+distanciation sociale qui sont efficaces.
 
 [Fermer le
 chapitre](# "Fermer le chapitre : Vie quotidienne"){.backtotop
@@ -1780,7 +1861,7 @@ capacité de production s'élèvera à 8 millions de masques par semaine,
 dont la moitié de FFP2. \
 \
 A cela s'ajoute des commandes de plus de 250 millions de masques, qui
-seront livrés progressivement à partir du 21 mars.\
+seront livrés progressivement à partir du 24 mars.\
 \
 **Comment les masques sont-ils distribués ?**\
 Depuis le début de la crise, les masques sont livrés en priorité : 
@@ -1794,7 +1875,7 @@ Au total, depuis la dernière semaine de février, 70 millions de masques
 ont été livrés aux professionnels de santé de ville, à l'hôpital et dans
 les EHPAD. \
 \
-A partir du 21 mars, les masques seront distribués ainsi : 
+Depuis le 21 mars, les masques sont distribués ainsi : 
 
 -   Pour les médecins de ville, les biologistes médicaux et les
     infirmiers de ville : 18 masques par semaine et par professionnel,
@@ -1856,6 +1937,11 @@ Le prix du gel hydro-alcoolique est encadré depuis le 6 mars 2020 par
 Les pharmacies pourront prochainement vendre leur propre solution de gel
 hydro-alcoolique.\
 \
+Il est à noter que le gel hydro-alcoolique est seulement une solution
+d'appoint pour se laver les mains. Un lavage à l'eau et au savon est
+aussi efficace, et doit être privilégié quand un point d'eau est
+disponible.\
+\
 **Puis-je continuer de recevoir et envoyer du courrier, notamment à
 destination des personnes fragiles (EHPAD...) ? Existe-t-il un risque de
 contamination ?**\
@@ -1876,8 +1962,7 @@ ont ouverts pour accueillir des personnes sans-abris atteintes par le
 COVID-19, mais ne nécessitant pas d'hospitalisation. Ces centres sont
 situés à Paris (18e arrondissement), Toulouse et dans le département du
 Nord. D'autres établissements ouvriront bientôt, à raison d'au moins un
-par région.\
- 
+par région.
 
 ### []{#partie2n2}Les conséquences de l'épidémie
 
@@ -2046,8 +2131,8 @@ du ministre des Solidarités et de la Santé, dans les locaux de ce
 ministère.\
 \
 La mise en place du confinement a conduit le Premier ministre à faire
-évoluer cette organisation : le pilotage des aspects sanitaires de cette
-crise reste assuré par le ministère des Solidarités et de la Santé; e
+évoluer cette organisation : le pilotage des aspects sanitaires de la
+crise reste assuré par le ministère des Solidarités et de la Santé; le
 pilotage des autres aspects est assuré depuis le centre de crise du
 ministère de l'Intérieur. La coordination entre les deux sites est
 naturellement assurée de façon permanente, et une communication
@@ -2227,7 +2312,15 @@ Attention, cette plateforme d'échange n'est pas habilitée à dispenser
 des conseils médicaux. Si vous avez les symptômes du Covid-19 : restez à
 votre domicile, évitez les contacts et contacter votre médecin. Appelez
 le numéro d'appel d'urgence pour les sourds et malentendants
-([114](tel:114)) si les symptômes s'aggravent.
+([114](tel:114)) si les symptômes s'aggravent.\
+\
+**Numéros d'urgence et d'écoute :**\
+Violences sur les enfants **119** - <https://www.allo119.gouv.fr/>\
+Violences conjugales **3919** -
+<https://www.stop-violences-femmes.gouv.fr/>\
+Attention, en cas de danger immédiat contacter le **17**.\
+Cellule d'écoute de la Croix Rouge pour les personnes vulnérables : **09
+70 28 30 00**
 
 #### J'habite à l'étranger, qui appeler ?
 
@@ -2721,8 +2814,9 @@ Pour plus d'informations dans votre région, contactez le [0 800 130
 -   **22 mars :** 22 patients hospitalisés dans le Grand Est et placés
     sous assistance respiratoire seront accueillis dans des hôpitaux
     situés dans trois pays frontaliers de la France : en Allemagne, en
-    Suisse et au Luxembourg.\
-     
+    Suisse et au Luxembourg.
+-   **23 mars :** Installation d'un hôpital de campagne militaire à
+    Mulhouse.
 
 [Retour aux mesures prises par le Gouvernement](#ancre7){.backmenuh2}
 
