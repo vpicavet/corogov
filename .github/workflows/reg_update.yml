@@ -5,6 +5,11 @@ on:
     # Update every 15 minutes
     # * is a special character in YAML so you have to quote this string
     - cron:  '*/15 * * * *'
+  push:
+      branches:
+          - master
+      paths:
+          - '.github/workflows/*'
 
 # A workflow run is made up of one or more jobs that can run sequentially or in parallel
 jobs:
@@ -32,5 +37,5 @@ jobs:
     - name: Push changes
       uses: ad-m/github-push-action@master
       with:
-        github_token:${{secrets.GITHUB_TOKEN }}
+        github_token: ${{ secrets.GITHUB_TOKEN }}
         
