@@ -80,7 +80,7 @@ Suggestions :
 
  
 
-Mise à jour le mardi 24 mars, 9h00
+Mise à jour le mardi 24 mars, 11h00
 
 informations **Coronavirus**
 ============================
@@ -115,25 +115,34 @@ COVID-19.
 personnelles](/donnees-personnelles-et-cookies#notifications).
 
 
-\
-Le 16 mars 2020, le Président de la République a décidé de prendre des
-mesures pour réduire à leur plus strict minimum les contacts et les
-déplacements. Un dispositif de confinement est mis en place sur
-l'ensemble du territoire à compter du mardi 17 mars à 12h00, pour quinze
-jours minimum. **Les déplacements sont interdits sauf dans les cas
-suivants et uniquement à condition d\'être munis d\'une attestation**
-pour :
+En application de l'état d'urgence sanitaire, les déplacements sont
+interdits sauf dans les cas suivants et uniquement à condition d\'être
+munis d\'une attestation pour :
 
--   Se déplacer de son domicile à son lieu de travail dès lors que le
-    télétravail n'est pas possible ;
--   Faire ses achats de première nécessité dans les commerces de
-    proximité autorisés ;
--   Se rendre auprès d'un professionnel de santé ;
--   Se déplacer pour la garde de ses enfants ou pour aider les personnes
-    vulnérables, ou pour un motif familial impérieux, dûment justifié, à
-    la stricte condition de respecter les gestes barrières ;
--   Faire de l'exercice physique uniquement à titre individuel, autour
-    du domicile et sans aucun rassemblement.
+-   Déplacements pour effectuer des achats de fournitures nécessaires à
+    l'activité professionnelle et des achats de première nécessité\[1\]
+    dans des établissements dont les activités demeurent autorisées.
+-   Consultations et soins ne pouvant être assurés à distance et ne
+    pouvant être différés  ; soin des patients atteints d\'une affection
+    de longue durée.
+-   Déplacements pour motif familial impérieux, pour l'assistance aux
+    personnes vulnérables ou la garde d'enfants.
+-   Déplacements brefs, dans la limite d\'une heure quotidienne et dans
+    un rayon maximal d\'un kilomètre autour du domicile, liés soit à
+    l\'activité physique individuelle des personnes, à l\'exclusion de
+    toute pratique sportive collective et de toute proximité avec
+    d\'autres personnes, soit à la promenade avec les seules personnes
+    regroupées dans un même domicile, soit aux besoins des animaux de
+    compagnie.
+-   Convocation judiciaire ou administrative.
+-   Participation à des missions d'intérêt général sur demande de
+    l'autorité administrative
+
+\[1\] Y compris les acquisitions à titre gratuit (distribution de
+denrées alimentaires...) et les déplacements liés à la perception de
+prestations sociales et au retrait d'espèce
+
+ 
 
 **Les deux documents nécessaires pour circuler sont disponibles :**
 
@@ -159,6 +168,7 @@ euros avec une possible majoration à 375 euros et 1 500 euros en cas de
 récidive. En cas de doute sur ces restrictions de déplacement, vous
 pouvez consulter les [questions / réponses en cliquant
 ici](/sites/default/files/contenu/piece-jointe/2020/03/faq-restrictions.pdf).\
+\
 Attention à vos données personnelles, n\'utilisez pas de support
 numérique pour vos attestations. Seuls le document officiel  du
 ministère de l\'Intérieur ou une attestation sur l\'honneur sur papier
@@ -259,11 +269,12 @@ confirmée.
 
 A ce jour il n'existe pas d'arguments scientifiques suffisamment
 robustes en cette faveur. Les travaux de recherche se poursuivent
-aujourd'hui pour mieux connaître le virus. Il convient de rappeler que
-la grande majorité des mutations des virus sont neutres, et le reste
-plus souvent bénéfiques pour l'Homme que l'inverse. En effet, dans la
-majorité des épidémies, les virus évoluent vers moins de dangerosité
-mais plus de diffusion.
+aujourd'hui pour mieux connaître le virus.\
+\
+Il convient de rappeler que la grande majorité des mutations des virus
+sont neutres, et le reste plus souvent bénéfiques pour l'Homme que
+l'inverse. En effet, dans la majorité des épidémies, les virus évoluent
+vers moins de dangerosité mais plus de diffusion.
 
 **Le virus circule-t-il dans l'air ?**\
 Non, le virus ne peut pas vivre dans l\'air tout seul. Le coronavirus
@@ -565,8 +576,8 @@ j'éternue dans mon coude, j'utilise des mouchoirs à usage unique, je
 salue sans serrer la main et j'arrête les embrassades), je prends ma
 température 2 fois par jour et j'auto-surveille les symptômes de la
 maladie, je fais du télétravail. Je suis les recommandations sanitaires
-d'isolement à domicile disponibles sur le site du ministère de la
-Santé.\
+d'isolement à domicile disponibles sur le site du [ministère de la
+Santé](https://solidarites-sante.gouv.fr/IMG/pdf/covid19_fiche_patients-2.pdf).\
 \
 Si je suis un **professionnel de santé** ne présentant **pas de
 symptômes** mais que j'ai eu un **contact avec une personne malade du
@@ -579,19 +590,18 @@ masque sur mon lieu de travail et avec les malades pendant 14 jours, je
 contacte un médecin et me fait tester systématiquement en cas
 d'apparition de symptômes.\
 \
-**Si j'ai des symptômes évocateurs de COVID 19** (toux, fièvre,
-difficultés respiratoires) : j'appelle mon médecin traitant ou un
-médecin par téléconsultation, je n'appelle le 15 que si j'ai des
-difficultés respiratoires ou si j'ai fait un malaise, je m'isole
-strictement à domicile. Je me fais tester uniquement si je suis une
-personne fragile ou à risque, si je présente des signes de gravité, si
-je suis déjà hospitalisé, si je suis un professionnel de santé, si je
-suis une personne fragile en structure collective (EPHAD, handicap). Si
-je n'appartiens à aucune de ces catégories, un médecin effectue le
-diagnostic sur signes cliniques. Les tests en ambulatoire sont
-possibles. Les tests en ambulatoire, avec prélèvements à domicile, sont
-possibles. Si je n'appartiens à aucune de ces catégories, un médecin
-effectue le diagnostic sur signes cliniques.\
+**Si j'ai des symptômes évocateurs de COVID 19** (toux, fièvre) :
+j'appelle mon médecin traitant ou un médecin par téléconsultation, je
+n'appelle le 15 que si j'ai des difficultés respiratoires ou si j'ai
+fait un malaise, je m'isole strictement à domicile. Je me fais tester
+uniquement si je suis une personne fragile ou à risque, si je présente
+des signes de gravité, si je suis déjà hospitalisé, si je suis un
+professionnel de santé, si je suis une personne fragile en structure
+collective (EPHAD, handicap). Si je n'appartiens à aucune de ces
+catégories, un médecin effectue le diagnostic sur signes cliniques. Les
+tests en ambulatoire sont possibles. Les tests en ambulatoire, avec
+prélèvements à domicile, sont possibles. Si je n'appartiens à aucune de
+ces catégories, un médecin effectue le diagnostic sur signes cliniques.\
 \
 **Si je suis testé positif ou si je suis diagnostiqué cliniquement** :
 je reste strictement à domicile, si j'ai un rendez-vous médical
@@ -653,24 +663,34 @@ courantes, des surfaces d'écran tactile et des claviers.
 
 #### Quelles mesures sanitaires sont prises pour éviter les contacts?
 
-Le 16 mars 2020, le Président de la République a décidé de prendre des
-mesures pour réduire à leur plus strict minimum les contacts et
-déplacements sur l'ensemble du territoire à compter du mardi 17 mars à
-12h00, pour quinze jours minimum. Les déplacements sont interdits sauf
-dans les cas suivants et sur attestation uniquement pour :\
- 
+\
+En application de l'état d'urgence sanitaire, les déplacements sont
+interdits sauf dans les cas suivants et uniquement à condition d\'être
+munis d\'une attestation pour :
 
--   Se déplacer de son domicile à son lieu de travail dès lors que le
-    télétravail n'est pas possible ;
--   Faire ses achats de première nécessité dans les commerces de
-    proximité autorisés ;
--   Se rendre auprès d'un professionnel de santé ;
--   Se déplacer pour la garde de ses enfants ou aider les personnes
-    vulnérables à la stricte condition de respecter les gestes barrières
-    ;
--   Faire de l'exercice physique uniquement à titre individuel, autour
-    du domicile et sans aucun rassemblement.
+-   Déplacements pour effectuer des achats de fournitures nécessaires à
+    l'activité professionnelle et des achats de première nécessité\[1\]
+    dans des établissements dont les activités demeurent autorisées.
+-   Consultations et soins ne pouvant être assurés à distance et ne
+    pouvant être différés  ; soin des patients atteints d\'une affection
+    de longue durée.
+-   Déplacements pour motif familial impérieux, pour l'assistance aux
+    personnes vulnérables ou la garde d'enfants.
+-   Déplacements brefs, dans la limite d\'une heure quotidienne et dans
+    un rayon maximal d\'un kilomètre autour du domicile, liés soit à
+    l\'activité physique individuelle des personnes, à l\'exclusion de
+    toute pratique sportive collective et de toute proximité avec
+    d\'autres personnes, soit à la promenade avec les seules personnes
+    regroupées dans un même domicile, soit aux besoins des animaux de
+    compagnie.
+-   Convocation judiciaire ou administrative.
+-   Participation à des missions d'intérêt général sur demande de
+    l'autorité administrative
 
+\[1\] Y compris les acquisitions à titre gratuit (distribution de
+denrées alimentaires...) et les déplacements liés à la perception de
+prestations sociales et au retrait d'espèces\
+\
 **Les infractions à ces règles seront sanctionnées d'une amende de 135
 euros avec une possible majoration à 375 euros et 1 500 euros en cas de
 récidive..**
@@ -682,25 +702,33 @@ chapitre](# "Fermer le chapitre : Consignes sanitaires"){.backtotop
 []{#vie-quotidienne}[]{#ancre11}Vie quotidienne
 -----------------------------------------------
 
-####  
+En application de l'état d'urgence sanitaire, les déplacements sont
+interdits sauf dans les cas suivants et uniquement à condition d\'être
+munis d\'une attestation pour :
 
-Le 16 mars 2020, le Président de la République a décidé de prendre des
-mesures pour réduire à leur plus strict minimum les contacts et
-déplacements sur l'ensemble du territoire à compter du mardi 17 mars à
-12h00, pour quinze jours minimum. Les déplacements sont interdits sauf
-dans les cas suivants et sur attestation uniquement pour :
+-   Déplacements pour effectuer des achats de fournitures nécessaires à
+    l'activité professionnelle et des achats de première nécessité\[1\]
+    dans des établissements dont les activités demeurent autorisées.
+-   Consultations et soins ne pouvant être assurés à distance et ne
+    pouvant être différés  ; soin des patients atteints d\'une affection
+    de longue durée.
+-   Déplacements pour motif familial impérieux, pour l'assistance aux
+    personnes vulnérables ou la garde d'enfants.
+-   Déplacements brefs, dans la limite d\'une heure quotidienne et dans
+    un rayon maximal d\'un kilomètre autour du domicile, liés soit à
+    l\'activité physique individuelle des personnes, à l\'exclusion de
+    toute pratique sportive collective et de toute proximité avec
+    d\'autres personnes, soit à la promenade avec les seules personnes
+    regroupées dans un même domicile, soit aux besoins des animaux de
+    compagnie.
+-   Convocation judiciaire ou administrative.
+-   Participation à des missions d'intérêt général sur demande de
+    l'autorité administrative
 
--   Se déplacer de son domicile à son lieu de travail dès lors que le
-    télétravail n'est pas possible ;
--   Faire ses achats de première nécessité dans les commerces de
-    proximité autorisés ;
--   Se rendre auprès d'un professionnel de santé ;
--   Se déplacer pour la garde de ses enfants ou aider les personnes
-    vulnérables à la stricte condition de respecter les gestes barrières
-    ;
--   Faire de l'exercice physique uniquement à titre individuel, autour
-    du domicile et sans aucun rassemblement.
-
+\[1\] Y compris les acquisitions à titre gratuit (distribution de
+denrées alimentaires...) et les déplacements liés à la perception de
+prestations sociales et au retrait d'espèces\
+\
 Le secrétariat d'Etat au Numérique a recensé l'ensemble des offres
 gratuites des plateformes numériques susceptibles de vous accompagner
 pendant cette période de confinement : télétravail, connectivité,
@@ -716,6 +744,7 @@ personne soit en possession de son attestation pour quitter son
 domicile, sur l'intégralité du territoire national avec des points de
 contrôle fixes et mobiles en particulier dans les gares et les
 aéroports.\
+\
 Si vous ne respectez pas cette obligation, vous vous exposez à une
 amende de 135 euros avec une possible majoration à 375 euros et 1 500
 euros en cas de récidive.\
@@ -931,8 +960,8 @@ d'indemnisation des personnes dont les droits prennent fin durant la
 période de confinement. L'indemnisation sera automatiquement prolongée
 jusqu'à la fin de cette période de confinement.\
 \
-**Dois-je me rendre à mon entretien prévu pendant la période de
-confinement ?**\
+**Dois-je me rendre à mon entretien Pôle emploi prévu pendant la période
+de confinement ?**\
 Si cet entretien a été fixé avant la période de confinement, vous ne
 devez pas vous déplacer en agence. Vous pourrez vous voir proposer un
 contact par téléphone ou e-mail avec votre conseiller.\
@@ -1080,14 +1109,13 @@ les gestes barrières avec une attention extrême.
 
 #### Puis-je me rendre chez un professionnel de santé ?
 
-A l\'instar des pharmacies, les cabinets de médecine resteront ouverts
-tout comme les centres d'IVG, mais attention : il est demandé aux
-personnes qui ressentent les symptômes du Coronavirus de ne pas se
-rendre au cabinet de leur médecin de ville. En cas de symptômes légers
-(fièvre et toux), il faut d'abord appeler son médecin traitant ou opter
-pour une téléconsultation. Si les symptômes s'aggravent au bout de
-quelques jours avec l\'apparition de symptômes respiratoires, il faut
-appeler le [15](tel:15).\
+A l\'instar des pharmacies, les cabinets de médecine resteront ouverts,
+mais attention : il est demandé aux personnes qui ressentent les
+symptômes du Coronavirus de ne pas se rendre au cabinet de leur médecin
+de ville. En cas de symptômes légers (fièvre et toux), il faut d'abord
+appeler son médecin traitant ou opter pour une téléconsultation. Si les
+symptômes s'aggravent au bout de quelques jours avec l\'apparition de
+symptômes respiratoires, il faut appeler le [15](tel:15).\
 \
 Les commerces de matériel médical restent ouverts vous pouvez donc vous
 rendre chez l'opticien par exemple.\
@@ -1254,15 +1282,6 @@ courses ?**\
 Non, mais la règle est le déplacement bref et à proximité du domicile.
 Chacun doit faire preuve de responsabilité.\
 \
-**Puis-je aller faire mes courses loin de chez moi ? **\
-La règle est le déplacement bref et à proximité du domicile. Cependant,
-si vous n\'avez pas d\'autre possibilité pour vous ravitailler, vous
-pouvez aller faire des courses loin de votre domicile, pour des achats
-de première nécessité.\
-\
-**Puis-je me rendre à la pharmacie située à 1 km de chez moi ?**\
-Oui.\
-\
 **Puis-je donner mon sang, même si le centre se trouve à plusieurs
 kilomètres de chez moi ?**\
 Oui. Se déplacer pour donner son sang est autorisé. Il convient
@@ -1386,10 +1405,10 @@ d'effectuer des démarches en ligne.\
 **Je veux me rendre utile, comment faire ?**\
 Pour que chacun puisse prendre sa part de cette mobilisation générale
 des solidarités, le Gouvernement lance la Réserve civique-COVID 19
-jeveuxaider.gouv.fr. Afin de permettre à tous ceux qui le peuvent et qui
-le souhaitent de s'engager et de donner de leur temps, pour que les plus
-démunis et les plus vulnérables ne soient pas les premières victimes de
-cette crise.\
+[jeveuxaider.gouv.fr](https://www.google.com/url?q=https://covid19.reserve-civique.gouv.fr&sa=D&ust=1585049755604000&usg=AFQjCNEZKgDH06-QkLZl7KXq5NL0WTwaEw).
+Afin de permettre à tous ceux qui le peuvent et qui le souhaitent de
+s'engager et de donner de leur temps, pour que les plus démunis et les
+plus vulnérables ne soient pas les premières victimes de cette crise.\
 \
 Quatre missions prioritaires sont répertoriées :\
 \
@@ -1571,9 +1590,9 @@ l\'Etat compétent pour ces mêmes collectivités.
 #### Quels sont les établissements autorisés à recevoir du public ?
 
 Tous les établissements indispensables à la vie de la Nation, notamment
-les marchés alimentaires clos ou ouverts et commerces alimentaires (y
-compris les Drive alimentaires), les pharmacies, les stations-services,
-les banques, les bureaux de tabac et distribution de la presse.
+les marchés alimentaires clos et commerces alimentaires (y compris les
+Drive alimentaires), les pharmacies, les stations-services, les banques,
+les bureaux de tabac et distribution de la presse.
 
 Compte tenu de leur contribution à la vie de la Nation, les services
 publics restent également ouverts, y compris ceux assurant les services
