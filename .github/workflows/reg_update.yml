@@ -1,0 +1,36 @@
+name: reg_update
+
+on:
+  schedule:
+    # Update every 15 minutes
+    # * is a special character in YAML so you have to quote this string
+    - cron:  '*/15 * * * *'
+
+# A workflow run is made up of one or more jobs that can run sequentially or in parallel
+jobs:
+  reg_update:
+    # The type of runner that the job will run on
+    runs-on: ubuntu-latest
+
+    # Steps represent a sequence of tasks that will be executed as part of the job
+    steps:
+    # Checks-out your repository under $GITHUB_WORKSPACE, so your job can access it
+    - uses: actions/checkout@master
+
+    # Runs a set of commands using the runners shell
+    - name: Install pandoc
+      run: sudo apt-get install pandoc
+      
+    - name: Do the update of the repo
+      run: |
+        git config --local user.email "action@github.com"
+        git config --local user.name "GitHub Action"
+        wget https://www.gouvernement.fr/info-coronavirus -O info-coronavirus.html
+        pandoc -f html -t markdown -s info-coronavirus.html  | grep -Ev ":::|\<div\>|\</div\>" > info-coronavirus.md
+        git add info-coronavirus.md
+        git commit -m "New official update"
+    - name: Push changes
+      uses: ad-m/github-push-action@master
+      with:
+        github_token:${{secrets.GITHUB_TOKEN }}
+        
