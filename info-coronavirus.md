@@ -2871,6 +2871,8 @@ Pour plus d’informations dans votre région, contactez le [0 800 130
 
 ### [[]{#partie7n6}Chronologie]{}
 
+-   **2 janvier :** Début de veille au Centre opérationnel de réception
+    et de régulation des urgences sanitaires et sociales (CORRUSS)
 -   **10 janvier :** Envoi aux Agences Régionales de Santé - ARS, aux
     sociétés savantes (urgentistes, SAMU, infectiologues) de fiches de
     conduites à tenir et de définition de cas par le ministère des
@@ -2878,6 +2880,8 @@ Pour plus d’informations dans votre région, contactez le [0 800 130
 -   **14 janvier :** Sensibilisation des établissements hospitaliers,
     médico-sociaux et des professionnels de santé libéraux, à la
     situation et aux recommandations sanitaires.
+-   **22 janvier :** Activation de CORRUSS en niveau 2 de mobilisation
+    renforcé
 -   **23 janvier :** Mise en place d’un dispositif de suivi et de
     réponse aux préoccupations des Français présents en Chine par le
     Centre de crise et de soutien du ministère de l’Europe et des
@@ -2897,6 +2901,10 @@ Pour plus d’informations dans votre région, contactez le [0 800 130
     médical de l’aéroport, renforcés de professionnels de santé médicaux
     et paramédicaux issus de la réserve sanitaire du ministère des
     Solidarités et de la Santé.
+-   **26 janvier 2020 :** Première Réunion interministérielle présidée
+    par le Premier Ministre.
+-   **27 janvier :** Activation du Centre de Crise Sanitaire, le 27
+    janvier 2020
 -   **27 janvier :** Développement d’un test diagnostic rapide par
     l’institut Pasteur permettant de donner un résultat en quelques
     heures.
