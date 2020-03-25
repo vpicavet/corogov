@@ -116,7 +116,7 @@ class="field field-name-field-texte field-type-text-long field-label-hidden pros
 
 
 
-Mise à jour le mardi 24 mars, 20h00
+Mise à jour le mercredi 25 mars, 09h00
 
 
 
@@ -306,7 +306,25 @@ l’apparition des premiers symptômes. Le délai d’incubation du
 coronavirus COVID-19 est de 3 à 5 jours en général, il peut toutefois
 s’étendre jusqu’à 14 jours. Pendant cette période, le sujet peut être
 contagieux : il peut être porteur du virus avant l’apparition des
-symptômes ou à l’apparition de signaux faibles.
+symptômes ou à l’apparition de signaux faibles.\
+\
+**Après avoir guéri du coronavirus, est-on immunisé ou est-il possible
+de tomber malade une deuxième fois ?**\
+Après avoir rencontré un virus, notre organisme développe des défenses
+immunitaires appelées anticorps, lui permettant de se défendre contre ce
+virus. Bien que nous soyons encore à un stade précoce pour se prononcer
+sur cette question, de l’avis des scientifiques les premières données
+semblent rassurantes, car ce jour, aucun cas réellement confirmé de
+re-contamination ne semble avoir eu lieu.\
+\
+**Peut-on être en contact d’un malade sans être contaminé ?**\
+Le risque est toujours présent, et plus le contact est long et
+rapproché, plus le risque de contamination augmente (plus de 15 minutes,
+à moins d’un mètre). C’est la raison pour laquelle la distanciation
+sociale et les mesures barrières doivent être appliquées. Il est donc
+possible de vivre avec un cas COVID-19 à domicile si l’on respecte
+scrupuleusement les gestes barrières et les recommandations disponibles
+sur le site du Ministère de la Santé.
 
 #### D’où vient le coronavirus COVID-19 ? 
 
@@ -407,6 +425,23 @@ présentent des symptômes peu graves, mais qu’après environ une semaine
 d’évolution, certains présentent des atteintes plus sévères, nécessitant
 de possibles hospitalisations.\
 \
+**Pourquoi le confinement n’entraîne-t-il pas plus rapidement des effets
+sur la propagation du virus et sur le nombre de nouveaux cas quotidiens
+? Quels sont les autres indicateurs qui permettront de dire si ce
+confinement a bien un impact sanitaire positif ?**\
+La période d’incubation du virus est de 5 à 14 jours. Ainsi, de
+nombreuses personnes aujourd’hui confinées ont été contaminées avant la
+mise en place des mesures de confinement mais ne sont pas encore
+symptomatiques. Après apparition des symptômes, il faut encore quelques
+jours, entre 5 à 8 jours selon les observations, pour que les symptômes
+s’aggravent et nécessitent une hospitalisation. Au total, il faut donc
+au moins de 10 jours pour que le confinement ait un premier impact sur
+les hospitalisations. Parmi les indicateurs utiles, le nombre de
+consultations en médecine de ville en lien avec des symptômes COVID-19
+(après la période d’incubation) devrait être le premier indicateur à la
+baisse. Toutefois, ces données nécessiteront du temps afin d’être
+consolidées.\
+\
 **La chloroquine est-elle vraiment un remède miracle contre le
 Coronavirus ?**\
 A ce stade, l’efficacité de la chloroquine dans le traitement de
@@ -427,7 +462,33 @@ orientations précises. Il ne s’agit pas d’une autorisation de mise sur
 le marché ni d’une d’une utilisation libre. D’importantes études
 cliniques, sur plusieurs milliers de malades en Europe dont 800 malades
 en France, sont en cours pour identifier le ou les traitements les plus
-efficaces. 
+efficaces.\
+\
+**Quelles pistes en cours pour un traitement contre le COVID-19 ?**\
+Les patients infectés par le coronavirus bénéficient aujourd’hui de
+traitements symptomatiques. Un grand essai clinique a démarré au niveau
+européen pour évaluer plusieurs traitements. Cet essai, dénommé
+DISCOVERY, a pour but d’évaluer l’efficacité et la sécurité de quatre
+stratégies thérapeutiques expérimentales qui pourraient avoir un effet
+contre le COVID-19. Les molécules testées sont le Remdesivir,
+l’association Lopinavir + Ritonavir, l’association Lopinavir + Ritonavir
++ interféron beta et enfin l’hydroxychloroquine. L’essai compte inclure
+notamment 800 patients en France. Il y a donc de nombreuses pistes
+thérapeutiques potentielles, mais dont l’efficacité et l’innocuité
+doivent être démontrées. Pour le moment aucune n’est favorisée et, aucun
+traitement spécifique n’est validé.\
+\
+**Qu’est-ce qu’un essai clinique ?                          **\
+Un essai clinique est une étude scientifique réalisée pour évaluer
+l’efficacité et la sécurité d’une méthode diagnostique ou d’un
+traitement. Le plus souvent, on compare deux groupes de malades au
+profil similaire. Dans un groupe, on donne le nouveau traitement, et
+dans un autre groupe, on donne un comparateur (placebo ou traitement
+normalement utilisé). A l’issue de l’essai, on évalue si le nouveau
+traitement est plus efficace ou pas, et on évalue s’il présente trop de
+risques pour les malades. C’est donc une étape indispensable pour
+obtenir la preuve de l’efficacité d’un traitement, et ne pas exposer les
+malades à des risques liés au médicament.
 
 #### Comment s’organise la recherche autour du virus en France ?
 
@@ -476,7 +537,7 @@ prioritaires qui sont : 
 -   Les personnes hospitalisées,
 -   Les nouveaux foyers et nouveaux territoires. 
 
-4 000 tests sont effectués chaque jour sur ces personnes. Au total, 60
+9 000 tests sont effectués chaque jour sur ces personnes. Au total, 60
 000 tests ont été effectués en France depuis le début de l’épidémie et
 120 laboratoires sont maintenant en capacité de réaliser des tests.\
 \
@@ -529,7 +590,7 @@ Point de situation en France
 
 
 
-#### Le 24 mars à 20h00
+#### Le 25 mars à 09h00
 
 Le ministre des Solidarités et de la Santé, tient un [point presse
 quotidien](http://www.dailymotion.com/MinSoliSante) pour vous informer
@@ -619,9 +680,16 @@ signes d’étouffement, j’appelle le [SAMU- Centre 15](tel:15).
 -    les personnes présentant une obésité morbide (indice de masse
     corporelle &gt; 40kg/m²)
 
+**Les personnels de santé considérés comme personnes fragiles
+peuvent-ils bénéficier d’un arrêt de travail ?**\
+Les personnels de santé à risques élevés, comme le reste de la
+population, peuvent bénéficier d’un arrêt de travail. Ils seront pris en
+charge par l’Assurance Maladie, alignés sur les modalités des salariés
+en termes de délais de carence. Cette disposition s’applique également
+aux personnels de santé libéraux.\
+ 
 #### Quel comportement individuel adopter face au Coronavirus ?
 
- \
 Si je n’ai **pas de symptômes** j’applique les gestes barrières (je me
 lave les mains très régulièrement, je tousse et j’éternue dans mon
 coude, j’utilise des mouchoirs à usage unique, je salue sans serrer la
@@ -980,7 +1048,7 @@ Les entreprises doivent par ailleurs adapter leur organisation pour
 limiter au strict nécessaire les réunions, éviter les regroupements de
 salariés dans des espaces réduits, éviter les déplacements…\
 \
-**Je suis en formation, que faire ? **\
+**Je suis en formation, que faire ?**\
 Pour garantir le lien continu et régulier avec les stagiaires de la
 formation professionnelle et d’éviter ainsi les ruptures de parcours, le
 ministère du Travail travaille, avec Régions de France, à la mise à
@@ -1093,6 +1161,16 @@ La règle est le déplacement bref et à proximité du domicile. Cependant,
 si vous n'avez pas d'autre possibilité pour vous ravitailler, vous
 pouvez aller faire des courses loin de votre domicile, pour des achats
 de première nécessité.\
+\
+**Faut-il désinfecter ses conserves et laver ses fruits et légumes en
+rentrant des courses ?**\
+Il est recommandé de bien suivre les règles d’hygiène des mains en
+rentrant des courses et après manipulation des produits alimentaires. Il
+est également important de laver fruits et légumes, comme d’habitude, en
+suivant les règles de bonnes pratiques d’hygiène alimentaire disponibles
+sur le site de l’ANSES. Désinfecter les conserves, passant peu de mains
+en mains, n’est cependant pas jugé utile, car le risque de contamination
+par ce biais est très faible.\
 \
 **Peut-on être contaminé en touchant un caddie de supermarché ?**\
 Oui mais c’est peu probable. Les caddies, comme toutes les surfaces,
@@ -1792,45 +1870,42 @@ Nous vous recommandons, à partir du 17 mars à midi et pour 30 jours,
 d’éviter autant que possible les déplacements internationaux, même pour
 revenir sur le territoire national, à moins que des raisons impératives
 ne vous y contraignent. Si vous jugez nécessaire de rentrer en France,
-notamment au regard vos conditions sanitaires, vous devez vous faire
+notamment au regard de vos conditions sanitaires, vous devez vous faire
 connaître de nos ambassades et consulats dès que possible.\
 \
 *C/ Si vous êtes Français actuellement en déplacement temporaire à
 l’étranger*\
 Nous vous recommandons de prendre toutes les mesures nécessaires pour
-rentrer rapidement en France. Pour vous y aider, le ministère chargé des
-transports a demandé aux compagnies aériennes de maintenir au maximum
-leurs lignes ouvertes vers la France et de modérer leurs prix.\
+rentrer rapidement en France tant que des liaisons aériennes sont en
+place. Pour vous y aider, le ministère chargé des transports a demandé
+aux compagnies aériennes de maintenir au maximum leurs lignes ouvertes
+vers la France et de modérer leurs prix.\
 \
-Le ministère de l’Europe et des Affaires étrangères est mobilisé pour
+Le ministère de l’Europe et des affaires étrangères est mobilisé pour
 obtenir l’autorisation de liaisons aériennes spéciales et pour qu’elles
 puissent être assurées par des vols commerciaux. Ces démarches ont déjà
 porté leurs fruits dans plusieurs pays.\
 \
-En outre, un mécanisme global et mondial pourra permettre à nos
-ressortissants qui le souhaitent de rentrer chez eux en France par voie
-aérienne. Il va être mis en place très rapidement, en lien avec Air
-France. Il reposera sur un plan de transport aérien adapté pour
-l’ensemble du monde, en fonction des priorités et urgences locales, et
-permettra à chacun de réserver et acheter un billet retour auprès d’une
-compagnie.\
+Plusieurs mesures d’accompagnement ont été mises en place afin d’aider
+et de faciliter les démarches des ressortissants français. Ainsi, un
+dispositif exceptionnel a permis d’engager une coopération
+opérationnelle avec le groupe Air France, et ses compagnies Air France
+et Transavia, et d’autres compagnies aériennes françaises et étrangères,
+notamment Qatar Airways. Cette coopération permet d’abord de recenser,
+pays par pays, les besoins puis de mettre en œuvre un plan de transport
+adapté en fonction des priorités et des urgences locales. \
+ \
+Il est nécessaire de consulter régulièrement les sites des ambassades et
+des compagnies aériennes, notamment d’Air France.\
 \
-Les détails de ce mécanisme seront précisés d’ici la fin de la semaine à
-nos ressortissants en difficultés, par Air France et notre réseau
-diplomatique et consulaire. Il faut donc à la fois consulter
-régulièrement les sites des ambassades et d’Air France.\
-\
-Malgré la suspension progressive de la plupart des dessertes aériennes
-dans le monde dans les prochains jours, nous serons ainsi en mesure de
-proposer, avec les compagnies aériennes des solutions commerciales
-raisonnables permettant le retour en France.\
-\
-Les Français non - résidents sont invités à s’inscrire sur
-[Ariane](https://pastel.diplomatie.gouv.fr/fildariane/dyn/public/login.html),
-afin de recevoir des informations actualisées.\
-\
+Les Français non - résidents sont invités à  s’inscrire sur
+Ariane,\[GM1\]  afin de recevoir des informations actualisées. Lorsque
+vous serez rentré en France, pensez à vous connecter sur votre compte
+Ariane afin d’actualiser vos données de voyage en indiquant votre date
+de retour.  \
+ \
 Les ambassades et les consulats sont mobilisés 24 heures sur 24, auprès
-des Français se trouvant à l’étranger, pour apporter toute l’aide
+des Français se trouvant à l'étranger, pour apporter toute l'aide
 possible.\
 \
 Pour plus d’informations, consultez la page dédiée du [ministère de
@@ -2025,7 +2100,24 @@ pouvoir dans la durée assurer les soins urgents à la population.
 
 Oui, par décret du 3 mars 2020, sont réquisitionnés les stocks de
 masques anti-projections et de protection respiratoire de type FFP2
-ainsi que ceux qui seront produits jusqu’au 31 mai 2020.
+ainsi que ceux qui seront produits jusqu’au 31 mai 2020.\
+\
+**A défaut d’un masque, est-il utile de se protéger le visage avec un
+foulard lorsqu’on va faire ses courses ou que l’on sort dans la rue ?**\
+Il n’existe aucune étude ce jour évaluant l’efficacité des foulards ou
+écharpes en tant que « masques » pour se protéger de virus. Il semble
+toutefois peu probable qu’ils soient efficaces, car les mailles des
+tissus utilisés laissent passer les virus.\
+\
+**Les masques artisanaux ou en tissus sont-ils efficaces ?**\
+Les études à ce sujet montrent que dans certaines situations, ils
+peuvent avoir une certaine efficacité, et sont « mieux que rien ».
+Toutefois, les masques artisanaux peuvent aussi donner un faux sentiment
+de sécurité, alors que les seules mesures réellement efficaces sont
+l’application des mesures barrières (se laver les mains, tousser dans
+son coude, utiliser des mouchoirs à usage unique, ne pas se serrer les
+mains et éviter les embrassades) ainsi que les mesures de distanciation
+sociale.
 
 #### Combien coûte le gel hydro-alcoolique ?
 
@@ -2360,7 +2452,15 @@ depuis plusieurs jours. Selon les régions et les moyens humains
 disponible des professionnels de santé volontaires comme des directeurs
 d'hôpital, médecins, psychologues, pharmaciens, infirmiers,
 ambulanciers. Ils peuvent être en activité, sans emploi, à la retraite
-ou en formation (étudiant).
+ou en formation (étudiant).\
+\
+**Quels sont les professionnels de santé et paramédicaux autorisés à
+exercer ? La liste pourrait-elle s’adapter à l’évolution de la situation
+?**\
+Tous les professionnels de santé et paramédicaux sont autorisés à
+exercer et doivent se concentrer sur les soins urgents. Tous les autres
+types de soins doivent être reportés lorsque cela n’entraine pas de
+perte de de chance pour les patients.
 
 #### Quels sont les dispositifs mis en place dans les établissements pénitentiaires ? 
 
@@ -2425,9 +2525,7 @@ le numéro d’appel d’urgence pour les sourds et malentendants
 Violences sur les enfants **119** - <https://www.allo119.gouv.fr/>\
 Violences conjugales **3919** -
 <https://www.stop-violences-femmes.gouv.fr/>\
-Attention, en cas de danger immédiat contacter le **17**.\
-Cellule d’écoute de la Croix Rouge pour les personnes vulnérables : **09
-70 28 30 00**
+Attention, en cas de danger immédiat contacter le **17**.
 
 #### J’habite à l’étranger, qui appeler ?
 
@@ -2748,8 +2846,8 @@ Pour les entreprises, le Gouvernement a annoncé les mesures suivantes : 
 -   L’aide de 1 500 euros pour toutes les petites entreprises, les
     indépendants, et les microentreprises grâce au fonds de solidarité ;
 -   La mobilisation de l’Etat à hauteur de 300 milliards d’euros et de
-    Bpifrance pour garantir des lignes de trésorerie bancaires dont les
-    entreprises pourraient avoir besoin à cause de l’épidémie ;
+    Bpifrance pour la mise en place de [prêts garantis par
+    l’Etat](https://www.economie.gouv.fr/files/files/PDF/2020/dp-covid-pret-garanti.pdf);
 -   Un soutien de l’Etat et de la Banque de France (médiation du crédit)
     pour négocier avec sa banque un rééchelonnement des crédits
     bancaires ;
@@ -2909,11 +3007,15 @@ Pour plus d’informations dans votre région, contactez le [0 800 130
 -   **14 mars :** Passage en stade 3
 -   **17 mars :** Restriction des déplacements au strict minimum
 -   **17 mars : F**ermeture des frontières de l’espace Schengen
--   **17 mars** : Activation de la cellule interministérielle de crise
-    par le Premier ministre
--   **20 mars** : Mobilisation du porte-hélicoptère amphibie “Tonnerre”
-    de la Marine nationale pour l’évacuation des patients en réanimation
-    en Corse vers des établissements de santé du continent
+-   **17 mars** **:** Activation de la cellule interministérielle de
+    crise par le Premier ministre
+-   **18 mars** **:** 1ère mission entre Mulhouse et Toulon d’un A330 de
+    l’armée de l’air équipé du kit MORPHEE (Module de Réanimation pour
+    Patient à Haute Élongation d'Évacuation) pour le transfert de 6
+    patients vers les hôpitaux de Laveran et de Sainte Anne.
+-   **20 mars** **:** Mobilisation du porte-hélicoptère amphibie
+    “Tonnerre” de la Marine nationale pour l’évacuation des patients en
+    réanimation en Corse vers des établissements de santé du continent
 -   **21 mars :** Le ministre des Solidarités et de la Santé Olivier
     Véran annonce que des commandes de plus de 250 millions de masques
     ont été signées et seront livrées progressivement.
@@ -2926,6 +3028,10 @@ Pour plus d’informations dans votre région, contactez le [0 800 130
     Suisse et au Luxembourg.
 -   **23 mars :** Installation d’un hôpital de campagne militaire à
     Mulhouse.
+-   **24 mars :** 3e mission MORPHEE entre Mulhouse et Brest pour le
+    transfert par A330 de l’armée de l’air de 6 patients.
+-   **25 mars :** Affrètement d’un TGV médicalisé entre Mulhouse et les
+    Pays de la Loire.
 
 [Retour aux mesures prises par le Gouvernement](#ancre7){.backmenuh2}
 
@@ -2953,27 +3059,6 @@ du service public dans le cadre de leurs fonctions.
     d’entreprise](https://www.travail-emploi.gouv.fr/actualites/l-actualite-du-ministere/coronavirus-questions-reponses-entreprises-salaries)
 -   [Aides aux
     entreprises](http://www.economie.gouv.fr/coronavirus-soutien-entreprises)
-
-#### Les professionnels des industries agro-alimentaires
-
-Le secteur de l’agro-alimentaire fait usage au quotidien de
-l’utilisation de masques anti-projection comme l’un des moyens
-permettant d’assurer la sécurité sanitaire des aliments :
-
--   Il ne s’agit pas d’une obligation réglementaire mais d’un choix de
-    l'opérateur de l’intégrer dans son plan de maîtrise sanitaire (PMS).
-    En effet, la réglementation européenne (Paquet hygiène) impose une
-    obligation de résultat et non de moyen ;
--   Considérant la doctrine nationale COVID-19 d’utilisation des masques
-    (cf. ci-dessous), les opérateurs de la chaîne alimentaire ne sont
-    pas considérés comme prioritaires ;
--   Les opérateurs doivent s’assurer du maintien du même niveau de
-    sécurité sanitaire en veillant au respect de toutes les autres
-    mesures et moyens définis dans leur plan de maîtrise sanitaire et,
-    le cas échéant, de les renforcer ou de mettre en place de nouvelles
-    mesures permettant de compenser l'absence de masque. L'objectif
-    demeure la prévention des risques de contaminations tout au long de
-    leur process.
 
 [Fermer le
 chapitre](# "Fermer le chapitre : Espace pour les professionnels"){.backtotop
