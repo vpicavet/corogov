@@ -116,7 +116,7 @@ class="field field-name-field-texte field-type-text-long field-label-hidden pros
 
 
 
-Mise à jour le mercredi 25 mars, 09h00
+Mise à jour le mercredi 25 mars, 19h30
 
 
 
@@ -324,7 +324,8 @@ rapproché, plus le risque de contamination augmente (plus de 15 minutes,
 sociale et les mesures barrières doivent être appliquées. Il est donc
 possible de vivre avec un cas COVID-19 à domicile si l’on respecte
 scrupuleusement les gestes barrières et les recommandations disponibles
-sur le site du Ministère de la Santé.
+sur le site du [Ministère de la
+Santé.](https://solidarites-sante.gouv.fr/IMG/pdf/covid19_fiche_patients-2.pdf)
 
 #### D’où vient le coronavirus COVID-19 ? 
 
@@ -590,7 +591,7 @@ Point de situation en France
 
 
 
-#### Le 25 mars à 09h00
+#### Le 25 mars à 19h30
 
 Le ministre des Solidarités et de la Santé, tient un [point presse
 quotidien](http://www.dailymotion.com/MinSoliSante) pour vous informer
@@ -602,9 +603,9 @@ Les informations du jour :
     plusieurs zones de regroupement de cas (clusters). Nous sommes
     actuellement au stade 3 du plan d’actions du Gouvernement qui a pour
     objectif de prévenir et limiter la circulation du virus.
--   Depuis le 24 janvier 2020, la France compte 22 300 cas confirmés de
+-   Depuis le 24 janvier 2020, la France compte 25 233 cas confirmés de
     Coronavirus COVID-19.
--   1 100 personnes sont décédées depuis le début de l'épidémie.
+-   1 331 personnes sont décédées depuis le début de l'épidémie.
 
 Retrouvez le point épidémiologique quotidien sur [Santé publique
 France](http://www.santepubliquefrance.fr/maladies-et-traumatismes/maladies-et-infections-respiratoires/infection-a-coronavirus/articles/infection-au-nouveau-coronavirus-sars-cov-2-covid-19-france-et-monde).\
@@ -3109,6 +3110,9 @@ Elles sont libres de droit.
     ko)](/sites/default/files/contenu/piece-jointe/2020/03/justificatif-deplacement-professionnel-fr.docx)
     ou [au format TXT (2
     ko)](/sites/default/files/contenu/piece-jointe/2020/03/justificatif-deplacement-professionnel-fr.txt)
+-   [Téléchargez l'affiche sur les comportements a adopter face au
+    COVID-19 (Pdf,
+    1Mo)](/sites/default/files/contenu/piece-jointe/2020/03/coronavirus_quel_comportement_adopter.pdf)
 
 [Fermer le chapitre](# "Fermer le chapitre : Ressources"){.backtotop
 .button-cta .red}
