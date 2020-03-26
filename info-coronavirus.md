@@ -116,7 +116,7 @@ class="field field-name-field-texte field-type-text-long field-label-hidden pros
 
 
 
-Mise à jour le mercredi 25 mars, 19h30
+Mise à jour le jeudi 26 mars, 12h30
 
 
 
@@ -576,8 +576,49 @@ plusieurs possibilités de tests :
 
 Concernant les patients non testés,ils seront diagnostiqués COVID-19 sur
 signes cliniques par un médecin. Les modalités de prise en charge
-médicale entre patients testés ou non restent identiques.
+médicale entre patients testés ou non restent identiques.\
+\
+**Comment s’effectue la surveillance des décès en France ? **\
+La surveillance des décès repose sur plusieurs sources de données :
 
+-   Les décès survenus à l’hôpital. Tous les hôpitaux susceptibles de
+    recevoir des patients diagnostiqués COVID-19 rapportent chaque jour
+    le nombre de nouveaux décès à travers une application activée
+    spécifiquement dans le contexte de cette épidémie (SI-VIC).
+-   Les décès liés au COVID-19 qui sont certifiés électroniquement à
+    travers l’application mise en place par le CépiDC de l’Inserm. Cette
+    source de données, qui ne couvre qu’actuellement qu'une proportion
+    des décès permet d’avoir accès, pour chaque décès certifié, à la
+    cause du décès et à quelques caractéristiques socio démographiques
+    et médicales des personnes décédées.
+-   Le nombre de décès survenus en collectivités de personnes âgées. Une
+    application est en cours de développement permettant un suivi
+    quotidien de la mortalité, dès lors qu’un EHPAD ou un autre
+    établissement médico-social a signalé au moins un cas suspecté
+    d’être infecté par le SARS-CoV-2 survenu dans l’établissement. 
+    L’application permettant la remontée quotidienne du nombre de décès
+    survenus en établissement médico-social devrait être opérationnelle
+    dans les tous prochains jours. Dès qu’elle le sera, l’addition des
+    décès survenus à l’hôpital et de ceux survenus dans les EHPAD
+    permettra de disposer d’estimations quotidiennes de la mortalité
+    couvrant les 2 principaux lieux de survenue des décès liés au
+    COVID-19, ceux survenant à domicile ou dans d’autres institutions
+    représentant a priori une faible part de la mortalité liée au
+    COVID-19. Ces données de mortalité quotidiennes peuvent être
+    déclinées au niveau régional et départemental.
+
+Enfin, Santé publique France dispose d’une surveillance de la mortalité
+toutes causes, s’appuyant sur les déclarations de décès transmises à
+l’Institut National de la Statistique et des Etudes Economiques (Insee)
+qui permet, en comparaison avec les données historiques, de détecter un
+excès de mortalité et, le cas échéant, d’en estimer l’ampleur. Les
+circuits de transmission de ces données, liés essentiellement au délai
+de déclaration du décès et de saisie des informations par le bureau de
+l’état-civil nécessite d’attendre au moins 2 semaines pour estimer
+l’excès de mortalité survenu une semaine donnée. Cette source de données
+permet d’estimer, au niveau national, régional et départemental, l’excès
+de mortalité induit par le SARS-CoV-2, quelque que soit le lieu du
+décès.
 [Fermer le
 chapitre](# "Fermer le chapitre : Qu’est-ce que le coronavirus COVID-19 ?"){.backtotop
 .button-cta .red}
@@ -591,7 +632,7 @@ Point de situation en France
 
 
 
-#### Le 25 mars à 19h30
+#### Le 26 mars à 12h30
 
 Le ministre des Solidarités et de la Santé, tient un [point presse
 quotidien](http://www.dailymotion.com/MinSoliSante) pour vous informer
@@ -883,8 +924,16 @@ contrôle fixes et mobiles en particulier dans les gares et les
 aéroports.\
 \
 Si vous ne respectez pas cette obligation, vous vous exposez à une
-amende de 135 euros avec une possible majoration à 375 euros et 1 500
-euros en cas de récidive.\
+amende forfaitaire de 135 euros (qui peut être majorée à 375 euros). En
+cas de récidive de cette violation, l’amende est de 1500 euros (pour 2
+violations en 15 jours) et devient un délit puni de 6 mois
+d’emprisonnement et de 3750 euros d’amende en cas de récidive de plus de
+3 fois dans un délai de 30 jours.\
+\
+**La police municipale peut-elle désormais verbaliser ?**\
+La police municipale peut désormais, tout comme les gardes champêtres et
+les agents de la Ville de Paris chargés d’un service de police, dresser
+les contraventions.\
 \
 **Des reconduites à domicile auront-elles lieu ? Comment seront
 organisés les contrôles ? **\
@@ -911,12 +960,15 @@ sur mobile/ordinateur et la présenter directement depuis son smartphone
     papier signé par la personne qui en fait usage. Elle ne peut donc
     pas être présentée depuis un smartphone. Nous étudions la
     possibilité de mettre en place un dispositif digital et mobile;
--   l’attestation de l’employeur, qui est un document papier renseigné
-    et signé par l’employeur attestant qu’une personne exerce une
-    profession entrant dans la catégorie des professions autorisées à se
-    déplacer et ne pouvant exercer en télétravail. Cette attestation
-    doit être utilisée lors des déplacements domicile-travail et doit
-    être présentée aux forces de l’ordre sur demande.
+-   le justificatif de déplacement professionnel est un document papier
+    renseigné et signé par l’employeur. Cette attestation doit être
+    utilisée lors des déplacements domicile-travail et lors des
+    déplacements professionnels, et doit être présentée aux forces de
+    l’ordre sur demande. La présentation de ce justificatif lors des
+    contrôles suffit, il n’est pas nécessaire de présenter en outre une
+    attestation de déplacement obligatoire. Pour les travailleurs
+    non-salariés, il convient de remplir à chaque déplacement une
+    attestation de déplacement dérogatoire en cochant la première case.
 
 Par ailleurs, la carte professionnelle des professionnels de santé
 (médecins, soignants, pharmaciens), des forces de sécurité et de secours
@@ -925,6 +977,18 @@ journalistes, peut être utilisée pour se rendre sur son lieu de travail.
 Elle ne constitue pas pour autant un « passe-droit » permettant de
 s’exonérer des règles applicables aux déplacements personnels, et de la
 présentation pour ceux-ci de l’attestation de déplacement dérogatoire.\
+\
+**Pour ceux qui travaillent au Chèque emploi service universel (CESU),
+qui doit faire l’attestation (employeurs, CESU ou employé) ?**\
+Vous devez remplir la déclaration sur l’honneur et votre employeur doit
+vous faire parvenir une attestation concernant l’activité que vous
+exercez.\
+\
+**Peut-on utiliser l’ancien modèle d’attestation de déplacement
+dérogatoire ? **\
+On peut utiliser pendant quelque temps l’ancien modèle d’attestation de
+déplacement dérogatoire en y ajoutant impérativement l’heure de sortie à
+la main.\
 \
 **Je n'ai pas d’imprimante chez moi, comment faire ?**\
 L’attestation de déplacement dérogatoire peut être au choix imprimée ou
@@ -940,7 +1004,7 @@ Il est nécessaire de recopier : 
     réglementation des déplacements dans le cadre de la lutte contre la
     propagation du virus Covid-19 » 
 -   la ligne correspondant au motif
--   le lieu, la date et la signature.
+-   le lieu, l'heure, la date et la signature.
 
 **C’est à imprimer tous les jours ou juste une fois ? **\
 Pour chaque déplacement, une attestation de déplacement dérogatoire doit
@@ -948,16 +1012,9 @@ Pour chaque déplacement, une attestation de déplacement dérogatoire doit
 attestation n’est donc valable qu’une fois et doit être renouvelée au
 besoin.\
 \
-**On ne précise pas l'heure du déplacement ?**\
-L’attestation de déplacement dérogatoire ne prévoit pas de mention
-d’heure du déplacement. C’est à chacun, en responsabilité, de réduire au
-maximum son temps de déplacement afin de limiter le plus possible ses
-contacts. En revanche, lors d’un contrôle, les forces de l’ordre
-pourront inscrire l’heure du contrôle, afin que la même attestation ne
-puisse pas servir pour un second déplacement au cours de la même
-journée.\
-\
-L’attestation de l’employeur, elle, a une validité permanente.\
+**Doit-on préciser l’heure de sortie sur l’attestation ? **\
+L’heure de sortie doit être impérativement portée sur l’attestation de
+déplacement dérogatoire.\
 \
 **Peut-on écrire au crayon à papier et gommer ?**\
 L’attestation de déplacement dérogatoire est à usage unique. Elle doit
@@ -1005,7 +1062,151 @@ Non. Mais la carte professionnelle des professionnels de santé
 (médecins, soignants, pharmaciens), des forces de sécurité et de secours
 (policiers, gendarmes et pompiers), des élus, des magistrats etc. et des
 journalistes peut être utilisée pour se rendre sur son lieu de travail.\
- 
+\
+**Puis-je être contrôlé dans les jardins de ma copropriété ?**\
+Non la copropriété est un domicile et les contrôles ne s'exercent que
+sur la voie publique. La copropriété est cependant tenue de faire
+respectée, dans les espace communs, les règles relatives aux
+confinement.\
+\
+**Les mineurs sont-ils autorisés à sortir seuls ?**\
+Les mineurs bénéficient des mêmes exceptions à l'interdiction de
+déplacement que les majeurs, dans les mêmes conditions, à ceci près que
+leur attestation dérogatoire de déplacement doit en outre être signée
+par le titulaire de l'autorité parentale. Ils n'ont en revanche pas
+vocation à être nécessairement accompagnés par un adulte. Lorsque le
+mineur travaille, il doit être muni, comme le majeur, d'un justificatif
+de déplacement professionnel, signé de son employeur ou, s'il n'a pas
+d'employeur de l'attestation de déplacement dérogatoire.\
+\
+**Peut-on changer de lieu de confinement ?** \
+Le lieu du confinement ne doit pas changer. Dans des situations
+particulières rendant nécessaires le fait de rejoindre sa résidence
+principale (fin d'une location, protection de personnes vulnérables ou
+d'animaux, garde d’enfants etc.), le retour vers sa résidence est
+possible, la personne devant se munir de son attestation dérogatoire de
+déplacement dûment remplie ainsi que de sa pièce d'identité.\
+\
+**Est-ce que je peux rejoindre en voiture un pays européen pour voir de
+la famille ?**\
+Non, cela n'est pas possible sauf motif familial impérieux.\
+\
+**Je vis loin de ma compagne/mon compagnon, puis-je la rejoindre pour le
+confinement ?**\
+Non, le lieu de confinement doit être choisi et déterminé.\
+\
+**Mes enfants sont en garde alternée, puis-je effectuer les
+allers-retours nécessaires pour aller les chercher ?**\
+Oui, vous pouvez aller chercher vos enfants quelle que soit la distance.
+Il s’agit d’un déplacement pour motif familial impérieux.\
+\
+**Je dois accompagner mon conjoint malade qui n’a pas le permis à
+l’hôpital, est ce que je risque une amende ?**\
+Non, cela rentre dans la catégorie des motifs familiaux impérieux à
+cocher sur l’attestation dérogatoire de déplacement.\
+\
+**Je travaille mais je n’ai pas de voiture, est ce qu’un parent peut
+m’accompagner ?**\
+Oui, s'il n'y a pas d'autres solutions de transport, cela rentre dans la
+catégorie des motifs familiaux impérieux à cocher sur l’attestation
+dérogatoire de déplacement.\
+\
+**Puis-je refuser un contrôle si l’agent de police ne respecte pas les
+gestes barrières ?**\
+Non, cependant des consignes ont été données aux forces de l’ordre pour
+respecter les gestes barrières, tout comme chaque personne contrôlée
+doit aussi les respecter.\
+\
+**Je suis enceinte, vais-je devoir accoucher chez moi ?**\
+Non, vous pouvez vous rendre comme prévu à votre maternité, en cochant
+la case "motif de santé".\
+\
+**Puis-je partir en vacances ou en week-end ?**\
+Non, partir en vacances, se rendre dans sa résidence secondaire ou une
+résidence de location ne font pas partie des déplacements autorisés.\
+\
+**Puis-je continuer de pratiquer mon activité régulière comme la pêche,
+le cyclisme, le surf, le ski… ?**\
+Non. Il est uniquement possible de pratiquer individuellement une
+activité physique de courte durée et à proximité de son domicile(rayon
+maximal d'un kilomètre autour du domicile),dans la limite d'une heure
+quotidienne, muni de son attestation de déplacement dérogatoire.\
+\
+**La visite annuelle chez le vétérinaire est-elle autorisée ?**\
+A l'instar des êtres humains, les déplacements ne pourront être
+autorisés que dans le cadre des visites urgentes ne pouvant être
+différées et décidées par le vétérinaire sur la base des informations
+fournies par le propriétaire de l'animal.\
+\
+**Quel est le procédé à suivre pour faire pour les démarches
+administratives indispensables au maintien de l’activité professionnelle
+rendues impossible par la situation, type visite médicale pour
+renouvellement de permis poids lourd ?**\
+Sur proposition de la France la semaine dernière, les pays européens ont
+adopté un amendement étendant de 6 mois la validité de ces certificats,
+permettant aux chauffeurs concernés de poursuivre leur activité.\
+\
+**Ma commission médicale obligatoire pour récupérer mon permis après
+suspension a été repoussée, que faire ?**\
+Il faut attendre la fin de l'état d'urgence sanitaire pour pouvoir
+récupérer son permis de conduire.\
+\
+**Puis-je conduire mon conjoint, sans permis, au travail ?**\
+Oui, s'il n'y a pas d'autres solutions de transport et que votre
+conjoint ne peut pas télétravailler.\
+\
+**Quelles conséquences pour les enfants des parents divorcés, notamment
+ceux qui vivent dans des régions différentes ?**\
+Le déplacement pour aller chercher ses enfants dans le cadre d'une garde
+alternée est autorisé quelle que soit la distance. Il s’agit d’un
+déplacement pour motif familial impérieux.\
+\
+**Que faire si je dépasse le temps indiqué sur mon attestation en raison
+du temps d’attente dans certains supermarchés ?**\
+La limite d’une heure concerne uniquement les déplacements liés à
+l'activité physique individuelle, la promenade et aux besoins des
+animaux de compagnie. Pour les autres déplacements, dont les achats de
+première nécessité, la durée n’est pas limitée. Néanmoins, il vous est
+fortement recommandé d'organiser vos sorties pour qu'elles soient les
+plus brèves possibles.\
+\
+**Est-ce autorisé de faire son jardin pendant le confinement ?**\
+Oui, tant que votre jardin est attenant à votre domicile et que vous
+n'avez pas besoin de sortir dans l'espace public pour vous y rendre.\
+\
+**Je suis atteinte d’une tumeur au cerveau et devait bénéficier d’un
+traitement expérimental aux Etats-Unis. Comment m’y rendre avec le
+confinement ?**\
+Il s'agit d'un déplacement autorisé pour motif de santé. Il vous est
+cependant vivement conseillé de vous renseigner sur le site du ministère
+de l'Europe et des Affaires étrangères pour suivre les recommandations
+et les restrictions mises en place par les autorités américaines.\
+\
+**La fermeture du métro est-elle envisagée ?**\
+Non. Pour permettre la poursuite de l’activité économique et les
+déplacements autorisés, les liaisons ferroviaires et les lignes de métro
+diminuent leur fréquence mais la majorité des liaisons sont maintenues.
+Le métro peut être utilisé à condition qu'il s'agisse effectivement d'un
+déplacement autorisé dans le cadre des restrictions imposées par le
+confinement (déplacement pour activité professionnelle, consultations et
+soins ne pouvant être différés, motif familial impérieux)\
+\
+**Mon titre de séjour devait être renouvelé en ce moment. La police
+fera-t-elle preuve de tolérance à l’issue du confinement ?**\
+La situation exceptionnelle justifie de dispenser les personnes
+étrangères, dont la durée de validité du titre de séjour est expirée à
+compter du 16 mars dernier, d’accomplir les démarches pour en solliciter
+le renouvellement. Elle n'ont pas à se déplacer pour ce motif. La
+validité des titres de séjour est prolongée jusqu’à 180 jours. Ainsi, la
+situation au regard du séjour ou de l’asile des étrangers concernés est
+sécurisée, sans aucune rupture de droits. Les catégories de titres
+concernées par cette mesure sont :
+-   les visas de long séjour,
+-   les titres de séjour,
+-   les autorisations provisoires de séjour,
+-   les récépissés de demande de titre de séjour,
+-   les attestations de demande d’asile.
+
 #### Puis-je aller travailler ?
 
 Non, je reste chez moi et je fais du télétravail. \
@@ -1048,6 +1249,55 @@ de plus d’un mètre entre chaque collègue et avec la clientèle.\
 Les entreprises doivent par ailleurs adapter leur organisation pour
 limiter au strict nécessaire les réunions, éviter les regroupements de
 salariés dans des espaces réduits, éviter les déplacements…\
+\
+**Peut-on travailler en usine malgré le confinement ?**\
+Oui, dès lors que les prescriptions sanitaires diffusées par le
+gouvernement sont respectées, et notamment l’application stricte des «
+gestes barrières » tels qu’une distance de plus d’un mètre entre
+collègues en toute circonstance, le lavage très réguliers des mains avec
+du savon ou du gel hydro-alcoolique, etc. Consulter à ce propos le
+document  « Quelles mesures l’employeur doit-il prendre pour protéger la
+sante de ses salaries face au virus? » édité par le ministère du
+travail.
+\[<https://travail-emploi.gouv.fr/actualites/l-actualite-du-ministere/article/coronavirus-covid19-quelles-mesures-l-employeur-doit-il-prendre-pour-proteger>\]\
+\
+**Le respect des gestes barrière est compliqué dans le cadre de mon
+travail et je ne peux pas télétravailler. Que faire ?**\
+En discuter avec votre employeur, le cas échéant via vos représentants
+du personnel, pour adapter l’organisation du travail aux prescriptions
+sanitaires. Le ministère du travail vient de diffuser un document
+rappelant les obligations des employeurs en matière de protection de la
+santé des travailleurs.
+[https://travail-emploi.gouv.fr/IMG/pdf/covid19\_obligations\_employeur.pdf.](http://travail-emploi.gouv.fr/IMG/pdf/covid19_obligations_employeur.pdf) 
+Ces informations peuvent, dans certains secteurs, être complétées par la
+branche professionnelle qui proposera un guide spécifique aux différents
+métiers. En cas de méconnaissance persistante de ces consignes, vous
+pouvez prendre contact avec l’inspecteur du travail de votre secteur. 
+Ses coordonnées doivent être affichées dans l’entreprise. Elle sont
+aussi disponibles sur le site de la Direccte de votre région.
+<http://direccte.gouv.fr/>\
+\
+**L’entreprise doit-elle fermer s’il y a eu des cas confirmés ?**\
+Le ministère du travail vient de diffuser un document rappelant les
+obligations des employeurs en matière de protection de la santé des
+travailleurs.
+[https://travail-emploi.gouv.fr/IMG/pdf/covid19\_obligations\_employeur.pdf.](https://travail-emploi.gouv.fr/IMG/pdf/covid19_obligations_employeur.pdf)\
+Parmi ces obligations, figurent notamment, outre la nécessité d’assurer
+le respect des gestes barrière, la nécessité d’informer les salariés
+susceptibles d’avoir été en contact avec un personnel contaminé, la
+nécessité de prendre toute mesure d’organisation adaptée et de faire
+procéder sans délai à un nettoyage approprié des surfaces concernées par
+le risque de contamination.\
+Ainsi, Les espaces de travail occupés par les personnes infectées ou
+suspectées de l’être doivent être nettoyés selon un protocole précis
+(<https://travail-emploi.gouv.fr/actualites/l-actualite-du-ministere/article/coronavirus-covid19-quelles-mesures-l-employeur-doit-il-prendre-pour-proteger>).  \
+Enfin, il est recommandé à l’employeur d’associer si possible son
+service de santé au travail afin d’obtenir des recommandations au plus
+près de sa situation et de se rapprocher des représentants du
+personnel.\
+Il n’y a donc pas  d’obligation de fermeture mais obligation pour
+l’employeur de mettre en place les mesures qui ont été définies par les
+autorités. \
 \
 **Je suis en formation, que faire ?**\
 Pour garantir le lien continu et régulier avec les stagiaires de la
@@ -1157,6 +1407,17 @@ dérogation préfectorale, sur avis ou demande du maire, si le marché est
 l’unique fournisseur en produits frais de la ville et que les mesures de
 sécurité sont respectées.\
 \
+**Peut-on aller au marché ?**\
+La tenue de tous les marchés, ouverts et couverts, est interdite.
+Toutefois, le préfet de département peut, après un avis du maire,
+accorder une autorisation d’ouverture des marchés alimentaires qui
+répondent à un besoin d’approvisionnement de la population, si les
+conditions de leur organisation, ainsi que les contrôles mis en place,
+permettent le respect des gestes barrières et des distances nécessaires
+entre les personnes.\
+Il n’est donc possible de se rendre au marché que lorsque que ceux-ci
+sont autorisés.\
+\
 **Puis-je aller faire mes courses loin de chez moi ?**\
 La règle est le déplacement bref et à proximité du domicile. Cependant,
 si vous n'avez pas d'autre possibilité pour vous ravitailler, vous
@@ -1241,12 +1502,10 @@ de lui payer 80% de son salaire qui vous sera remboursé ultérieurement.\
 \
 **Puis-je rendre visite à une personne âgée ?**\
 Les visites aux personnes fragiles et âgées à domicile comme dans les
-établissements médico-sociaux sont suspendues. Les mineurs et les
-personnes malades ne peuvent plus accéder à ces établissements,
-maternités comprises. En revanche, les services de soins et
-d’accompagnement à domicile continuent à intervenir auprès des plus
-fragiles lorsque cela est nécessaire ; ils doivent néanmoins appliquer
-les gestes barrières avec une attention extrême.
+établissements médico-sociaux sont suspendues. En revanche, les services
+de soins et d’accompagnement à domicile continuent à intervenir auprès
+des plus fragiles lorsque cela est nécessaire ; ils doivent néanmoins
+appliquer les gestes barrières avec une attention extrême.
 
 #### Puis-je me rendre chez un professionnel de santé ?
 
@@ -1321,6 +1580,10 @@ ouverts. Il est donc possible de procéder à un contrôle technique
 réglementaire si vous ne pouvez pas le reporter. Dans ce cas cochez la
 case "déplacements pour effectuer des achats de première nécessité" sur
 l'attestation de déplacement dérogatoire.\
+Si le contrôle technique n’a  pas pu être réalisé dans les délais, il
+sera prorogé de 3 mois pour les véhicules légers et 15 jours pour les
+véhicules lourds. Les forces de l'ordre procèdent au contrôle avec
+discernement.\
 \
 **Pourquoi ce n'est pas à l'employeur de remplir l'attestation pour ses
 salariés ? **\
@@ -1660,10 +1923,6 @@ de 10 ans).
 -   Je respecte strictement les gestes barrières
 -   Exposée à des risques de forme grave ou de complication du COVID 19,
     je réduis mes sorties et mes déplacements au strict minimum
--   Je limite les rencontres avec mes proches (en particulier lorsqu’ils
-    sont mineurs) et privilégie les contacts téléphoniques ou
-    audiovisuels
--   Je ne reçois aucune visite et m’abstiens de toute sortie
 -   Si j’ai des symptômes grippaux simples, je contacte mon médecin
     généraliste.
 -   Si j’ai une mauvaise tolérance (difficultés respiratoires, malaise,
@@ -1736,9 +1995,9 @@ l'Etat compétent pour ces mêmes collectivités.
 #### Quels sont les établissements autorisés à recevoir du public ?
 
 Tous les établissements indispensables à la vie de la Nation, notamment
-les marchés alimentaires clos et commerces alimentaires (y compris les
-Drive alimentaires), les pharmacies, les stations-services, les banques,
-les bureaux de tabac et distribution de la presse.
+les commerces alimentaires (y compris les Drive alimentaires), les
+pharmacies, les stations-services, les banques, les bureaux de tabac et
+distribution de la presse.
 
 Compte tenu de leur contribution à la vie de la Nation, les services
 publics restent également ouverts, y compris ceux assurant les services
@@ -2286,9 +2545,124 @@ internet](https://cn.ambafrance.org/-Consulat-Wuhan-), tout comme le
 
 ### [[]{#partie2n6}Plan et gestion de crise]{}
 
- 
-#### Quels sont les stades de gestion de l’épidémie de Coronavirus COVID-19 en France ?
+ \
+**Qu’est-ce que l’état d’urgence sanitaire ? **\
+L’état d’urgence sanitaire est déclaré par décret en conseil des
+ministres. Par dérogation l’état d’urgence sanitaire est déclaré pour
+deux mois, au lieu d’un, à compter de l’entrée en vigueur de la loi (23
+mars 2020). L’état d’urgence peut être prolongé avec l’accord du
+parlement et du comité scientifiques réuni dans le même cadre.\
+\
+L’état d’urgence sanitaire permet :
+-   De restreindre ou interdire la circulation des personnes et des
+    véhicules.
+-   D’interdire aux personnes de sortir de leur domicile, sous réserve
+    des déplacements strictement indispensables aux besoins familiaux ou
+    de santé.
+-   D’ordonner des mesures ayant pour objet la mise en quarantaine des
+    personnes susceptibles d’être infectées.
+-   D’ordonner des mesures de placement et de maintien en isolement des
+    personnes infectées. 
+-   D’ordonner la fermeture provisoire d’une ou plusieurs catégories
+    d’établissements recevant du public ainsi que des lieux de réunion,
+    à l’exception des établissements fournissant des biens ou des
+    services de première nécessité.
+-   De limiter ou interdire les rassemblements sur la voie publique
+    ainsi que les réunions de toute nature.
+-   D’ordonner la réquisition de tous biens et services nécessaires à la
+    lutte contre la catastrophe sanitaire.
+-   De prendre des mesures temporaires de contrôle des prix de certains
+    produits rendues nécessaires pour prévenir ou corriger les tensions
+    constatées sur le marché de ces produits. 
+-   De prendre toute mesure permettant la mise à disposition des
+    patients de médicaments appropriés pour l’éradication de la
+    catastrophe sanitaire.
+-   De prendre par décret toute autre mesure réglementaire limitant la
+    liberté d’entreprendre.
 
+Les mesures prises en application de l’état d’urgence sanitaire peuvent
+faire l’objet de recours devant le juge administratif. Toute violation
+des interdictions ou obligations est punie d’une amende de 135 euros. En
+cas de récidive dans un délai de quinze jours, la contravention peut
+aller de 1 500 à 3 000 euros. Si les violations se répètent à plus de
+trois reprises dans un délai de trente jours, les faits sont punis de
+six mois d’emprisonnement et de 3 750 euros d’amende ainsi que d’une
+peine complémentaire de travail d’intérêt général.\
+\
+Dans le cadre de l’état d’urgence sanitaire 25 ordonnances ont été
+adoptées en conseil des ministre le 25 mars :
+1.  Adaptation des règles applicables aux juridictions de l’ordre
+    administratif.
+2.  Adaptation des règles applicables aux juridictions de l’ordre
+    judiciaire statuant en matière non pénale et aux contrats de syndic
+    de copropriété.
+3.  Adaptation des règles applicables aux juridictions de l’ordre
+    administratif.
+4.  Prorogation des délais échus pendant la période d’urgence sanitaire
+    et à l’adaptation des procédures pendant cette même période.
+5.  Prorogation des mandats des conseillers consulaires et des délégués
+    consulaires et aux modalités d’organisation du scrutin.
+6.  Conditions financières de résolution de certains contrats de voyages
+    touristiques et de séjours en cas de circonstances exceptionnelles
+    et inévitables ou de force majeure.
+7.  Paiement des loyers, des factures d’eau, de gaz et d’électricité
+    afférents aux locaux professionnels et commerciaux des entreprises
+    dont l'activité est affectée par la propagation de l’épidémie de
+    COVID-19.
+8.  Création d’un fonds de solidarité à destination des entreprises
+    particulièrement touchées par les conséquences économiques,
+    financières et sociales de la propagation de l’épidémie de COVID-19
+    et des mesures prises pour limiter cette propagation.
+9.  Adaptation des règles relatives à l'établissement, l'arrêté,
+    l'audit, la revue, l'approbation et la publication des comptes et
+    des autres documents et informations que les personnes morales et
+    entités dépourvues de personnalité morale de droit privé sont tenues
+    de déposer ou publier dans le contexte de l’épidémie de COVID-19.
+10. Adaptation des règles de passation, de procédure ou d’exécution des
+    contrats soumis au code de la commande publique et des contrats
+    publics qui n’en relèvent pas pendant la crise sanitaire née de
+    l’épidémie de COVID-19.
+11. Adaptation des règles de réunion et de délibération des assemblées
+    et organes dirigeants des personnes morales et entités dépourvues de
+    personnalité morale de droit privé en raison de l’épidémie de
+    Covid-19.
+12. Adaptation des délais et des procédures applicables à l’implantation
+    ou la modification d’une installation de communications
+    électroniques afin d’assurer le fonctionnement des services et des
+    réseaux de communications électroniques.
+13. Responsabilité personnelle et pécuniaire des comptables publics.
+14. Mesures de continuité budgétaire, financière et fiscale des
+    collectivités territoriales et des établissements publics locaux
+    afin de faire face aux conséquences de l’épidémie de Covid-19.
+15. Garantie de financement des établissements de santé et aux régimes
+    complémentaires obligatoires de sécurité sociale.
+16. Dispositions temporaires relative aux assistants maternels et aux
+    disponibilités d’accueil des jeunes enfants.
+17. Adaptation temporaire des règles d’instruction des demandes et
+    d’indemnisation des victimes par l’Office national d’indemnisation
+    des victimes d’accidents médicaux, des affections iatrogènes et des
+    infections nosocomiales et par le Fonds d’indemnisation des victimes
+    de l’amiante.
+18. Prolongation des droits sociaux.
+19. Adaptations des règles d’organisation et de fonctionnement des
+    établissements sociaux et médico-sociaux.
+20. Adaptation temporairement des conditions et modalités d’attribution
+    de l’indemnité complémentaire prévue à l’article L. 1226-1 du code
+    du travail et modifiant, à titre exceptionnel, les dates limites et
+    les modalités de versement des sommes versées au titre de
+    l’intéressement et de la participation.
+21. Mesures d’urgence en matière de congés payés, de durée du travail et
+    de jours de repos.
+22. Mesures d’urgence en matière des revenus de remplacement mentionnés
+    à l’article L. 5421-2 du code du travail.
+23. Prolongation de la durée de validité des documents de séjour.
+24. Prolongement de la trêve hivernale.
+25. Maintien en fonction des membres des conseils d’administration des
+    caisses locales et de la caisse centrale de la mutualité sociale
+    agricole.
+
+**Quels sont les stades de gestion de l’épidémie de Coronavirus COVID-19
+en France ?**
 Le **stade 1** prévoit de freiner l’introduction du virus sur le
 territoire national. Il correspond à la mise en alerte du système de
 santé. Les autorités sanitaires sont mobilisées pour isoler les malades,
@@ -2394,16 +2768,12 @@ résidents et limiter la contamination est le suivant :
 
 -   Renforcement des gestes barrières (lavage des mains réguliers) pour
     ralentir la progression de l’épidémie.
--   Réduction massive des visites : enfants de moins de 15 ans, proches
-    ou extérieurs présentant des symptômes ou malades.
 
 Les professionnels des EHPAD sont également mobilisés afin de modifier
 les habitudes au sein de ces structures.\
 \
 Cela comprend notamment :
 
--   La réduction des activités collectives et les sorties, et éviter les
-    contacts avec les personnes malades au sein de l’établissement.
 -   La détection très rapide de tout cas suspects et isolement de la
     personne en attendant confirmation.
 
@@ -2525,7 +2895,7 @@ le numéro d’appel d’urgence pour les sourds et malentendants
 **Numéros d’urgence et d’écoute :**\
 Violences sur les enfants **119** - <https://www.allo119.gouv.fr/>\
 Violences conjugales **3919** -
-<https://www.stop-violences-femmes.gouv.fr/>\
+[https://arretonslesviolences.gouv.fr](http://arretonslesviolences.gouv.fr)\
 Attention, en cas de danger immédiat contacter le **17**.
 
 #### J’habite à l’étranger, qui appeler ?
@@ -2691,10 +3061,21 @@ mobilisation de systèmes de gardes d’enfants** organisés par l’Education
 nationale et ses partenaires. L’Etat mobilise également les taxis et les
 hôtels pour les accompagner dans leurs missions. \
 \
-Un hôpital de campagne du service de santé des Armées sera déployé dans
-les jours à venir en Alsace. Les armées apporteront leur concours pour
-déplacer les malades des régions les plus affectées et ainsi réduire la
-congestion dans les hôpitaux de certains territoires.
+L’armée est pleinement mobilisée avec ses cinq hôpitaux d’instruction
+militaire, l’installation d’un hôpital de campagne à Mulhouse mais aussi
+des opérations de transport sanitaire maritime et aérien grâce au
+porte-hélicoptère Tonnerre et l’équipement MORPHEE (Module de
+Réanimation pour Patient à Haute Élongation d'Évacuation) dans un A330
+de l’armée de l’Air pour transporter des patients atteints de
+COVID-19. \
+Le 25 mars, le président de la République a annoncé le lancement de
+l’opération militaire “Résilience”, distincte de l’opération
+“Sentinelle” pour apporter aide et soutien à la population mais aussi
+aux services publics en terme sanitaire, logistique et de protection en
+métropole et dans les Outre-mer. Prochainement les porte-hélicoptères
+Mistral et Dixmud seront déployés respectivement au sud de l’Océan
+Indien (Réunion, Mayotte) et dans la région Antilles-Guyane.\
+ 
 
 [Retour aux mesures prises par le Gouvernement](#ancre7){.backmenuh2}
 
@@ -2860,8 +3241,20 @@ Pour les entreprises, le Gouvernement a annoncé les mesures suivantes : 
     Coronavirus comme un cas de force majeure pour leurs marchés
     publics. En conséquence, pour tous les marchés publics d’Etat et des
     collectivités locales, les pénalités de retards ne seront pas
-    appliquées
+    appliquées.
 
+Le gouvernement a également annoncé un plan d’urgence de soutien dédié
+aux start-up, de près de 4 milliards d’euros. Ce plan spécifique vise à
+compléter les mesures globales de soutien aux entreprises déjà annoncées
+par Bruno Le Maire, ministre de l'Economie et des Finances, Gérald
+Darmanin, ministre de l’Action et des Comptes publics et Muriel
+Pénicaud, ministre du Travail. Il a pour objectif de répondre aux
+problématiques particulières des start-up. Ces dernières sont bien
+évidemment également éligibles aux dispositifs d’urgence proposés à
+l’ensemble des entreprises.\
+\
+[Plus
+d'informations](https://www.economie.gouv.fr/coronavirus-startup-mesures-de-soutien-economique)\
 Pour connaitre les modalités d’accès aux différentes aides [télécharger
 la
 brochure](/sites/default/files/contenu/piece-jointe/2020/03/brochure_fiches_pratiques_sur_les_mesures_de_soutien.pdf).
@@ -2872,7 +3265,7 @@ Pour plus d’informations dans votre région, contactez le [0 800 130
 
 ### [[]{#partie7n6}Chronologie]{}
 
--   **2 janvier :** Début de veille au Centre opérationnel de réception
+-   **2 janvier :** Début de veiller au Centre opérationnel de réception
     et de régulation des urgences sanitaires et sociales (CORRUSS)
 -   **10 janvier :** Envoi aux Agences Régionales de Santé - ARS, aux
     sociétés savantes (urgentistes, SAMU, infectiologues) de fiches de
@@ -2904,11 +3297,10 @@ Pour plus d’informations dans votre région, contactez le [0 800 130
     Solidarités et de la Santé.
 -   **26 janvier 2020 :** Première Réunion interministérielle présidée
     par le Premier Ministre.
--   **27 janvier :** Activation du Centre de Crise Sanitaire, le 27
-    janvier 2020
--   **27 janvier :** Développement d’un test diagnostic rapide par
-    l’institut Pasteur permettant de donner un résultat en quelques
-    heures.
+-   **27 janvier :**\
+    Développement d’un test diagnostic rapide par l’institut Pasteur
+    permettant de donner un résultat en quelques heures ;\
+    Activation du Centre de Crise Sanitaire, le 27 janvier 2020
 -   **31 janvier :** Première opération de retour des ressortissants
     français vivant dans la province de Hubei, par vol direct depuis
     Wuhan accompagné d’une équipe médicale et confinement des passagers
@@ -3025,22 +3417,30 @@ Pour plus d’informations dans votre région, contactez le [0 800 130
 -   **20 mars** **:** Mobilisation du porte-hélicoptère amphibie
     “Tonnerre” de la Marine nationale pour l’évacuation des patients en
     réanimation en Corse vers des établissements de santé du continent
--   **21 mars :** Le ministre des Solidarités et de la Santé Olivier
-    Véran annonce que des commandes de plus de 250 millions de masques
-    ont été signées et seront livrées progressivement.
--   **22 mars :** 12 patients atteints du coronavirus ont été évacués de
-    Corse à bord du “Tonnerre” pour être admis dans plusieurs hôpitaux
-    des Bouches-du-Rhône.
--   **22 mars :** 22 patients hospitalisés dans le Grand Est et placés
-    sous assistance respiratoire seront accueillis dans des hôpitaux
-    situés dans trois pays frontaliers de la France : en Allemagne, en
-    Suisse et au Luxembourg.
+-   **21 mars :**\
+    Le ministre des Solidarités et de la Santé Olivier Véran annonce que
+    des commandes de plus de 250 millions de masques ont été signées et
+    seront livrées progressivement.\
+    2ème mission MORPHEE entre Mulhouse et Bordeaux pour le transfert
+    par A330 de l’armée de l’air de 6 patients vers l’hôpital Pellegrin.
+-   **22 mars :**\
+    Adoption de l'état d’urgence sanitaire pour deux mois\
+    12 patients atteints du coronavirus ont été évacués de Corse à bord
+    du “Tonnerre” pour être admis dans plusieurs hôpitaux des
+    Bouches-du-Rhône.\
+    22 patients hospitalisés dans le Grand Est et placés sous assistance
+    respiratoire seront accueillis dans des hôpitaux situés dans trois
+    pays frontaliers de la France : en Allemagne, en Suisse et au
+    Luxembourg.
 -   **23 mars :** Installation d’un hôpital de campagne militaire à
     Mulhouse.
 -   **24 mars :** 3e mission MORPHEE entre Mulhouse et Brest pour le
     transfert par A330 de l’armée de l’air de 6 patients.
--   **25 mars :** Affrètement d’un TGV médicalisé entre Mulhouse et les
-    Pays de la Loire.
+-   **25 mars :**\
+    Affrètement d’un TGV médicalisé entre Mulhouse et les Pays de la
+    Loire.\
+    Adoption de 25 ordonnances dans le cadre de l’état d’urgence
+    sanitaire en conseil des ministres.
 
 [Retour aux mesures prises par le Gouvernement](#ancre7){.backmenuh2}
 
