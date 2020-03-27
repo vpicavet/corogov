@@ -120,7 +120,7 @@ COVID-19
 
 
 
-Mis à jour le vendredi 27 mars 2020 à 19H
+Mis à jour le vendredi 27 mars 2020 à 22H00
 
 
 -   [Francais](/info-coronavirus){.active}
@@ -620,7 +620,7 @@ ceux-ci ne devraient pas être disponibles avant plusieurs mois. 
 
 Concernant les traitements, plusieurs sont en cours d’évaluation en
 France, en lien avec l’OMS pour être utilisés contre le coronavirus
-COVID-19. Dans l’attente, le traitement.
+COVID-19.
 
 
 
@@ -648,7 +648,7 @@ Français des Centres Régionaux de Pharmacovigilance).
 
 
 
-A ce stade, aucun problème d'accès aux médicaments n'a été signalé en
+À ce stade, aucun problème d'accès aux médicaments n'a été signalé en
 relation avec l'épidémie de Coronavirus COVID-19 en France, ni en
 Europe. Il n’existe notamment aucune pénurie actuelle ou à venir de
 paracétamol. Néanmoins, l’industrie pharmaceutique mondiale est très
@@ -682,7 +682,7 @@ d'ibuprofène et d'aspirine est suspendue.
 
 
 
-A ce stade, l’efficacité de la chloroquine dans le traitement de
+À ce stade, l’efficacité de la chloroquine dans le traitement de
 l’infection à COVID-19 n’a pas été scientifiquement démontrée. Le
 Haut-Conseil de Santé Publique recommande de ne pas utiliser ce
 traitement en l’absence de recommandation à l’exception des cas graves à
@@ -754,7 +754,7 @@ malades à des risques liés au médicament.
 Le Président de la République a fait un point avec des médecins, des
 scientifiques des responsables de laboratoires mobilisés pour la
 recherche contre le coronavirus et les responsables du consortium
-REACTing, coordonné par l’INSERM et placé sous l’égide d’Aviesan,
+REACTing, coordonné par l'INSERM et placé sous l’égide d’Aviesan,
 l’alliance de recherche en sciences du vivant et santé, et mandaté par
 le gouvernement pour coordonner l’effort de recherche. Le monde de la
 recherche est totalement mobilisé. Afin de soutenir l’effort de
@@ -785,7 +785,8 @@ supplémentaires dans la recherche sur les dix prochaines années.
 ### Point de situation en france {#point-de-situation-en-france .item-paragraphe-titre .c-onglet}
 
 
-**Le 27 mars à 19h30**
+**Le 27 mars à 19h30**\
+ 
 
 Les autorités sanitaires tiennent [un point presse
 quotidien](https://www.dailymotion.com/MinSoliSante) pour vous informer
@@ -801,7 +802,9 @@ Les informations du jour :
     coronavirus COVID-19 confirmés.
 -   1 995 personnes sont décédées depuis le début de l’épidémie.
 
-Retrouvez [le point épidémiologique quotidien sur Santé publique
+Retrouvez toutes les données sur [le tableau de bord COVID-19 de
+gouvernement.fr](https://www.gouvernement.fr/info-coronavirus/carte-et-donnees),
+et [le point épidémiologique quotidien sur Santé publique
 France](https://www.santepubliquefrance.fr/maladies-et-traumatismes/maladies-et-infections-respiratoires/infection-a-coronavirus/).\
 \
 Un hôpital de référence a été désigné dans chacun des départements et
@@ -868,8 +871,8 @@ distance** les uns des autres\
 **Si j’ai des symptômes (toux, fièvre) qui me font penser au COVID-19 :
 je reste à domicile, j’évite les contacts, j’appelle un médecin avant de
 me rendre à son cabinet ou j’appelle le numéro de permanence de soins de
-ma région. Je peux également bénéficier d’une téléconsultation.**
-
+ma région. Je peux également bénéficier d’une téléconsultation.**\
+\
 Si les symptômes s’aggravent avec des difficultés respiratoires,
 j’appelle le SAMU- Centre 15.
 
@@ -887,7 +890,7 @@ les appelle les gestes barrières :
 -   Tousser ou éternuer dans son coude ou dans un mouchoir 
 -   Saluer sans se serrer la main, éviter les embrassades
 -   Utiliser des mouchoirs à usage unique et les jeter
--   Eviter les rassemblements, limiter les déplacements et les contact
+-   Eviter les rassemblements, limiter les déplacements et les contacts
 -   Se distancier d’au moins un mètre de chaque autre personne autour de
     soi
 
@@ -936,6 +939,7 @@ symptômes. Le masque n’est pas la bonne réponse pour le grand public car
 il ne peut être porté en permanence et surtout n’a pas d’indication sans
 contact rapproché et prolongé avec un malade.
 
+\
 Contre le coronavirus, ce sont les gestes barrières et les mesures de
 distanciation sociale qui sont efficaces.
 
@@ -955,16 +959,19 @@ des personnes fragiles, ainsi qu’aux services d’aide à domicile, pour
 garantir la continuité de l’accompagnement à domicile des personnes
 âgées et en situation de handicap.
 
+\
 Au 21 mars 2020, le stock d'État est de 86 millions de masques : 81
 millions de masques chirurgicaux et 5 millions de masques de norme
 FFP2. 
 
+\
 La France est en mesure de fabriquer 6 millions de masques
 supplémentaires chaque semaine ; à partir du mois d’avril, cette
 capacité de production s’élèvera à 8 millions de masques par semaine,
 dont la moitié de FFP2. 
 
-A cela s’ajoute des commandes de plus de 250 millions de masques, qui
+\
+À cela s’ajoute des commandes de plus de 250 millions de masques, qui
 sont livrés progressivement depuis le 24 mars.
 
 
@@ -982,10 +989,12 @@ Depuis le début de la crise, les masques sont livrés en priorité : 
 -   aux personnes qui interviennent auprès des personnes âgées en EHPAD,
     pour préserver les capacités hospitalières.
 
+\
 Au total, depuis la dernière semaine de février, 70 millions de masques
 ont été livrés aux professionnels de santé de ville, à l’hôpital et dans
 les EHPAD. 
 
+\
 Depuis le 21 mars, les masques seront distribués ainsi :
 
 -   Pour les médecins de ville, les biologistes médicaux et les
@@ -1024,6 +1033,7 @@ Depuis le 21 mars, les masques seront distribués ainsi :
 -   Pour les transporteurs sanitaires et les centres de secours : 1
     boîte de 50 masques par semaine et par structure.
 
+\
 Les chirurgiens-dentistes disposent désormais d’un stock dédié de
 masques qu’ils ont eux-mêmes réparti sur le territoire de façon à
 pouvoir dans la durée assurer les soins urgents à la population.
@@ -1044,7 +1054,7 @@ ainsi que ceux qui seront produits jusqu’au 31 mai 2020.
 
 
 
-#### A défaut d’un masque, est-il utile de se protéger le visage avec un foulard lorsqu’on va faire ses courses ou que l’on sort dans la rue ? {#a-défaut-dun-masque-est-il-utile-de-se-protéger-le-visage-avec-un-foulard-lorsquon-va-faire-ses-courses-ou-que-lon-sort-dans-la-rue .item-question}
+#### À défaut d’un masque, est-il utile de se protéger le visage avec un foulard lorsqu’on va faire ses courses ou que l’on sort dans la rue ? {#à-défaut-dun-masque-est-il-utile-de-se-protéger-le-visage-avec-un-foulard-lorsquon-va-faire-ses-courses-ou-que-lon-sort-dans-la-rue .item-question}
 
 
 
