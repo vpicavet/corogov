@@ -1157,8 +1157,13 @@ Le Président a annoncé la fermeture, à partir du 17 mars à midi et pour
 30 jours, des frontières extérieures de l’espace européen, c’est-à-dire
 de l’Union européenne, de l’Espace Schengen et du Royaume-Uni.
 
-**Je suis un ressortissant français actuellement en déplacement
-temporaire à l’étranger. Dois-je rentrer immédiatement en France ?**
+
+
+
+
+#### Je suis un ressortissant français actuellement en déplacement temporaire à l’étranger. Dois-je rentrer immédiatement en France ? {#je-suis-un-ressortissant-français-actuellement-en-déplacement-temporaire-à-létranger.-dois-je-rentrer-immédiatement-en-france .item-question}
+
+
 
 Si vous êtes Français, que vous vous trouvez à l’étranger en déplacement
 temporaire, mais que vous vivez habituellement en France, revenez
@@ -1177,8 +1182,8 @@ l’Europe et des Affaires
 
 
 
-**A/** Si vous êtes Français résident au sein de l’espace européen
-(Union européenne, espace Schengen, Royaume-Uni).
+**A. Si vous êtes Français résident au sein de l’espace européen (Union
+européenne, espace Schengen, Royaume-Uni).**
 
 Si vous êtes Français ayant une résidence habituelle hors de France mais
 au sein de l’espace européen, nous vous recommandons d’éviter des
@@ -1186,20 +1191,22 @@ déplacements intra-européens, même pour revenir sur le territoire
 national, à moins que des raisons impératives ne vous y contraignent. Si
 plusieurs frontières terrestres devaient être franchies pour regagner la
 France, des retours directs par voie aérienne devraient, dans la mesure
-du possible, être privilégiés.
+du possible, être privilégiés.\
+ 
 
-**B/** Si vous êtes Français ayant votre résidence habituelle en dehors
-de l’espace européen.
+**B. Si vous êtes Français ayant votre résidence habituelle en dehors de
+l’espace européen.**
 
 Nous vous recommandons, à partir du 17 mars à midi et pour 30 jours,
 d’éviter autant que possible les déplacements internationaux, même pour
 revenir sur le territoire national, à moins que des raisons impératives
 ne vous y contraignent. Si vous jugez nécessaire de rentrer en France,
 notamment au regard de vos conditions sanitaires, vous devez vous faire
-connaître de nos ambassades et consulats dès que possible.
+connaître de nos ambassades et consulats dès que possible.\
+ 
 
-**C/** Si vous êtes Français actuellement en déplacement temporaire à
-l’étranger
+**C. Si vous êtes Français actuellement en déplacement temporaire à
+l’étranger**
 
 Nous vous recommandons de prendre toutes les mesures nécessaires pour
 rentrer rapidement en France tant que des liaisons aériennes sont en
@@ -1231,8 +1238,10 @@ d’actualiser vos données de voyage en indiquant votre date de retour.  
 Les ambassades et les consulats sont mobilisés 24 heures sur 24, auprès
 des Français se trouvant à l'étranger, pour apporter toute l'aide
 possible.\
-Pour plus d’informations, consultez la page dédiée du ministère de
-l’Europe et des Affaires étrangères
+\
+Pour plus d’informations, consultez la page dédiée du [ministère de
+l’Europe et des Affaires
+étrangères](https://www.diplomatie.gouv.fr/fr/le-ministere-et-son-reseau/actualites-du-ministere/informations-coronavirus-covid-19/coronavirus-les-reponses-a-vos-questions/).
 
 
 
@@ -1431,7 +1440,7 @@ Je prends des nouvelles de mes proches
 -   Je peux créer une boucle d’entraide avec mes voisins ;
 -   je peux sortir dans mon jardin, sur mon balcon ou ma terrasse ;
 -   je peux téléphoner ou écrire à mes proches ;
--   je peux rester dans un hotel ou une cité U sans y manger sauf dans
+-   je peux rester dans un hôtel ou une cité U sans y manger sauf dans
     ma chambre.
 
 
@@ -1533,7 +1542,8 @@ Les hôtels sont assimilés à des domiciles privés et restent donc
 ouverts, et leurs “room service” restent disponibles. Cependant, les
 restaurants et bars d’hôtels ne peuvent pas accueillir de public.
 
-Les animaleries restent également ouvertes.
+Les animaleries restent également ouvertes.\
+ 
 
 **Par dérogation, restent également ouverts :**
 
@@ -1657,20 +1667,23 @@ de soins, de ville, d’urgence et hospitaliers, sont mobilisés pour
 prendre en charge les personnes en situation de handicap.** Les
 professionnels médico-sociaux devront être en appui pour accompagner les
 personnes hospitalisées, notamment polyhandicapées, et les
-professionnels de santé.
+professionnels de santé.\
+ 
 
 **Les professionnels médico-sociaux sont soutenus au vu de l’importance
 de leur mission. Ils comptent parmi les personnels prioritaires pour la
 mobilisation de systèmes de gardes d’enfants** organisés par l’Education
 nationale et ses partenaires. L’Etat mobilise également les taxis et les
-hôtels pour les accompagner dans leurs missions. 
+hôtels pour les accompagner dans leurs missions. \
+ 
 
 L’armée est pleinement mobilisée avec ses cinq hôpitaux d’instruction
 militaire, l’installation d’un hôpital de campagne à Mulhouse mais aussi
 des opérations de transport sanitaire maritime et aérien grâce au
 porte-hélicoptère Tonnerre et l’équipement MORPHEE (Module de
 Réanimation pour Patient à Haute Élongation d'Évacuation) dans un A330
-de l’armée de l’Air pour transporter des patients atteints de COVID-19. 
+de l’armée de l’Air pour transporter des patients atteints de COVID-19.\
+ 
 
 Le 25 mars, le président de la République a annoncé le lancement de
 l’opération militaire “Résilience”, distincte de l’opération
@@ -1701,20 +1714,31 @@ pour quinze jours minimum. Les déplacements sont interdits sauf dans les
 cas suivants et uniquement à condition d'être munis d'une attestation
 pour :
 
--   Se déplacer de son domicile à son lieu de travail dès lors que le
-    télétravail n’est pas possible ;
--   Faire ses achats de première nécessité dans les commerces de
-    proximité autorisés ;
--   Se rendre auprès d’un professionnel de santé ;
--   Se déplacer pour la garde de ses enfants ou pour aider les personnes
-    vulnérables, ou pour un motif familial impérieux, dûment justifié, à
-    la stricte condition de respecter les gestes barrières ;
--   Sortir, dans la limite d'une heure quotidienne et dans un rayon
-    maximal d'un kilomètre autour du domicile, soit pour l'activité
-    physique individuelle, à l'exclusion de toute pratique sportive
-    collective et de toute proximité avec d'autres personnes, soit pour
-    la promenade avec les seules personnes regroupées dans un même
-    domicile, soit pour les besoins des animaux de compagnie.
+-   **Déplacements entre le domicile et le lieu d’exercice de l’activité
+    professionnelle**, lorsqu’ils sont indispensables à l’exercice
+    d’activités ne pouvant être organisées sous forme de télétravail ou
+    déplacements professionnels ne pouvant être différés.
+-   **Déplacements pour effectuer des achats de fournitures nécessaires
+    à l’activité professionnelle et des achats de première nécessité,**
+    y compris les acquisitions à titre gratuit (distribution de denrées
+    alimentaires…) et les déplacements liés à la perception de
+    prestations sociales et au retrait d’espèces, dans des
+    établissements dont les activités demeurent autorisées.
+-   **Consultations et soins** ne pouvant être assurés à distance et ne
+    pouvant être différés  ; soin des patients atteints d'une affection
+    de longue durée.
+-   **Déplacements pour motif familial impérieux**, pour l’assistance
+    aux personnes vulnérables ou la garde d’enfants.
+-   **Déplacements brefs, dans la limite d'une heure quotidienne et dans
+    un rayon maximal d'un kilomètre autour du domicile**, liés soit à
+    l'activité physique individuelle des personnes, à l'exclusion de
+    toute pratique sportive collective et de toute proximité avec
+    d'autres personnes, soit à la promenade avec les seules personnes
+    regroupées dans un même domicile, soit aux besoins des animaux de
+    compagnie.
+-   **Convocation judiciaire ou administrative**.
+-   **Participation à des missions d’intérêt général** sur demande de
+    l’autorité administrative.
 
 
 
@@ -1727,7 +1751,8 @@ conseils aux
 voyageurs](https://www.diplomatie.gouv.fr/fr/le-ministere-et-son-reseau/actualites-du-ministere/informations-coronavirus-covid-19/)
 dans les pays touchés par le Coronavirus COVID-19. Les conseils aux
 voyageurs sont réévalués en fonction de l’évolution de la situation
-épidémiologique internationale et des recommandations de l’OMS. 
+épidémiologique internationale et des recommandations de l’OMS.\
+ 
 
 Le ministère a aussi mis en place quatre opérations de rapatriement en
 activant le mécanisme européen de solidarité pour les ressortissants
@@ -1735,12 +1760,14 @@ français et européens qui habitaient dans la province de Hubei en Chine,
 épicentre de l’épidémie. Des règles sanitaires strictes ont été
 appliquées à l’ensemble de l’opération, qui prévoit notamment une
 période de confinement de 14 jours à l’arrivée pour l’ensemble des
-Français bénéficiant de l’opération. 
+Français bénéficiant de l’opération. \
+ 
 
 Enfin, comme annoncé par le Président de la République, pour manifester
 sa solidarité avec le peuple chinois, un avion affrété par la France a
 décollé le 19 février transportant des équipements médicaux dédiés à la
-lutte contre le Coronavirus COVID-19.
+lutte contre le Coronavirus COVID-19.\
+ 
 
 Ce fret de solidarité de 17 tonnes comprenait notamment des combinaisons
 médicales de protection, des masques, des gants et des produits
@@ -1757,10 +1784,9 @@ l’Ambassade de France à Pékin et le consulat général de France à Wuhan.
 
 **Fermeture de tous les établissements scolaires**
 
-Par mesure de sécurité, le Président de la République a annoncé, le 12
-mars 2020, la fermeture de l’ensemble des crèches, écoles, collèges,
-lycées et universités pour une durée minimum de 15 jours, et autant que
-nécessaire, et ce, à partir du lundi 16 mars 2020.
+Le Président de la République a annoncé, le 12 mars 2020, la fermeture
+de l’ensemble des crèches, écoles, collèges, lycées et universités à
+partir du lundi 16 mars 2020.
 
 Cette mesure, prise sur recommandations des scientifiques au vu de
 l’accélération de l’épidémie, vise à la fois à protéger les plus jeunes
@@ -1773,14 +1799,15 @@ professeur et dispose de ressources et d’exercices. Pour les 5% de
 famille qui ne sont pas équipées en matériel informatique, des solutions
 seront déployées avec les collectivités locales.
 
-A noter que les territoires d’Outre-mer ne sont pas tous concernés par
+À noter que les territoires d’Outre-mer ne sont pas tous concernés par
 la fermeture des crèches, établissements scolaires et universités car
 ils ne sont pas tous touchés de la même manière par le COVID-19. Ce sont
-donc les préfets qui prendront cette décision et l’adapteront.
+donc les préfets qui prendront cette décision et l’adapteront.\
+ 
 
 **Service de garde**
 
-Le président de la République a également annoncé la mise en place d’un
+Le Président de la République a également annoncé la mise en place d’un
 service de garde pour les personnels qui sont indispensables à la
 gestion de la crise sanitaire. Pour assurer l’accueil des enfants âgés
 de moins de 16 ans de ces personnes, lorsqu’elles ne disposent pas
@@ -1794,7 +1821,8 @@ Les parents concernés et leurs enfants seront accueillis dès lors qu’ils
 présenteront la carte professionnelle de santé ou une fiche de paye avec
 mention de l’établissement employeur. Toute piste complémentaire sur des
 aides/gardes d’enfants à domicile pourra être envisagée localement sous
-l’égide des Préfets (ex. plateformes offre/demande).
+l’égide des Préfets (ex. plateformes offre/demande).\
+ 
 
 Sont concernés par ce dispositif :
 
@@ -1830,24 +1858,24 @@ Pour les entreprises, le Gouvernement a annoncé les mesures suivantes : 
 -   Dans les situations les plus difficiles, des **remises d’impôts
     directs** pouvant être décidées dans le cadre d'un examen
     individualisé des demandes ;
--   La suspension d**es loyers, des factures d'eau, de gaz et
-    d’électricité** pour les PME en difficulté
+-   La suspension **des loyers, des factures d'eau, de gaz et
+    d’électricité** pour les PME en difficulté ;
 -   **L’aide de 1 500 euros** pour toutes les petites entreprises, les
     indépendants, et les microentreprises grâce au fonds de solidarité ;
--   La mobilisation de l’Etat à hauteur de 300 milliards d’euros et de
+-   La mobilisation de l’État à hauteur de 300 milliards d’euros et de
     Bpifrance pour la mise en place de [prêts garantis par
-    l’Etat](https://www.economie.gouv.fr/files/files/PDF/2020/dp-covid-pret-garanti.pdf)
+    l’État](https://www.economie.gouv.fr/files/files/PDF/2020/dp-covid-pret-garanti.pdf)
     ;
 -   Un soutien de l’Etat et de la Banque de France (médiation du crédit)
-    pour négocier avec sa banque un **rééchelonnement des crédits
+    pour négocier avec sa banque **un rééchelonnement des crédits
     bancaires** ;
 -   Le maintien de l'emploi dans les entreprises par le dispositif de
     **chômage partiel simplifié et renforcé** ;
 -   **L’appui au traitement d’un conflit** avec des clients ou
     fournisseurs par le Médiateur des entreprises ;
--   La reconnaissance par l’Etat et les collectivités locales du
+-   La reconnaissance par l’État et les collectivités locales du
     coronavirus comme **un cas de force majeure** pour leurs marchés
-    publics. En conséquence, pour tous les marchés publics d’Etat et des
+    publics. En conséquence, pour tous les marchés publics d’État et des
     collectivités locales, les pénalités de retards ne seront pas
     appliquées
 
@@ -1855,7 +1883,7 @@ Pour connaitre les modalités d’accès aux différentes aides [télécharger
 la
 brochure](https://www.economie.gouv.fr/coronavirus-soutien-entreprises).\
 \
-Le gouvernement a également annoncé un plan d’urgence de soutien dédié
+Le Gouvernement a également annoncé un plan d’urgence de soutien dédié
 aux start-up, de près de 4 milliards d’euros. Ce plan spécifique vise à
 compléter les mesures globales de soutien aux entreprises déjà annoncées
 par Bruno Le Maire, ministre de l'Economie et des Finances, Gérald
@@ -1865,10 +1893,11 @@ problématiques particulières des start-up. Ces dernières sont bien
 évidemment également éligibles aux dispositifs d’urgence proposés à
 l’ensemble des entreprises. »\
 \
-Plus d’information\
-<https://www.economie.gouv.fr/coronavirus-startup-mesures-de-soutien-economique>
+Plus d’informations\
+<https://www.economie.gouv.fr/coronavirus-startup-mesures-de-soutien-economique>\
+ 
 
-Pour plus d’information dans votre région contacter le 0 800 130 000.
+Pour plus d’informations dans votre région, contactez le 0 800 130 000.
 
 
 
@@ -1878,7 +1907,7 @@ Pour plus d’information dans votre région contacter le 0 800 130 000.
 
 -   **2 janvier :** Début de veiller au Centre opérationnel de réception
     et de régulation des urgences sanitaires et sociales (CORRUSS)
--   **6 janvier :** Conseil restreint de défense (Elysée)
+-   **6 janvier :** Conseil restreint de défense (Élysée)
 -   **10 janvier :** Envoi aux Agences Régionales de Santé - ARS, aux
     sociétés savantes (urgentistes, SAMU, infectiologues) de fiches de
     conduites à tenir et de définition de cas par le ministère des
@@ -1887,7 +1916,7 @@ Pour plus d’information dans votre région contacter le 0 800 130 000.
     médico-sociaux et des professionnels de santé libéraux, à la
     situation et aux recommandations sanitaires. 
 -   **15 janvier :** Conseil restreint de défense et de sécurité
-    (Elysée)
+    (Élysée)
 -   **22 janvier :** Activation de CORRUSS en niveau 2 de mobilisation
     renforcé.
 -   **23 janvier :** Mise en place d’un dispositif de suivi et de
@@ -1896,7 +1925,7 @@ Pour plus d’information dans votre région contacter le 0 800 130 000.
     Affaires étrangères, en coordination avec l’Ambassade de France à
     Pékin et l’ensemble des consulats généraux en Chine.
 -   **24 janvier :**
-    -   Conseil restreint de défense et de sécurité (Elysée)
+    -   Conseil restreint de défense et de sécurité (Élysée)
     -   Confirmation des premiers cas confirmés de coronavirus COVID-19
         par Agnès Buzyn, ministre des solidarités et de la Santé.
     -   Déploiement de flyers et d’affiches d’information en français,
@@ -1919,7 +1948,7 @@ Pour plus d’information dans votre région contacter le 0 800 130 000.
     -   Développement d’un test diagnostic rapide par l’institut Pasteur
         permettant de donner un résultat en quelques heures.
 -   **29 janvier :** Conseil restreint de défense et de sécurité
-    (Elysée)
+    (Élysée)
 -   **31 janvier :** Première opération de retour des ressortissants
     français vivant dans la province de Hubei, par vol direct depuis
     Wuhan accompagné d’une équipe médicale et confinement des passagers
@@ -1945,7 +1974,7 @@ Pour plus d’information dans votre région contacter le 0 800 130 000.
     -   Troisième opération de retour de ressortissants français de
         Hubei sur un vol britannique.
 -   **12 février :** Conseil restreint de défense et de sécurité
-    (Elysée)
+    (Élysée)
 -   **13 février :** Activation du plan ORSAN qui vise à organiser la
     mobilisation du système de santé pour se préparer à une éventuelle
     circulation active du coronavirus COVID-19 sur le territoire
@@ -1965,7 +1994,7 @@ Pour plus d’information dans votre région contacter le 0 800 130 000.
     de coronavirus COVID-19 à bord du paquebot de croisière Diamond
     Princess en confinement au large du Japon.
 -   **19 février :**
-    -   Conseil restreint de défense et de sécurité (Elysée)
+    -   Conseil restreint de défense et de sécurité (Élysée)
     -   Envoi de fret médical en solidarité avec la Chine à destination
         des structures hospitalières de Wuhan et de la province du
         Hubei.
@@ -1978,7 +2007,7 @@ Pour plus d’information dans votre région contacter le 0 800 130 000.
 -   **23 février :** Levée des mesures de confinement pour les passagers
     du troisième vol de retour.
 -   **24 février :**
-    -   Activation de 70 établissements de santé siège d’un SAMU.107
+    -   Activation de 70 établissements de santé siège d’un SAMU. 107
         établissements de santé sont donc en capacité d’accueillir des
         patients atteints de coronavirus COVID-19 soit au moins un par
         département métropolitain et d’Outre-mer.
@@ -1988,14 +2017,14 @@ Pour plus d’information dans votre région contacter le 0 800 130 000.
 -   **25 février :** Déploiement d’affiches d’information sur le
     Coronavirus COVID-19 dans les gares.
 -   **26 février :** Conseil restreint de défense et de sécurité
-    (Elysée)
+    (Élysée)
 -   **27 février :** Sommet Italie-France à Naples (Italie)
 -   **28 février :**
     -   Déclaration du coronavirus COVID-19 comme “cas de force majeure”
         pour les entreprises.
     -   Diffusion de spot radio et télévision de prévention.
 -   **29 février :**
-    -   Conseil restreint de défense et de sécurité (Elysée)
+    -   Conseil restreint de défense et de sécurité (Élysée)
     -   Tenus d’un conseil de défense et d’un conseil des ministres
         exceptionnels sous l’autorité du président de la République,
         consacré au coronavirus. Officialisation du passage du stade 1
@@ -2009,7 +2038,7 @@ Pour plus d’information dans votre région contacter le 0 800 130 000.
 -   **3 mars:** Mise en place d’une cellule de continuité économique au
     ministère de l’Economie et des Finances.
 -   **4 mars :** Conseil restreint de défense consacré au COVID-19
-    (Elysée)
+    (Élysée)
 -   **5 mars :** Réunion de travail avec des acteurs de la recherche
     publique et privée engagés dans la lutte contre le COVID-19
 -   **6 mars :**
@@ -2031,12 +2060,12 @@ Pour plus d’information dans votre région contacter le 0 800 130 000.
 -   **10 mars :** Visioconférence de coordination européenne sur le
     Coronavirus COVID-19.
 -   **11 mars :** Conseil restreint de défense et de sécurité nationale
-    (Elysée)
+    (Élysée)
 -   **12 mars :**
     -   Réunion sur le COVID-19 du Premier ministre avec les présidents
         des Assemblées, les présidents des groupes parlementaires, les
         chefs de partis et les présidents des associations d'élus
-    -   Allocution du président de la République
+    -   Allocution du Président de la République
     -   Fermeture des crèches, écoles, collèges, lycées et universités
         jusqu’à nouvel ordre, et mise en place d’un service de garde,
         région par région, pour les personnels qui sont indispensables à
@@ -2059,16 +2088,16 @@ Pour plus d’information dans votre région contacter le 0 800 130 000.
         personnes le Premier ministre
 -   **14 mars :** Annonce du passage en stade 3 par le Premier ministre
 -   **16 mars :**
-    -   Réunion du réunion du Premier ministre avec Bruno Le Maire,
-        Muriel Pénicaud, Didier Guillaume, Jean-Baptiste Lemoyne et
-        Agnès Pannier-Runacher, et les différents acteurs économiques
+    -   Réunion du Premier ministre avec Bruno Le Maire, Muriel
+        Pénicaud, Didier Guillaume, Jean-Baptiste Lemoyne et Agnès
+        Pannier-Runacher, et les différents acteurs économiques
         nationaux
     -   Conférence téléphonique du président de la République avec la
         Chancelière de la République fédérale d’Allemagne, Mme Angela
         Merkel, le Président du Conseil européen, M. Charles Michel, et
         la Présidente de la Commission européenne, Mme Ursula Von der
         Leyen
-    -   Allocution du président de la République
+    -   Allocution du Président de la République
 -   **17 mars :**
     -   Conseil européen extraordinaire par visioconférence
     -   Restriction des déplacements au strict minimum.
@@ -2112,7 +2141,7 @@ Pour plus d’information dans votre région contacter le 0 800 130 000.
     -   Conseil de défense consacré au suivi de la crise du coronavirus
         COVID-19
     -   Adoption de 25 ordonnances dans le cadre de l’état d’urgence
-        sanitaire en conseil des ministre
+        sanitaire en conseil des ministres
 -   **26 mars :**
     -   Publication du décret encadrant l’utilisation de la chloroquine
     -   Annonce par le G20 de l’injection de 5 000 milliards de dollars
