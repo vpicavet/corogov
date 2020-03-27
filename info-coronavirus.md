@@ -632,7 +632,7 @@ Point de situation en France
 
 
 
-#### Le 26 mars à 12h30
+#### Le 26 mars à 19h30
 
 Le ministre des Solidarités et de la Santé, tient un [point presse
 quotidien](http://www.dailymotion.com/MinSoliSante) pour vous informer
@@ -644,9 +644,9 @@ Les informations du jour :
     plusieurs zones de regroupement de cas (clusters). Nous sommes
     actuellement au stade 3 du plan d’actions du Gouvernement qui a pour
     objectif de prévenir et limiter la circulation du virus.
--   Depuis le 24 janvier 2020, la France compte 25 233 cas confirmés de
+-   Depuis le 24 janvier 2020, la France compte 29 155 cas confirmés de
     Coronavirus COVID-19.
--   1 331 personnes sont décédées depuis le début de l'épidémie.
+-   1 696 personnes sont décédées depuis le début de l'épidémie.
 
 Retrouvez le point épidémiologique quotidien sur [Santé publique
 France](http://www.santepubliquefrance.fr/maladies-et-traumatismes/maladies-et-infections-respiratoires/infection-a-coronavirus/articles/infection-au-nouveau-coronavirus-sars-cov-2-covid-19-france-et-monde).\
