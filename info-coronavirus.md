@@ -153,9 +153,11 @@ munis d'une attestation pour :
     d’activités ne pouvant être organisées sous forme de télétravail ou
     déplacements professionnels ne pouvant être différés.
 -   **Déplacements pour effectuer des achats de fournitures nécessaires
-    à l’activité professionnelle et des achats de première nécessité**
-    \[1\] dans des établissements dont les activités demeurent
-    autorisées.
+    à l’activité professionnelle et des achats de première nécessité,**
+    y compris les acquisitions à titre gratuit (distribution de denrées
+    alimentaires…) et les déplacements liés à la perception de
+    prestations sociales et au retrait d’espèces, dans des
+    établissements dont les activités demeurent autorisées.
 -   **Consultations et soins** ne pouvant être assurés à distance et ne
     pouvant être différés  ; soin des patients atteints d'une affection
     de longue durée.
@@ -170,11 +172,7 @@ munis d'une attestation pour :
     compagnie.
 -   **Convocation judiciaire ou administrative**.
 -   **Participation à des missions d’intérêt général** sur demande de
-    l’autorité administrative
-
-\[1\] Y compris les acquisitions à titre gratuit (distribution de
-denrées alimentaires…) et les déplacements liés à la perception de
-prestations sociales et au retrait d’espèces
+    l’autorité administrative.
 
 
 
@@ -210,11 +208,11 @@ gouttelettes](https://www.gouvernement.fr/sites/default/files/cimages/transmissi
 
 
 
-### Qu’est-ce que le coronavirus COVID-19 {#quest-ce-que-le-coronavirus-covid-19 .item-paragraphe-titre .c-onglet}
+### Plus d'informations sur le virus {#plus-dinformations-sur-le-virus .item-paragraphe-titre .c-onglet}
 
 
 
-#### Qu’est-ce que le coronavirus COVID-19 ? {#quest-ce-que-le-coronavirus-covid-19-1 .item-question}
+#### Qu’est-ce que le coronavirus COVID-19 ? {#quest-ce-que-le-coronavirus-covid-19 .item-question}
 
 
 
@@ -225,9 +223,10 @@ SRAS.
 
 Le virus identifié en janvier 2020 en Chine est un nouveau coronavirus,
 nommé SARS-CoV-2. La maladie provoquée par ce coronavirus a été nommée
-COVID-19 par l’Organisation mondiale de la Santé - OMS. Depuis le 11
-mars 2020, l’OMS qualifie la situation mondiale du COVID-19 de pandémie
-; c’est-à-dire que l’épidémie est désormais mondiale.
+COVID-19 par l’[Organisation mondiale de la Santé -
+OMS](https://www.who.int/fr/emergencies/diseases/novel-coronavirus-2019/advice-for-public).
+Depuis le 11 mars 2020, l’OMS qualifie la situation mondiale du COVID-19
+de pandémie ; c’est-à-dire que l’épidémie est désormais mondiale.
 
 
 
@@ -349,8 +348,8 @@ La maladie se transmet par les gouttelettes (sécrétions projetées
 invisibles lors d’une discussion, d’éternuements ou de la toux). On
 considère donc qu’un contact étroit avec une personne malade est
 nécessaire pour transmettre la maladie : même lieu de vie, contact
-direct à moins d’1 m lors d’une discussion, d’une toux, d’un éternuement
-ou en l’absence de mesures de protection.
+direct à moins d’un mètre lors d’une discussion, d’une toux, d’un
+éternuement ou en l’absence de mesures de protection.
 
 Un des autres vecteurs privilégiés de la transmission du virus est le
 contact des mains non lavées souillées par des gouttelettes.
