@@ -3467,7 +3467,7 @@ pour les déposer dans les différents points de collecte.
 
 
 
-A l'instar des pharmacies, les cabinets de médecine resteront ouverts
+À l'instar des pharmacies, les cabinets de médecine resteront ouverts
 mais attention : il est demandé aux personnes qui ressentent les
 symptômes du Coronavirus de ne pas se rendre au cabinet de leur médecin
 de ville. En cas de symptômes légers (fièvre et toux), il faut d’abord
@@ -3487,7 +3487,7 @@ rendre chez l’opticien par exemple.
 
 
 Non, vous pouvez vous rendre comme prévu à votre maternité, en cochant
-la case "motif de santé".
+la case "motif de santé" sur votre attestation dérogatoire.
 
 
 
@@ -3497,11 +3497,11 @@ la case "motif de santé".
 
 
 
-Suite au décret paru au journal officiel le 15 mars dernier relatif aux
-mesures mises en place par le gouvernement pour lutter contre la
+Suite au décret paru au Journal Officiel le 15 mars dernier relatif aux
+mesures mises en place par le Gouvernement pour lutter contre la
 propagation du coronavirus, les Françaises et les Français peuvent se
 voir délivrer leurs médicaments jusqu’au 31 mai, et ce sans
-renouvellement d’ordonnance. Ainsi, Les pharmaciens sont autorisés à
+renouvellement d’ordonnance. Ainsi, les pharmaciens sont autorisés à
 délivrer la pilule contraceptive aux femmes dans l’impossibité de faire
 renouveler leur ordonnance, sur simple présentation de leur ancienne
 ordonnance.
@@ -3551,7 +3551,7 @@ essentiels" sont reportés dans les hôpitaux.
 
 
 
-#### Je suis atteinte d’une tumeur au cerveau et devait bénéficier d’un traitement expérimental aux Etats-Unis. Comment m’y rendre avec le confinement ? {#je-suis-atteinte-dune-tumeur-au-cerveau-et-devait-bénéficier-dun-traitement-expérimental-aux-etats-unis.-comment-my-rendre-avec-le-confinement .item-question}
+#### Je suis atteinte d’une tumeur au cerveau et devais bénéficier d’un traitement expérimental aux Etats-Unis. Comment m’y rendre avec le confinement ? {#je-suis-atteinte-dune-tumeur-au-cerveau-et-devais-bénéficier-dun-traitement-expérimental-aux-etats-unis.-comment-my-rendre-avec-le-confinement .item-question}
 
 
 
@@ -3741,7 +3741,7 @@ personnes au sein d’un lieu de culte.
 
 
 
-Le secrétariat d’Etat au numérique a recensé l’ensemble des offres
+Le secrétariat d’État au Numérique a recensé l’ensemble des offres
 gratuites des plateformes numériques susceptibles de vous accompagner
 pendant cette période de confinement : télétravail, connectivité,
 apprentissage, livraison, téléconsultation, accès à l’information et au
@@ -3810,11 +3810,11 @@ remettre les clés du logement au bénéficiaire.
 
 
 
-Les personnes sans-abri sont prises accueillies dans des lieux qui
-restent ouverts et respectent le seuil de rassemblement maximal.157 000
-places d’hébergement sont actuellement disponibles pour les personnes
-sans abri qui ne sont pas malades. De nouvelles solutions d’hébergement
-sont en train d’être identifiées.
+Les personnes sans-abri sont accueillies dans des lieux qui restent
+ouverts et respectent le seuil de rassemblement maximal. 157 000 places
+d’hébergement sont actuellement disponibles pour les personnes sans abri
+qui ne sont pas malades. De nouvelles solutions d’hébergement sont en
+train d’être identifiées.
 
 Des distributions de nourritures sont organisées de même que des
 maraudes maintenues. La période hivernale a également été prolongée de 2
@@ -4134,8 +4134,8 @@ chaque déplacement personnel.
 
 
 
-Vous êtes incités à limiter vos sorties aux cas limitatifs énumérés,
-donc il est conseillé de grouper vos sorties et il est donc possible
+Vous êtes incités à limiter vos sorties aux cas limitatifs énumérés, il
+est donc conseillé de grouper vos sorties et il est donc possible
 d’indiquer plusieurs motifs.
 
 
@@ -4280,17 +4280,19 @@ personnes.
 ### Les bons comportements {#les-bons-comportements .item-paragraphe-titre .c-onglet}
 
 
-**Je n’ai pas de symptômes ou je n’ai pas été exposé** au COVID-19 à ma
-connaissance : j’applique en permanence les gestes et comportements qui
-permettent de freiner l’épidémie.
+
+#### Je n’ai pas de symptômes ou je n’ai pas été exposé au COVID-19 à ma connaissance {#je-nai-pas-de-symptômes-ou-je-nai-pas-été-exposé-au-covid-19-à-ma-connaissance .item-question}
+
+
 
 Je reste chez moi et je limite mes déplacements au strict nécessaire
 (travail, course, rendez-vous médicaux). J’applique les gestes barrières
-: je me lave régulièrement les mains, je tousse et éternue dans mon
-coude, j’utilise des mouchoirs à usage unique et les jette
-immédiatement, je ne salue pas les autres par une poignée de main ou par
-une embrassade, je respecte une distance de 1 mètre avec toute autre
-personne.
+qui permettent de freiner l'épidémie : je me lave régulièrement les
+mains, je tousse et éternue dans mon coude, j’utilise des mouchoirs à
+usage unique et les jette immédiatement, je ne salue pas les autres par
+une poignée de main ou par une embrassade, je respecte une distance de 1
+mètre avec toute autre personne.
+
 
 
 
@@ -4310,6 +4312,21 @@ s’aggravent avec des difficultés respiratoires j’appelle le SAMU- Centre
 
 
 
+#### J’ai été en contact avec un cas confirmé de COVID-19 ou je vis avec un cas confirmé de COVID-19 {#jai-été-en-contact-avec-un-cas-confirmé-de-covid-19-ou-je-vis-avec-un-cas-confirmé-de-covid-19 .item-question}
+
+
+
+Je reste à mon domicile, je m’isole 2 semaines, je respecte
+scrupuleusement les gestes-barrières, je surveille ma température 2 fois
+par jour, je surveille l’apparition éventuelle de symptômes (toux,
+difficultés respiratoires, fièvre) et j’adopte le télétravail. Si des
+symptômes surviennent, je peux appeler mon médecin, mais je ne me
+déplace pas jusqu’à son cabinet, ni au laboratoire ni aux urgences. 
+
+
+
+
+
 #### Je suis parent {#je-suis-parent .item-question}
 
 
@@ -4320,16 +4337,6 @@ propagation de l’épidémie, je garde mes enfants de moins de 16 ans à
 domicile, et j’évite de les confier à leurs grands-parents qui sont plus
 vulnérables face à l’épidémie. Une procédure simplifiée me permet de
 bénéficier d’un arrêt de travail indemnisé dans ce cadre.
-
-J’ai été en contact avec un cas confirmé de COVID-19 ou je vis avec un
-cas confirmé de COVID-19 : je m’isole et je surveille mon état de santé.
-
-Je reste à mon domicile, je m’isole 2 semaines, je respecte
-scrupuleusement les gestes-barrières, je surveille ma température 2 fois
-par jour, je surveille l’apparition éventuelle de symptômes (toux,
-difficultés respiratoires, fièvre) et j’adopte le télétravail. Si des
-symptômes surviennent, je peux appeler mon médecin, mais je ne me
-déplace pas jusqu’à son cabinet, ni au laboratoire ni aux urgences. 
 
 
 
@@ -4357,11 +4364,11 @@ DGS-Urgent.
 
 
 
-En lien avec les services de l’Etat, je veille à faire respecter les
+En lien avec les services de l’État, je veille à faire respecter les
 consignes de fermeture de l’ensemble des services non essentiels à la
 vie publique (cinémas, restaurants, bars…) et à limiter les
 rassemblements. Je diffuse régulièrement les gestes barrières et les
-recommandations du ministère de la santé.
+recommandations du ministère des Solidarités et de la Santé.
 
 
 
@@ -4375,7 +4382,7 @@ Je généralise le recours au télétravail dans mon entreprise et suspens
 toute réunion physique de personnes qui ne serait pas indispensable à la
 continuation de l’activité. J’informe tous mes salariés des bonnes
 pratiques et recommandations pour protéger la population. Si mon
-entreprise a des difficultés je contact le 0 800 130 000.
+entreprise a des difficultés je contacte le 0 800 130 000.
 
 
 
@@ -4487,7 +4494,7 @@ six mois d’emprisonnement et de 3 750 euros d’amende ainsi que d’une
 peine complémentaire de travail d’intérêt général.
 
 Dans le cadre de l’état d’urgence sanitaire 25 ordonnances ont été
-adoptées en conseil des ministre le 25 mars : 
+adoptées en conseil des ministres le 25 mars : 
 
 1.  Adaptation des règles applicables aux juridictions de l’ordre
     administratif.
@@ -4696,7 +4703,7 @@ hospitalier. Il est Inscrit dans la loi depuis 2004.
 
 
 
-#### A quel niveau du plan blanc est-on ? {#a-quel-niveau-du-plan-blanc-est-on .item-question}
+#### À quel niveau du plan blanc est-on ? {#à-quel-niveau-du-plan-blanc-est-on .item-question}
 
 
 
@@ -4813,7 +4820,7 @@ ou en formation (étudiant).
 
 Tous les professionnels de santé et paramédicaux sont autorisés à
 exercer et doivent se concentrer sur les soins urgents. Tous les autres
-types de soins doivent être reportés lorsque cela n’entraine pas de
+types de soins doivent être reportés lorsque cela n’entraîne pas de
 perte de de chance pour les patients.
 
 
@@ -4857,7 +4864,7 @@ mars :
     ministres en charge des secteurs impactés par la crise ; au niveau
     des experts, en particulier de santé (comme le comité de sécurité
     sanitaire où la France est représentée par le ministère des
-    solidarités et de la santé). Les Chefs d’Etat et de gouvernement
+    solidarités et de la santé). Les Chefs d’État et de gouvernement
     ont, quant à eux, tenus deux téléconférences (10 et 17 mars) : une
     troisième est prévue le 26 mars. 
 -   Des coopérations et des mutualisations ont été mises en place :
@@ -4869,18 +4876,18 @@ mars :
     européens depuis l’étranger) ; constitution, en cours, d’une réserve
     stratégique européenne d’équipements de protection individuelle,
     d’appareils respiratoires et de kits de test.
--   Des règles et pratiques communes ont été proposées aux Etats membres
+-   Des règles et pratiques communes ont été proposées aux États membres
     par la Commission européenne, par exemple en matière de dépistage,
     de restrictions à la mobilité des personnes (c’est sur cette base
     par exemple qu’a été approuvée la fermeture des frontières
     extérieures de l’Union, aujourd’hui appliquée par la France et la
-    quasi-totalité des Etats membres), de préservation de la liberté de
+    quasi-totalité des États membres), de préservation de la liberté de
     circulation des marchandises au sein du marché intérieur. 
 -   D’importantes dispositions ont enfin été proposées pour soutenir les
     économies européennes et les efforts consentis à cette fin par les
-    Etats membres : assouplissement des règles de discipline budgétaire
+    États membres : assouplissement des règles de discipline budgétaire
     fixées par le Pacte de stabilité et croissance ; adaptation des
-    règles en matière d’aide d’Etat ; mobilisation des fonds structurels
+    règles en matière d’aide d’État ; mobilisation des fonds structurels
     en réponse à la crise sanitaire ; programme d’achat d’urgence
     pandémique (PEPP), pour un montant de 750 Md€, décidé par la BCE
     pour assurer le financement de l’économie et de ses acteurs ;
@@ -4905,43 +4912,42 @@ Ressources et contacts utiles
 
 
 
+### **Numéros utiles**
+
 Un numéro vert répond à vos questions sur le Coronavirus COVID-19 en
-permanence, 24h/24 et 7j/7 : 0 800 130 000.\
- 
-Attention, la plateforme téléphonique n’est pas habilitée à dispenser
-des conseils médicaux.\
-\
+permanence, 24h/24 et 7j/7 : [0 800 130 000](tel:0800130000).
+
+Si vous avez des difficultés pour entendre ou parler par téléphone en
+raison d’un handicap, vous pouvez vous rendre sur l'[espace de
+contact ouvert dédié aux personnes sourdes, malentendantes ou
+aveugles](https://www.gouvernement.fr/info-coronavirus/espace-handicap).
+
+**Attention, la plateforme téléphonique n’est pas habilitée à dispenser
+des conseils médicaux**.
+
 Si j’ai des symptômes (toux, fièvre) qui me font penser au Covid-19 : je
 reste à domicile, j’évite les contacts, j’appelle un médecin avant de me
 rendre à son cabinet ou j’appelle le numéro de permanence de soins de ma
-région. Je peux également bénéficier d’une téléconsultation.Si les
+région. Je peux également bénéficier d’une téléconsultation. Si les
 symptômes s’aggravent avec des difficultés respiratoires et signes
-d’étouffement, j’appelle le SAMU- Centre 15.\
-\
-**J’ai des difficultés pour entendre ou parler par téléphone en raison
-d’un handicap**\
-\
-Vous pouvez vous rendre sur cette page de contact dédiée aux personnes
-sourdes, malentendantes ou aveugles ouverte 24h/24 et 7j/7.\
-\
-Attention, cette plateforme d’échange n’est pas habilitée à dispenser
-des conseils médicaux. Si vous avez les symptômes du COVID-19 : restez à
-votre domicile, évitez les contacts et contacter votre médecin. Appelez
-le numéro d’appel d’urgence pour les sourds et malentendants (114) si
-les symptômes s’aggravent.\
-\
-**Numéros d’urgence et d’écoute : **\
-Violences sur les enfants 119 -
-[https://www.allo119.gouv.fr/ ](https://www.allo119.gouv.fr/)\
-Violences conjugales 3919 - <https://arretonslesviolences.gouv.fr>\
-\
-**Attention, en cas de danger immédiat contacter le 17. **\
-\
-**J’habite à l’étranger, qui appeler ?**\
-\
+d’étouffement, j'appelle le SAMU ([15](tel:15)) ou j'envoie un message
+au numéro d’urgence pour les sourds et malentendants ([114](tel:114)).\
+ 
+
+### **Numéros d’urgence et d’écoute : **
+
+En cas de danger immédiat : [17](tel:17)\
+Violences sur les enfants : [119](tel:119) (ou sur [le site internet
+allo119.gouv.fr](http://www.allo119.gouv.fr/))\
+Violences conjugales : [3919](tel:3919) (ou sur [le site internet
+arretonslesviolences.gouv.fr](https://arretonslesviolences.gouv.fr))\
+ 
+
+### **J’habite à l’étranger, qui appeler ?**
+
 L’Ambassade et consulat de votre lieu de résidence est à votre
 disposition pour répondre à l’ensemble de vos questions. Par ailleurs,
-le ministère met à jour régulièrement[son site de conseils aux
+le ministère met à jour régulièrement [son site de conseils aux
 voyageurs.](https://www.diplomatie.gouv.fr/fr/le-ministere-et-son-reseau/actualites-du-ministere/informations-coronavirus-covid-19/)
 
 
@@ -5028,12 +5034,12 @@ Ko]{}](https://www.gouvernement.fr/sites/default/files/cfiles/declaration_premie
 -   [Les professionnels de
     santé](https://solidarites-sante.gouv.fr/soins-et-maladies/maladies/maladies-infectieuses/coronavirus/covid-19-informations-aux-professionnels-de-sante/article/covid-19-prise-en-charge-en-ambulatoire)
 -   [Les
-    Enseignants](https://www.education.gouv.fr/coronavirus-covid-19-informations-et-recommandations-pour-les-etablissements-scolaires-et-les-274253)
+    enseignants](https://www.education.gouv.fr/coronavirus-covid-19-informations-et-recommandations-pour-les-etablissements-scolaires-et-les-274253)
 -   [Salariés et chef
     d’entreprise](https://travail-emploi.gouv.fr/actualites/l-actualite-du-ministere/article/coronavirus-questions-reponses-pour-les-entreprises-et-les-salaries)
 -   [Aides aux
     entreprises](https://www.economie.gouv.fr/files/files/PDF/2020/Coronavirus-MINEFI-10032020.pdf)
--   [Prêt garanti par l’Etat : quelles démarches pour en bénéficier
+-   [Prêt garanti par l’État : quelles démarches pour en bénéficier
     ?](https://www.economie.gouv.fr/files/files/PDF/2020/dp-covid-pret-garanti.pdf)
 -   [Rejoindre la réserve
     sanitaire](https://www.reservesanitaire.fr/maintenance.php)
