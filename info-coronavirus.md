@@ -2164,7 +2164,7 @@ Questions / Réponses
 
 
 
-### Vie quotidienne {#vie-quotidienne-1 .item-paragraphe-titre .c-onglet}
+### Travail et pension {#travail-et-pension .item-paragraphe-titre .c-onglet}
 
 
 
@@ -2193,13 +2193,15 @@ si vous êtes une personne dite à risque (personnes enceintes, souffrant
 de maladies chroniques ou d’insuffisances cardiaques, âgées,
 immunodéprimées ou fragiles… la liste complète est sur
 [www.ameli.fr](https://www.ameli.fr)), ou si vous devez garder vos
-enfants.
+enfants.\
+ 
 
-Le gouvernement a interdit les déplacements et les activités qui
+Le Gouvernement a interdit les déplacements et les activités qui
 génèrent des rassemblements publics (commerce, restaurants, spectacles,
 cinéma, manifestations sportives, salons, etc) pour éviter la
 propagation du virus. Seuls restent autorisés, les services « essentiels
-» c’est à dire les commerces alimentaires, les pharmacies etc.
+» c’est à dire les commerces alimentaires, les pharmacies etc.\
+ 
 
 Les autres activités économiques ne font pas l’objet de restriction.
 Elles doivent quand c’est possible s’exercer par télétravail. Quand ce
@@ -2207,6 +2209,7 @@ n’est pas possible, employeurs comme salariés doivent impérativement,
 comme dans leur vie quotidienne, respecter les gestes barrière, et les
 règles de distanciation de plus d’un mètre entre chaque collègue ou avec
 la clientèle.\
+\
 \
 Les entreprises doivent par ailleurs adapter leur organisation pour
 limiter au strict nécessaire les réunions, éviter les regroupements de
@@ -2222,7 +2225,7 @@ salariés dans des espaces réduits, éviter les déplacements…
 
 En discuter avec votre employeur, le cas échéant via vos représentants
 du personnel, pour adapter l’organisation du travail aux prescriptions
-sanitaires. Le ministère du travail vient de diffuser [un document
+sanitaires. Le ministère du Travail vient de diffuser [un document
 rappelant les obligations des employeurs en matière de protection de la
 santé des
 travailleurs](https://travail-emploi.gouv.fr/IMG/pdf/covid19_obligations_employeur.pdf).
@@ -2232,8 +2235,8 @@ branche professionnelle qui proposera un guide spécifique aux différents
 métiers. En cas de méconnaissance persistante de ces consignes, vous
 pouvez prendre contact avec l’inspecteur du travail de votre secteur. 
 Ses coordonnées doivent être affichées dans l’entreprise. Elle sont
-aussi disponibles sur le site de la Direccte de votre région.
-<http://direccte.gouv.fr/>
+aussi disponibles sur [le site de la Direccte de votre
+région](http://direccte.gouv.fr/).
 
 
 
@@ -2260,7 +2263,7 @@ d’un mètre entre chaque collègue et avec la clientèle.
 Les entreprises doivent par ailleurs adapter leur organisation pour
 limiter au strict nécessaire les réunions, éviter les regroupements de
 salariés dans des espaces réduits, éviter les déplacements… Le ministère
-du travail a diffusé à leur intention [une série de conseils et de
+du Travail a diffusé à leur intention [une série de conseils et de
 règles à observer au
 travail](https://travail-emploi.gouv.fr/actualites/l-actualite-du-ministere/article/coronavirus-questions-reponses-pour-les-entreprises-et-les-salaries).
 
@@ -2273,14 +2276,14 @@ travail](https://travail-emploi.gouv.fr/actualites/l-actualite-du-ministere/arti
 
 
 Oui, dès lors que les prescriptions sanitaires diffusées par le
-gouvernement sont respectées, et notamment l’application stricte des «
+Gouvernement sont respectées, et notamment l’application stricte des «
 gestes barrières » tels qu’une distance de plus d’un mètre entre
-collègues en toute circonstance, le lavage très réguliers des mains avec
+collègues en toute circonstance, le lavage très régulier des mains avec
 du savon ou du gel hydro-alcoolique, etc. Consulter à ce propos le
 document  « [Quelles mesures l’employeur doit-il prendre pour protéger
-la sante de ses salaries face au virus
+la santé de ses salariés face au virus
 ?](https://travail-emploi.gouv.fr/actualites/l-actualite-du-ministere/article/coronavirus-covid19-quelles-mesures-l-employeur-doit-il-prendre-pour-proteger)
-» édité par le ministère du travail.
+» édité par le ministère du Travail.
 
 
 
@@ -2290,18 +2293,18 @@ la sante de ses salaries face au virus
 
 
 
-Le ministère du travail vient de diffuser [un document rappelant les
+Le ministère du Travail vient de diffuser [un document rappelant les
 obligations des employeurs en matière de protection de la santé des
 travailleurs](https://travail-emploi.gouv.fr/IMG/pdf/covid19_obligations_employeur.pdf).
 
-Parmi ces obligations, figurent notamment, outre la nécessité d’assurer
+Parmi ces obligations figurent notamment, outre la nécessité d’assurer
 le respect des gestes barrière, la nécessité d’informer les salariés
 susceptibles d’avoir été en contact avec un personnel contaminé, la
 nécessité de prendre toute mesure d’organisation adaptée et de faire
 procéder sans délai à un nettoyage approprié des surfaces concernées par
 le risque de contamination.
 
-Ainsi, Les espaces de travail occupés par les personnes [infectées ou
+Ainsi, les espaces de travail occupés par les personnes [infectées ou
 suspectées de l’être doivent être nettoyés selon un protocole
 précis](https://travail-emploi.gouv.fr/actualites/l-actualite-du-ministere/article/coronavirus-covid19-quelles-mesures-l-employeur-doit-il-prendre-pour-proteger).  
 
@@ -2336,16 +2339,15 @@ permettant aux chauffeurs concernés de poursuivre leur activité.
 
 Pour garantir le lien continu et régulier avec les stagiaires de la
 formation professionnelle et d’éviter ainsi les ruptures de parcours, le
-ministère du Travail travaille, avec Régions de France, travaillent à la
-mise à disposition des organismes de formation de ressources
-pédagogiques, à la fois sous la forme de plateformes et solutions
-techniques permettant de diffuser, d’animer des formations et d’assurer
-le lien pédagogique à distance, de contenus de formation et d’éléments
-de méthodes pour faciliter la transformation d’une formation en
-présentiel en formation à distance.
+ministère du Travail travaille, avec Régions de France, à la mise à
+disposition pour les organismes de formation de ressources pédagogiques,
+à la fois sous la forme de plateformes et solutions techniques
+permettant de diffuser, d’animer des formations et d’assurer le lien
+pédagogique, et sous la forme de contenus de formation et d’éléments de
+méthodes pour faciliter la formation à distance.
 
 Le type de ressources mobilisables et les accès à ces ressources seront
-proposés cette semaine, à la fois sur le site du Ministère du travail et
+proposés cette semaine, à la fois sur le site du ministère du Travail et
 de Régions de France.
 
 Dans tous les cas, et notamment lorsque le lien avec les stagiaires qui
@@ -2387,7 +2389,7 @@ La situation de confinement imposée aux Français a pour effet de
 ralentir considérablement l’activité économique, et de limiter les
 opportunités de reprise d’emploi. 
 
-Dans ce contexte le gouvernement a décidé de prolonger la durée
+Dans ce contexte le Gouvernement a décidé de prolonger la durée
 d’indemnisation des personnes dont les droits prennent fin durant la
 période de confinement. L’indemnisation sera automatiquement prolongée
 jusqu’à la fin de cette période de confinement.
@@ -2470,7 +2472,7 @@ aux personnels de santé libéraux.
 
 
 
-### Ecole et garde d'enfant {#ecole-et-garde-denfant .item-paragraphe-titre .c-onglet}
+### École et garde d'enfant {#école-et-garde-denfant .item-paragraphe-titre .c-onglet}
 
 
 
@@ -2478,7 +2480,7 @@ aux personnels de santé libéraux.
 
 
 
-Ecoles, collèges, lycées et universités du pays ferment lundi, au moins
+Écoles, collèges, lycées et universités du pays sont fermés au moins
 jusqu'aux vacances de printemps, ce qui concerne plus de 12 millions
 d'élèves et 2,6 millions d'étudiants. Trois à quatre heures
 d'enseignement par jour - exercices en ligne, "classe virtuelle" en
@@ -2486,8 +2488,8 @@ visioconférence- doivent être proposées. Les examens et les concours de
 recrutement sont reportés.
 
 Tous les étudiants en santé qui souhaitent proposer leur aide pour la
-gestion de crise peuvent se signaler auprès de leur Université (par
-exemple, apporter un appui aux centres d’appels du 15)
+gestion de crise peuvent se signaler auprès de leur université (par
+exemple, apporter un appui aux centres d’appels du 15).
 
 Un service de garde sera mis en place département par département, pour
 les personnels indispensables à la gestion de la crise sanitaire.
@@ -2501,12 +2503,12 @@ les personnels indispensables à la gestion de la crise sanitaire.
 
 
 Dans le cadre des fermetures d’écoles, si vous êtes parent d’un enfant
-âgé de moins de 16 ans vous pouvez bénéficier d’un arrêt maladie
+âgé de moins de 16 ans, vous pouvez bénéficier d’un arrêt maladie
 indemnisé, si vous ne pouvez pas bénéficier d’un aménagement de vos
 conditions de travail vous permettant de rester chez vous pour garder
 votre enfant.
 
-A noter qu’un seul des deux parents peut bénéficier d’un arrêt dans ce
+À noter qu’un seul des deux parents peut bénéficier d’un arrêt dans ce
 contexte.
 
 
@@ -2522,8 +2524,9 @@ La procédure est la suivante :
 -   Contactez votre employeur et évaluez avec lui les modalités de
     télétravail qui pourraient être mises en place ;  
 -   Si aucune autre solution ne peut être retenue, c’est l’employeur qui
-    doit, via la page employeur du site dédié
-    <https://declare.ameli.fr/>, déclarer votre arrêt de travail ;  
+    doit, via la page employeur [du site dédié sur
+    ameli.fr](https://declare.ameli.fr/), déclarer votre arrêt de
+    travail ;  
 -   L’indemnisation est ensuite enclenchée à partir de cette
     déclaration. Vous percevrez les indemnités journalières et, le cas
     échéant, le complément de salaire de votre employeur dès le 1er jour
@@ -2763,7 +2766,7 @@ vétérinaire
 
 
 
-A l'instar des êtres humains, les déplacements ne pourront être
+À l'instar des êtres humains, les déplacements ne pourront être
 autorisés que dans le cadre des visites urgentes ne pouvant être
 différées et décidées par le vétérinaire sur la base des informations
 fournies par le propriétaire de l'animal.
@@ -2816,8 +2819,8 @@ malade.
 Faire du sport en extérieur, c’est donc avant tout faire une marche ou
 un petit footing mais en respectant 3 règles importantes :
 
--   Rester à proximité de son domicile– donc dans son quartier ;
--   Que cette sortie soit brève;
+-   Rester à proximité de son domicile – donc dans son quartier ;
+-   Que cette sortie soit brève ;
 -   Et sans autre contact qu’avec sa cellule familiale. Vous pouvez
     sortir avec vos enfants ou seul mais pas retrouver des amis.
 
@@ -2849,7 +2852,7 @@ les différentes plateformes (mobile, tablette et ordinateur).
 
 Non. Il est uniquement possible de pratiquer individuellement une
 activité physique de courte durée et à proximité de son domicile (rayon
-maximal d'un kilomètre autour du domicile),dans la limite d'une heure
+maximal d'un kilomètre autour du domicile), dans la limite d'une heure
 quotidienne, muni de son attestation de déplacement dérogatoire.
 
 
@@ -3185,10 +3188,9 @@ location.
 
 Si vous n'arrivez pas à trouver un accord amiable, vous pouvez vous
 tourner vers l'Agence nationale pour l'Information sur le Logement
-(ANIL) à travers les conseillers juristes des Agences départementales
-(ADIL) vous accompagneront et vous aideront à trouver des solutions :
-
-<https://www.anil.org/lanil-et-les-adil/votre-adil/>
+(ANIL) à travers [les conseillers juristes des Agences départementales
+(ADIL)](https://www.anil.org/lanil-et-les-adil/votre-adil/) qui vous
+accompagneront et vous aideront à trouver des solutions.
 
 
 
@@ -3199,16 +3201,15 @@ tourner vers l'Agence nationale pour l'Information sur le Logement
 
 
 En cas de conflit avec votre propriétaire, l'Agence Nationale pour
-l'Information sur le Logement (ANIL) à travers les conseillers juristes
-des Agences départementales (ADIL) peuvent vous accompagner pour vous
-aider à trouver une solution selon votre cas :
-
-<https://www.anil.org/lanil-et-les-adil/votre-adil/>
+l'Information sur le Logement (ANIL) à travers [les conseillers juristes
+des Agences départementales
+(ADIL)](https://www.anil.org/lanil-et-les-adil/votre-adil/) peuvent vous
+accompagner pour vous aider à trouver une solution selon votre cas.
 
 Si l’expulsion est demandée par le propriétaire, cela suppose d'abord
 une décision de justice, qui ne sera pas rendue avant plusieurs mois. En
-outre, la "trêve hivernale », a été exceptionnellement prolongée
-jusqu’au 31 mai. C’est-à-dire que jusqu’à cette date aucune expulsion de
+outre, la "trêve hivernale", a été exceptionnellement prolongée jusqu’au
+31 mai. C’est-à-dire que jusqu’à cette date aucune expulsion de
 locataire ne peut être exécutée. Dans tous les cas, si j’occupe le
 logement, je dois continuer à payer le loyer.
 
@@ -3242,7 +3243,7 @@ prochaine AG puisse se tenir (au plus tard le 31 décembre 2020).
 
 
 
-#### Les gardiens / concierges d'immeubles peuvent-ils continuer de travailler? {#les-gardiens-concierges-dimmeubles-peuvent-ils-continuer-de-travailler .item-question}
+#### Les gardiens / concierges d'immeubles peuvent-ils continuer de travailler ? {#les-gardiens-concierges-dimmeubles-peuvent-ils-continuer-de-travailler .item-question}
 
 
 
@@ -3317,7 +3318,7 @@ des solutions.
 
 
 
-#### A-t-on le droit d'aller au container de tri sélectif situé à plusieurs mètres de mon domicile et que dois-je cocher sur l'attestation ? {#a-t-on-le-droit-daller-au-container-de-tri-sélectif-situé-à-plusieurs-mètres-de-mon-domicile-et-que-dois-je-cocher-sur-lattestation .item-question}
+#### Ai-je le droit d'aller au container de tri sélectif situé à plusieurs mètres de mon domicile et que dois-je cocher sur l'attestation ? {#ai-je-le-droit-daller-au-container-de-tri-sélectif-situé-à-plusieurs-mètres-de-mon-domicile-et-que-dois-je-cocher-sur-lattestation .item-question}
 
 
 
@@ -3357,8 +3358,8 @@ jaune, dans le compost ou dans la nature, même si vous n’êtes pas malade
 !
 
 Pour les professionnels de santé et les personnes malades confinées chez
-eux, il est nécessaire de suivre les recommandations du ministère de la
-santé pour la gestion de vos déchets.
+elles, il est nécessaire de suivre les recommandations du ministère des
+Solidarités et de la Santé pour la gestion de vos déchets.
 
 
 
@@ -3390,7 +3391,7 @@ du personnel :
 Il est nécessaire de maintenir, aussi longtemps que possible, la
 collecte séparée des déchets ménagers (emballage, papier/carton, verre)
 et l’activité des centres de tri des déchets ménagers. Ces activités
-permettent également d’alimenter les chaines d’approvisionnement
+permettent également d’alimenter les chaînes d’approvisionnement
 d’autres industries.
 
 N'hésitez pas à consulter régulièrement le site internet de votre
