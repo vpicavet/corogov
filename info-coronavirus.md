@@ -120,7 +120,7 @@ COVID-19
 
 
 
-Mis à jour le vendredi 27 mars 2020 à 22H00
+Mis à jour le samedi 28 mars 2020 à 02h30
 
 
 -   [Francais](/info-coronavirus){.active}
@@ -144,6 +144,12 @@ Point de situation
 
 
 
+Le 27 mars 2020, le Premier ministre a annoncé le renouvellement du
+confinement pour deux semaines supplémentaires, soit jusqu’au mercredi
+15 avril. Les mêmes règles que celles actuellement en vigueur
+continueront à s’appliquer. Cette période de confinement pourra être
+prolongée si la situation sanitaire l’exige.\
+\
 En application de l’état d’urgence sanitaire, les déplacements sont
 interdits sauf dans les cas suivants et uniquement à condition d'être
 munis d'une attestation pour :
@@ -799,7 +805,7 @@ Les informations du jour :
     actuellement au stade 3 du plan d’actions du Gouvernement qui a pour
     objectif de prévenir et limiter la circulation du virus. 
 -   Depuis le 24 janvier 2020, la France compte 32 964 cas confirmés de
-    coronavirus COVID-19 confirmés.
+    coronavirus COVID-19.
 -   1 995 personnes sont décédées depuis le début de l’épidémie.
 
 Retrouvez toutes les données sur [le tableau de bord COVID-19 de
@@ -1710,9 +1716,14 @@ Le 16 mars 2020, le Président de la République a décidé de prendre des
 mesures supplémentaires pour réduire à leur plus strict minimum les
 contacts et les déplacements. Un dispositif de confinement est mis en
 place sur l’ensemble du territoire à compter du mardi 17 mars à 12h00,
-pour quinze jours minimum. Les déplacements sont interdits sauf dans les
-cas suivants et uniquement à condition d'être munis d'une attestation
-pour :
+pour quinze jours minimum. Le 27 mars 2020, le Premier ministre a
+annoncé le renouvellement du confinement pour deux semaines
+supplémentaires, soit jusqu’au mercredi 15 avril. Les mêmes règles que
+celles actuellement en vigueur continueront à s’appliquer. Cette période
+de confinement pourra être prolongée si la situation sanitaire l’exige.\
+\
+Les déplacements sont interdits sauf dans les cas suivants et uniquement
+à condition d'être munis d'une attestation pour :
 
 -   **Déplacements entre le domicile et le lieu d’exercice de l’activité
     professionnelle**, lorsqu’ils sont indispensables à l’exercice
@@ -1860,10 +1871,11 @@ Pour les entreprises, le Gouvernement a annoncé les mesures suivantes : 
     individualisé des demandes ;
 -   La suspension **des loyers, des factures d'eau, de gaz et
     d’électricité** pour les PME en difficulté ;
--   **L’aide de 1 500 euros** pour toutes les petites entreprises, les
-    indépendants, et les microentreprises grâce au fonds de solidarité ;
--   La mobilisation de l’État à hauteur de 300 milliards d’euros et de
-    Bpifrance pour la mise en place de [prêts garantis par
+-   **L’aide de 1 500 euros** pour les petites entreprises, les
+    indépendants, et les microentreprises les plus impactés grâce au
+    fonds de solidarité ;
+-   La mobilisation de l’État à hauteur de 300 milliards d’euros pour la
+    mise en place de [prêts bancaires garantis par
     l’État](https://www.economie.gouv.fr/files/files/PDF/2020/dp-covid-pret-garanti.pdf)
     ;
 -   Un soutien de l’Etat et de la Banque de France (médiation du crédit)
@@ -1883,6 +1895,16 @@ Pour connaitre les modalités d’accès aux différentes aides [télécharger
 la
 brochure](https://www.economie.gouv.fr/coronavirus-soutien-entreprises).\
 \
+Le 27 mars, le ministre de l’Économie et des Finances a annoncé que
+toutes les grandes entreprises qui auraient bénéficié de reports de
+charges sociales et fiscales, et qui versent en même temps des
+dividendes à leurs actionnaires devront rembourser cette avance de
+trésorerie de l’État avec des pénalités.\
+\
+De la même manière, toutes les grandes entreprises qui verseront des
+dividendes ne pourront pas bénéficier de la garantie d’État de 300
+milliards d’euros sur les prêts de trésorerie.\
+\
 Le Gouvernement a également annoncé un plan d’urgence de soutien dédié
 aux start-up, de près de 4 milliards d’euros. Ce plan spécifique vise à
 compléter les mesures globales de soutien aux entreprises déjà annoncées
@@ -1894,8 +1916,7 @@ problématiques particulières des start-up. Ces dernières sont bien
 l’ensemble des entreprises. »\
 \
 Plus d’informations\
-<https://www.economie.gouv.fr/coronavirus-startup-mesures-de-soutien-economique>\
- 
+<https://www.economie.gouv.fr/coronavirus-startup-mesures-de-soutien-economique>
 
 Pour plus d’informations dans votre région, contactez le 0 800 130 000.
 
@@ -2146,6 +2167,8 @@ Pour plus d’informations dans votre région, contactez le 0 800 130 000.
     -   Publication du décret encadrant l’utilisation de la chloroquine
     -   Annonce par le G20 de l’injection de 5 000 milliards de dollars
         dans l’économie mondiale
+-   27 mars : annonce par le Premier ministre du renouvellement de la
+    période de confinement jusqu’au mercredi 15 avril 2020.
 
 
 
@@ -2199,8 +2222,7 @@ enfants.\
 Le Gouvernement a interdit les déplacements et les activités qui
 génèrent des rassemblements publics (commerce, restaurants, spectacles,
 cinéma, manifestations sportives, salons, etc) pour éviter la
-propagation du virus. Seuls restent autorisés, les services « essentiels
-» c’est à dire les commerces alimentaires, les pharmacies etc.\
+propagation du virus.\
  
 
 Les autres activités économiques ne font pas l’objet de restriction.
@@ -4925,7 +4947,7 @@ aveugles](https://www.gouvernement.fr/info-coronavirus/espace-handicap).
 **Attention, la plateforme téléphonique n’est pas habilitée à dispenser
 des conseils médicaux**.
 
-Si j’ai des symptômes (toux, fièvre) qui me font penser au Covid-19 : je
+Si j’ai des symptômes (toux, fièvre) qui me font penser au COVID-19 : je
 reste à domicile, j’évite les contacts, j’appelle un médecin avant de me
 rendre à son cabinet ou j’appelle le numéro de permanence de soins de ma
 région. Je peux également bénéficier d’une téléconsultation. Si les
