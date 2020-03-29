@@ -5400,6 +5400,66 @@ quotidienne conjointe sera assurée.
 
 
 
+#### Comment s’effectue le suivi de l’épidémie de COVID-19 en France ? {#comment-seffectue-le-suivi-de-lépidémie-de-covid-19-en-france .item-question}
+
+
+
+Le suivi de l’épidémie est réalisée grâce :\
+Aux nombres de cas testés et positifs\
+A la surveillance hospitalière via le nombre d’admission dans plus de
+600 établissements de santé en prenant compte du nombre de passages aux
+urgences, du nombre de cas en soins intensifs et en réanimation, du
+nombre de patients guéris et du nombre de décès en milieu hospitalier.\
+Au travail d’enquête de santé publique France auprès des médecins de
+ville, du réseau SOS médecins, des tests réalisés en laboratoires de
+ville.\
+\
+Vous trouverez
+[ici](https://www.gouvernement.fr/info-coronavirus/carte-et-donnees), un
+tableau de bord complet de suivi de l’épidémie.
+
+
+
+
+
+#### Quelle stratégie pour lutter contre le coronavirus ? {#quelle-stratégie-pour-lutter-contre-le-coronavirus .item-question}
+
+
+
+Notre stratégie pour lutter contre le virus est double : 
+-   Freiner sa progression pour diminuer le nombre cas graves et donc le
+    nombre de personnes en réanimation, grâce au respect du confinement
+    et des gestes barrières.
+-   Augmenter la capacité d’admission dans les services de réanimation
+    par une mobilisation massive des moyens de l’Etat.
+
+
+
+
+
+#### Le renforcement de la capacité d’accueil de nos hôpitaux. {#le-renforcement-de-la-capacité-daccueil-de-nos-hôpitaux. .item-question}
+
+
+
+ L'ensemble du système de santé est mobilisé et mis à l'épreuve dans
+cette épidémie. Plus particulièrement, les hôpitaux font d'immenses
+efforts pour augmenter leurs capacités d'accueil.\
+Le nombre de lits en réanimation est passée de 5000 lits au début de la
+crise, à 10000 lits aujourd’hui pour atteindre l’objectif de 14 000 à 14
+500 lits.\
+Ce renforcement de l’accueil des hôpitaux implique des moyens matériels
+et humains supplémentaires. \
+En ce sens la France a passé une commande de plus de 1 000 respirateurs
+nécessaires aux patients hospitalisés en réanimation. \
+La réserve sanitaire est également amenée à être mobilisée.\
+Enfin, quand cela est nécessaires des transferts de malades sont
+effectués d’une région à une autre. Ils peuvent avoir lieu par avion ou
+bateau militaire, hélicoptère, ambulances ou encore TGV médicalisé.
+
+
+
+
+
 #### Comment s’effectue la surveillance des décès en France ? {#comment-seffectue-la-surveillance-des-décès-en-france .item-question}
 
 
@@ -5618,6 +5678,38 @@ protéger les personnes détenues et les personnels pénitentiaires : 
 
 
 
+#### Quels dispositifs spécifiques pour l’Outre-mer ? {#quels-dispositifs-spécifiques-pour-loutre-mer .item-question}
+
+
+
+Beaucoup de territoires d’outre mer ont des capacités sanitaires qui
+reposent souvent, pour les cas les plus graves, sur l’évacuation
+sanitaire en métropole. \
+Très rapidement toute une série de décisions adaptées à la situation des
+territoires d’outre-mer a été prise :\
+-       Confinement en même temps que dans l’Hexagone \
+-       Restrictions strictes pour l’entrée sur chaque territoire \
+Interdiction d’entrée dans les collectivités d’outre-mer sauf motifs
+impérieux \
+Quatorzaine imposée aux personnes qui entrent dans ces territoires et
+Interdiction des escales de bateaux de croisière\
+En parallèle de ces mesures, **les capacités de réanimation sont
+renforcées et du matériel médical comme de protection sont envoyés
+(respirateurs, masques, tests)** :\
+-       Les Antilles passent de 81 lits en temps normal à 169 lits,
+notamment grâce à l’apport dès la semaine prochaine de 32 respirateurs
+envoyés depuis la métropole.\
+-       Mayotte passe de 16 à 50 lits\
+-       La Guyane passe de 29 à 40 lits de réanimation.\
+-       La Réunion passe de 111 à 161 lits de réanimation.\
+Enfin, l’Etat organise avec l’armée des capacités sanitaires de
+délestage pour permettre aux établissements hospitaliers de faire face
+aux malades du COVID-19.
+
+
+
+
+
 #### Que fait l’Europe ? {#que-fait-leurope .item-question}
 
 
@@ -5660,6 +5752,75 @@ mars :
     pour assurer le financement de l’économie et de ses acteurs ;
     soutien financier de la BEI aux PME et ETI… D’autres initiatives
     suivront.
+
+
+
+
+
+#### Existe-t-il d’autres masques que les FFP2 pour se protéger efficacement contre le COVID-19 ? {#existe-t-il-dautres-masques-que-les-ffp2-pour-se-protéger-efficacement-contre-le-covid-19 .item-question}
+
+
+
+ Il existe principalement deux types de masques : le masque dit
+chirurgical et le masque FFP2.\
+\
+1.     Le masque chirurgical protège lui contre les virus qui se
+transmettent dans les gouttelettes. Il permet donc se protéger contre le
+coronavirus, à transmission gouttelettes, mais aussi d’éviter de
+contaminer les autres quand on est malade. Il est suffisant dans la
+plupart des situations pour se protéger efficacement.\
+2.    Le masque FFP2 filtre l’inhalation d’aérosols contaminés, il
+protège donc le porteur du masque contre les virus circulant dans l’air.
+Dans le cas du coronavirus, il est réservé pour les situations à risque,
+réalisées par le personnel soignant, quand il existe des possibilités
+d’aérosolisation du virus (propulsion de gouttelettes contaminées),
+notamment lors des gestes invasifs.\
+3. Les masques alternatifs\
+La priorité du Gouvernement en termes de masques est l’équipement des
+professionnels de santé, via des importations massives et l’augmentation
+de nos capacités de production.\
+ \
+Mais il y a aussi une demande croissante, dans de nombreux secteurs
+d’activité, d’augmenter la protection des salariés par des masques.\
+ \
+Pour contribuer à y répondre, le Gouvernement a mobilisé les industriels
+français du textile afin de proposer de nouveaux types de masques
+anti-projections, avec des performances adaptées au domaine non
+médical.\
+L’une de ces catégories sera dédiée aux personnes en contact fréquent
+avec le public.\
+ \
+24 producteurs français ont déjà lancé en productions des modèles et ils
+seront en capacité de produire près d’un demi-million de masques par
+jour dès les prochains jours et plus d’un million par jour avant la fin
+avril.\
+ \
+Il s’agit d’un outil complémentaire pour contribuer à la prévention du
+covid19 dans le milieu professionnel. L’Etat s’en saisira, pour
+certaines catégories d’agents publics.\
+Toutefois, il faut rappeler que le port de masque doit nécessairement
+s’accompagner du respect des mesures barrières (se laver les mains,
+tousser dans son coude, utiliser des mouchoirs à usage unique, ne pas se
+serrer les mains et éviter les embrassades) ainsi que les mesures de
+distanciation sociale.\
+4.    Il existe des masques FFP3, réservés à certaines utilisations très
+spécifiques. Ils ne sont pas utiles en prévention de la transmission
+COVID-19.
+
+
+
+
+
+#### Pourquoi ne comptabilise-t-on plus les morts dans les EHPADs dans la somme des décès suite au COVID-19 ? {#pourquoi-ne-comptabilise-t-on-plus-les-morts-dans-les-ehpads-dans-la-somme-des-décès-suite-au-covid-19 .item-question}
+
+
+
+Les décès liés à une infection COVID-19 dans les EHPADs sont
+comptabilisés. Toutefois, il existe un certain délai dans la remontée
+d’information depuis ces établissements, car ils ne disposent pas des
+mêmes moyens techniques que les hôpitaux pour comptabiliser les décès.
+Santé Publique France a élaboré un outil de remontée d’information
+efficace et sûr qui est désormais opérationnel.
 
 
 
