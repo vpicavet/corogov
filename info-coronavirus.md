@@ -120,7 +120,7 @@ COVID-19
 
 
 
-Mis à jour le samedi 28 mars 2020 à 20h00
+Mis à jour le dimanche 29 mars 2020 à 15h00
 
 
 -   [Francais](/info-coronavirus){.active}
@@ -340,6 +340,45 @@ re-contamination ne semble avoir eu lieu.
 
 
 
+#### Quel est la dangerosité du coronavirus ? {#quel-est-la-dangerosité-du-coronavirus .item-question}
+
+
+
+Le coronavirus est dangereux pour trois raisons :
+-   Il est tres contagieux : chaque personne infectée va contaminer au
+    moins 3 personnes en l'absence de mesures de protection.
+-   Il est contagieux avant d’être symptomatique, c’est à dire qu’une
+    personne contaminée, qui ne ressent pas de symptômes peut contaminer
+    d’autres personnes.
+-   Il est dangereux : environ 15% des cas constatés entraînent des
+    complications et 5% de ces dernières nécessitent une hospitalisation
+    en réanimation.
+
+
+
+
+
+#### Quelles catégories de la population sont les plus touchées ? {#quelles-catégories-de-la-population-sont-les-plus-touchées .item-question}
+
+
+
+Le virus touche toutes les classes d'âges, y compris les plus jeunes,
+chez qui on constate aussi des complications ou des formes graves. La
+médiane des personnes hospitalisées en réanimation est de 58 ans (ce qui
+signifie que la moitié des patients hospitalisés en réanimation ont
+moins de 58 ans et que l'autre moitié a plus de 58 ans).\
+ \
+L'infection à CoVid19 entraine des décès surtout chez les personnes
+âgées et les plus fragiles. \
+\
+Les + de 60 ans représentent 96% des décès.\
+Les + de 70 ans représentent 86% des décès.\
+Les + de 80 ans représentent 62% des décès.
+
+
+
+
+
 
 
 ### Transmission {#transmission .item-paragraphe-titre .c-onglet}
@@ -553,9 +592,18 @@ prioritaires qui sont : 
 -   Les personnes hospitalisées,
 -   Les nouveaux foyers et nouveaux territoires. 
 
+Conformément aux recommandations de l’OMS qui incite dorénavant à tester
+massivement la population et au regard de l’évolution de l’épidémie, la
+stratégie de test en France va évoluer dans les prochains mois.\
 \
-9 000 tests sont effectués chaque jour sur ces personnes et 120
-laboratoires sont maintenant en capacité de réaliser des tests.
+Au 28 mars 2020, 12 000 tests par PCR sont réalisés chaque jour, et
+d’ici la fin du mois d’avril ce sont 50 000 tests classiques qui seront
+réalisables.\
+\
+En parallèle, des tests rapides sont dorénavant disponibles et la France
+en a commandé 5 millions. La capacité des tests rapides sera portée à 30
+000 par jour en avril, 60 000 en mai pour atteindre les 100 000 tests
+rapides au mois de juin.
 
 
 
@@ -963,22 +1011,25 @@ professionnels de santé amenés à prendre en charge des patients COVID-19
 en ville, à l’hôpital et dans les structures médico-sociales accueillant
 des personnes fragiles, ainsi qu’aux services d’aide à domicile, pour
 garantir la continuité de l’accompagnement à domicile des personnes
-âgées et en situation de handicap.
-
+âgées et en situation de handicap.\
 \
-Au 21 mars 2020, le stock d'État est de 86 millions de masques : 81
-millions de masques chirurgicaux et 5 millions de masques de norme
-FFP2. 
-
+Au 28 mars 2020, le stock d'État est de 117 millions de masques
+chirurgicaux.\
+A ce jour, 40 millions de masques de protection sont consommés chaque
+semaine en France.\
 \
-La France est en mesure de fabriquer 6 millions de masques
+La France est en mesure de fabriquer 8 millions de masques
 supplémentaires chaque semaine ; à partir du mois d’avril, cette
 capacité de production s’élèvera à 8 millions de masques par semaine,
 dont la moitié de FFP2. 
 
 \
 À cela s’ajoute des commandes de plus de 250 millions de masques, qui
-sont livrés progressivement depuis le 24 mars.
+sont livrés progressivement depuis le 24 mars.\
+\
+Le samedi 28 mars 2020, le Premier ministre et le ministre de la santé
+annoncent avoir passé commande pour plus d’un milliard de masques,
+progressivement livrés depuis la Chine via un pont aérien.
 
 
 
@@ -1073,23 +1124,6 @@ tissus utilisés laissent passer les virus.
 
 
 
-#### Les masques artisanaux ou en tissus sont-ils efficaces ? {#les-masques-artisanaux-ou-en-tissus-sont-ils-efficaces .item-question}
-
-
-
-Les études à ce sujet montrent que dans certaines situations, ils
-peuvent avoir une certaine efficacité, et sont « mieux que rien ».
-Toutefois, les masques artisanaux peuvent aussi donner un faux sentiment
-de sécurité, alors que les seules mesures réellement efficaces sont
-l’application des mesures barrières (se laver les mains, tousser dans
-son coude, utiliser des mouchoirs à usage unique, ne pas se serrer les
-mains et éviter les embrassades) ainsi que les mesures de distanciation
-sociale.
-
-
-
-
-
 #### Combien coûte le gel hydro-alcoolique ? {#combien-coûte-le-gel-hydro-alcoolique .item-question}
 
 
@@ -1144,6 +1178,43 @@ notamment lorsqu’elles sont visiblement souillées. Il s’agit par exemple
 des poignées de porte, des boutons d’ascenseur, des interrupteurs
 d’éclairage, des poignées de toilettes, des comptoirs, des mains
 courantes, des surfaces d’écran tactile et des claviers.
+
+
+
+
+
+#### Les masques alternatifs {#les-masques-alternatifs .item-question}
+
+
+
+La priorité du Gouvernement en termes de masques est l’équipement des
+professionnels de santé, via des importations massives et l’augmentation
+de nos capacités de production.\
+ \
+Mais il y a aussi une demande croissante, dans de nombreux secteurs
+d’activité, d’augmenter la protection des salariés par des masques.\
+ \
+Pour contribuer à y répondre, le Gouvernement a mobilisé les industriels
+français du textile afin de proposer de nouveaux types de masques
+anti-projections, avec des performances adaptées au domaine non
+médical.\
+L’une de ces catégories sera dédiée aux personnes en contact fréquent
+avec le public.\
+ \
+24 producteurs français ont déjà lancé en productions des modèles et ils
+seront en capacité de produire près d’un demi-million de masques par
+jour dès les prochains jours et plus d’un million par jour avant la fin
+avril.\
+ \
+Il s’agit d’un outil complémentaire pour contribuer à la prévention du
+covid19 dans le milieu professionnel. L’Etat s’en saisira, pour
+certaines catégories d’agents publics.\
+\
+Toutefois, il faut rappeler que le port de masque doit nécessairement
+s’accompagner du respect des mesures barrières (se laver les mains,
+tousser dans son coude, utiliser des mouchoirs à usage unique, ne pas se
+serrer les mains et éviter les embrassades) ainsi que les mesures de
+distanciation sociale.
 
 
 
@@ -1923,6 +1994,33 @@ Pour plus d’informations dans votre région, contactez le 0 800 130 000.
 
 
 
+### Pour les plus vulnérables {#pour-les-plus-vulnérables .item-paragraphe-titre .c-onglet}
+
+
+La durée de perception des allocations chômage sera prolongée pour les
+demandeurs d’emploi qui ont épuisé leurs droits à compter du 12 mars
+2020.\
+\
+Pour l’année 2020, la fin de la trêve hivernale est repoussée au 31
+mai.\
+\
+A été acté le report du 31 mars au 31 mai 2020 de la fin de la période
+durant laquelle les fournisseurs d'électricité, de chaleur, de gaz ne
+peuvent procéder, dans une résidence principale, à l'interruption, y
+compris par résiliation de contrat, pour non-paiement des factures, de
+la fourniture d'électricité, de chaleur ou de gaz aux personnes ou
+familles.\
+\
+La rémunération des travailleurs accueillis en établissement et service
+d’aide par le travail (ESAT) sera maintenue en cas de réduction de
+l’activité ou de fermeture de l’établissement.\
+\
+Le délai de carence est supprimé pour tous les malades pendant l’état
+d’urgence sanitaire.
+
+
+
+
 ### Chronologie {#chronologie .item-paragraphe-titre .c-onglet}
 
 
@@ -2167,8 +2265,13 @@ Pour plus d’informations dans votre région, contactez le 0 800 130 000.
     -   Publication du décret encadrant l’utilisation de la chloroquine
     -   Annonce par le G20 de l’injection de 5 000 milliards de dollars
         dans l’économie mondiale
--   27 mars : annonce par le Premier ministre du renouvellement de la
-    période de confinement jusqu’au mercredi 15 avril 2020.
+-   **27 mars** : annonce par le Premier ministre du renouvellement de
+    la période de confinement jusqu’au mercredi 15 avril 2020.
+-   **28 mars** : annonce de la commande de plus d’un milliard de
+    masques, de l’augmentation de la capacité du nombre de lits en
+    réanimation qui sera portée à 14 000 lits et de la massification de
+    la politique de tests.\
+     
 
 
 
@@ -2485,6 +2588,61 @@ population, peuvent bénéficier d’un arrêt de travail. Ils seront pris en
 charge par l’Assurance Maladie, alignés sur les modalités des salariés
 en termes de délais de carence. Cette disposition s’applique également
 aux personnels de santé libéraux.
+
+
+
+
+
+#### Je travaille encore mais j’ai un parent âgé, qui vit seul et se retrouve sans aide à domicile. Que me conseillez-vous ? Aller le voir malgré les consignes de vigilance ? {#je-travaille-encore-mais-jai-un-parent-âgé-qui-vit-seul-et-se-retrouve-sans-aide-à-domicile.-que-me-conseillez-vous-aller-le-voir-malgré-les-consignes-de-vigilance .item-question}
+
+
+
+Il est possible de rendre visite à un parent âgé et vulnérable, qui ne
+pourrait subvenir à ses besoins sans aide à domicile. Il convient de
+rester très vigilant et appliquer très rigoureusement les gestes
+barrières. Quand cela est possible, il faut limiter au maximum les
+contacts directs (déposer les courses à l’entrée, faire le ménage dans
+autre pièce que celle où se situe le parent…) et maintenir une distance
+d’au moins 1 mètre avec le parent. \
+Si on est malade, il ne faut pas s’y rendre et demander à un proche, ne
+vivant pas dans son foyer, de s’occuper du parent. Il est également
+possible de prendre contact avec les services sociaux.
+
+
+
+
+
+#### Je suis un chef d’entreprise et j’ai besoin de solution hydro-alcoolique pour mes salariés. Où puis-je en commander ? {#je-suis-un-chef-dentreprise-et-jai-besoin-de-solution-hydro-alcoolique-pour-mes-salariés.-où-puis-je-en-commander .item-question}
+
+
+
+Tout d’abord, le lavage des mains avec de l’eau et du savon est la
+solution la plus efficace, et reste donc à privilégier. Concernant les
+solutions hydro-alcooliques, les pharmacies sont en cours de
+réapprovisionnement, de plus elles sont autorisées, par un arrêté publié
+le 7 mars, à produire leur propre solution hydro-alcoolique.\
+Par ailleurs, plusieurs grandes entreprises françaises comme LVMH ou
+Ricard ont annoncé produire et offrir des solutions désinfectantes. Face
+à la tension en matière d’approvisionnement, le personnel soignant reste
+prioritaire.
+
+
+
+
+
+#### Je travaille dans le secteur alimentaire et mon employeur n’a plus de masques. Comment nous protéger et protéger les autres ? {#je-travaille-dans-le-secteur-alimentaire-et-mon-employeur-na-plus-de-masques.-comment-nous-protéger-et-protéger-les-autres .item-question}
+
+
+
+Quand on n’est pas malade, le port du masque n’est pas indispensable. De
+plus, le virus ne circule pas dans l’air tout seul, il doit être
+vectorisé par les postillons d’une autre personne.\
+Ainsi, le respect des gestes barrière (lavage de mains) et des mesures
+de distanciation sociale (Rester à au moins à 1 mètre des autres
+personnes) permet de se protéger et de protéger les autres contre le
+coronavirus. Les masques sont réservés aux personnels soignants
+fortement exposés et proches des patients symptomatiques et atteints du
+COVID-19.
 
 
 
@@ -3117,6 +3275,38 @@ bureaux de police qui offraient un accueil limité en journée sont
 fermés. Il est néanmoins conseillé de prendre attache avec le 17 afin de
 pouvoir disposer d’informations permettant soit de reporter votre
 déplacement soit d’effectuer des démarches en ligne. 
+
+
+
+
+
+#### Pourquoi les distances de sécurité sont-elles si importantes à respecter dans la rue et au supermarché avec les inconnus, puisqu’on nous dit qu’il faut un quart d’heure en face à face à moins d’un mètre pour avoir un risque de transmission ? {#pourquoi-les-distances-de-sécurité-sont-elles-si-importantes-à-respecter-dans-la-rue-et-au-supermarché-avec-les-inconnus-puisquon-nous-dit-quil-faut-un-quart-dheure-en-face-à-face-à-moins-dun-mètre-pour-avoir-un-risque-de-transmission .item-question}
+
+
+
+Il s’agit d’une mesure de précaution, car le risque zéro n’existe pas.
+Rester à proximité de plusieurs personnes possiblement atteintes du
+COVID-19 pendant un total de 15 minutes s'apparente à la situation de
+rester 15 minutes en contact étroit avec une seule personne
+potentiellement atteinte. Il convient donc de respecter des distances de
+sécurité d’au moins 1 mètre, quelle que soit la durée du contact, afin
+de limiter tout risque de transmission du virus.
+
+
+
+
+
+#### Pourquoi maintenir le confinement pour les personnes sans symptômes après la quatorzaine ? {#pourquoi-maintenir-le-confinement-pour-les-personnes-sans-symptômes-après-la-quatorzaine .item-question}
+
+
+
+Après la quatorzaine, certaines personnes sans symptômes seront toujours
+infectées, ce sont les cas “asymptomatiques”. Elles sont toujours à
+risque de contaminer les autres, bien que ce risque soit plus faible que
+les malades symptomatiques. Sortir trop tôt du confinement est donc à
+risque de recréer des foyers de contamination. Le Conseil Scientifique
+évalue la meilleure durée de confinement pour protéger au mieux la
+population, notamment les plus fragiles, et notre système de santé.
 
 
 
