@@ -3776,6 +3776,516 @@ et les restrictions mises en place par les autorités américaines.
 
 
 
+#### Le dépistage massif ne serait-il pas plus efficace que le confinement ? {#le-dépistage-massif-ne-serait-il-pas-plus-efficace-que-le-confinement .item-question}
+
+
+
+Le dépistage et le confinement ont deux objectifs différents. En effet,
+le confinement a pour but de freiner la propagation du virus; et le
+dépistage d’orienter pour la prise en charge et ne faire qu’un isolement
+ciblé. Le dépistage massif n’a pas forcément de sens à toutes les phases
+d’une épidémie. En phase 3, le virus circule activement sur le
+territoire. Le suivi de cas est donc difficilement réalisable. De plus,
+les tests actuels, fondés sur les PCR, n’éliminent pas une possible
+infection ultérieure, ni ne donnent d’information sur une contamination
+passée. Ainsi, un dépistage massif ne donnerait pas suffisamment
+d’information ce jour pour contenir l’épidémie.\
+Cependant, de nouveaux tests sont en cours de développement et devraient
+nous permettre de proposer une stratégie élargie de test pour sortir du
+confinement. Ces tests sont les tests rapides, qui pourront nous
+permettre de généraliser le dépistage, et les sérologies, qui pourront
+nous donner des informations sur une contamination passée ou une
+immunité contre le virus.
+
+
+
+
+
+#### Une grande campagne de dépistage à l’échelle nationale pourrait-elle être lancée ? {#une-grande-campagne-de-dépistage-à-léchelle-nationale-pourrait-elle-être-lancée .item-question}
+
+
+
+Nous pourrons sortir du confinement une fois que la circulation du virus
+ne sera plus fortement active sur le territoire et que la situation
+pourra être contrôlée par des mesures plus ciblées. Une stratégie de
+test adaptée sera mise en œuvre pour cette phase post-épidémique.\
+ 
+
+
+
+
+
+#### La transfusion sanguine pourrait-elle aider les malades à guérir ? {#la-transfusion-sanguine-pourrait-elle-aider-les-malades-à-guérir .item-question}
+
+
+
+Comme utilisé en pratique courante, la transfusion de produit sanguins
+labiles peut être nécessaire pour les patients graves hospitalisés en
+réanimation. Cependant, spécifiquement pour le coronavirus, il n’a pas
+encore été pas prouvé ce jour que l’apport de sérum de patients guéris
+améliore l’état de santé des malades. Des essais cliniques sur le sujet
+ont été débuté.\
+ 
+
+
+
+
+
+#### Peut-on donner son sang si on a eu des symptômes du COVID-19? {#peut-on-donner-son-sang-si-on-a-eu-des-symptômes-du-covid-19 .item-question}
+
+
+
+Il est primordial d’aller donner son sang en ce moment, toutes les
+informations nécessaires pour trouver le point EFS le plus proche de
+chez vous se trouvent sur :
+https://dondesang.efs.sante.fr/trouver-une-collecte. Il est possible de
+donner son sang uniquement lorsque que les symptômes du COVID-19 ont
+disparu et qu’un médecin a validé les critères de guérison.
+
+
+
+
+
+#### Si on a eu des symptômes (courbatures, douleurs poitrine, toux) du COVID-19 sans forme grave (pas de fièvre, pas d'essoufflement ni difficultés respiratoires) jusqu'à J+7, peut-on développer une forme grave entre J+8 et J+14 ? {#si-on-a-eu-des-symptômes-courbatures-douleurs-poitrine-toux-du-covid-19-sans-forme-grave-pas-de-fièvre-pas-dessoufflement-ni-difficultés-respiratoires-jusquà-j7-peut-on-développer-une-forme-grave-entre-j8-et-j14 .item-question}
+
+
+
+Il convient de rester prudent car il est possible de développer une
+forme grave jusqu’à la guérison complète, confirmée par un médecin. Pour
+rappel, les difficultés respiratoires et l'essoufflement sont les
+principaux signaux d’alerte d’une potentielle forme grave de la maladie.
+Il faut appeler le 15 si ces symptômes surviennent.
+
+
+
+
+
+#### Les porteurs qui guérissent sont-ils immunisés ? {#les-porteurs-qui-guérissent-sont-ils-immunisés .item-question}
+
+
+
+A ce jour, il nous est impossible d’affirmer qu’il existe une immunité
+chez les personnes guéries du COVID-19. Cependant, les données
+scientifiques sont rassurantes, car il n’existe pour le moment aucun cas
+avéré de seconde infection.
+
+
+
+
+
+#### La consommation de produits surgelés présente-t-elle moins de risque ? {#la-consommation-de-produits-surgelés-présente-t-elle-moins-de-risque .item-question}
+
+
+
+Il n’y a actuellement pas de preuve que la manipulation ou la
+préparation de produits alimentaires présentent un risque de
+transmission si les règles d’hygiène des mains et les recommandations
+d’hygiène habituelles données par l’ANSES sont respectées. Pour rappel,
+un apport alimentaire varié et équilibré comprenant des produits frais
+est nécessaire afin d’être en bonne santé.
+
+
+
+
+
+#### Est-il possible de réquisitionner les cliniques privées ? {#est-il-possible-de-réquisitionner-les-cliniques-privées .item-question}
+
+
+
+Les cliniques privées participent déjà activement à la crise du
+COVID-19. Leurs activités non-prioritaires ont été déprogrammées. Elles
+ont bénéficié d’une autorisation spéciale pour l’utilisation de leurs
+réanimations lorsque cela était possible et en sécurité. Par ailleurs,
+les cliniques ont été mises à contribution pour soutenir l’effort
+national contre l'épidémie de coronavirus. Les cliniques ont notamment
+donné du matériel médical aux services de réanimation des hôpitaux
+publics, leurs personnels soignants ont été également réaffectés dans
+certains services des hôpitaux publics.
+
+
+
+
+
+#### Peut-on effectuer un diagnostic en ligne via une application ? {#peut-on-effectuer-un-diagnostic-en-ligne-via-une-application .item-question}
+
+
+
+Non, seul un médecin peut poser un diagnostic, que ce soit par
+téléconsultation ou en consultation physique. Cependant, un algorithme
+d’aide à l’orientation, validé par le Ministère de la Santé, permet
+d’orienter les patients sur la base de questions types :
+https://maladiecoronavirus.fr. Son résultat ne constitue cependant pas
+un avis médical. En cas de doute, demandez conseil à votre médecin, et
+favorisez l’utilisation de téléconsultations.
+
+
+
+
+
+#### Le virus laisse-t-il des séquelles ? Peut-on avoir des séquelles après guérison ? {#le-virus-laisse-t-il-des-séquelles-peut-on-avoir-des-séquelles-après-guérison .item-question}
+
+
+
+La grande majorité des patients atteints de COVID-19 guérissent sans
+séquelles. Chez les patients atteints de formes graves, la prise en
+charge hospitalière adaptée permet de réduire le risque de séquelles.
+Chez les patients guéris après un passage en réanimation, il est
+toutefois possible d’avoir des troubles ventilatoires persistants à
+distance de l’infection.
+
+
+
+
+
+#### Le réchauffement climatique aurait-il un impact sur le virus ? {#le-réchauffement-climatique-aurait-il-un-impact-sur-le-virus .item-question}
+
+
+
+Nous ne disposons pas d’assez d’éléments pour évaluer l’impact du
+réchauffement climatique sur le virus. De même, nous ne savons si la
+remontée des températures saisonnières aura un quelconque effet sur le
+virus.
+
+
+
+
+
+#### Les personnes atteintes souffrent-elles toutes de fièvre ? {#les-personnes-atteintes-souffrent-elles-toutes-de-fièvre .item-question}
+
+
+
+La fièvre est le symptôme le plus répandu parmi les personnes atteintes.
+Cependant toutes les personnes atteintes ne présentent pas de fièvre ;
+certaines personnes atteintes ne présentent d’ailleurs aucun symptôme
+(patients asymptomatiques), d’où l’importance de respecter les consignes
+de confinement, les gestes barrières et la distanciation sociale, même
+lorsque l’on ne se sent pas malade.
+
+
+
+
+
+#### Le père de mon enfant pourrait-il m’accompagner et assister à mon accouchement ? {#le-père-de-mon-enfant-pourrait-il-maccompagner-et-assister-à-mon-accouchement .item-question}
+
+
+
+Avec le principe de garder la composante humaine et familiale de
+l’accouchement, et avec le principe d’éviter au maximum les risques de
+contamination des soignants et des autres patients, le CNGOF (Collège
+National des Gynécologues et Obstétriciens Français) du 27 mars 2020
+recommande d’accepter l’accompagnant en salle de naissance à partir de
+la phase active de travail, sans possibilité de va et vient. Les gestes
+barrière sont reprécisés à l’entrée de la salle de travail.
+L’accompagnant peut rester dans la salle dans les 2h qui suivent
+l’accouchement.\
+Ils recommandent notamment, qu’en salle d’accouchement :\
+\
+1.     Pas de sortie du père de la salle pendant toute la durée de
+l’accouchement sous aucun prétexte (boire, manger, fumer). En cas de
+sortie, il doit quitter définitivement l’hôpital.\
+2.     Le père doit sonner pour aller aux toilettes.\
+3.     Prévoir dans le sac d’accouchement des aliments type barres de
+céréales, biscuits. Un repas sera proposé dans la mesure du possible.\
+4.     Le père ne peut pas accéder aux services d’hospitalisation. Son
+départ se fait à H2 et il revient pour chercher sa conjointe.\
+5.     La sortie précoce est recommandée\
+6.     Pas d’accompagnant dans le service d’hospitalisation ni en salle
+de césarienne si celle-ci est nécessaire.
+
+
+
+
+
+#### L’eau du robinet fait-elle l’objet de contrôles ? {#leau-du-robinet-fait-elle-lobjet-de-contrôles .item-question}
+
+
+
+Il n’y a actuellement aucune raison de suspecter une transmission du
+virus via l’eau courante.
+
+
+
+
+
+#### Pourquoi les rues ne sont-elles pas désinfectées en France ? {#pourquoi-les-rues-ne-sont-elles-pas-désinfectées-en-france .item-question}
+
+
+
+L’efficacité de la désinfection systématique des rues pour lutter contre
+la propagation du virus n’est pas démontrée. Par ailleurs, l’impact
+éventuel de l’utilisation massive de produits désinfectants dans les
+lieux publics peut poser un problème environnemental et sanitaire non
+négligeable. Pour lutter contre la propagation du virus, le confinement,
+le respect des règles d’hygiène et de distanciation sont les méthodes
+qui ont montré leur efficacité, notamment en Chine.\
+ 
+
+
+
+
+
+#### Si un vaccin est trouvé, sera-t-il rendu obligatoire ? {#si-un-vaccin-est-trouvé-sera-t-il-rendu-obligatoire .item-question}
+
+
+
+Le caractère obligatoire ou non d’un éventuel vaccin sera décidé en
+fonction des résultats des études cliniques ainsi que des données
+épidémiologiques.
+
+
+
+
+
+#### Le hantavirus est-il aussi dangereux que le coronavirus ? {#le-hantavirus-est-il-aussi-dangereux-que-le-coronavirus .item-question}
+
+
+
+Le hantavirus n’est en rien comparable au nouveau coronavirus. C’est un
+virus transmis par les rongeurs, non présent en France, et responsable
+d’une fièvre hémorragique ou d’une affection pulmonaire. Il ne s’agit
+également pas d’un virus à réelle transmission interhumaine comme le
+coronavirus, bien que quelques cas ont été décrit. Il n’y a donc pas de
+risque de diffusion massive de celui-ci, et donc pas de risque
+d’épidémie mondiale au hantavirus.
+
+
+
+
+
+#### Le virus pourrait-il revenir chaque année ? {#le-virus-pourrait-il-revenir-chaque-année .item-question}
+
+
+
+Le SARS-CoV-2, responsable du COVID-19, est un nouveau virus dont nous
+connaissons encore mal le comportement. A ce jour, il nous est
+impossible de savoir si le virus pourrait revenir chaque année. La
+recherche se penche activement sur la question, ainsi que sur
+l’éventuelle saisonnalité de sa diffusion. Ce jour cependant, nous ne
+disposons d’aucune preuve pour étayer cette hypothèse.
+
+
+
+
+
+#### Le virus se transmet-il par le sang ? {#le-virus-se-transmet-il-par-le-sang .item-question}
+
+
+
+On retrouve du coronavirus dans le sang des personnes contaminées. Il
+existe donc un possible risque de transmission par le sang. Ce jour
+cependant, il n’existe aucun cas confirmé de contamination par le sang.
+Pour rappel, le sang prélevé lors de dons du sang est systématiquement
+décontaminé de tous les virus. Il n’existe donc aucun risque à donner
+son sang, ni à en recevoir. Les personnes non malades sont de plus
+fortement invitées à continuer à donner leur sang, malgré le
+confinement.
+
+
+
+
+
+#### Pourquoi l’Exécutif affirme que le port des masques par tous n’est pas utile ? Puisqu’il y a des cas asymptomatiques, ne faudrait-il pas que chacun porte un masque ? {#pourquoi-lexécutif-affirme-que-le-port-des-masques-par-tous-nest-pas-utile-puisquil-y-a-des-cas-asymptomatiques-ne-faudrait-il-pas-que-chacun-porte-un-masque .item-question}
+
+
+
+Le port du masque dans la population générale limite essentiellement la
+propagation du virus quand il est porté par les personnes malades et
+symptomatiques (émettant des postillons contaminants).\
+Pour les personnes asymptomatiques, ce sont essentiellement le respect
+des gestes barrières et les mesures de distanciation sociale qui
+limitent la propagation du virus.\
+Pour les non-malades, les meilleures défenses contre le virus demeurent
+également les gestes barrière et la distanciation sociale, appliqués de
+manière systématique, et pas uniquement en présence de cas
+symptomatiques. Le confinement généralisé, la distanciation sociale et
+l’isolement les malades sont ce jour indispensables pour limiter la
+propagation du virus. Ils permettent de protéger l’ensemble de la
+population, notamment les plus fragiles, et d’aider nos soignants et
+notre système de santé.
+
+
+
+
+
+#### Que penser de l’utilisation des masques Decathlon par les professionnels de santé ? {#que-penser-de-lutilisation-des-masques-decathlon-par-les-professionnels-de-santé .item-question}
+
+
+
+Aucune recommandation ni données scientifiques ne sont disponibles ce
+jour concernant l’usage de tels dispositifs, non médicaux, pour la
+protection des professionnels de santé. Il n’est donc pas recommandé de
+faire usage de ce type de masques.
+
+
+
+
+
+#### Les fumeurs sont-ils plus touchés ? {#les-fumeurs-sont-ils-plus-touchés .item-question}
+
+
+
+Les fumeurs ne sont pas plus à risque d’être contaminés, toutefois ils
+sont plus à risque de développer des formes graves. Fumer abîme les
+tissus pulmonaires et les rend plus vulnérables à l’arrivée du virus.
+Des études ont montré que fumer augmente le risque de développer une
+forme sévère ou très sévère du COVID-19 de +50%, ainsi qu’un risque de
+décès de +133% par rapport aux non-fumeurs.
+
+
+
+
+
+#### Comment sera décidé le tri des patients admis en réanimation si les hôpitaux arrivent à saturation ? {#comment-sera-décidé-le-tri-des-patients-admis-en-réanimation-si-les-hôpitaux-arrivent-à-saturation .item-question}
+
+
+
+Le comité d’éthique de la SFAR (Société Française d’Anesthésie et de
+Réanimation) a publié ses recommandations à propos des décisions
+médicales d’admission des patients en unité de soins critiques dans le
+contexte pandémique.\
+Les réanimateurs sont sollicités au quotidien pour orienter la prise en
+charge des patients les plus graves. Après discussion collégiale entre
+plusieurs professionnels et après entretien avec la famille, si elle est
+disponible, il est parfois décidé ne pas infliger de souffrances
+inutiles aux patients. Cette limitation de soin répond au principe
+éthique de non malfaisance.\
+Si les hôpitaux arrivent à saturation, de telles décisions seront prise
+au cas par cas : il n’existe pas de “critères de tri” spécifiques. Des
+cellules de soutien éthique sont en cours de déploiements dans les
+hôpitaux afin d’aider les soignants à gérer la crise.\
+Ce jour, tous les efforts sont toutefois déployés pour que les hôpitaux
+qui accueillent un nombre important de patients puissent transférer ces
+derniers dans un autre établissement. Dans ce contexte, nos voisins
+européens (Suisse, Allemagne, Luxembourg) ont accepté de prendre en
+charge des patients français dans les zones sous tension. L’armée et le
+TGV médicalisé sont également mobilisés pour déplacer les malades des
+régions sous tensions vers d’autres territoire.
+
+
+
+
+
+#### Pourquoi le COVID-19 a-t-il moins d’effets sur les jeunes ? {#pourquoi-le-covid-19-a-t-il-moins-deffets-sur-les-jeunes .item-question}
+
+
+
+Les premières études montrent effectivement que ce sont les personnes
+les plus âgées qui sont les plus à risque de développer des formes
+graves de COVID-19.\
+Elles sont plus fragiles pour plusieurs raisons. Tout d’abord, avec
+l’âge, le système immunitaire - qui protège contre les virus - est moins
+efficace. De plus, les personnes âgées ont souvent d’autres pathologies,
+notamment des insuffisances d’organe (hypertension artérielle,
+insuffisance rénale…) qui les rendent moins résistantes à une agression
+extérieure comme un virus.\
+A l’inverse, le COVID-19 a moins d’effet sur les jeunes, et de nombreux
+jeunes sont porteurs asymptomatiques. Toutefois, il ne faut pas oublier
+que le COVID-19 peut également donner des formes graves chez des
+patients jeunes.\
+Les gestes barrières, la distanciation sociale et le confinement sont
+donc utiles pour tous, et permettent aux jeunes et moins jeunes de se
+protéger contre le coronavirus.
+
+
+
+
+
+#### L’alcool à brûler et le vinaigre sont-ils des désinfectants efficaces pour lutter contre le COVID-19 ? {#lalcool-à-brûler-et-le-vinaigre-sont-ils-des-désinfectants-efficaces-pour-lutter-contre-le-covid-19 .item-question}
+
+
+
+Concernant la désinfection des surfaces contre le coronavirus : \
+\
+·       L’ANSM recommande les produits avec la norme NF EN 14476.\
+·       Les produits à base d’alcool (**alcool ménager avec 70%
+d’éthanol** ou alcool à brûler à 90-95% d’éthanol) sont également
+efficaces. \
+·       **L’eau de Javel &gt; 0.05%** constitue également une
+alternative efficace si on ne dispose pas de tels produits\
+·       **L’utilisation de vinaigre ou d’huiles essentielles** n’est
+**pas recommandée** car ils ne sont pas efficaces contre le
+coronavirus.\
+\
+Pour se désinfecter les mains :\
+\
+·       L’eau et le savon doivent être privilégiés. \
+·       En cas d’absence de point d’eau, il est possible d’utiliser du
+gel hydro-alcoolique.
+
+
+
+
+
+#### Pourquoi ne pas tester l’ensemble de la population et lever le confinement pour les personnes immunisées et non atteintes ? {#pourquoi-ne-pas-tester-lensemble-de-la-population-et-lever-le-confinement-pour-les-personnes-immunisées-et-non-atteintes .item-question}
+
+
+
+Le dépistage et le confinement ont deux objectifs différents. \
+·       Le confinement a pour but de freiner la propagation du virus\
+·       Le dépistage a pour but d’orienter la prise en charge ou ne
+faire qu’un isolement ciblé. \
+ \
+Un dépistage massif n’est pour le moment pas envisageable car le virus
+circule trop fortement sur territoire et le suivi individuel des cas
+trop difficile.\
+De plus, les tests actuels, fondés sur les PCR, n’éliminent pas une
+possible infection ultérieure, ni ne donnent d’information sur une
+contamination passée.\
+Ainsi, un dépistage massif à base de tests PCR ne serait pas
+suffisamment efficace pour contenir l’épidémie. Enfin, même si réalisé,
+la forte circulation active du virus sur le territoire rend difficile un
+confinement individualisé.\
+ \
+Cependant, de nouveaux tests sont en cours de développement et devraient
+nous permettre de proposer une stratégie élargie de test pour sortir du
+confinement. Ces tests sont les tests rapides, qui pourront nous
+permettre de généraliser le dépistage, et les sérologies, qui pourront
+nous donner des informations sur une contamination passée ou une
+immunité contre le virus.
+
+
+
+
+
+#### Un médecin souhaite mettre en place des tests dans son cabinet pour les patients. Quelles sont les modalités ? Qui contacter ? {#un-médecin-souhaite-mettre-en-place-des-tests-dans-son-cabinet-pour-les-patients.-quelles-sont-les-modalités-qui-contacter .item-question}
+
+
+
+La stratégie de test actuellement en œuvre n’inclut pas les tests en
+cabinet médical. Des tests rapides, possiblement réalisables par les
+médecins généralistes, sont en cours de développement mais ne sont pas
+encore disponibles. Le Ministère de la Santé communiquera en temps voulu
+sur les modalités d’accès de ces tests une fois qu’ils auront été
+validés et qu’ils seront accessibles.\
+Pour rappel, aujourd’hui, les prélèvements sont soit réalisés à
+l’hôpital, soit à domicile par des professionnels de santé en lien avec
+un laboratoire en ville. Les tests PCR sont ensuite réalisés dans des
+laboratoires de type P2, hospitaliers ou privés.
+
+
+
+
+
+#### Comment nettoyer les produits achetés au supermarché ? {#comment-nettoyer-les-produits-achetés-au-supermarché .item-question}
+
+
+
+En rentrant des courses - et de manière générale de l’extérieur du
+foyer, le plus important est le lavage des mains, à l’eau et au savon.
+Ensuite, il est également important de laver fruits et légumes, comme
+d’habitude, en suivant les règles de bonnes pratiques d’hygiène
+alimentaire disponibles sur le site de l’ANSES. \
+Désinfecter les autres produits (boites, conserves…) n’est cependant pas
+jugé utile, car le risque de contamination par ce biais est très faible.
+Ces produits passent peu de mains en mains. De plus, même s’ils étaient
+contaminés par des gouttelettes, de l’avis des experts, la plus grande
+partie du virus, susceptible de contaminer, meurt au bout de quelques
+minutes. Le plus important reste donc de se laver les mains.
+
+
+
+
+
 
 
 
@@ -3855,7 +4365,21 @@ fortement déconseillées. Des exceptions pourront être décidées par le
 directeur pour des situations exceptionnelles. Ces restrictions devront
 durer tant que la situation sanitaire l’exige, et seront accompagnées de
 mesures pour rendre cette situation plus simple pour les personnes âgées
-et leur proche (par exemple, par la mise en place de visioconférences).
+et leur proche (par exemple, par la mise en place de visioconférences).\
+\
+Samedi 28 mars le Premier ministre et le ministre de la santé ont appelé
+à un renforcement supplémentaire des mesures de protection au sein des
+établissements hébergeant des personnes âgées (Ehpad, Ulsd, résidences
+autonomies, résidences services) : \
+\
+- à travers une limitation des déplacements au sein des établissements
+pouvant aller jusqu'au confinement en chambre, sur appréciation de la
+situation par l'équipe de direction et les soignants, couplée avec des
+mesures d'hygiène drastiques pour éviter l'entrée du virus dans les
+établissements, \
+\
+- parmi ces mesures renforcées figurera une politique de tests renforcée
+des personnels des établissements.
 
 
 
@@ -4480,6 +5004,37 @@ responsabilité et de n'effectuer que les déplacements impératifs. Sur
 place, il faut protéger les personnes vulnérables en respectant
 scrupuleusement les gestes barrières et les distances entre les
 personnes.
+
+
+
+
+
+#### Quand pourra-t-on voir les effets du confinement ? {#quand-pourra-t-on-voir-les-effets-du-confinement .item-question}
+
+
+
+Les premiers effets du confinement, sur le nombre de nouveaux cas,
+seront visibles une fois la période d’incubation maximale du virus
+passée, à partir de 14 jours au minimum.\
+\
+Il faudra ensuite quelques jours supplémentaires pour voir son effet sur
+les hospitalisations, car une fois l’incubation terminée, les sujets
+atteints peuvent ne développer des formes graves qu’au bout de quelques
+jours.
+
+
+
+
+
+#### Quel élément pourra déclencher la fin du confinement ? {#quel-élément-pourra-déclencher-la-fin-du-confinement .item-question}
+
+
+
+\
+Nous pourrons sortir du confinement une fois que la circulation du virus
+ne sera plus fortement active sur le territoire et que la situation
+pourra être contrôlée par des mesures plus ciblées. Une stratégie de
+test adaptée sera mise en œuvre pour cette phase post-épidémique.
 
 
 
