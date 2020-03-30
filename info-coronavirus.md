@@ -5850,8 +5850,14 @@ raison d’un handicap, vous pouvez vous rendre sur l'[espace de
 contact ouvert dédié aux personnes sourdes, malentendantes ou
 aveugles](https://www.gouvernement.fr/info-coronavirus/espace-handicap).
 
-**Attention, la plateforme téléphonique n’est pas habilitée à dispenser
-des conseils médicaux**.
+Vous pouvez également vous tenir informé sur [le compte du Gouvernement
+sur WhatsApp en cliquant ici](https://wa.me/33755531212?text=Bonjour),
+ou en enregistrant le numéro "07 55 53 12 12" au nom de Gouvernement
+puis en envoyant à ce contact un message sur l'application pour
+commencer la discussion.
+
+**Attention, la plateforme téléphonique et le bot WhatsApp ne dispensent
+pas de conseils médicaux**.
 
 Si j’ai des symptômes (toux, fièvre) qui me font penser au COVID-19 : je
 reste à domicile, j’évite les contacts, j’appelle un médecin avant de me
@@ -5918,6 +5924,12 @@ Ko]{}](https://www.gouvernement.fr/sites/default/files/cfiles/justificatif-depla
 
 
 ### Documents {#documents .c-onglet}
+
+
+[Téléchargez la présentation du point de situation du 28 mars 2020 sur
+le COVID-19[ PDF - 6.24
+Mo]{}](https://www.gouvernement.fr/sites/default/files/cfiles/presentation_-_point_de_situation_sur_le_covid-19_-_28.03.2020.pdf "presentation_-_point_de_situation_sur_le_covid-19_-_28.03.2020.pdf"){.download-link}
+
 
 
 [Téléchargez la brochure fiches pratiques sur les mesures de soutien[
