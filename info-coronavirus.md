@@ -120,7 +120,7 @@ COVID-19
 
 
 
-Mis à jour le dimanche 29 mars 2020 à 18h30
+Mis à jour le lundi 30 mars 2020 à 19h30
 
 
 -   [Francais](/info-coronavirus){.active}
@@ -839,7 +839,7 @@ supplémentaires dans la recherche sur les dix prochaines années.
 ### Point de situation en france {#point-de-situation-en-france .item-paragraphe-titre .c-onglet}
 
 
-**Le 29 mars à 18h30**\
+**Le 30 mars à 19h30**\
  
 
 Les autorités sanitaires tiennent [un point presse
@@ -852,19 +852,17 @@ Les informations du jour :
     plusieurs zones de regroupement de cas (clusters). Nous sommes
     actuellement au stade 3 du plan d’actions du Gouvernement qui a pour
     objectif de prévenir et limiter la circulation du virus. 
--   Depuis le 24 janvier 2020, la France compte 40 174 cas confirmés de
+-   Depuis le 24 janvier 2020, la France compte 44 450 cas confirmés de
     coronavirus COVID-19.
--   2 606 personnes sont décédées depuis le début de l’épidémie.
+-   3 024 personnes sont décédées depuis le début de l’épidémie.
 
 Retrouvez toutes les données sur [le tableau de bord COVID-19 de
 gouvernement.fr](https://www.gouvernement.fr/info-coronavirus/carte-et-donnees),
 et [le point épidémiologique quotidien sur Santé publique
 France](https://www.santepubliquefrance.fr/maladies-et-traumatismes/maladies-et-infections-respiratoires/infection-a-coronavirus/).\
-\
-Un hôpital de référence a été désigné dans chacun des départements et
-régions d'outre-mer. La prise en charge par les autorités sanitaires de
-cette maladie est identique sur l’ensemble du territoire national, dans
-les territoires d'outre-mer comme dans l'hexagone.\
+Vous trouverez aussi plus d’informations sur [le livret de présentation
+sur le suivi de
+l’épidémie](/sites/default/files/cfiles/livret_de_presentation_sur_le_suivi_de_lepidemie_de_covid-19.pdf "livret_de_presentation_sur_le_suivi_de_lepidemie_de_covid-19.pdf").\
 \
 En Polynésie française et en Nouvelle-Calédonie, où les gouvernements
 sont compétents en matière de santé publique comme de gestion de crise,
@@ -5897,8 +5895,8 @@ Ko]{}](https://www.gouvernement.fr/sites/default/files/cfiles/attestation-deplac
 
 
 
-[[ PDF - 122.97
-Ko]{}](https://www.gouvernement.fr/sites/default/files/cfiles/justificatif-deplacement-professionnel-fr_20200330.pdf){.download-link}
+[Attestation professionnelle[ PDF - 122.97
+Ko]{}](https://www.gouvernement.fr/sites/default/files/cfiles/justificatif-deplacement-professionnel-fr_20200330.pdf "justificatif-deplacement-professionnel-fr_20200330.pdf"){.download-link}
 
 
 
@@ -5907,8 +5905,8 @@ Ko]{}](https://www.gouvernement.fr/sites/default/files/cfiles/attestation-deplac
 
 
 
-[[ DOCX - 19.76
-Ko]{}](https://www.gouvernement.fr/sites/default/files/cfiles/justificatif-deplacement-professionnel-fr_20200330.docx){.download-link}
+[Attestation professionnelle[ DOCX - 19.76
+Ko]{}](https://www.gouvernement.fr/sites/default/files/cfiles/justificatif-deplacement-professionnel-fr_20200330.docx "justificatif-deplacement-professionnel-fr_20200330.docx"){.download-link}
 
 
 
@@ -5917,8 +5915,8 @@ Ko]{}](https://www.gouvernement.fr/sites/default/files/cfiles/attestation-deplac
 
 
 
-[[ TXT - 2.38
-Ko]{}](https://www.gouvernement.fr/sites/default/files/cfiles/justificatif-deplacement-professionnel-fr_20200330.txt){.download-link}
+[Attestation professionnelle[ TXT - 2.38
+Ko]{}](https://www.gouvernement.fr/sites/default/files/cfiles/justificatif-deplacement-professionnel-fr_20200330.txt "justificatif-deplacement-professionnel-fr_20200330.txt"){.download-link}
 
 
 
@@ -5952,6 +5950,12 @@ Ko]{}](https://www.gouvernement.fr/sites/default/files/cfiles/declaration_du_pre
 
 [Téléchargez la déclaration Premier ministre 14 mars 2020 [ PDF - 319
 Ko]{}](https://www.gouvernement.fr/sites/default/files/cfiles/declaration_premier_ministre_14_mars_2020.pdf "declaration_premier_ministre_14_mars_2020.pdf"){.download-link}
+
+
+
+[Téléchargez le livret de présentation sur le suivi de l’épidémie de
+COVID-19[ PDF - 1.11
+Mo]{}](https://www.gouvernement.fr/sites/default/files/cfiles/livret_de_presentation_sur_le_suivi_de_lepidemie_de_covid-19.pdf "livret_de_presentation_sur_le_suivi_de_lepidemie_de_covid-19.pdf"){.download-link}
 
 
 
