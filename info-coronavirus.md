@@ -5469,15 +5469,17 @@ quotidienne conjointe sera assurée.
 
 
 
-Le suivi de l’épidémie est réalisée grâce :\
-Aux nombres de cas testés et positifs\
-A la surveillance hospitalière via le nombre d’admission dans plus de
-600 établissements de santé en prenant compte du nombre de passages aux
-urgences, du nombre de cas en soins intensifs et en réanimation, du
-nombre de patients guéris et du nombre de décès en milieu hospitalier.\
-Au travail d’enquête de santé publique France auprès des médecins de
-ville, du réseau SOS médecins, des tests réalisés en laboratoires de
-ville.\
+Le suivi de l’épidémie est réalisée grâce :
+-   Aux nombres de cas testés et positifs
+-   A la surveillance hospitalière via le nombre d’admission dans plus
+    de 600 établissements de santé en prenant compte du nombre de
+    passages aux urgences, du nombre de cas en soins intensifs et en
+    réanimation, du nombre de patients guéris et du nombre de décès en
+    milieu hospitalier.
+-   Au travail d’enquête de santé publique France auprès des médecins de
+    ville, du réseau SOS médecins, des tests réalisés en laboratoires de
+    ville.
+
 \
 Vous trouverez
 [ici](https://www.gouvernement.fr/info-coronavirus/carte-et-donnees), un
@@ -5502,7 +5504,7 @@ Notre stratégie pour lutter contre le virus est double : 
 
 
 
-#### Le renforcement de la capacité d’accueil de nos hôpitaux. {#le-renforcement-de-la-capacité-daccueil-de-nos-hôpitaux. .item-question}
+#### Comment le renforcement de la capacité d’accueil de nos hôpitaux se met-il en place ? {#comment-le-renforcement-de-la-capacité-daccueil-de-nos-hôpitaux-se-met-il-en-place .item-question}
 
 
 
@@ -5747,11 +5749,11 @@ protéger les personnes détenues et les personnels pénitentiaires : 
 
 
 
-Beaucoup de territoires d’outre mer ont des capacités sanitaires qui
+Beaucoup de territoires d’Outre-mer ont des capacités sanitaires qui
 reposent souvent, pour les cas les plus graves, sur l’évacuation
 sanitaire en métropole. \
 Très rapidement toute une série de décisions adaptées à la situation des
-territoires d’outre-mer a été prise :\
+territoires d’Outre-mer a été prise :\
 -       Confinement en même temps que dans l’Hexagone \
 -       Restrictions strictes pour l’entrée sur chaque territoire \
 Interdiction d’entrée dans les collectivités d’outre-mer sauf motifs
@@ -6037,6 +6039,8 @@ Mo]{}](https://www.gouvernement.fr/sites/default/files/cfiles/livret_de_presenta
     numériques](https://www.economie.gouv.fr/coronavirus-mobilisation-numerique)
 -   [Testez vos symptômes au
     coronavirus](https://maladiecoronavirus.fr/)
+-   [Bénéficiez d’une aide gratuite pour faire vos démarches en ligne
+    (administratives, courses …)](https://solidarite-numerique.fr/)
 
 
 
