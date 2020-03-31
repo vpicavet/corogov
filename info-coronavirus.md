@@ -4397,22 +4397,24 @@ encore renforcée aux gestes barrières.
 
 
 Les personnes âgées constituent un public fragile et vulnérable face au
-virus. 
-
+virus.\
+\
 Le dispositif de protection à mettre en place par tous pour protéger les
 résidents et limiter la contamination est le suivant : 
 
 -   Renforcement des gestes barrières (lavage des mains réguliers) pour
     ralentir la progression de l’épidémie.
 
+\
 Les professionnels des EHPAD sont également mobilisés afin de modifier
-les habitudes au sein de ces structures.
-
+les habitudes au sein de ces structures.\
+\
 Cela comprend notamment :
 
 -   La détection très rapide de tout cas suspects et isolement de la
     personne en attendant confirmation.
 
+\
 Le 11 mars 2020, le ministre des Solidarités et de la Santé a annoncé la
 suspension de l’intégralité des visites extérieures en EHPAD et en unité
 de soins longue durée. Dans les résidences autonomie, les visites sont
