@@ -4869,11 +4869,13 @@ Il est nécessaire de recopier : 
 
 -   la partie correspondant à son identité 
 -   la mention « certifie que mon déplacement est lié au motif suivant
-    autorisé par l’article 1er du décret du 16 mars 2020 portant
-    réglementation des déplacements dans le cadre de la lutte contre la
-    propagation du virus Covid-19 » 
+    autorisé par l’article 3 du décret du 23 mars 2020 prescrivant les
+    mesures générales pour faire face à l'épidémie de Covid-19  dans le
+    cadre de l'état d'urgence sanitaire portant réglementation des
+    déplacements dans le cadre de la lutte contre la la propagation du
+    virus Covid-19 » 
 -   la ligne correspondant au motif
--   le lieu, la date et la signature.
+-   le lieu, la date, l'heure et la signature.
 
 
 
@@ -5845,6 +5847,7 @@ réalisées par le personnel soignant, quand il existe des possibilités
 d’aérosolisation du virus (propulsion de gouttelettes contaminées),
 notamment lors des gestes invasifs.\
 3. Les masques alternatifs\
+\
 La priorité du Gouvernement en termes de masques est l’équipement des
 professionnels de santé, via des importations massives et l’augmentation
 de nos capacités de production.\
@@ -5867,11 +5870,13 @@ avril.\
 Il s’agit d’un outil complémentaire pour contribuer à la prévention du
 covid19 dans le milieu professionnel. L’Etat s’en saisira, pour
 certaines catégories d’agents publics.\
+\
 Toutefois, il faut rappeler que le port de masque doit nécessairement
 s’accompagner du respect des mesures barrières (se laver les mains,
 tousser dans son coude, utiliser des mouchoirs à usage unique, ne pas se
 serrer les mains et éviter les embrassades) ainsi que les mesures de
 distanciation sociale.\
+\
 4.    Il existe des masques FFP3, réservés à certaines utilisations très
 spécifiques. Ils ne sont pas utiles en prévention de la transmission
 COVID-19.
