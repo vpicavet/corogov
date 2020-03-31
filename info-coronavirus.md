@@ -2606,6 +2606,16 @@ remplir notamment les conditions suivantes :
 
 
 
+#### Les indemnités chômage seront-elles versées à la date habituelle ? {#les-indemnités-chômage-seront-elles-versées-à-la-date-habituelle .item-question}
+
+
+
+Oui.
+
+
+
+
+
 #### Je suis en fin de droits de chômage, que faire ? {#je-suis-en-fin-de-droits-de-chômage-que-faire .item-question}
 
 
@@ -2725,16 +2735,6 @@ Par ailleurs, plusieurs grandes entreprises françaises comme LVMH ou
 Ricard ont annoncé produire et offrir des solutions désinfectantes. Face
 à la tension en matière d’approvisionnement, le personnel soignant reste
 prioritaire.
-
-
-
-
-
-#### Les indemnités chômage seront-elles versées à la date habituelle ? {#les-indemnités-chômage-seront-elles-versées-à-la-date-habituelle .item-question}
-
-
-
-Oui.
 
 
 
@@ -3400,7 +3400,7 @@ de limiter tout risque de transmission du virus.
 
 
 
-Après la quatorzaine, certaines personnes sans symptômes seront toujours
+Après la quatorzaine, certaines personnes sans symptôme seront toujours
 infectées, ce sont les cas “asymptomatiques”. Elles sont toujours à
 risque de contaminer les autres, bien que ce risque soit plus faible que
 les malades symptomatiques. Sortir trop tôt du confinement est donc à
