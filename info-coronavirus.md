@@ -113,8 +113,7 @@ COVID-19
 
 -   [Carte et données](/info-coronavirus/carte-et-donnees){.button-cta
     .carte}
--   [Questions/réponses](/info-coronavirus%23questions){.button-cta
-    .red}
+-   [Questions/réponses](/info-coronavirus#questions){.button-cta .red}
 
 
 
@@ -130,8 +129,8 @@ Mis à jour le lundi 30 mars 2020 à 19h30
 
 
 
-[informations]{} CORONAVIRUS 
-=============================
+[informations]{} CORONAVIRUS
+============================
 
 
 []{#point}
@@ -213,8 +212,14 @@ gouttelettes](https://www.gouvernement.fr/sites/default/files/cimages/transmissi
 
 
 
+**Pour en savoir plus**, cliquez sur la thématique qui vous intéresse :
 
-### Plus d'informations sur le virus {#plus-dinformations-sur-le-virus .item-paragraphe-titre .c-onglet}
+
+
+
+### Plus d'informations sur le virus {#plus-dinformations-sur-le-virus .item-paragraphe-titre .c-onglet data-picto=""}
+
+
 
 
 
@@ -380,7 +385,9 @@ Les + de 80 ans représentent 62% des décès.
 
 
 
-### Transmission {#transmission .item-paragraphe-titre .c-onglet}
+### Transmission {#transmission .item-paragraphe-titre .c-onglet data-picto=""}
+
+
 
 
 
@@ -567,7 +574,9 @@ consolidées.
 
 
 
-### Dépistage {#dépistage .item-paragraphe-titre .c-onglet}
+### Dépistage {#dépistage .item-paragraphe-titre .c-onglet data-picto=""}
+
+
 
 
 
@@ -659,7 +668,9 @@ médicale entre patients testés ou non restent identiques.
 
 
 
-### Traitement {#traitement .item-paragraphe-titre .c-onglet}
+### Traitement {#traitement .item-paragraphe-titre .c-onglet data-picto=""}
+
+
 
 
 
@@ -835,7 +846,7 @@ supplémentaires dans la recherche sur les dix prochaines années.
 
 
 
-### Point de situation en France {#point-de-situation-en-france .item-paragraphe-titre .c-onglet}
+### Point de situation en France {#point-de-situation-en-france .item-paragraphe-titre .c-onglet data-picto=""}
 
 
 **Le 30 mars à 22h00**\
@@ -868,6 +879,8 @@ En Polynésie française et en Nouvelle-Calédonie, où les gouvernements
 sont compétents en matière de santé publique comme de gestion de crise,
 l'État réaffirme son soutien plein et entier aux collectivités pour les
 accompagner dans la lutte contre ce virus.
+
+
 
 
 
@@ -916,8 +929,12 @@ distance** les uns des autres\
 
 
 
+**Pour en savoir plus,** cliquez sur la thématique qui vous intéresse :
 
-### Consignes sanitaires {#consignes-sanitaires .item-paragraphe-titre .c-onglet}
+
+
+
+### Consignes sanitaires {#consignes-sanitaires .item-paragraphe-titre .c-onglet data-picto=""}
 
 
 **Si j’ai des symptômes (toux, fièvre) qui me font penser au COVID-19 :
@@ -1221,7 +1238,9 @@ distanciation sociale.
 
 
 
-### Conseils voyageurs {#conseils-voyageurs .item-paragraphe-titre .c-onglet}
+### Conseils voyageurs {#conseils-voyageurs .item-paragraphe-titre .c-onglet data-picto=""}
+
+
 
 
 
@@ -1555,8 +1574,15 @@ Je suis un ressortissant français à l’étranger
 
 
 
+**Pour en savoir plus**, cliquez sur la thématique qui vous intéresse :
 
-### Les établissements fermés {#les-établissements-fermés .item-paragraphe-titre .c-onglet}
+
+
+
+
+### Les établissements fermés {#les-établissements-fermés .item-paragraphe-titre .c-onglet data-picto=""}
+
+
 
 
 
@@ -1694,7 +1720,7 @@ Les animaleries restent également ouvertes.\
 
 
 
-### Pour votre santé {#pour-votre-santé .item-paragraphe-titre .c-onglet}
+### Pour votre santé {#pour-votre-santé .item-paragraphe-titre .c-onglet data-picto=""}
 
 
 Les professionnels et établissements de santé ont été informés
@@ -1772,7 +1798,9 @@ Indien (Réunion, Mayotte) et dans la région Antilles-Guyane.
 
 
 
-### Pour votre sécurité {#pour-votre-sécurité .item-paragraphe-titre .c-onglet}
+
+
+### Pour votre sécurité {#pour-votre-sécurité .item-paragraphe-titre .c-onglet data-picto=""}
 
 
 Le 14 mars 2020, le Premier ministre a décidé, à la suite du passage en
@@ -1824,7 +1852,9 @@ Les déplacements sont interdits sauf dans les cas suivants et uniquement
 
 
 
-### Pour vos voyages {#pour-vos-voyages .item-paragraphe-titre .c-onglet}
+
+
+### Pour vos voyages {#pour-vos-voyages .item-paragraphe-titre .c-onglet data-picto=""}
 
 
 Le ministère de l’Europe et des Affaires étrangères a mis jour [ses
@@ -1860,7 +1890,9 @@ l’Ambassade de France à Pékin et le consulat général de France à Wuhan.
 
 
 
-### Pour la scolarité {#pour-la-scolarité .item-paragraphe-titre .c-onglet}
+
+
+### Pour la scolarité {#pour-la-scolarité .item-paragraphe-titre .c-onglet data-picto=""}
 
 
 **Fermeture de tous les établissements scolaires**
@@ -1923,7 +1955,9 @@ Sont concernés par ce dispositif :
 
 
 
-### Pour l'économie {#pour-léconomie .item-paragraphe-titre .c-onglet}
+
+
+### Pour l'économie {#pour-léconomie .item-paragraphe-titre .c-onglet data-picto=""}
 
 
 Une cellule de continuité économique a été activé le 3 mars au ministère
@@ -1993,7 +2027,9 @@ Pour plus d’informations dans votre région, contactez le 0 800 130 000.
 
 
 
-### Pour les plus vulnérables {#pour-les-plus-vulnérables .item-paragraphe-titre .c-onglet}
+
+
+### Pour les plus vulnérables {#pour-les-plus-vulnérables .item-paragraphe-titre .c-onglet data-picto=""}
 
 
 La durée de perception des allocations chômage sera prolongée pour les
@@ -2020,7 +2056,9 @@ d’urgence sanitaire.
 
 
 
-### Chronologie {#chronologie .item-paragraphe-titre .c-onglet}
+
+
+### Chronologie {#chronologie .item-paragraphe-titre .c-onglet data-picto=""}
 
 
 -   **2 janvier :** Début de veiller au Centre opérationnel de réception
@@ -2273,6 +2311,9 @@ d’urgence sanitaire.
 
 
 
+
+
+
 []{#questions}
 
 
@@ -2283,10 +2324,16 @@ Questions / Réponses
 
 
 
+**Pour en savoir plus**, cliquez sur la thématique qui vous intéresse :
 
 
 
-### Travail et pension {#travail-et-pension .item-paragraphe-titre .c-onglet}
+
+
+
+### Travail et pension {#travail-et-pension .item-paragraphe-titre .c-onglet data-picto="https://www.gouvernement.fr/sites/default/files/cimages/qr_travail_et_pension.svg"}
+
+
 
 
 
@@ -2648,7 +2695,9 @@ COVID-19.
 
 
 
-### École et garde d'enfant {#école-et-garde-denfant .item-paragraphe-titre .c-onglet}
+### École et garde d'enfant {#école-et-garde-denfant .item-paragraphe-titre .c-onglet data-picto="https://www.gouvernement.fr/sites/default/files/cimages/qr_ecole_et_garde_denfants.svg"}
+
+
 
 
 
@@ -2740,7 +2789,9 @@ de lui payer 80% de son salaire qui vous sera remboursé ultérieurement.
 
 
 
-### Sorties et déplacements {#sorties-et-déplacements .item-paragraphe-titre .c-onglet}
+### Sorties et déplacements {#sorties-et-déplacements .item-paragraphe-titre .c-onglet data-picto="https://www.gouvernement.fr/sites/default/files/cimages/qr_sorties_et_deplacements.svg"}
+
+
 
 
 
@@ -3312,7 +3363,9 @@ population, notamment les plus fragiles, et notre système de santé.
 
 
 
-### Logement {#logement .item-paragraphe-titre .c-onglet}
+### Logement {#logement .item-paragraphe-titre .c-onglet data-picto="https://www.gouvernement.fr/sites/default/files/cimages/qr_logement.svg"}
+
+
 
 
 
@@ -3522,7 +3575,9 @@ des solutions.
 
 
 
-### Gestion des déchets {#gestion-des-déchets .item-paragraphe-titre .c-onglet}
+### Gestion des déchets {#gestion-des-déchets .item-paragraphe-titre .c-onglet data-picto="https://www.gouvernement.fr/sites/default/files/cimages/qr_gestion_des_dechets.svg"}
+
+
 
 
 
@@ -3667,7 +3722,9 @@ pour les déposer dans les différents points de collecte.
 
 
 
-### Santé {#santé-1 .item-paragraphe-titre .c-onglet}
+### Santé {#santé-1 .item-paragraphe-titre .c-onglet data-picto="https://www.gouvernement.fr/sites/default/files/cimages/qr_sante.svg"}
+
+
 
 
 
@@ -4286,7 +4343,9 @@ minutes. Le plus important reste donc de se laver les mains.
 
 
 
-### Personnes agées {#personnes-agées .item-paragraphe-titre .c-onglet}
+### Personnes agées {#personnes-agées .item-paragraphe-titre .c-onglet data-picto="https://www.gouvernement.fr/sites/default/files/cimages/qr_personnes_agees.svg"}
+
+
 
 
 
@@ -4385,7 +4444,9 @@ des personnels des établissements.
 
 
 
-### Réunions familliales et obsèques {#réunions-familliales-et-obsèques .item-paragraphe-titre .c-onglet}
+### Réunions familliales et obsèques {#réunions-familliales-et-obsèques .item-paragraphe-titre .c-onglet data-picto="https://www.gouvernement.fr/sites/default/files/cimages/qr_reunions_familiales_et_obseques.svg"}
+
+
 
 
 
@@ -4465,7 +4526,9 @@ personnes au sein d’un lieu de culte.
 
 
 
-### Entraide {#entraide .item-paragraphe-titre .c-onglet}
+### Entraide {#entraide .item-paragraphe-titre .c-onglet data-picto="https://www.gouvernement.fr/sites/default/files/cimages/qr_entraide.svg"}
+
+
 
 
 
@@ -4567,7 +4630,9 @@ par région.
 
 
 
-### Réglementation du confinement {#réglementation-du-confinement .item-paragraphe-titre .c-onglet}
+### Réglementation du confinement {#réglementation-du-confinement .item-paragraphe-titre .c-onglet data-picto="https://www.gouvernement.fr/sites/default/files/cimages/qr_reglementation_du_confinement.svg"}
+
+
 
 
 
@@ -5040,7 +5105,9 @@ test adaptée sera mise en œuvre pour cette phase post-épidémique.
 
 
 
-### Les bons comportements {#les-bons-comportements .item-paragraphe-titre .c-onglet}
+### Les bons comportements {#les-bons-comportements .item-paragraphe-titre .c-onglet data-picto="https://www.gouvernement.fr/sites/default/files/cimages/qr_bons_comportements.svg"}
+
+
 
 
 
@@ -5205,7 +5272,9 @@ solidarité nationale.
 
 
 
-### Plan et gestion de crise {#plan-et-gestion-de-crise .item-paragraphe-titre .c-onglet}
+### Plan et gestion de crise {#plan-et-gestion-de-crise .item-paragraphe-titre .c-onglet data-picto="https://www.gouvernement.fr/sites/default/files/cimages/qr_plan_et_gestion_de_crise.svg"}
+
+
 
 
 
