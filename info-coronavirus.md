@@ -741,41 +741,6 @@ d'ibuprofène et d'aspirine est suspendue.
 
 
 
-#### Y a-t-il un risque de pénurie de curare ? {#y-a-t-il-un-risque-de-pénurie-de-curare .item-question}
-
-
-
-Il existe une tension sur les marchés mondiaux en matière
-d'approvisionnement en médicaments spécifiquement liés au service de
-réanimation  car aucun système sanitaire n'a été pensé pour faire face à
-une telle vague épidémique et car tous les systèmes de santé du monde
-sont confrontés à cette vague en même temps.\
-\
-La situation du curare, comme pour les autres médicaments, a été
-anticipée. Il faut noter  que les curares ne sont pas indispensables
-dans la prise en charge des détresses respiratoires, mais
-essentiellement indiqués dans les formes les plus sévères.\
-\
-Ce risque spécifique d’une pénurie de curare a fait l’objet de groupes
-de travail avec les professionnels.\
-\
-Tous les moyens sont actuellement mis en œuvre pour permettre de
-garantir l’accès au curare aux patients qui le nécessitent :\
-\
-- actions auprès des industriels pour augmenter l’approvisionnement de
-la France ;\
-- meilleure régulation des stocks détenus dans les établissements de
-santé sur le territoire en lien avec les ARS ;\
-- priorisation des indications en lien avec les sociétés savantes et
-optimisation des protocoles, y compris dans les autres indications
-nécessitant des curares ;\
-- objectif de réduction de 20% de la consommation de curare sans risque
-pour le patient avec déploiement du monitorage de la curarisation.
-
-
-
-
-
 #### La chloroquine est-elle vraiment un remède miracle contre le coronavirus ? {#la-chloroquine-est-elle-vraiment-un-remède-miracle-contre-le-coronavirus .item-question}
 
 
