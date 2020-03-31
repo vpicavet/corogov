@@ -256,6 +256,23 @@ confirmée.
 
 
 
+#### Quel est la dangerosité du coronavirus ? {#quel-est-la-dangerosité-du-coronavirus .item-question}
+
+
+
+Le coronavirus est dangereux pour trois raisons :
+-   Il est tres contagieux : chaque personne infectée va contaminer au
+    moins 3 personnes en l'absence de mesures de protection.
+-   Il est contagieux avant d’être symptomatique, c’est à dire qu’une
+    personne contaminée, qui ne ressent pas de symptômes peut contaminer
+    d’autres personnes.
+-   Environ 15% des cas constatés entraînent des complications et 5% de
+    ces dernières nécessitent une hospitalisation en réanimation.
+
+
+
+
+
 #### Quels sont les symptômes du coronavirus COVID-19 ? {#quels-sont-les-symptômes-du-coronavirus-covid-19 .item-question}
 
 
@@ -284,6 +301,27 @@ coronavirus COVID-19 est de 3 à 5 jours en général, il peut toutefois
 s’étendre jusqu’à 14 jours. Pendant cette période, le sujet peut être
 contagieux : il peut être porteur du virus avant l’apparition des
 symptômes ou à l’apparition de signaux faibles.
+
+
+
+
+
+#### Quelles catégories de la population sont les plus touchées ? {#quelles-catégories-de-la-population-sont-les-plus-touchées .item-question}
+
+
+
+Le virus touche toutes les classes d'âges, y compris les plus jeunes,
+chez qui on constate aussi des complications ou des formes graves. La
+médiane des personnes hospitalisées en réanimation est de 58 ans (ce qui
+signifie que la moitié des patients hospitalisés en réanimation ont
+moins de 58 ans et que l'autre moitié a plus de 58 ans).\
+ \
+L'infection à COViD-19 entraine des décès surtout chez les personnes
+âgées et les plus fragiles. \
+\
+Les + de 60 ans représentent 96% des décès.\
+Les + de 70 ans représentent 86% des décès.\
+Les + de 80 ans représentent 62% des décès.
 
 
 
@@ -340,44 +378,6 @@ virus. Bien que nous soyons encore à un stade précoce pour se prononcer
 sur cette question, de l’avis des scientifiques les premières données
 semblent rassurantes, car ce jour, aucun cas réellement confirmé de
 re-contamination ne semble avoir eu lieu.
-
-
-
-
-
-#### Quel est la dangerosité du coronavirus ? {#quel-est-la-dangerosité-du-coronavirus .item-question}
-
-
-
-Le coronavirus est dangereux pour trois raisons :
--   Il est tres contagieux : chaque personne infectée va contaminer au
-    moins 3 personnes en l'absence de mesures de protection.
--   Il est contagieux avant d’être symptomatique, c’est à dire qu’une
-    personne contaminée, qui ne ressent pas de symptômes peut contaminer
-    d’autres personnes.
--   Environ 15% des cas constatés entraînent des complications et 5% de
-    ces dernières nécessitent une hospitalisation en réanimation.
-
-
-
-
-
-#### Quelles catégories de la population sont les plus touchées ? {#quelles-catégories-de-la-population-sont-les-plus-touchées .item-question}
-
-
-
-Le virus touche toutes les classes d'âges, y compris les plus jeunes,
-chez qui on constate aussi des complications ou des formes graves. La
-médiane des personnes hospitalisées en réanimation est de 58 ans (ce qui
-signifie que la moitié des patients hospitalisés en réanimation ont
-moins de 58 ans et que l'autre moitié a plus de 58 ans).\
- \
-L'infection à COViD-19 entraine des décès surtout chez les personnes
-âgées et les plus fragiles. \
-\
-Les + de 60 ans représentent 96% des décès.\
-Les + de 70 ans représentent 86% des décès.\
-Les + de 80 ans représentent 62% des décès.
 
 
 
@@ -751,18 +751,18 @@ l’infection à COVID-19 n’a pas été scientifiquement démontrée. Le
 Haut-Conseil de Santé Publique recommande de ne pas utiliser ce
 traitement en l’absence de recommandation à l’exception des cas graves à
 l’hôpital, sur décision collégiale des médecins, et sous surveillance
-stricte.
-
+stricte.\
+\
 Le Haut Conseil exclut toute prescription dans la population générale et
 pour des formes non sévères en l’absence de toutes données probantes
-pour le moment.
-
+pour le moment.\
+\
 Le ministre des Solidarités et de la Santé prendra prochainement un
 arrêté pour encadrer l’utilisation du médicament, qui sera accessible
 aux équipes hospitalières qui le souhaitent pour l’utiliser selon ces
 orientations précises. Il ne s’agit pas d’une autorisation de mise sur
-le marché ni d’une d’une utilisation libre.
-
+le marché ni d’une d’une utilisation libre.\
+\
 D’importantes études cliniques, sur plusieurs milliers de malades en
 Europe dont 800 malades en France, sont en cours pour identifier le ou
 les traitements les plus efficaces.
