@@ -3296,7 +3296,7 @@ de limiter tout risque de transmission du virus.
 
 
 
-#### Pourquoi maintenir le confinement pour les personnes sans symptômes après la quatorzaine ? {#pourquoi-maintenir-le-confinement-pour-les-personnes-sans-symptômes-après-la-quatorzaine .item-question}
+#### Pourquoi maintenir le confinement pour les personnes sans symptôme après la quatorzaine ? {#pourquoi-maintenir-le-confinement-pour-les-personnes-sans-symptôme-après-la-quatorzaine .item-question}
 
 
 
@@ -3621,11 +3621,11 @@ La préoccupation constante du Gouvernement est d’assurer la protection
 des agents grâce à la mise en place d’une organisation du travail qui
 permette le respect des gestes barrières. Un travail étroit est mené
 entre le ministère de la Transition écologique et solidaire, le
-ministère de la Santé et les fédérations professionnelles pour adopter
-les règles appropriées pour chaque métier au sein de la chaîne des
-déchets (ces règles ne sont pas les mêmes pour la collecte des déchets
-ménagers ou de déchets plus spécifiques, pour les chaînes de tri, pour
-l'incinération, etc.).
+ministère des Solidarités et de la Santé et les fédérations
+professionnelles pour adopter les règles appropriées pour chaque métier
+au sein de la chaîne des déchets (ces règles ne sont pas les mêmes pour
+la collecte des déchets ménagers ou de déchets plus spécifiques, pour
+les chaînes de tri, pour l'incinération, etc.).
 
 
 
@@ -3846,7 +3846,7 @@ disparu et qu’un médecin a validé les critères de guérison.
 
 
 
-#### Si on a eu des symptômes (courbatures, douleurs poitrine, toux) du COVID-19 sans forme grave (pas de fièvre, pas d'essoufflement ni difficultés respiratoires) jusqu'à J+7, peut-on développer une forme grave entre J+8 et J+14 ? {#si-on-a-eu-des-symptômes-courbatures-douleurs-poitrine-toux-du-covid-19-sans-forme-grave-pas-de-fièvre-pas-dessoufflement-ni-difficultés-respiratoires-jusquà-j7-peut-on-développer-une-forme-grave-entre-j8-et-j14 .item-question}
+#### Si on a eu des symptômes (courbatures, douleurs poitrine, toux) du COVID-19 sans forme grave (pas de fièvre, pas d'essoufflement ni difficultés respiratoires) pendant les 7 premiers jours, peut-on développer une forme grave les 7 jours suivants? {#si-on-a-eu-des-symptômes-courbatures-douleurs-poitrine-toux-du-covid-19-sans-forme-grave-pas-de-fièvre-pas-dessoufflement-ni-difficultés-respiratoires-pendant-les-7-premiers-jours-peut-on-développer-une-forme-grave-les-7-jours-suivants .item-question}
 
 
 
@@ -3912,8 +3912,8 @@ certains services des hôpitaux publics.
 
 Non, seul un médecin peut poser un diagnostic, que ce soit par
 téléconsultation ou en consultation physique. Cependant, un algorithme
-d’aide à l’orientation, validé par le Ministère de la Santé, permet
-d’orienter les patients sur la base de questions types :
+d’aide à l’orientation, validé par le ministère des Solidarités et de la
+Santé, permet d’orienter les patients sur la base de questions types :
 https://maladiecoronavirus.fr. Son résultat ne constitue cependant pas
 un avis médical. En cas de doute, demandez conseil à votre médecin, et
 favorisez l’utilisation de téléconsultations.
@@ -4084,7 +4084,7 @@ confinement.
 
 
 
-#### Pourquoi l’Exécutif affirme que le port des masques par tous n’est pas utile ? Puisqu’il y a des cas asymptomatiques, ne faudrait-il pas que chacun porte un masque ? {#pourquoi-lexécutif-affirme-que-le-port-des-masques-par-tous-nest-pas-utile-puisquil-y-a-des-cas-asymptomatiques-ne-faudrait-il-pas-que-chacun-porte-un-masque .item-question}
+#### Pourquoi le Gouvernement affirme-t-il que le port des masques par tous n’est pas utile ? Puisqu’il y a des cas asymptomatiques, ne faudrait-il pas que chacun porte un masque ? {#pourquoi-le-gouvernement-affirme-t-il-que-le-port-des-masques-par-tous-nest-pas-utile-puisquil-y-a-des-cas-asymptomatiques-ne-faudrait-il-pas-que-chacun-porte-un-masque .item-question}
 
 
 
@@ -4254,9 +4254,9 @@ immunité contre le virus.
 La stratégie de test actuellement en œuvre n’inclut pas les tests en
 cabinet médical. Des tests rapides, possiblement réalisables par les
 médecins généralistes, sont en cours de développement mais ne sont pas
-encore disponibles. Le Ministère de la Santé communiquera en temps voulu
-sur les modalités d’accès de ces tests une fois qu’ils auront été
-validés et qu’ils seront accessibles.\
+encore disponibles. Le ministère des Solidarités et de la Santé
+communiquera en temps voulu sur les modalités d’accès de ces tests une
+fois qu’ils auront été validés et qu’ils seront accessibles.\
 Pour rappel, aujourd’hui, les prélèvements sont soit réalisés à
 l’hôpital, soit à domicile par des professionnels de santé en lien avec
 un laboratoire en ville. Les tests PCR sont ensuite réalisés dans des
@@ -4367,10 +4367,10 @@ durer tant que la situation sanitaire l’exige, et seront accompagnées de
 mesures pour rendre cette situation plus simple pour les personnes âgées
 et leur proche (par exemple, par la mise en place de visioconférences).\
 \
-Samedi 28 mars le Premier ministre et le ministre de la santé ont appelé
-à un renforcement supplémentaire des mesures de protection au sein des
-établissements hébergeant des personnes âgées (Ehpad, Ulsd, résidences
-autonomies, résidences services) : \
+Samedi 28 mars le Premier ministre et le ministre des Solidarités et de
+la Santé ont appelé à un renforcement supplémentaire des mesures de
+protection au sein des établissements hébergeant des personnes âgées
+(Ehpad, Ulsd, résidences autonomies, résidences services) : \
 \
 - à travers une limitation des déplacements au sein des établissements
 pouvant aller jusqu'au confinement en chambre, sur appréciation de la
@@ -5997,6 +5997,25 @@ Mo]{}](https://www.gouvernement.fr/sites/default/files/cfiles/livret_de_presenta
 
 
 
+
+
+
+
+
+
+
+[  ](# "Fermer la demande abonnement aux notification")
+
+Restez au courant
+
+Vous pouvez recevoir les prochaines informations officielles à propos du
+COVID-19.
+
+[J'active les notifications](#){#get-notifications .notifmilieu
+.button-cta .red}
+
+[Consulter le traitement des données
+personnelles](/donnees-personnelles-et-cookies#notifications).
 
 
 
