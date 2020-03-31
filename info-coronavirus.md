@@ -4648,7 +4648,7 @@ aéroports.
 
 Si vous ne respectez pas cette obligation, vous vous exposez à une
 amende forfaitaire de 135 euros (qui peut être majorée à 375 euros). En
-cas de récidive de cette violation, l’amende est de 1500 euros (pour 2
+cas de récidive de cette violation, l’amende est de 200 euros (pour 2
 violations en 15 jours) et devient un délit puni de 6 mois
 d’emprisonnement et de 3750 euros d’amende en cas de récidive de plus de
 3 fois dans un délai de 30 jours.
