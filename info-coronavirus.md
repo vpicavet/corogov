@@ -350,9 +350,8 @@ Le coronavirus est dangereux pour trois raisons :
 -   Il est contagieux avant d’être symptomatique, c’est à dire qu’une
     personne contaminée, qui ne ressent pas de symptômes peut contaminer
     d’autres personnes.
--   Il est dangereux : environ 15% des cas constatés entraînent des
-    complications et 5% de ces dernières nécessitent une hospitalisation
-    en réanimation.
+-   Environ 15% des cas constatés entraînent des complications et 5% de
+    ces dernières nécessitent une hospitalisation en réanimation.
 
 
 
@@ -368,7 +367,7 @@ médiane des personnes hospitalisées en réanimation est de 58 ans (ce qui
 signifie que la moitié des patients hospitalisés en réanimation ont
 moins de 58 ans et que l'autre moitié a plus de 58 ans).\
  \
-L'infection à CoVid19 entraine des décès surtout chez les personnes
+L'infection à COViD-19 entraine des décès surtout chez les personnes
 âgées et les plus fragiles. \
 \
 Les + de 60 ans représentent 96% des décès.\
@@ -747,7 +746,7 @@ Le Haut Conseil exclut toute prescription dans la population générale et
 pour des formes non sévères en l’absence de toutes données probantes
 pour le moment.
 
-Le ministre de la Santé et des Solidarités prendra prochainement un
+Le ministre des Solidarités et de la Santé prendra prochainement un
 arrêté pour encadrer l’utilisation du médicament, qui sera accessible
 aux équipes hospitalières qui le souhaitent pour l’utiliser selon ces
 orientations précises. Il ne s’agit pas d’une autorisation de mise sur
@@ -836,10 +835,10 @@ supplémentaires dans la recherche sur les dix prochaines années.
 
 
 
-### Point de situation en france {#point-de-situation-en-france .item-paragraphe-titre .c-onglet}
+### Point de situation en France {#point-de-situation-en-france .item-paragraphe-titre .c-onglet}
 
 
-**Le 30 mars à 19h30**\
+**Le 30 mars à 22h00**\
  
 
 Les autorités sanitaires tiennent [un point presse
@@ -854,7 +853,8 @@ Les informations du jour :
     objectif de prévenir et limiter la circulation du virus. 
 -   Depuis le 24 janvier 2020, la France compte 44 450 cas confirmés de
     coronavirus COVID-19.
--   3 024 personnes sont décédées depuis le début de l’épidémie.
+-   3 024 personnes sont décédées à l'hôpital depuis le début de
+    l’épidémie.
 
 Retrouvez toutes les données sur [le tableau de bord COVID-19 de
 gouvernement.fr](https://www.gouvernement.fr/info-coronavirus/carte-et-donnees),
@@ -1025,9 +1025,10 @@ dont la moitié de FFP2. 
 À cela s’ajoute des commandes de plus de 250 millions de masques, qui
 sont livrés progressivement depuis le 24 mars.\
 \
-Le samedi 28 mars 2020, le Premier ministre et le ministre de la santé
-annoncent avoir passé commande pour plus d’un milliard de masques,
-progressivement livrés depuis la Chine via un pont aérien.
+Le samedi 28 mars 2020, le Premier ministre et le ministre des
+Solidarités et de la Santé annoncent avoir passé commande pour plus d’un
+milliard de masques, progressivement livrés depuis la Chine via un pont
+aérien.
 
 
 
@@ -2150,8 +2151,8 @@ d’urgence sanitaire.
         limiter la diffusion du virus.
     -   Interdiction des rassemblements de plus de 5000 personnes en
         espace clos.
--   **2 mars :** La BPI est désormais garante des prêts demandés par les
-    PME afin de les accompagner dans la gestion de la situation.
+-   **2 mars :** Bpifrance est désormais garante des prêts demandés par
+    les PME afin de les accompagner dans la gestion de la situation.
 -   **3 mars:** Mise en place d’une cellule de continuité économique au
     ministère de l’Economie et des Finances.
 -   **4 mars :** Conseil restreint de défense consacré au COVID-19
@@ -2263,13 +2264,14 @@ d’urgence sanitaire.
     -   Publication du décret encadrant l’utilisation de la chloroquine
     -   Annonce par le G20 de l’injection de 5 000 milliards de dollars
         dans l’économie mondiale
--   **27 mars** : annonce par le Premier ministre du renouvellement de
+-   **27 mars :** Annonce par le Premier ministre du renouvellement de
     la période de confinement jusqu’au mercredi 15 avril 2020.
--   **28 mars** : annonce de la commande de plus d’un milliard de
+-   **28 mars :** Annonce de la commande de plus d’un milliard de
     masques, de l’augmentation de la capacité du nombre de lits en
     réanimation qui sera portée à 14 000 lits et de la massification de
-    la politique de tests.\
-     
+    la politique de tests.
+-   **30 mars :** Échange entre le Premier ministre et les acteurs
+    économiques
 
 
 
