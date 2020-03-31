@@ -5,7 +5,7 @@ description: |
     les réponses officielles aux questions que vous vous posez sur ce qu’est
     le Coronavir...
 robots: noarchive
-title: 'CORONAVIRUS  | Gouvernement.fr'
+title: 'Info Coronavirus COVID-19 | Gouvernement.fr'
 twitter:card: 'summary\_large\_image'
 twitter:description: |
     Depuis janvier 2020 une épidémie de Coronavirus COVID-19 (ex 2019-nCoV)
@@ -14,7 +14,7 @@ twitter:description: |
     le Coronavir...
 twitter:image: 'https://www.gouvernement.fr/sites/default/files/infocovid\_19\_header.png'
 twitter:site: '@gouvernementfr'
-twitter:title: CORONAVIRUS 
+twitter:title: 'Info Coronavirus COVID-19'
 twitter:url: 'https://www.gouvernement.fr/info-coronavirus'
 viewport: 'width=device-width'
 ---
@@ -124,7 +124,6 @@ Mis à jour le lundi 30 mars 2020 à 19h30
 
 -   [Francais](/info-coronavirus){.active}
 -   [FALC](/info-coronavirus/francais-simplifie-falc)
--   [Espace handicap](/info-coronavirus/espace-handicap)
 -   [English](/en/coronavirus-covid-19)
 
 
@@ -742,6 +741,41 @@ d'ibuprofène et d'aspirine est suspendue.
 
 
 
+#### Y a-t-il un risque de pénurie de curare ? {#y-a-t-il-un-risque-de-pénurie-de-curare .item-question}
+
+
+
+Il existe une tension sur les marchés mondiaux en matière
+d'approvisionnement en médicaments spécifiquement liés au service de
+réanimation  car aucun système sanitaire n'a été pensé pour faire face à
+une telle vague épidémique et car tous les systèmes de santé du monde
+sont confrontés à cette vague en même temps.\
+\
+La situation du curare, comme pour les autres médicaments, a été
+anticipée. Il faut noter  que les curares ne sont pas indispensables
+dans la prise en charge des détresses respiratoires, mais
+essentiellement indiqués dans les formes les plus sévères.\
+\
+Ce risque spécifique d’une pénurie de curare a fait l’objet de groupes
+de travail avec les professionnels.\
+\
+Tous les moyens sont actuellement mis en œuvre pour permettre de
+garantir l’accès au curare aux patients qui le nécessitent :\
+\
+- actions auprès des industriels pour augmenter l’approvisionnement de
+la France ;\
+- meilleure régulation des stocks détenus dans les établissements de
+santé sur le territoire en lien avec les ARS ;\
+- priorisation des indications en lien avec les sociétés savantes et
+optimisation des protocoles, y compris dans les autres indications
+nécessitant des curares ;\
+- objectif de réduction de 20% de la consommation de curare sans risque
+pour le patient avec déploiement du monitorage de la curarisation.
+
+
+
+
+
 #### La chloroquine est-elle vraiment un remède miracle contre le coronavirus ? {#la-chloroquine-est-elle-vraiment-un-remède-miracle-contre-le-coronavirus .item-question}
 
 
@@ -839,6 +873,10 @@ Par ailleurs, le président de la République a annoncé le 19 mars la mise
 en place d’un fonds d’urgence de 50 millions d’euros pour lutter contre
 l’épidémie ainsi que le réinvestissement de 5 milliards d’euros
 supplémentaires dans la recherche sur les dix prochaines années.
+
+
+
+
 
 
 
@@ -2306,6 +2344,7 @@ d’urgence sanitaire.
     la politique de tests.
 -   **30 mars :** Échange entre le Premier ministre et les acteurs
     économiques
+-   **31 mars** : Intervention du Président de la République
 
 
 
@@ -2331,7 +2370,7 @@ Questions / Réponses
 
 
 
-### Travail et pension {#travail-et-pension .item-paragraphe-titre .c-onglet data-picto="https://www.gouvernement.fr/sites/default/files/cimages/qr_travail_et_pension.svg"}
+### Travail et pension {#travail-et-pension .item-paragraphe-titre .c-onglet data-picto="https://www.gouvernement.fr/sites/default/files/cimages/qr_travail_et_pension_04.svg"}
 
 
 
@@ -2382,6 +2421,24 @@ la clientèle.\
 Les entreprises doivent par ailleurs adapter leur organisation pour
 limiter au strict nécessaire les réunions, éviter les regroupements de
 salariés dans des espaces réduits, éviter les déplacements…
+
+
+
+
+
+#### Je travaille dans le secteur alimentaire et mon employeur n’a plus de masques. Comment nous protéger et protéger les autres ? {#je-travaille-dans-le-secteur-alimentaire-et-mon-employeur-na-plus-de-masques.-comment-nous-protéger-et-protéger-les-autres .item-question}
+
+
+
+Quand on n’est pas malade, le port du masque n’est pas indispensable. De
+plus, le virus ne circule pas dans l’air tout seul, il doit être
+vectorisé par les postillons d’une autre personne.\
+Ainsi, le respect des gestes barrière (lavage de mains) et des mesures
+de distanciation sociale (Rester à au moins à 1 mètre des autres
+personnes) permet de se protéger et de protéger les autres contre le
+coronavirus. Les masques sont réservés aux personnels soignants
+fortement exposés et proches des patients symptomatiques et atteints du
+COVID-19.
 
 
 
@@ -2673,19 +2730,15 @@ prioritaire.
 
 
 
-#### Je travaille dans le secteur alimentaire et mon employeur n’a plus de masques. Comment nous protéger et protéger les autres ? {#je-travaille-dans-le-secteur-alimentaire-et-mon-employeur-na-plus-de-masques.-comment-nous-protéger-et-protéger-les-autres .item-question}
+#### Les indemnités chômage seront-elles versées à la date habituelle ? {#les-indemnités-chômage-seront-elles-versées-à-la-date-habituelle .item-question}
 
 
 
-Quand on n’est pas malade, le port du masque n’est pas indispensable. De
-plus, le virus ne circule pas dans l’air tout seul, il doit être
-vectorisé par les postillons d’une autre personne.\
-Ainsi, le respect des gestes barrière (lavage de mains) et des mesures
-de distanciation sociale (Rester à au moins à 1 mètre des autres
-personnes) permet de se protéger et de protéger les autres contre le
-coronavirus. Les masques sont réservés aux personnels soignants
-fortement exposés et proches des patients symptomatiques et atteints du
-COVID-19.
+Oui.
+
+
+
+
 
 
 
@@ -5896,6 +5949,22 @@ mêmes moyens techniques que les hôpitaux pour comptabiliser les décès.
 Santé Publique France a élaboré un outil de remontée d’information
 efficace et sûr qui est désormais opérationnel.
 
+
+
+
+
+
+
+
+
+### Handicap {#handicap .item-paragraphe-titre .c-onglet data-picto="https://www.gouvernement.fr/sites/default/files/cimages/qr_handicap.svg"}
+
+
+Vous pouvez consulter l'[**espace dédié aux personnes en situation de
+handicap**](/info-coronavirus/espace-handicap). Cet espace regroupe
+toutes les réponses à vos questions, et permet également de rentrer en
+contact avec le service officiel d'information en transcription écrite
+et en Langue des Signes Française (LSF).
 
 
 
