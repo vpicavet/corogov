@@ -6025,7 +6025,7 @@ Ko]{}](https://www.gouvernement.fr/sites/default/files/cfiles/attestation-deplac
 
 
 
-[Attestation professionnelle[ TXT - 2.38
+[Attestation professionnelle[ TXT - 2.42
 Ko]{}](https://www.gouvernement.fr/sites/default/files/cfiles/justificatif-deplacement-professionnel-fr_20200330.txt "justificatif-deplacement-professionnel-fr_20200330.txt"){.download-link}
 
 
