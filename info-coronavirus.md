@@ -2025,7 +2025,6 @@ d’urgence sanitaire.
 
 -   **2 janvier :** Début de veiller au Centre opérationnel de réception
     et de régulation des urgences sanitaires et sociales (CORRUSS)
--   **6 janvier :** Conseil restreint de défense (Élysée)
 -   **10 janvier :** Envoi aux Agences Régionales de Santé - ARS, aux
     sociétés savantes (urgentistes, SAMU, infectiologues) de fiches de
     conduites à tenir et de définition de cas par le ministère des
@@ -2033,8 +2032,6 @@ d’urgence sanitaire.
 -   **14 janvier :** Sensibilisation des établissements hospitaliers,
     médico-sociaux et des professionnels de santé libéraux, à la
     situation et aux recommandations sanitaires. 
--   **15 janvier :** Conseil restreint de défense et de sécurité
-    (Élysée)
 -   **22 janvier :** Activation de CORRUSS en niveau 2 de mobilisation
     renforcé.
 -   **23 janvier :** Mise en place d’un dispositif de suivi et de
@@ -2043,7 +2040,6 @@ d’urgence sanitaire.
     Affaires étrangères, en coordination avec l’Ambassade de France à
     Pékin et l’ensemble des consulats généraux en Chine.
 -   **24 janvier :**
-    -   Conseil restreint de défense et de sécurité (Élysée)
     -   Confirmation des premiers cas confirmés de coronavirus COVID-19
         par Agnès Buzyn, ministre des solidarités et de la Santé.
     -   Déploiement de flyers et d’affiches d’information en français,
