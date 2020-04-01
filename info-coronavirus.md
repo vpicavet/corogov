@@ -871,8 +871,8 @@ Les informations du jour :
     l’épidémie.
 
 Retrouvez toutes les données sur [le tableau de bord COVID-19 de
-gouvernement.fr](https://www.gouvernement.fr/info-coronavirus/carte-et-donnees),
-et [le point épidémiologique quotidien sur Santé publique
+gouvernement.fr](/info-coronavirus/carte-et-donnees), et [le point
+épidémiologique quotidien sur Santé publique
 France](https://www.santepubliquefrance.fr/maladies-et-traumatismes/maladies-et-infections-respiratoires/infection-a-coronavirus/).\
 Vous trouverez aussi plus d’informations sur [le livret de présentation
 sur le suivi de
@@ -4573,7 +4573,7 @@ apprentissage, livraison, téléconsultation, accès à l’information et au
 divertissement.
 
 Retrouvez l’ensemble de ces offres sur la plateforme dédiée :
-<http://www.mobilisation-numerique.gouv.fr>
+[www.mobilisation-numerique.gouv.fr](http://www.mobilisation-numerique.gouv.fr)
 
 
 
