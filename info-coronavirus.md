@@ -119,7 +119,7 @@ COVID-19
 
 
 
-Mis à jour le mardi 31 mars 2020 à 19h30
+Mis à jour le mercredi 1er avril 2020 à 19h30
 
 
 -   [Francais](/info-coronavirus){.active}
@@ -852,7 +852,7 @@ supplémentaires dans la recherche sur les dix prochaines années.
 ### Point de situation en France {#point-de-situation-en-france .item-paragraphe-titre .c-onglet data-picto=""}
 
 
-**Le 31 mars à 19h30**\
+**Le 1er avril à 19h30**\
  
 
 Les autorités sanitaires tiennent [un point presse
@@ -865,9 +865,9 @@ Les informations du jour :
     plusieurs zones de regroupement de cas (clusters). Nous sommes
     actuellement au stade 3 du plan d’actions du Gouvernement qui a pour
     objectif de prévenir et limiter la circulation du virus. 
--   Depuis le 24 janvier 2020, la France compte 52 128 cas confirmés de
+-   Depuis le 24 janvier 2020, la France compte 56 989 cas confirmés de
     coronavirus COVID-19.
--   3 523 personnes sont décédées à l'hôpital depuis le début de
+-   4032 personnes sont décédées à l'hôpital depuis le début de
     l’épidémie.
 
 Retrouvez toutes les données sur [le tableau de bord COVID-19 de
@@ -1415,7 +1415,10 @@ Les mesures prises par le gouvernement
 
 
 
-\
+ 
+
+
+
 **Tenez-vous informé des informations officielles sur le COVID-19 en
 suivant les comptes du gouvernement:**
 
