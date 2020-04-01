@@ -2102,8 +2102,6 @@ d’urgence sanitaire.
     -   Activation du Centre de Crise Sanitaire
     -   Développement d’un test diagnostic rapide par l’institut Pasteur
         permettant de donner un résultat en quelques heures.
--   **29 janvier :** Conseil restreint de défense et de sécurité
-    (Élysée)
 -   **31 janvier :** Première opération de retour des ressortissants
     français vivant dans la province de Hubei, par vol direct depuis
     Wuhan accompagné d’une équipe médicale et confinement des passagers
@@ -2128,8 +2126,6 @@ d’urgence sanitaire.
         malade.
     -   Troisième opération de retour de ressortissants français de
         Hubei sur un vol britannique.
--   **12 février :** Conseil restreint de défense et de sécurité
-    (Élysée)
 -   **13 février :** Activation du plan ORSAN qui vise à organiser la
     mobilisation du système de santé pour se préparer à une éventuelle
     circulation active du coronavirus COVID-19 sur le territoire
@@ -2148,11 +2144,9 @@ d’urgence sanitaire.
 -   **18 février :** Confirmation de trois passagers Français atteints
     de coronavirus COVID-19 à bord du paquebot de croisière Diamond
     Princess en confinement au large du Japon.
--   **19 février :**
-    -   Conseil restreint de défense et de sécurité (Élysée)
-    -   Envoi de fret médical en solidarité avec la Chine à destination
-        des structures hospitalières de Wuhan et de la province du
-        Hubei.
+-   **19 février:** Envoi de fret médical en solidarité avec la Chine à
+    destination des structures hospitalières de Wuhan et de la province
+    du Hubei.
 -   **21 février :**
     -   Quatrième opération de retour de Français, Européens et
         ayants-droit.
