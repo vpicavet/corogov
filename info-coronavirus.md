@@ -2184,8 +2184,8 @@ d’urgence sanitaire.
     les PME afin de les accompagner dans la gestion de la situation.
 -   **3 mars:** Mise en place d’une cellule de continuité économique au
     ministère de l’Economie et des Finances.
--   **4 mars :** Conseil restreint de défense consacré au COVID-19
-    (Élysée)
+-   **4 mars :** Conseil restreint de défense et de sécurité consacré au
+    COVID-19 (Élysée)
 -   **5 mars :** Réunion de travail avec des acteurs de la recherche
     publique et privée engagés dans la lutte contre le COVID-19
 -   **6 mars :**
