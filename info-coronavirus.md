@@ -1414,6 +1414,20 @@ Les mesures prises par le gouvernement
 
 
 
+\
+Tenez-vous informé des informations officielles sur le COVID-19 en
+suivant les comptes du gouvernement:\
+
+[[Twitter]{.icone
+.icone-presence-twitter}](https://twitter.com/gouvernementfr "Retrouvez-nous sur Twitter - nouvelle fenêtre"){.presence
+.presence-twitter}[[Facebook]{.icone
+.icone-presence-facebook}](https://www.facebook.com/gouvernement.fr/ "Retrouvez-nous sur Facebook - nouvelle fenêtre"){.presence
+.presence-facebook}
+
+
+\
+ 
+
 
 
 ### Confinement
