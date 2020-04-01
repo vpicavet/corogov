@@ -2165,8 +2165,6 @@ d’urgence sanitaire.
         professionnels de santé.
 -   **25 février :** Déploiement d’affiches d’information sur le
     Coronavirus COVID-19 dans les gares.
--   **26 février :** Conseil restreint de défense et de sécurité
-    (Élysée)
 -   **27 février :** Sommet Italie-France à Naples (Italie)
 -   **28 février :**
     -   Déclaration du coronavirus COVID-19 comme “cas de force majeure”
@@ -2229,6 +2227,8 @@ d’urgence sanitaire.
     -   Possibilité de reporter le paiement des cotisations et impôts
         dus en mars pour toutes les entreprises qui le souhaitent sans
         justification, ni pénalité.
+    -   Conseil de défense consacré au suivi de la crise du coronavirus
+        COVID-19
 -   **13 mars :**
     -   Réunion interministerielle sur la recherche et la coordination
         sanitaire.
@@ -2246,7 +2246,9 @@ d’urgence sanitaire.
         Merkel, le Président du Conseil européen, M. Charles Michel, et
         la Présidente de la Commission européenne, Mme Ursula Von der
         Leyen
-    -   Allocution du Président de la République
+    -   Allocution du Président de la République.
+    -   Conseil de défense consacré au suivi de la crise du coronavirus
+        COVID-19
 -   **17 mars :**
     -   Conseil européen extraordinaire par visioconférence
     -   Restriction des déplacements au strict minimum.
