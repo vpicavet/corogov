@@ -276,7 +276,8 @@ Le coronavirus est dangereux pour trois raisons :
 
 
 
-Les symptômes principaux sont la fièvre ou la sensation de fièvre.
+Les symptômes principaux sont la fièvre ou la sensation de fièvre et la
+toux.
 
 La perte brutale de l’odorat, sans obstruction nasale et disparition
 totale du goût sont également des symptômes qui ont été observés chez
