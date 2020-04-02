@@ -5170,21 +5170,21 @@ remettre les clés du logement au bénéficiaire.
 
 
 Les personnes sans-abri sont accueillies dans des lieux qui restent
-ouverts et respectent le seuil de rassemblement maximal. 157 000 places
+ouverts et respectent le seuil de rassemblement maximal. 164 000 places
 d’hébergement sont actuellement disponibles pour les personnes sans abri
 qui ne sont pas malades. De nouvelles solutions d’hébergement sont en
-train d’être identifiées.
+train d’être identifiées. 5 500 chambres d’hôtels supplémentaires ont
+notamment déjà été mobilisées. Le dispositif va continuer de se
+déployer.
 
 Des distributions de nourritures sont organisées de même que des
 maraudes maintenues. La période hivernale a également été prolongée de 2
 mois. 
 
-En complément, depuis le 19 mars, 3 centres d’hébergement médicalisés
+En complément, depuis le 19 mars, 40 centres d’hébergement médicalisés
 ont ouvert pour accueillir des personnes sans-abris atteintes par le
-COVID-19, mais ne nécessitant pas d’hospitalisation. Ces centres sont
-situés à Paris (18e arrondissement), Toulouse et dans le département du
-Nord. D’autres établissements ouvriront bientôt, à raison d’au moins un
-par région.
+COVID-19, mais ne nécessitant pas d’hospitalisation. D’autres
+établissements ouvriront bientôt, à raison d’au moins un par région.
 
 
 
@@ -5208,10 +5208,10 @@ par région.
 personne soit en possession de son attestation pour quitter son
 domicile, sur l’intégralité du territoire national avec des points de
 contrôle fixes et mobiles en particulier dans les gares et les
-aéroports.
-
+aéroports.\
+\
 Si vous ne respectez pas cette obligation, vous vous exposez à une
-amende forfaitaire de 135 euros (qui peut être majorée à 375 euros). En
+amende forfaitaire de 135 euros (qui peut être majorée à 450 euros). En
 cas de récidive de cette violation, l’amende est de 200 euros (pour 2
 violations en 15 jours) et devient un délit puni de 6 mois
 d’emprisonnement et de 3750 euros d’amende en cas de récidive de plus de
@@ -5778,7 +5778,11 @@ Je généralise le recours au télétravail dans mon entreprise et suspens
 toute réunion physique de personnes qui ne serait pas indispensable à la
 continuation de l’activité. J’informe tous mes salariés des bonnes
 pratiques et recommandations pour protéger la population. Si mon
-entreprise a des difficultés je contacte le 0 800 130 000.
+entreprise a des difficultés je contacte le 0 800 130 000.\
+\
+Pour plus d’informations, je consulte les [fiches conseils métiers pour
+les salariés et les employeurs éditées par le ministère du
+Travail](https://travail-emploi.gouv.fr/actualites/l-actualite-du-ministere/article/coronavirus-covid-19-fiches-conseils-metiers-pour-les-salaries-et-les).
 
 
 
@@ -5964,6 +5968,32 @@ adoptées en conseil des ministres le 25 mars : 
     caisses locales et de la caisse centrale de la mutualité sociale
     agricole.
 
+\
+Dans le cadre de l’état d’urgence sanitaire, 7 ordonnances
+complémentaires ont été adoptées en conseil des ministres le 1er avril
+: \
+ 
+1.  Modification de la date limite et des conditions de versement de la
+    prime exceptionnelle de pouvoir d’achat
+2.  Adaptation des conditions d’exercice des missions des services de
+    santé au travail à l’urgence sanitaire et modifiant le régime des
+    demandes préalables d'autorisation d'activité partielle
+3.  Mesures d’urgence en matière de formation professionnelle
+4.  Report du scrutin de mesure de l’audience syndicale auprès des
+    salariés des entreprises de moins de onze salariés et à la
+    prorogation des mandats des conseillers prud’hommes et membres des
+    commissions paritaires régionales interprofessionnelles
+5.  Mesures d’urgence relatives aux instances représentatives du
+    personnel
+6.  Report du second tour du renouvellement général des conseillers
+    municipaux et communautaires, des conseillers de Paris et des
+    conseillers de la métropole de Lyon de 2020 et à l’établissement de
+    l’aide publique pour 2021
+7.  Assurer la continuité du fonctionnement des institutions locales et
+    de l'exercice des compétences des collectivités territoriales et des
+    établissements publics locaux afin de faire face à l’épidémie de
+    COVID-19.
+
 
 
 
@@ -6077,14 +6107,31 @@ Notre stratégie pour lutter contre le virus est double : 
  L'ensemble du système de santé est mobilisé et mis à l'épreuve dans
 cette épidémie. Plus particulièrement, les hôpitaux font d'immenses
 efforts pour augmenter leurs capacités d'accueil.\
+\
 Le nombre de lits en réanimation est passée de 5000 lits au début de la
 crise, à 10000 lits aujourd’hui pour atteindre l’objectif de 14 000 à 14
 500 lits.\
+\
 Ce renforcement de l’accueil des hôpitaux implique des moyens matériels
 et humains supplémentaires. \
+\
 En ce sens la France a passé une commande de plus de 1 000 respirateurs
-nécessaires aux patients hospitalisés en réanimation. \
+nécessaires aux patients hospitalisés en réanimation. 10 00 respirateurs
+supplémentaires seront produits par un consortium industriel français
+d’ici mi-mai ; 250 respirateurs produits par ce consortium seront livrés
+dans les prochains jours.\
+\
+Les capacités de productions de gel hydroalcooliques ont aussi été
+décuplées passant de 40 000 litres par jour avant la crise à 500 000
+litres par jour actuellement.\
+\
+Afin de répondre plus largement aux besoins, le président de la
+République a annoncé le 31 mars qu’une dotation spécifique de 4
+milliards d’euros sera allouée à Santé publique France, pour effectuer
+des commandes de médicaments et matériels.\
+\
 La réserve sanitaire est également amenée à être mobilisée.\
+\
 Enfin, quand cela est nécessaires des transferts de malades sont
 effectués d’une région à une autre. Ils peuvent avoir lieu par avion ou
 bateau militaire, hélicoptère, ambulances ou encore TGV médicalisé.
@@ -6643,6 +6690,9 @@ Mo]{}](https://www.gouvernement.fr/sites/default/files/cfiles/livret_de_presenta
     ?](https://www.economie.gouv.fr/files/files/PDF/2020/dp-covid-pret-garanti.pdf)
 -   [Rejoindre la réserve
     sanitaire](https://www.reservesanitaire.fr/maintenance.php)
+-   [Fiches conseils métiers pour les salariés et les employeurs du
+    ministère du
+    Travail](https://travail-emploi.gouv.fr/actualites/l-actualite-du-ministere/article/coronavirus-covid-19-fiches-conseils-metiers-pour-les-salaries-et-les)
 
 
 
