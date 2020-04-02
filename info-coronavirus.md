@@ -784,19 +784,24 @@ Français des Centres Régionaux de Pharmacovigilance).
 
 
 
-#### Y a-t-il un risque de pénurie de médicaments ? {#y-a-t-il-un-risque-de-pénurie-de-médicaments .item-question}
+#### Risque-t-on une pénurie de bouteilles d’oxygène ? {#risque-t-on-une-pénurie-de-bouteilles-doxygène .item-question}
 
 
 
-À ce stade, aucun problème d'accès aux médicaments n'a été signalé en
-relation avec l'épidémie de Coronavirus COVID-19 en France, ni en
-Europe. Il n’existe notamment aucune pénurie actuelle ou à venir de
-paracétamol. Néanmoins, l’industrie pharmaceutique mondiale est très
-dépendante des activités de production en Asie. Si l’épidémie devait se
-poursuivre pendant une longue période, des impacts sur la disponibilité
-de certains médicaments ne seraient pas à exclure. Le ministère des
-Solidarités et de la Santé suit de près l’évolution de cette situation,
-avec l’aide de l’Agence Nationale de Sécurité du Médicament.
+\
+Il n'y a pas de problème de production en oxygène, ni
+d'approvisionnement du vrac ou de livraison. Concernant les bouteilles
+en elle-même (contenant en métal), il existe des tensions liées aux
+délais de production.\
+\
+Il n’y a cependant pas de risque de pénurie, mais il est demandé aux
+hôpitaux :\
+\
+- de restituer le plus vite possible les bouteilles vides afin de
+pouvoir les décontaminer (48 heures sont nécessaires), les remplir et
+les livrer ;\
+- d'utiliser en premier lieu le vrac (citernes des hôpitaux), plutôt que
+les bouteilles.
 
 
 
@@ -813,6 +818,36 @@ paracétamol (500 mg ou 1g) par patient ne présentant aucun symptôme, ou
 deux boites (500 mg ou 1g) en cas de symptômes (douleurs et/ou fièvre).
 La vente sur Internet des médicaments à base de paracétamol,
 d'ibuprofène et d'aspirine est suspendue.
+
+
+
+
+
+#### Y a-t-il un risque de pénurie de curare ? {#y-a-t-il-un-risque-de-pénurie-de-curare .item-question}
+
+
+
+Il existe une tension sur les marchés mondiaux en matière
+d'approvisionnement en médicaments spécifiquement liés au service de
+réanimation car aucun système sanitaire n'a été pensé pour faire face à
+une telle vague épidémique et car tous les systèmes de santé du monde
+sont confrontés à cette vague en même temps.\
+\
+Ce risque spécifique d’une pénurie de curare a fait l’objet de groupes
+de travail avec les professionnels.\
+\
+Tous les moyens sont actuellement mis en œuvre pour permettre de
+garantir l’accès au curare aux patients qui le nécessitent :\
+\
+- actions auprès des industriels pour augmenter l’approvisionnement de
+la France ;\
+- meilleure régulation des stocks détenus dans les établissements de
+santé sur le territoire en lien avec les ARS ; \
+- priorisation des indications en lien avec les sociétés savantes et
+optimisation des protocoles, y compris dans les autres indications
+nécessitant des curares ;\
+- objectif de réduction de 20% de la consommation de curare sans risque
+pour le patient avec déploiement du monitorage de la curarisation.
 
 
 
@@ -842,6 +877,23 @@ le marché ni d’une d’une utilisation libre.\
 D’importantes études cliniques, sur plusieurs milliers de malades en
 Europe dont 800 malades en France, sont en cours pour identifier le ou
 les traitements les plus efficaces.
+
+
+
+
+
+#### Pourquoi transférer les personnes infectées dans d’autres hôpitaux plutôt que de réquisitionner des gymnases et les soigner sur place ? {#pourquoi-transférer-les-personnes-infectées-dans-dautres-hôpitaux-plutôt-que-de-réquisitionner-des-gymnases-et-les-soigner-sur-place .item-question}
+
+
+
+Les personnes transférées lors des évacuations sanitaires (EVASAN) sont
+des patients avec des formes graves, nécessitant un lit de réanimation.
+La mise en place d’un lit de réanimation nécessite une équipe formée et
+du matériel lourd (respirateur, matériel de surveillance continue).\
+\
+Il n’est donc pas possible de les soigner dans des gymnases
+réquisitionnés car ce ne sont pas des lieux appropriés pour une telle
+prise en charge.
 
 
 
@@ -944,8 +996,9 @@ Les informations du jour :
     objectif de prévenir et limiter la circulation du virus. 
 -   Depuis le 24 janvier 2020, la France compte 56 989 cas confirmés de
     coronavirus COVID-19.
--   4032 personnes sont décédées à l'hôpital depuis le début de
-    l’épidémie.
+-   4032 personnes sont décédées à l'hôpital depuis le 1er mars.
+-   10 934 personnes sont sorties guéris de l'hôpital depuis le 1er
+    mars.
 
 Retrouvez toutes les données sur [le tableau de bord COVID-19 de
 gouvernement.fr](/info-coronavirus/carte-et-donnees), et [le point
@@ -1143,12 +1196,7 @@ Depuis le début de la crise, les masques sont livrés en priorité : 
     pour préserver les capacités hospitalières.
 
 \
-Au total, depuis la dernière semaine de février, 70 millions de masques
-ont été livrés aux professionnels de santé de ville, à l’hôpital et dans
-les EHPAD. 
-
-\
-Depuis le 21 mars, les masques seront distribués ainsi :
+Depuis le 21 mars, les masques sont distribués ainsi :
 
 -   Pour les médecins de ville, les biologistes médicaux et les
     infirmiers de ville : 18 masques par semaine et par professionnel,
@@ -1729,27 +1777,27 @@ l'Etat compétent pour ces mêmes collectivités.
 Tous les établissements indispensables à la vie de la Nation, notamment
 les commerces alimentaires (y compris les Drive alimentaires), les
 pharmacies, les stations-services, les banques, les bureaux de tabac et
-distribution de la presse.
-
+distribution de la presse.\
+\
 Compte tenu de leur contribution à la vie de la Nation, les services
 publics restent également ouverts, y compris ceux assurant les services
 de transport.\
+\
 Tous les services de livraison de repas à domicile restent disponibles,
 et les établissements de la catégorie “restaurants et débits de
 boissons” sont autorisés à maintenir leurs activités de ventes à
-emporter et de livraison.
-
+emporter et de livraison.\
+\
 Les hôtels sont assimilés à des domiciles privés et restent donc
 ouverts, et leurs “room service” restent disponibles. Cependant, les
-restaurants et bars d’hôtels ne peuvent pas accueillir de public.
-
+restaurants et bars d’hôtels ne peuvent pas accueillir de public.\
+\
 Les animaleries restent également ouvertes.\
- 
-
+\
 **Par dérogation, restent également ouverts :**
 
--   Entretien et réparation de véhicules automobiles, de véhicules,
-    engins et matériels agricoles
+-   Entretien, réparation et contrôle technique de véhicules
+    automobiles, de véhicules, engins et matériels agricoles
 -   Commerce d'équipements automobiles
 -   Commerce et réparation de motocycles et cycles
 -   Fourniture nécessaire aux exploitations agricoles
@@ -2064,9 +2112,10 @@ de l’Economie. Cette cellule va permettre d'obtenir toutes les
 informations nécessaires sur la situation économique du pays en temps
 réel, de mieux gérer l'impact de cette crise sanitaire sur notre
 économie en prenant des décisions quotidiennes qui pourraient s'avérer
-nécessaires.
+nécessaires.\
+\
+Pour les entreprises, le Gouvernement a annoncé les mesures suivantes :
 
-Pour les entreprises, le Gouvernement a annoncé les mesures suivantes : 
 -   Des **délais de paiement d’échéances sociales et/ou fiscales**
     (URSSAF, impôts) ;
 -   Dans les situations les plus difficiles, des **remises d’impôts
@@ -2092,9 +2141,9 @@ Pour les entreprises, le Gouvernement a annoncé les mesures suivantes : 
     coronavirus comme **un cas de force majeure** pour leurs marchés
     publics. En conséquence, pour tous les marchés publics d’État et des
     collectivités locales, les pénalités de retards ne seront pas
-    appliquées
+    appliquées.
 
-Pour connaitre les modalités d’accès aux différentes aides [télécharger
+Pour connaître les modalités d’accès aux différentes aides [télécharger
 la
 brochure](https://www.economie.gouv.fr/coronavirus-soutien-entreprises).\
 \
@@ -2106,7 +2155,7 @@ trésorerie de l’État avec des pénalités.\
 \
 De la même manière, toutes les grandes entreprises qui verseront des
 dividendes ne pourront pas bénéficier de la garantie d’État de 300
-milliards d’euros sur les prêts de trésorerie.\
+milliards d’euros sur les prêts de trésorerie.
 \
 Le Gouvernement a également annoncé un plan d’urgence de soutien dédié
 aux start-up, de près de 4 milliards d’euros. Ce plan spécifique vise à
@@ -2116,12 +2165,184 @@ Darmanin, ministre de l’Action et des Comptes publics et Muriel
 Pénicaud, ministre du Travail. Il a pour objectif de répondre aux
 problématiques particulières des start-up. Ces dernières sont bien
 évidemment également éligibles aux dispositifs d’urgence proposés à
-l’ensemble des entreprises. »\
+l’ensemble des entreprises.\
 \
-Plus d’informations\
-<https://www.economie.gouv.fr/coronavirus-startup-mesures-de-soutien-economique>
-
 Pour plus d’informations dans votre région, contactez le 0 800 130 000.
+
+
+
+
+
+
+
+
+#### Quels sont les effets de ces mesures sur votre situation personnelle ? {#quels-sont-les-effets-de-ces-mesures-sur-votre-situation-personnelle .item-question}
+
+
+
+**Vous êtes chef d’une entreprise de 10 salariés ou moins et vous êtes
+concerné par la fermeture par arrêté de votre entreprise :**\
+\
+- Vos salariés ont le droit au chômage partiel : ils toucheront entre
+100% et 84% de leur salaire net selon leur niveau de salaire, remboursés
+intégralement par l’État à l’entreprise jusqu’à 4.5 SMIC.\
+- Vous pouvez suspendre le paiement de vos cotisations sociales et
+impôts directs, de votre loyer et de vos factures d’eau, d’électricité
+et de gaz.\
+- Vous pouvez solliciter une aide allant jusqu’à 1500 euros sur le site
+impots.gouv.fr. 2000 euros supplémentaires seront accordés par les
+régions si vous employez des salariés et que vous risquez de vous
+trouver en cessation de paiement.\
+- Vous pouvez solliciter auprès de votre banque un [prêt garanti par
+l’État](https://www.economie.gouv.fr/files/files/PDF/2020/dp-covid-pret-garanti.pdf)
+pour soutenir votre trésorerie.\
+\
+**Vous êtes micro-entrepreneur ou indépendant (artisan, commerçante,
+plombier, architecte...) et vous n’avez plus d’activité suite au
+confinement :**\
+\
+- Vous pouvez suspendre le paiement de vos cotisations sociales et
+impôts directs, de votre loyer et de vos factures d’eau, d’électricité
+et de gaz\
+- Vous pouvez solliciter une aide allant jusqu’à 1500 euros sur le site
+impots.gouv.fr.\
+- Vous pouvez solliciter auprès de votre banque un [prêt garanti par
+l’État](https://www.economie.gouv.fr/files/files/PDF/2020/dp-covid-pret-garanti.pdf)
+pour soutenir votre trésorerie.\
+\
+**Vous pratiquez une profession libérale (avocate, comptable,
+traducteur, psychologue...) et vous n’avez plus d’activité suite au
+confinement :**\
+\
+- Vos salariés ont le droit au chômage partiel : ils toucheront entre
+100% et 84% de leur salaire net selon leur niveau de salaire, remboursés
+intégralement par l’État à l’entreprise jusqu’à 4.5 SMIC.\
+- Vous pouvez suspendre le paiement de vos cotisations sociales et
+impôts directs, de votre loyer et de vos factures d’eau, d’électricité
+et de gaz.\
+- Vous pouvez solliciter une aide allant jusqu’à 1500 euros sur le site
+impots.gouv.fr. 2000 euros supplémentaires seront accordés par les
+régions si vous employez des salariés et que vous risquez de vous
+trouver en cessation de paiement.\
+- Vous pouvez solliciter auprès de votre banque un [prêt garanti par
+l’État](https://www.economie.gouv.fr/files/files/PDF/2020/dp-covid-pret-garanti.pdf)
+pour soutenir votre trésorerie\
+\
+**Vous dirigez une PME et votre entreprise rencontre une baisse
+d’activité :**\
+\
+- Vos salariés ont le droit au chômage partiel : ils toucheront entre
+100% et 84% de leur salaire net selon leur niveau de salaire, remboursés
+intégralement par l’État à l’entreprise jusqu’à 4.5 SMIC.\
+- Vous pouvez suspendre si besoin le paiement de vos cotisations
+sociales et impôts directs.;\
+- Vous pouvez solliciter auprès de votre banque un prêt garanti par
+l’État pour soutenir votre trésorerie.\
+- Vous avez moins de 11 salariés et votre chiffre d’affaires a baissé
+d’au moins 50% ?\
+- Vous pouvez suspendre automatiquement votre loyer, votre facture
+d’eau, d’électricité et de gaz. Dans les autres cas, vous pouvez
+solliciter votre bailleur ou votre fournisseur pour obtenir cette
+suspension au cas par cas.\
+- Vous pouvez solliciter une aide allant jusqu’à 1500 euros sur le site
+impots.gouv.fr. 2000 euros supplémentaires seront accordés par les
+régions si vous employez des salariés et que vous risquez de vous
+trouver en cessation de paiement.\
+\
+**Vous êtes chef d’entreprise et vous ne pouvez pas mettre en place les
+mesures de protection nécessaires à la santé de vos salariés :**\
+\
+- Vos salariés ont le droit au chômage partiel : ils toucheront entre
+100% et 84% de leur salaire net selon leur niveau de salaire, remboursés
+intégralement par l’État à l’entreprise jusqu’à 4.5 SMIC.\
+- Vous pouvez solliciter auprès de votre banque un prêt garanti par
+l’État pour soutenir votre trésorerie.\
+- Vous avez moins de 11 salariés et votre chiffre d’affaires a baissé
+d’au moins 50% ?\
+- Vous pouvez suspendre automatiquement votre loyer, votre facture
+d’eau, d’électricité et de gaz. Dans les autres cas, vous pouvez
+solliciter votre bailleur ou votre fournisseur pour obtenir cette
+suspension au cas par cas.\
+- Vous pouvez solliciter une aide allant jusqu’à 1500 euros sur le site
+impots.gouv.fr. 2000 euros supplémentaires seront accordés par les
+régions si vous employez des salariés et que vous risquez de vous
+trouver en cessation de paiement.\
+\
+**Vous êtes chef d’entreprise et vous souhaitez utiliser la période de
+chômage partiel pour former vos salariés :**\
+\
+- Vos salariés ont le droit au chômage partiel : ils toucheront entre
+100% et 84% de leur salaire net selon leur niveau de salaire, remboursés
+intégralement par l’État à l’entreprise jusqu’à 4.5 SMIC\
+Les frais pédagogiques seront également pris en charge par l’État\
+\
+**Vous devez faire garder vos enfants et vous êtes salarié, salarié
+agricole, marin, clerc, employé de notaire, travailleur indépendant
+(hors professions libérales), travailleurs non salarié agricole ou agent
+contractuel de la fonction publique :**\
+\
+- Vous bénéficiez d’un arrêt de travail de 1 à 21 jours renouvelable
+sans jour de carence et sans condition d’ancienneté.\
+\
+**Vous êtes demandeur d’emploi et vos droits au chômage s’arrêtent en
+mars :  **\
+\
+- Vous aurez droit au maintien exceptionnel de votre indemnisation
+pendant la durée du confinement\
+\
+**Vous êtes saisonnier et la station où vous travaillez a été fermée le
+15 mars alors que votre contrat allait jusqu’au 15 avril :**\
+\
+- Votre entreprise peut vous mettre en chômage partiel sans coût pour
+elle et vous aurez droit au maintien de 100% de votre salaire net si
+vous êtes au SMIC et à 84% si vous êtes au-delà du SMIC, et ce jusqu’à
+la fin prévue de votre contrat**.\
+\
+Vous êtes intermittent du spectacle et vous n’avez pas pu faire vos 507
+heures de travail :**\
+\
+- Votre « date anniversaire » qui acte l’ouverture à vos droits a été
+repoussée et vous continuerez en attendant à toucher vos indemnités\
+\
+**Vous êtes agriculteur et vous êtes concerné par une baisse d’activité
+à cause de l’épidémie du COVID-19 :**\
+\
+- Vos salariés ont le droit au chômage partiel : ils toucheront entre
+100% et 84% de leur salaire net selon leur niveau de salaire, remboursés
+intégralement par l’État à l’entreprise jusqu’à 4.5 SMIC.\
+- Vous pouvez suspendre si besoin vos cotisations sociales et impôts
+directs.\
+ Vous pouvez solliciter auprès de votre banque un prêt garanti par
+l’État pour soutenir votre trésorerie.\
+\
+Si vous avez moins de 11 salariés et vous avez connu une baisse de
+chiffre d’affaires de plus de 50 % : \
+\
+- Vous pouvez suspendre votre loyer et vos factures d’eau,
+d’électricités et de gaz.\
+- Vous pouvez solliciter une aide allant jusqu’à 1500 euros sur le site
+impots.gouv.fr. 2000 euros supplémentaires seront accordés par les
+régions si vous employez des salariés et que vous risquez de vous
+trouver en cessation de paiement. \
+\
+**Vous êtes soignant et êtes fortement mobilisé durant cette épidémie du
+COVID-19 :**\
+\
+- Vos heures supplémentaires effectuées seront majorées\
+- Vous toucherez une prime exceptionnelle\
+\
+**Vous travaillez dans un service à la personne et vous ne pouvez plus
+exercer votre activité durant le confinement :**\
+\
+Un dispositif d’indemnisation est mis en place : votre employeur vous
+versera 80% du montant net des heures non réalisées. Ce montant lui sera
+intégralement remboursé, directement sur son compte en banque.\
+ 
+
+
+
+
+
 
 
 
