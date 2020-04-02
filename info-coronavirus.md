@@ -3859,7 +3859,9 @@ financière, qui s’élève généralement au montant du loyer et des charges.
 La convention précisera le contexte très exceptionnel de la situation
 (crise du Coronavirus) et les principaux éléments de la mise à
 disposition du logement (montant des sommes dues par le locataire /
-modalités pour sortir du logement à la fin du confinement).
+modalités pour sortir du logement à la fin du confinement). [Retrouver
+ici le modèle de
+convention](/sites/default/files/filefield_paths/clauses-types_pour_une_convention_doccupation_temporaire.docx).
 
 
 
@@ -6658,6 +6660,12 @@ Ko]{}](https://www.gouvernement.fr/sites/default/files/cfiles/declaration_premie
 [Téléchargez le livret de présentation sur le suivi de l’épidémie de
 COVID-19[ PDF - 1.11
 Mo]{}](https://www.gouvernement.fr/sites/default/files/cfiles/livret_de_presentation_sur_le_suivi_de_lepidemie_de_covid-19.pdf "livret_de_presentation_sur_le_suivi_de_lepidemie_de_covid-19.pdf"){.download-link}
+
+
+
+[Clauses-types pour une convention d’occupation temporaire [ DOCX -
+46.11
+Ko]{}](https://www.gouvernement.fr/sites/default/files/cfiles/clauses-types_pour_une_convention_doccupation_temporaire.docx "clauses-types_pour_une_convention_doccupation_temporaire.docx"){.download-link}
 
 
 
