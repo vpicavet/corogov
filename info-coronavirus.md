@@ -2172,10 +2172,6 @@ Pour plus d’informations dans votre région, contactez le 0 800 130 000.
 
 
 
-
-
-
-
 #### Quels sont les effets de ces mesures sur votre situation personnelle ? {#quels-sont-les-effets-de-ces-mesures-sur-votre-situation-personnelle .item-question}
 
 
@@ -2238,8 +2234,10 @@ intégralement par l’État à l’entreprise jusqu’à 4.5 SMIC.\
 sociales et impôts directs.;\
 - Vous pouvez solliciter auprès de votre banque un prêt garanti par
 l’État pour soutenir votre trésorerie.\
-- Vous avez moins de 11 salariés et votre chiffre d’affaires a baissé
-d’au moins 50% ?\
+\
+Vous avez moins de 11 salariés et votre chiffre d’affaires a baissé d’au
+moins 50% ?\
+\
 - Vous pouvez suspendre automatiquement votre loyer, votre facture
 d’eau, d’électricité et de gaz. Dans les autres cas, vous pouvez
 solliciter votre bailleur ou votre fournisseur pour obtenir cette
@@ -2257,8 +2255,10 @@ mesures de protection nécessaires à la santé de vos salariés :**\
 intégralement par l’État à l’entreprise jusqu’à 4.5 SMIC.\
 - Vous pouvez solliciter auprès de votre banque un prêt garanti par
 l’État pour soutenir votre trésorerie.\
-- Vous avez moins de 11 salariés et votre chiffre d’affaires a baissé
-d’au moins 50% ?\
+\
+Vous avez moins de 11 salariés et votre chiffre d’affaires a baissé d’au
+moins 50% ?\
+\
 - Vous pouvez suspendre automatiquement votre loyer, votre facture
 d’eau, d’électricité et de gaz. Dans les autres cas, vous pouvez
 solliciter votre bailleur ou votre fournisseur pour obtenir cette
@@ -2273,8 +2273,8 @@ chômage partiel pour former vos salariés :**\
 \
 - Vos salariés ont le droit au chômage partiel : ils toucheront entre
 100% et 84% de leur salaire net selon leur niveau de salaire, remboursés
-intégralement par l’État à l’entreprise jusqu’à 4.5 SMIC\
-Les frais pédagogiques seront également pris en charge par l’État\
+intégralement par l’État à l’entreprise jusqu’à 4.5 SMIC.\
+- Les frais pédagogiques seront également pris en charge par l’État.\
 \
 **Vous devez faire garder vos enfants et vous êtes salarié, salarié
 agricole, marin, clerc, employé de notaire, travailleur indépendant
@@ -2288,7 +2288,7 @@ sans jour de carence et sans condition d’ancienneté.\
 mars :  **\
 \
 - Vous aurez droit au maintien exceptionnel de votre indemnisation
-pendant la durée du confinement\
+pendant la durée du confinement.\
 \
 **Vous êtes saisonnier et la station où vous travaillez a été fermée le
 15 mars alors que votre contrat allait jusqu’au 15 avril :**\
@@ -2302,7 +2302,7 @@ Vous êtes intermittent du spectacle et vous n’avez pas pu faire vos 507
 heures de travail :**\
 \
 - Votre « date anniversaire » qui acte l’ouverture à vos droits a été
-repoussée et vous continuerez en attendant à toucher vos indemnités\
+repoussée et vous continuerez en attendant à toucher vos indemnités.\
 \
 **Vous êtes agriculteur et vous êtes concerné par une baisse d’activité
 à cause de l’épidémie du COVID-19 :**\
@@ -2312,8 +2312,9 @@ repoussée et vous continuerez en attendant à toucher vos indemnités\
 intégralement par l’État à l’entreprise jusqu’à 4.5 SMIC.\
 - Vous pouvez suspendre si besoin vos cotisations sociales et impôts
 directs.\
- Vous pouvez solliciter auprès de votre banque un prêt garanti par
-l’État pour soutenir votre trésorerie.\
+ Vous pouvez solliciter auprès de votre banque un [prêt garanti par
+l’État](https://www.economie.gouv.fr/files/files/PDF/2020/dp-covid-pret-garanti.pdf)
+pour soutenir votre trésorerie.\
 \
 Si vous avez moins de 11 salariés et vous avez connu une baisse de
 chiffre d’affaires de plus de 50 % : \
@@ -2334,7 +2335,7 @@ COVID-19 :**\
 **Vous travaillez dans un service à la personne et vous ne pouvez plus
 exercer votre activité durant le confinement :**\
 \
-Un dispositif d’indemnisation est mis en place : votre employeur vous
+- Un dispositif d’indemnisation est mis en place : votre employeur vous
 versera 80% du montant net des heures non réalisées. Ce montant lui sera
 intégralement remboursé, directement sur son compte en banque.\
  
@@ -2371,7 +2372,11 @@ d’aide par le travail (ESAT) sera maintenue en cas de réduction de
 l’activité ou de fermeture de l’établissement.\
 \
 Le délai de carence est supprimé pour tous les malades pendant l’état
-d’urgence sanitaire.
+d’urgence sanitaire.\
+\
+Afin de soutenir les étudiants, 10 millions d'euros supplémentaires
+seront attribués pour le financement des aides spécifiques d'urgence
+attribuées par les Centres régionaux des œuvres universitaires (Crous).
 
 
 
@@ -2508,10 +2513,11 @@ d’urgence sanitaire.
 -   **6 mars :**
     -   Réunion des ministres de la Santé de l'Union Européenne à
         Bruxelles
-    -   Activation du plan blanc dans les hôpitaux et du plan bleu dans
-        les EHPAD.
-    -   Publication du décret encadrant les prix de vente du gel
-        hydro-alcoolique.
+
+Activation du plan blanc dans les hôpitaux et du plan bleu dans les
+EHPAD.
+-   Publication du décret encadrant les prix de vente du gel
+    hydro-alcoolique.
 -   **8 mars :**
     -   Conseil de défense consacré au suivi de la crise du coronavirus
         COVID-19
@@ -2622,7 +2628,25 @@ d’urgence sanitaire.
     la politique de tests.
 -   **30 mars :** Échange entre le Premier ministre et les acteurs
     économiques
--   **31 mars** : Intervention du Président de la République
+-   **31 mars** :
+
+- Intervention du Président de la République depuis une usine française
+de masques à Saint-Barthélémy-d'Anjou sur la stratégie d’importation et
+de production en France de masques, respirateurs et gel hydroalcoolique
+; 4 milliards d’euros seront alloués à Santé publique France pour
+commander des médicaments et du matériel. \
+- La période de déclaration de l’impôts sur le revenu sera décalée de
+quelques semaines et débutera le 20 avril\
+- 10 millions d'euros supplémentaires seront attribués pour le
+financement des aides spécifiques d'urgence attribuées par les Centres
+régionaux des œuvres universitaires (Crous).\
+ 
+-   **1er avril : **
+
+- Conseil de défense consacré au suivi de la crise du coronavirus
+COVID-19.\
+- Adoption de 7 ordonnances dans le cadre de l’état d’urgence sanitaire
+en conseil des ministres.
 
 
 
@@ -2699,24 +2723,6 @@ la clientèle.\
 Les entreprises doivent par ailleurs adapter leur organisation pour
 limiter au strict nécessaire les réunions, éviter les regroupements de
 salariés dans des espaces réduits, éviter les déplacements…
-
-
-
-
-
-#### Je travaille dans le secteur alimentaire et mon employeur n’a plus de masques. Comment nous protéger et protéger les autres ? {#je-travaille-dans-le-secteur-alimentaire-et-mon-employeur-na-plus-de-masques.-comment-nous-protéger-et-protéger-les-autres .item-question}
-
-
-
-Quand on n’est pas malade, le port du masque n’est pas indispensable. De
-plus, le virus ne circule pas dans l’air tout seul, il doit être
-vectorisé par les postillons d’une autre personne.\
-Ainsi, le respect des gestes barrière (lavage de mains) et des mesures
-de distanciation sociale (Rester à au moins à 1 mètre des autres
-personnes) permet de se protéger et de protéger les autres contre le
-coronavirus. Les masques sont réservés aux personnels soignants
-fortement exposés et proches des patients symptomatiques et atteints du
-COVID-19.
 
 
 
@@ -3018,6 +3024,63 @@ prioritaire.
 
 
 
+#### Les démissions sont-elles autorisées pendant le confinement ? {#les-démissions-sont-elles-autorisées-pendant-le-confinement .item-question}
+
+
+
+Oui, selon les modalités prévues à votre contrat de travail, par votre
+convention collective applicable ou à défaut par la loi.\
+Pour toute info sur les modalités consultez :  \
+[https://travail-emploi.gouv.fr/droit-du-travail/la-rupture-du-contrat-de-travail/article/la-demission ](https://travail-emploi.gouv.fr/droit-du-travail/la-rupture-du-contrat-de-travail/article/la-demission)
+
+
+
+
+
+#### Je peux télétravailler mais mon employeur refuse. A-t-il le droit ? {#je-peux-télétravailler-mais-mon-employeur-refuse.-a-t-il-le-droit .item-question}
+
+
+
+Le télétravail est la règle quand l’activité le permet. Le refus de
+l’employeur doit être motivé. Plus d’informations sur le télétravail sur
+le [code du travail
+numérique.](https://code.travail.gouv.fr/themes/615-teletravail)
+
+
+
+
+
+#### Mon employeur peut-il me contraindre de travailler quelques jours par semaine si je suis au chômage technique ? {#mon-employeur-peut-il-me-contraindre-de-travailler-quelques-jours-par-semaine-si-je-suis-au-chômage-technique .item-question}
+
+
+
+Non, ni en présentiel, ni à distance. Lorsqu’un employeur demande à un
+salarié de “télétravailler” alors que ce dernier est placé en activité
+partielle, cela s’apparente à une fraude et est assimilé à du [travail
+illégal](https://travail-emploi.gouv.fr/actualites/presse/communiques-de-presse/article/covid-19-sanctions-contre-les-fraudes-au-chomage-partiel).
+
+
+
+
+
+#### Je travaille dans le secteur alimentaire et mon employeur n’a plus de masques. Comment nous protéger et protéger les autres ? {#je-travaille-dans-le-secteur-alimentaire-et-mon-employeur-na-plus-de-masques.-comment-nous-protéger-et-protéger-les-autres .item-question}
+
+
+
+Quand on n’est pas malade, le port du masque n’est pas indispensable. De
+plus, le virus ne circule pas dans l’air tout seul, il doit être
+vectorisé par les postillons d’une autre personne.\
+Ainsi, le respect des gestes barrière (lavage de mains) et des mesures
+de distanciation sociale (Rester à au moins à 1 mètre des autres
+personnes) permet de se protéger et de protéger les autres contre le
+coronavirus. Les masques sont réservés aux personnels soignants
+fortement exposés et proches des patients symptomatiques et atteints du
+COVID-19.
+
+
+
+
+
 
 
 
@@ -3041,7 +3104,11 @@ jusqu'aux vacances de printemps, ce qui concerne plus de 12 millions
 d'élèves et 2,6 millions d'étudiants. Trois à quatre heures
 d'enseignement par jour - exercices en ligne, "classe virtuelle" en
 visioconférence- doivent être proposées. Les examens et les concours de
-recrutement sont reportés.
+recrutement sont reportés.\
+\
+Vous pouvez retrouver plus d’informations à destination des étudiants
+sur le [site
+dédié](https://www.etudiant.gouv.fr/pid33626-cid150278/covid-19-%7C-faq-crous-etudes-concours-services.html).
 
 Tous les étudiants en santé qui souhaitent proposer leur aide pour la
 gestion de crise peuvent se signaler auprès de leur université (par
@@ -3533,6 +3600,16 @@ dérogatoire de déplacement.
 
 
 
+#### La conduite accompagnée est-elle autorisée ? {#la-conduite-accompagnée-est-elle-autorisée .item-question}
+
+
+
+La conduite accompagnée reste autorisée.
+
+
+
+
+
 #### Les vols internes à la France sont-ils maintenus ? {#les-vols-internes-à-la-france-sont-ils-maintenus .item-question}
 
 
@@ -3700,22 +3777,26 @@ population, notamment les plus fragiles, et notre système de santé.
 
 
 
-#### Puis-je encore déménager malgré le confinement ? {#puis-je-encore-déménager-malgré-le-confinement .item-question}
+#### En tant que particulier, puis-je encore déménager malgré le confinement ? {#en-tant-que-particulier-puis-je-encore-déménager-malgré-le-confinement .item-question}
 
 
 
-Les déménagements restent possibles s’ils ne peuvent pas être reportés,
-par exemple si vous aviez déjà posé votre préavis et que votre bail
-arrive à sa fin. Mais veillez à respecter les gestes barrières et
-renseignez-vous pour savoir s’il existe des restrictions locales
-spécifiques. Munissez-vous également d’une attestation sur l’honneur,
-que vous rédigez, expliquant que vous vous déplacez pour le motif d’un
-déménagement, dont vous précisez la date et les deux adresses de départ
-et de destination. Sachez également que vous pouvez aussi entrer en
-contact avec votre bailleur afin de lui demander de continuer à occuper
-le logement que vous deviez quitter. S’il est d’accord, il vous faudra
-alors signer une convention d’occupation temporaire et continuer à payer
-votre loyer.
+Pour ce qui concerne les déménagements des particuliers, seuls les
+déménagements qui ne peuvent pas être reportés sont autorisés.\
+\
+Mais veillez à respecter les gestes barrières et prenez l'attache de la
+police pour signaler votre déménagement et vous renseigner pour savoir
+s'il existe des restrictions locales spécifiques. Munissez-vous
+également d'une attestation sur l'honneur, que vous rédigez, expliquant
+que vous vous déplacez pour le motif d'un déménagement non reportable,
+dont vous précisez la date et les deux adresses de départ et de
+destination. Vous pouvez aussi entrer en contact avec votre bailleur
+afin de lui demander de continuer à occuper le logement que vous deviez
+quitter. Il est alors possible de signer une convention d'occupation
+temporaire. Dans tous les cas, à partir du moment où vous restez plus
+longtemps que prévu, vous devez continuer à payer votre loyer et les
+charges pour toute la période pendant laquelle vous occupez
+effectivement le logement.
 
 
 
