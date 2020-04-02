@@ -194,9 +194,7 @@ Les informations essentielles
 ### Quels sont les signes ?
 
 
-![Fièvre, Maux de tête, fatigue, Toux et maux de gorge, Courbatures,
-Gêne
-respiratoire](https://www.gouvernement.fr/sites/default/files/cimages/signes_symptomes_symptomes.png)
+![](https://www.gouvernement.fr/sites/default/files/cimages/symptomes.png)
 
 
 
