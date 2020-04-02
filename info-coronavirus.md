@@ -119,7 +119,7 @@ COVID-19
 
 
 
-Mis à jour le mercredi 1er avril 2020 à 21h00
+Mis à jour le jeudi 2 avril 2020 à 19h30
 
 
 -   [Francais](/info-coronavirus){.active}
@@ -980,7 +980,7 @@ supplémentaires dans la recherche sur les dix prochaines années.
 ### Point de situation en France {#point-de-situation-en-france .item-paragraphe-titre .c-onglet data-picto=""}
 
 
-**Le 1er avril à 19h30**\
+**Le 2 avril à 19h30**\
  
 
 Les autorités sanitaires tiennent [un point presse
@@ -993,10 +993,10 @@ Les informations du jour :
     plusieurs zones de regroupement de cas (clusters). Nous sommes
     actuellement au stade 3 du plan d’actions du Gouvernement qui a pour
     objectif de prévenir et limiter la circulation du virus. 
--   Depuis le 24 janvier 2020, la France compte 56 989 cas confirmés de
+-   Depuis le 24 janvier 2020, la France compte 59 105 cas confirmés de
     coronavirus COVID-19.
--   4032 personnes sont décédées à l'hôpital depuis le 1er mars.
--   10 934 personnes sont sorties guéris de l'hôpital depuis le 1er
+-   4 503 personnes sont décédées à l'hôpital depuis le 1er mars.
+-   12 488 personnes sont sorties guéris de l'hôpital depuis le 1er
     mars.
 
 Retrouvez toutes les données sur [le tableau de bord COVID-19 de
@@ -5212,11 +5212,12 @@ contrôle fixes et mobiles en particulier dans les gares et les
 aéroports.\
 \
 Si vous ne respectez pas cette obligation, vous vous exposez à une
-amende forfaitaire de 135 euros (qui peut être majorée à 450 euros). En
-cas de récidive de cette violation, l’amende est de 200 euros (pour 2
-violations en 15 jours) et devient un délit puni de 6 mois
-d’emprisonnement et de 3750 euros d’amende en cas de récidive de plus de
-3 fois dans un délai de 30 jours.
+amende forfaitaire de 135 euros (qui peut être majorée à 375 euros). En
+cas de récidive de cette violation (pour deux violations en 15 jours),
+l’amende est de 200 euros (qui peut être majorée à 450 euros) et devient
+un délit puni de 6 mois d’emprisonnement et de 3750 euros d’amende en
+cas de récidive de plus de 3 fois dans un délai de 30 jours.\
+ 
 
 
 
