@@ -119,7 +119,7 @@ COVID-19
 
 
 
-Mis à jour le mercredi 1er avril 2020 à 19h30
+Mis à jour le mercredi 1er avril 2020 à 21h00
 
 
 -   [Francais](/info-coronavirus){.active}
@@ -491,14 +491,48 @@ animale.
 
 
 
-#### Existe-t-il des risques liés aux animaux domestiques (d'élevage et familiers) ? {#existe-t-il-des-risques-liés-aux-animaux-domestiques-délevage-et-familiers .item-question}
+#### La chaleur peut-elle tuer le virus ? {#la-chaleur-peut-elle-tuer-le-virus .item-question}
 
 
 
-Il n'existe aucune preuve que les animaux domestiques jouent un rôle
-dans la propagation coronavirus COVID-19. De plus, le passage du
-coronavirus COVID-19 de l’être humain vers une autre espèce animale
-semble peu probable.
+Le coronavirus est un virus très récent dont on connaît encore mal le
+comportement. \
+Nous ne savons donc pas si la hausse des températures avec la venue des
+beaux jours aura une incidence sur le virus. \
+Toutefois, la chaleur tue effectivement le virus quand on veut
+décontaminer le linge. Il est recommandé de laver le linge contaminé à
+60° pendant 30 minutes.  \
+ 
+
+
+
+
+
+#### Quel comportement adopter avec vos animaux de compagnie ? {#quel-comportement-adopter-avec-vos-animaux-de-compagnie .item-question}
+
+
+
+Au vu des connaissances actuelles, les animaux de compagnie ne
+transmettent pas le virus COVID-19. Ce virus se transmet d'homme à
+homme. Le virus peut cependant vivre quelques heures sur le pelage d'un
+animal.\
+\
+Pour éviter toute contamination et comme recommandé par l'ANSES : \
+\
+- Séparez les animaux des personnes malades ou présumées malades ;\
+- Ne laissez pas l'animal vous lécher le visage ;\
+- Lavez-vous les mains avant et après avoir caressé un animal ;\
+- Ne maltraitez pas votre animal en le nettoyant avec des produits
+inadaptés !\
+\
+Il n'est pas utile de laver un animal qui sort en promenade.\
+\
+De plus, tout produit qui n'est pas un produit adapté à l'animal
+(shampooing vétérinaire) ne doit en aucun cas être utilisé. Il peut
+nuire à votre animal comme à vous et votre entourage. L'usage de
+produits inadaptés (eau de javel...) voire agressifs pour l'animal, peut
+être assimilé à une véritable maltraitance et surtout ferait souffrir
+votre animal sans aucun bénéfice pour vous comme pour lui.
 
 
 
@@ -530,9 +564,24 @@ préparation des denrées alimentaires.
 Oui mais c’est peu probable. Les caddies, comme toutes les surfaces,
 peuvent servir de support au virus si elles sont souillées par des
 gouttelettes respiratoires d’un sujet contaminé. Le virus peut rester
-quelques heures sur une surface comme un caddy, mais en quantité faible.
-En appliquant les mesures barrières (se laver les mains notamment) et en
-nettoyant le caddy avec un lingette, le risque devient négligeable.
+quelques heures sur une surface comme un caddie, mais en quantité
+faible. En appliquant les mesures barrières (se laver les mains
+notamment) et en nettoyant le caddie avec une lingette, le risque
+devient négligeable.
+
+
+
+
+
+#### Y a-t-il un risque concernant l’achat de pain à la boulangerie ? {#y-a-t-il-un-risque-concernant-lachat-de-pain-à-la-boulangerie .item-question}
+
+
+
+Les sorties pour acheter du pain ou des produits alimentaires ne
+présentent pas de risque si les gestes barrières et les règles de
+distanciation sociale sont bien respectés. En restant à plus d’un mètre
+des autres clients, et en se lavant les mains lors du retour à domicile,
+il n’y a donc aucun risque à acheter du pain.
 
 
 
@@ -566,6 +615,34 @@ consultations en médecine de ville en lien avec des symptômes COVID-19
 (après la période d’incubation) devrait être le premier indicateur à la
 baisse. Toutefois, ces données nécessiteront du temps afin d’être
 consolidées.
+
+
+
+
+
+
+
+Au vu des connaissances actuelles, les animaux de compagnie ne
+transmettent pas le virus COVID-19. Ce virus se transmet d'homme à
+homme. Le virus peut cependant vivre quelques heures sur le pelage d'un
+animal.\
+\
+Pour éviter toute contamination et comme recommandé par l'ANSES : 
+-   Séparez les animaux des personnes malades ou présumées malades ;
+-   Ne laissez pas l'animal vous lécher le visage ;
+-   Lavez-vous les mains avant et après avoir caressé un animal ;
+
+Ne maltraitez pas votre animal en le nettoyant avec des produits
+inadaptés !\
+\
+Il n'est pas utile de laver un animal qui sort en promenade.\
+\
+De plus, tout produit qui n'est pas un produit adapté à l'animal
+(shampooing vétérinaire) ne doit en aucun cas être utilisé. Il peut
+nuire à votre animal comme à vous et votre entourage. L'usage de
+produits inadaptés (eau de javel...) voire agressifs pour l'animal, peut
+être assimilé à une véritable maltraitance et surtout ferait souffrir
+votre animal sans aucun bénéfice pour vous comme pour lui.
 
 
 
