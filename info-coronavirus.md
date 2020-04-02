@@ -3807,20 +3807,33 @@ effectivement le logement.
 
 
 Oui, sous réserve du respect de gestes « barrières » et du respect de la
-distanciation sociale d’un mètre.
+distanciation sociale d’un mètre.\
+\
+Si vous le pouvez, au regard de la situation actuelle, il est préférable
+de repousser la tenue des états des lieux jusqu’à la fin des mesures de
+confinement.\
+\
+Toutefois, s’il n’est pas possible de différer l’état des lieux :\
+\
+- vous pouvez faire appel à un huissier de justice, sous réserve de sa
+disponibilité ;\
+- l’état des lieux peut se tenir par voie dématérialisée. Il est
+recommandé au bailleur et au locataire de préserver tout élément de
+preuve de - l-’état du logement : photos, vidéos…\
+- en sortie du logement, les clefs peuvent être remises par lettre
+recommandée avec avis de réception.
 
 
 
 
 
-#### Puis-je faire appel à une entreprise de déménagement ? {#puis-je-faire-appel-à-une-entreprise-de-déménagement .item-question}
+#### En tant que particulier, puis-je faire appel à une entreprise de déménagement ? {#en-tant-que-particulier-puis-je-faire-appel-à-une-entreprise-de-déménagement .item-question}
 
 
 
-Vous pouvez contacter une entreprise de déménagement, c’est elle qui
-vous répondra si elle est en capacité de mener des déménagements. C’est
-à l’entreprise d’organiser la sécurité de ses salariés et de respecter
-les consignes sanitaires.
+En règle générale, non. La possibilité de recourir à un déménageur
+professionnel n'est maintenue que pour des situations très
+exceptionnelles.
 
 
 
@@ -3837,13 +3850,15 @@ convention d’occupation précaire »  avec votre propriétaire pour
 contractualiser cet accord temporaire. Si la signature de ce document
 pose des difficultés, un échange d’emails peut suffire comme preuve
 écrite de l’accord trouvé entre le propriétaire et le locataire. Il vous
-faudra continuer à payer votre loyer.
-
-Si je suis contraint de rester dans mon logement alors que mon préavis
-est arrivé à son terme, dois-je continuer à payer mon loyer ?
-
-Oui, vous devez continuer à payer votre loyer pour toute la période où
-vous occupez le logement.
+faudra continuer à payer votre loyer.\
+\
+Convention d’occupation temporaire : ce contrat permet au locataire de
+rester temporairement dans le logement, moyennant une contrepartie
+financière, qui s’élève généralement au montant du loyer et des charges.
+La convention précisera le contexte très exceptionnel de la situation
+(crise du Coronavirus) et les principaux éléments de la mise à
+disposition du logement (montant des sommes dues par le locataire /
+modalités pour sortir du logement à la fin du confinement).
 
 
 
@@ -3885,6 +3900,40 @@ outre, la "trêve hivernale", a été exceptionnellement prolongée jusqu’au
 31 mai. C’est-à-dire que jusqu’à cette date aucune expulsion de
 locataire ne peut être exécutée. Dans tous les cas, si j’occupe le
 logement, je dois continuer à payer le loyer.
+
+
+
+
+
+#### J’ai signé une promesse de vente avant le confinement, le processus d’achat continue-t-il ? {#jai-signé-une-promesse-de-vente-avant-le-confinement-le-processus-dachat-continue-t-il .item-question}
+
+
+
+Le délai de signature devant notaire court à compter de la signature de
+la promesse de vente. A l’issue de celui-ci, la promesse de vente n’est
+pas caduque, tant qu’au total cette période n’excède pas 18 mois.
+L’impossibilité de signature devant notaire liée au confinement ne remet
+pas en cause la promesse de vente.
+
+
+
+
+
+#### Suis-je autorisé à me déplacer pour remettre des clés dans le cadre de la plateforme Appart Solidaire d'Airbnb ou toute autre initiative solidaire ? {#suis-je-autorisé-à-me-déplacer-pour-remettre-des-clés-dans-le-cadre-de-la-plateforme-appart-solidaire-dairbnb-ou-toute-autre-initiative-solidaire .item-question}
+
+
+
+Oui sous réserve de produire les 3 pièces ci-dessous :\
+\
+- une attestation de déplacement dérogatoire (et cocher la case « 
+Participation à des missions d'intérêt général sur demande de l'autorité
+administrative ».\
+- une attestation sur l'honneur qu'ils se déplacent à l'adresse du
+logement mis à disposition pour remettre les clés à un personnel
+soignant ou un travailleur ou bénévole d'un centre d'hébergement.\
+- la preuve de la réservation du logement (la confirmation numérique
+provenant de Airbnb ou la copie du contrat de bail peuvent être
+présentés sur smartphone).
 
 
 
@@ -3983,6 +4032,17 @@ des solutions.
 
 
 
+#### Si je suis contraint de rester dans mon logement alors que mon préavis est arrivé à son terme, dois-je continuer à payer mon loyer ? {#si-je-suis-contraint-de-rester-dans-mon-logement-alors-que-mon-préavis-est-arrivé-à-son-terme-dois-je-continuer-à-payer-mon-loyer .item-question}
+
+
+
+Oui, vous devez continuer à payer votre loyer pour toute la période où
+vous occupez le logement.
+
+
+
+
+
 
 
 
@@ -3993,7 +4053,7 @@ des solutions.
 
 
 
-#### Ai-je le droit d'aller au container de tri sélectif situé à plusieurs mètres de mon domicile et que dois-je cocher sur l'attestation ? {#ai-je-le-droit-daller-au-container-de-tri-sélectif-situé-à-plusieurs-mètres-de-mon-domicile-et-que-dois-je-cocher-sur-lattestation .item-question}
+#### Ai-je le droit d'aller au container de tri sélectif situé à plusieurs mètres de mon domicile ou à une déchetterie et que dois-je cocher sur l'attestation ? {#ai-je-le-droit-daller-au-container-de-tri-sélectif-situé-à-plusieurs-mètres-de-mon-domicile-ou-à-une-déchetterie-et-que-dois-je-cocher-sur-lattestation .item-question}
 
 
 
@@ -4112,7 +4172,18 @@ dans la boucle de l’économie circulaire !
 
 
 Si votre déchetterie est fermée, nous vous invitons à stocker vos
-encombrants chez vous en attendant sa réouverture.
+encombrants chez vous en attendant sa réouverture.\
+\
+Si votre collectivité vous informe en revanche que votre déchetterie
+reste ouverte pour les particuliers, vous pouvez vous y rendre en étant
+muni de votre attestation de déplacement dérogatoire en cochant la case
+« déplacement pour effectuer des achats de première nécessité ».\
+\
+Dans tous les cas, il vous est conseillé de consulter régulièrement le
+site internet de votre commune ou de votre intercommunalité pour
+connaître les règles relatives aux déchets encombrants et vous ne devez
+en aucun cas les laisser dans la nature ou sur le trottoir (sanction
+allant jusqu'à 1500€ et la confiscation du véhicule).
 
 
 
@@ -4637,19 +4708,35 @@ régions sous tensions vers d’autres territoire.
 Les premières études montrent effectivement que ce sont les personnes
 les plus âgées qui sont les plus à risque de développer des formes
 graves de COVID-19.\
+\
 Elles sont plus fragiles pour plusieurs raisons. Tout d’abord, avec
 l’âge, le système immunitaire - qui protège contre les virus - est moins
 efficace. De plus, les personnes âgées ont souvent d’autres pathologies,
 notamment des insuffisances d’organe (hypertension artérielle,
 insuffisance rénale…) qui les rendent moins résistantes à une agression
 extérieure comme un virus.\
+\
 A l’inverse, le COVID-19 a moins d’effet sur les jeunes, et de nombreux
 jeunes sont porteurs asymptomatiques. Toutefois, il ne faut pas oublier
 que le COVID-19 peut également donner des formes graves chez des
 patients jeunes.\
+\
 Les gestes barrières, la distanciation sociale et le confinement sont
 donc utiles pour tous, et permettent aux jeunes et moins jeunes de se
 protéger contre le coronavirus.
+
+
+
+
+
+#### L'alcool modifié à 70 ou 90 degrés peut-il remplacer le gel hydro-alcoolique ? {#lalcool-modifié-à-70-ou-90-degrés-peut-il-remplacer-le-gel-hydro-alcoolique .item-question}
+
+
+
+L’alcool à 70 degrés et 90 degrés ne sont recommandés que pour la
+désinfection des surfaces. Pour remplacer le gel hydro-alcoolique, on
+peut avant tout utiliser de l’eau et du savon, qui restent la méthode la
+plus efficace pour éliminer le virus.
 
 
 
@@ -4755,7 +4842,7 @@ minutes. Le plus important reste donc de se laver les mains.
 
 
 
-### Personnes agées {#personnes-agées .item-paragraphe-titre .c-onglet data-picto="https://www.gouvernement.fr/sites/default/files/cimages/qr_personnes_agees.svg"}
+### Personnes âgées {#personnes-âgées .item-paragraphe-titre .c-onglet data-picto="https://www.gouvernement.fr/sites/default/files/cimages/qr_personnes_agees.svg"}
 
 
 
@@ -4836,7 +4923,7 @@ durer tant que la situation sanitaire l’exige, et seront accompagnées de
 mesures pour rendre cette situation plus simple pour les personnes âgées
 et leur proche (par exemple, par la mise en place de visioconférences).\
 \
-Samedi 28 mars le Premier ministre et le ministre des Solidarités et de
+Samedi 28 mars, le Premier ministre et le ministre des Solidarités et de
 la Santé ont appelé à un renforcement supplémentaire des mesures de
 protection au sein des établissements hébergeant des personnes âgées
 (Ehpad, Ulsd, résidences autonomies, résidences services) : \
@@ -4907,7 +4994,55 @@ observant scrupuleusement les gestes barrières. 
 Seuls les membres proches de la famille (20 personnes au maximum) ainsi
 que les desservants de rites funéraires pourront donc faire l'objet
 d'une dérogation aux mesures de confinement fondée sur des "motifs
-familiaux impérieux".
+familiaux impérieux".\
+\
+Si l’enterrement a lieu dans une autre région, vous pouvez tout de même
+vous y rendre. Il s'agit d'un déplacement pour motif familial
+impérieux.\
+ 
+
+
+
+
+
+#### A l’occasion du décès d’un proche, on me dit que ses effets personnels doivent être brûlés. Quelles sont les consignes pour l’inhumation ? {#a-loccasion-du-décès-dun-proche-on-me-dit-que-ses-effets-personnels-doivent-être-brûlés.-quelles-sont-les-consignes-pour-linhumation .item-question}
+
+
+
+Selon l’avis du Haut Conseil de Santé Publique du 24 mars, les effets
+personnels d’une personne COVID-19 décédée doivent être lavés à plus de
+60°C pendant au moins 30 minutes ou désinfectés (dans le cas des
+bijoux). Si le lavage n’est pas possible, ils sont mis dans un sac
+plastique fermé pendant 10 jours.\
+ 
+
+
+
+
+
+#### Après le décès d’un proche, on me dit que ses effets personnels doivent être brûlés. Quelles sont les consignes pour l’inhumation ? {#après-le-décès-dun-proche-on-me-dit-que-ses-effets-personnels-doivent-être-brûlés.-quelles-sont-les-consignes-pour-linhumation .item-question}
+
+
+
+Les effets personnels d’une personne décédée suite au COVID-19 peuvent
+être lavés à plus de 60°C pendant au moins 30 minutes ou désinfectés
+(dans le cas des bijoux). Ils n’ont besoin d’être brûlés. Si le lavage
+ou la désinfection ne sont pas possibles, ils, sont mis dans un sac
+plastique fermé pendant 10 jours.  
+
+
+
+
+
+#### Les donneurs d’organes décédés suite au COVID-19 sont-ils éligibles au don ? {#les-donneurs-dorganes-décédés-suite-au-covid-19-sont-ils-éligibles-au-don .item-question}
+
+
+
+Le don d’organe n’est pas possible suite à un décès secondaire au
+COVID-19. Selon l’avis du Haut Conseil de la Santé Publique, en cas de
+donneur ayant présenté une infection, le prélèvement n’est possible qu’à
+partir 28 jours après résolution des symptômes, car il existe un risque
+de présence résiduelle du virus dans le sang.
 
 
 
@@ -4931,6 +5066,21 @@ personnes malades ou en fin de vie.
 Oui, les lieux de culte ont été autorisés à rester ouverts. Mais je ne
 peux pas participer à un rassemblement ou une réunion de plus de 20
 personnes au sein d’un lieu de culte.
+
+
+
+
+
+
+
+Après le décès d’un proche : puis-je récupérer son alliance et son
+collier ?
+
+
+
+Oui. Les bijoux d’une personne décédée suite au COVID-19 doivent
+cependant, après avoir été ôté du défunt, être désinfectés avec un
+désinfectant approprié ou de l’alcool à 70°.
 
 
 
