@@ -3455,6 +3455,124 @@ pourront en être équipés.
 
 
 
+### Droit de visite et d'hébergement - Pensions alimentaires {#droit-de-visite-et-dhébergement---pensions-alimentaires .item-paragraphe-titre .c-onglet data-picto=""}
+
+
+
+
+
+#### Je suis séparé, est-ce que le droit de visite et d’hébergement des enfants s’applique comme d’habitude ? {#je-suis-séparé-est-ce-que-le-droit-de-visite-et-dhébergement-des-enfants-sapplique-comme-dhabitude .item-question}
+
+
+
+Le droit de visite et d’hébergement doit s’appliquer en respectant les
+consignes sanitaires, c’est-à-dire :
+-   limiter les déplacements de l’enfant, en particulier sur de grandes
+    distances ;
+-   éviter que l’enfant prenne les transports en commun pour aller du
+    domicile d’un parent à l’autre ;
+-   éviter que l’enfant soit au contact de personnes vulnérables ;
+-   empêcher que l’enfant rencontre des personnes présentant des
+    symptômes du COVID-19.
+
+ Pour cela, les parents peuvent se mettre d’accord pour modifier leur
+organisation de façon temporaire. Par exemple, une résidence avec
+alternance chaque semaine peut provisoirement être remplacée par une
+alternance par quinzaine.
+
+
+
+
+
+#### Comment remplir l’attestation de déplacement ? {#comment-remplir-lattestation-de-déplacement .item-question}
+
+
+
+Sur l’attestation de déplacement, il faut cocher la case : «
+Déplacements pour motif familial impérieux, pour l’assistance aux
+personnes vulnérables ou la garde d’enfants ».
+
+
+
+
+
+#### Le droit de visite à la journée, chez un tiers ou dans un espace de rencontre est-il possible ? {#le-droit-de-visite-à-la-journée-chez-un-tiers-ou-dans-un-espace-de-rencontre-est-il-possible .item-question}
+
+
+
+Tous les droits de visite et remises d’enfant en espaces de rencontre
+sont suspendus en raison de la fermeture de ces lieux.\
+Il est recommandé par ailleurs d’éviter de déplacer un enfant pour un
+droit de visite de courte durée à la journée et de suspendre les
+rencontres au domicile de tiers ou avec l’assistance de tiers.
+
+
+
+
+
+#### Peut-on refuser un droit de visite ou d’hébergement ? {#peut-on-refuser-un-droit-de-visite-ou-dhébergement .item-question}
+
+
+
+Il est interdit par la loi de refuser sans motif légitime de remettre un
+enfant mineur à la personne qui a le droit de le voir. C’est un délit
+puni d’un an d’emprisonnement et de 15.000 € d’amende.\
+ \
+Mais ce refus peut être justifié afin de respecter les consignes
+sanitaires, par exemple :
+-    si l’éloignement des deux parents est important et nécessite de
+    déplacer l’enfant pendant un long trajet en transport en commun,
+-   si l’un des parents ou l’enfant présente des symptômes,
+-   si une personne malade vit au domicile de l’un des parents…
+
+
+
+
+
+#### Le parent chez lequel vit l’enfant me refuse un droit de visite ou d’hébergement de manière injustifiée, que dois-je faire ? {#le-parent-chez-lequel-vit-lenfant-me-refuse-un-droit-de-visite-ou-dhébergement-de-manière-injustifiée-que-dois-je-faire .item-question}
+
+
+
+Le recours à un médiateur peut vous permettre de trouver un accord pour
+la période de confinement. De nombreux services de médiation familiale
+continuent de proposer leur service par téléphone ou par
+visio-conférence ainsi que certains cabinets d’avocats médiateurs.\
+A défaut et si vous pensez que ce refus n’est pas justifié par le
+respect des consignes sanitaires, vous pourrez déposer plainte après la
+période de confinement.
+
+
+
+
+
+#### L’autre parent met l’enfant en danger, et m’empêche de voir l’enfant, que dois-je faire ? {#lautre-parent-met-lenfant-en-danger-et-mempêche-de-voir-lenfant-que-dois-je-faire .item-question}
+
+
+
+Vous pouvez saisir le juge des enfants si vous avez des informations qui
+vous permettent de croire que votre enfant est en danger physique ou
+moral : mauvais traitement, menaces de mort, violence physique ou
+psychologique.
+
+
+
+
+
+#### Les pensions alimentaires doivent-elles être versées comme d’habitude ? {#les-pensions-alimentaires-doivent-elles-être-versées-comme-dhabitude .item-question}
+
+
+
+Oui. Toutes les pensions alimentaires doivent être payées à la date
+prévue.
+
+
+
+
+
+
+
+
+
 ### Sorties et déplacements {#sorties-et-déplacements .item-paragraphe-titre .c-onglet data-picto="https://www.gouvernement.fr/sites/default/files/cimages/qr_sorties_et_deplacements.svg"}
 
 
@@ -5098,6 +5216,263 @@ minutes. Le plus important reste donc de se laver les mains.
 
 
 
+### Sport {#sport .item-paragraphe-titre .c-onglet data-picto=""}
+
+
+
+
+
+#### Pendant la période de confinement, est-il encore possible pour moi d’aller faire un footing ? {#pendant-la-période-de-confinement-est-il-encore-possible-pour-moi-daller-faire-un-footing .item-question}
+
+
+
+Oui, mais dans les conditions restrictives mentionnées au 5° de
+l’article 3 du décret 2020-293 du 23 mars 2020 prescrivant les mesures
+générales nécessaires pour faire face à l'épidémie de covid-19 dans le
+cadre de l'état d'urgence sanitaire. Cette pratique doit être
+individuelle, à raison d’1 heure quotidienne au maximum, à au plus 1 km
+autour du domicile et munie de votre pièce d’identité et d’une
+attestation de déplacement dérogatoire mentionnant la date et l’heure du
+départ.
+
+
+
+
+
+#### Est-ce qu’il est également possible pour moi d’aller faire une sortie en vélo ? {#est-ce-quil-est-également-possible-pour-moi-daller-faire-une-sortie-en-vélo .item-question}
+
+
+
+Non, la pratique du vélo de loisir est proscrite. Seuls les enfants
+peuvent faire encore du vélo lors d'une sortie brève, en étant
+accompagné par un adulte à pied, à raison d’1 heure quotidienne au
+maximum, à au plus 1 km autour du domicile et munie de votre pièce
+d’identité et d’une attestation de déplacement dérogatoire mentionnant
+la date et l’heure du départ. Le vélo en revanche peut être utilisé
+comme moyen de locomotion pour vos déplacements professionnels, de santé
+ou pour faire vos courses, en étant muni d’une attestation de
+déplacement dérogatoire mentionnant la date et l’heure du départ...
+
+
+
+
+
+#### Les restrictions d’activité concernent-elles également les activités et sports qui sont pratiqués en nature, loin de toute population, et “en solo” ? {#les-restrictions-dactivité-concernent-elles-également-les-activités-et-sports-qui-sont-pratiqués-en-nature-loin-de-toute-population-et-en-solo .item-question}
+
+
+
+Les restrictions d’activités concernent-elles également les activités
+aquatiques et nautiques (sorties en bateau, aviron, voile, plongée
+sous-marine, pêche…), les sports aériens (parapente, saut en parachute,
+montgolfière…), les sports mécaniques (moto, karting...), les activités
+de montagne (escalade, spéléologie, randonnée…) ou encore les sports
+urbains (skateboard, roller…) et ce même si ces activités et sports sont
+pratiqués en nature, loin de toute population, et « en solo » ?\
+\
+Aujourd'hui, la pratique de nombreuses activités sportives est rendue
+impossible par les circonstances. S'il n’existe aucune restriction
+concernant le type d’activité sportive pouvant être pratiquée, celles-ci
+doivent remplir les conditions mentionnées au 5° de l’article 3 du
+décret 2020-293 du 23 mars 2020 prescrivant les mesures générales
+nécessaires pour faire face à l’épidémie de covid-19 dans le cadre de
+l’état d’urgence sanitaire. C'est-à-dire qu'il doit s'agir d'une
+activité individuelle n'entraînant pas de proximité avec d’autres
+personnes. Cette activité doit également être pratiquée au maximum
+durant une heure quotidienne et à une distance maximale d’un kilomètre
+du domicile. Il faut néanmoins rappeler que les établissements
+d’activités physiques et sportives (EAPS) sont fermés et ne peuvent donc
+encadrer ce type de pratique. Or, parmi celles-ci, certaines présentent
+une dangerosité particulière et nécessitent d’être encadrées ou font
+appel à des équipements qui sont eux-mêmes fermés (remontées mécaniques,
+etc.).
+
+
+
+
+
+#### Puis je continuer malgré tout à me rendre dans ma salle de fitness, dans une piscine publique ou dans un centre équestre ? {#puis-je-continuer-malgré-tout-à-me-rendre-dans-ma-salle-de-fitness-dans-une-piscine-publique-ou-dans-un-centre-équestre .item-question}
+
+
+
+Non. Tous les établissements d’activités physiques et sportives (EAPS)
+couverts et non couverts doivent cesser leur activité jusqu’au 15 avril,
+à ce stade. Il n’est donc plus possible de les fréquenter.\
+\
+Seules les opérations strictement nécessaires de maintenance peuvent
+être assurées. Concernant les centres équestres et les autres
+établissements possédant des animaux (ex : chiens de traineaux), seuls
+les propriétaires ou leurs préposés peuvent s’y rendre afin de prodiguer
+les soins nécessaires aux animaux munies de l’attestation avec la
+mention « Les déplacements professionnels lorsque ceux-ci ne peuvent
+être reportés ». Les animaux peuvent bénéficier de sortie journalière
+pour leur confort exclusivement dans l’enceinte de l’établissement
+(exemple : carrière). Cette mesure de fermeture concerne aussi les
+établissements de plein air (hippodromes, stations de ski, golf, bases
+de loisirs), ainsi que tous les sites et itinéraires de nature (chemins
+de randonnée, sites d’escalade, lacs, rivières, etc.). Seuls les
+personnels strictement nécessaires aux maintenances indispensables
+peuvent s’y rendre munis de leur attestation avec la mention :  « Les
+déplacements professionnels lorsque ceux-ci ne peuvent être reportés »
+
+
+
+
+
+#### Je suis adhérent dans un club ou une association sportive. Est-ce que j’aurai droit à un remboursement des semaines d’inactivités dues au confinement ou me sera-t-il accordée une compensation ? {#je-suis-adhérent-dans-un-club-ou-une-association-sportive.-est-ce-que-jaurai-droit-à-un-remboursement-des-semaines-dinactivités-dues-au-confinement-ou-me-sera-t-il-accordée-une-compensation .item-question}
+
+
+
+C’est une décision qui relève de la libre appréciation de l’association
+à laquelle vous adhérez. C’est à son conseil d’administration qu’il
+revient d’arrêter ce choix éventuel de remboursement et ses modalités
+pratiques.
+
+
+
+
+
+#### Est-ce que la période d’activité dans les clubs ou associations sportives pourrait s’étendre pendant la période estivale pour « rattraper » les semaines d’inactivités actuelles ? {#est-ce-que-la-période-dactivité-dans-les-clubs-ou-associations-sportives-pourrait-sétendre-pendant-la-période-estivale-pour-rattraper-les-semaines-dinactivités-actuelles .item-question}
+
+
+
+Cette décision relève des fédérations sportives qui décideront
+d’allonger ou pas leurs calendriers sportifs et de la structure dans
+laquelle vous pratiquez vos activités physiques et sportives.
+
+
+
+
+
+#### Si je me blesse en faisant du sport, est-ce que je peux toujours consulter un médecin ? {#si-je-me-blesse-en-faisant-du-sport-est-ce-que-je-peux-toujours-consulter-un-médecin .item-question}
+
+
+
+C’est possible, mais sous conditions toutefois. L’article 3 3° du décret
+n° 2020-293 du 23 mars 2020 prescrivant les mesures générales
+nécessaires pour faire face à l'épidémie de covid-19 dans le cadre de
+l'état d'urgence sanitaire prévoit que sont possibles les déplacements
+pour motif de santé à l’exception des soins et consultations pouvant
+être réalisés à distance ou pouvant être différés.
+
+
+
+
+
+#### Les kinésithérapeutes peuvent-ils continuer à prodiguer des soins et des manipulations pendant cette période ? {#les-kinésithérapeutes-peuvent-ils-continuer-à-prodiguer-des-soins-et-des-manipulations-pendant-cette-période .item-question}
+
+
+
+Les professions de santé peuvent continuer à exercer en mettant en œuvre
+les mesures barrières en ce qui concerne toutes les interventions
+urgentes non reportables.
+
+
+
+
+
+#### Je présente des symptômes du coronavirus. Puis je continuer malgré tout à pratiquer une activité physique ? {#je-présente-des-symptômes-du-coronavirus.-puis-je-continuer-malgré-tout-à-pratiquer-une-activité-physique .item-question}
+
+
+
+Non, les infections virales ne sont pas compatibles avec un effort
+physique.  Vous pourriez développer une myocardite – inflammation du
+muscle cardiaque. Dans tous les cas, si vous ne savez pas si vous êtes
+porteur ou non du virus, évitez actuellement les efforts trop violents
+et ne dépassez pas une heure d’activité.
+
+
+
+
+
+#### Jusqu’à quand les rencontres, événements, entraînements sportifs sont-ils suspendus ? {#jusquà-quand-les-rencontres-événements-entraînements-sportifs-sont-ils-suspendus .item-question}
+
+
+
+Le décret n° 2020-293 du 23 mars 2020 prescrivant les mesures générales
+nécessaires pour faire face à l'épidémie de covid-19 dans le cadre de
+l'état d'urgence sanitaire prévoit d’une part au V de son article 8 que
+les établissements d’activité physique et sportive sont fermés d’autre
+part au I que les établissements sportifs et les établissements de plein
+air ne peuvent accueillir de public jusqu’au 15 avril 2020. Il est
+probable que cette période soit prolongée.
+
+
+
+
+
+#### Puis je continuer à faire du sport à domicile pendant cette période et si oui, comment ? {#puis-je-continuer-à-faire-du-sport-à-domicile-pendant-cette-période-et-si-oui-comment .item-question}
+
+
+
+Oui, Une pratique minimale d’activités physiques dynamiques est
+recommandée, correspondant à 1 heure par jour pour les enfants et les
+adolescents, et à 30 minutes par jour pour les adultes. En complément,
+il est également recommandé de réaliser plusieurs fois par semaine des
+activités variées qui renforcent les muscles et améliorent la souplesse
+et l’équilibre. En parallèle, il est tout aussi important de réduire son
+temps passé en position assise ou allongée, et de rompre les périodes
+prolongées passées en position assise par quelques minutes de marche et
+d’étirements au minimum toutes les 2 heures. \
+\
+Pour en savoir plus :
+[http://www.sports.gouv.fr/accueil-du-site/actualites/article/avec-le-ministere-des-sports-faire-du-sport-chez-soi-c-est-facile](http://www.sports.gouv.fr/accueil-du-site/actualites/article/coronavirus-covid-19-avec-le-ministere-des-sports-faire-du-sport-chez-soi-c-est)
+
+
+
+
+
+#### Quelles sont les activités physiques à domicile les plus recommandées pour les enfants ? {#quelles-sont-les-activités-physiques-à-domicile-les-plus-recommandées-pour-les-enfants .item-question}
+
+
+
+Pour les enfants, la priorité est le développement de la coordination,
+de la motricité fine en mobilisant les qualités de vitesse, donc
+inventez des petits parcours de 2 à 5 min avec des obstacles (pour
+sauter sur 1 pied, sur l’autre / tourner dans un sens et dans l’autre –
+se coucher – ramper – se relever, puis lancer une balle – ou une pomme ?
+– d’une main à l’autre etc …) c’est ludique ! Vous pouvez également
+adapter les jeux traditionnels qui se pratiquent habituellement dans la
+cours de récréation : le saut à l’élastique, chat perché, la marelle…
+
+
+
+
+
+#### Les sportifs en situation de handicap sont-ils plus vulnérables face au coronavirus ? {#les-sportifs-en-situation-de-handicap-sont-ils-plus-vulnérables-face-au-coronavirus .item-question}
+
+
+
+Oui pour certains selon la nature du handicap et les traitements
+associés.
+
+
+
+
+
+#### Je veux inviter des amis chez moi pour regarder à la télévision la rediffusion d’un match de football/d’un événement sportif. Est-ce possible ? {#je-veux-inviter-des-amis-chez-moi-pour-regarder-à-la-télévision-la-rediffusion-dun-match-de-footballdun-événement-sportif.-est-ce-possible .item-question}
+
+
+
+Il n’est pas possible d’inviter des personnes à son domicile pour suivre
+la diffusion d’un évènement sportif dans la mesure où le décret n°
+2020-293 du 23 mars 2020 prescrivant les mesures générales nécessaires
+pour faire face à l'épidémie de covid-19 dans le cadre de l'état
+d'urgence sanitaire interdit en son article 3 tout déplacement de
+personne hors du domicile à l'exception des déplacements pour des motifs
+dérogatoires exhaustivement listés. Or, ces motifs ne recouvrent pas les
+déplacements pour se rendre à des invitations d’amis.\
+\
+La priorité est au confinement à domicile afin de limiter la propagation
+du virus et donc d’éviter au maximum les contacts.
+
+
+
+
+
+
+
+
+
 ### Personnes âgées {#personnes-âgées .item-paragraphe-titre .c-onglet data-picto="https://www.gouvernement.fr/sites/default/files/cimages/qr_personnes_agees.svg"}
 
 
@@ -5192,6 +5567,110 @@ mesures d'hygiène drastiques pour éviter l'entrée du virus dans les
 \
 - parmi ces mesures renforcées figurera une politique de tests renforcée
 des personnels des établissements.
+
+
+
+
+
+
+
+
+
+### Entraide {#entraide .item-paragraphe-titre .c-onglet data-picto="https://www.gouvernement.fr/sites/default/files/cimages/qr_entraide.svg"}
+
+
+
+
+
+#### Comment s’organiser pendant le confinement ? {#comment-sorganiser-pendant-le-confinement .item-question}
+
+
+
+Le secrétariat d’État au Numérique a recensé l’ensemble des offres
+gratuites des plateformes numériques susceptibles de vous accompagner
+pendant cette période de confinement : télétravail, connectivité,
+apprentissage, livraison, téléconsultation, accès à l’information et au
+divertissement.
+
+Retrouvez l’ensemble de ces offres sur la plateforme dédiée :
+[www.mobilisation-numerique.gouv.fr](http://www.mobilisation-numerique.gouv.fr)
+
+
+
+
+
+#### Je veux me rendre utile, comment faire ? {#je-veux-me-rendre-utile-comment-faire .item-question}
+
+
+
+Pour que chacun puisse prendre sa part de cette mobilisation générale
+des solidarités, le Gouvernement lance la Réserve civique-COVID 19
+[jeveuxaider.gouv.fr](https://jeveuxaider.gouv.fr). Afin de permettre à
+tous ceux qui le peuvent et qui le souhaitent de s’engager et de donner
+de leur temps, pour que les plus démunis et les plus vulnérables ne
+soient pas les premières victimes de cette crise. Quatre missions
+prioritaires sont répertoriées : 
+
+ 
+-   Aide alimentaire et d’urgence.
+-   Garde exceptionnelle d’enfants de soignants ou d’une structure de
+    l’Aide Sociale à l’Enfance.
+-   Lien (téléphonique, visio, mail, etc.) avec les personnes fragiles
+    isolées : personnes âgées, malades ou en situation de handicap. 
+-   Solidarité de proximité : courses de produits essentiels pour les
+    voisins (fragiles, isolés, handicapés). 
+
+Cet espace est ouvert à tous, vous pouvez également y déposer des
+missions.
+
+
+
+
+
+#### Je suis soignant et je cherche à me loger à proximité de mon lieu de travail, que faire ? {#je-suis-soignant-et-je-cherche-à-me-loger-à-proximité-de-mon-lieu-de-travail-que-faire .item-question}
+
+
+
+En solidarité avec le personnel soignant le groupe Accor a lancé le
+programme CEDA (pour Coronavirus Emergency Desk Accor), en collaboration
+avec l’AP-HP. Les personnels soignants peuvent envoyer un email à
+l'adresse : <ceda@accor.com>. Le groupe Accor essaie ensuite de leur
+trouver un hébergement à proximité de leur lieu de travail.
+
+De plus, en partenariat avec le ministre de la Ville et du Logement,
+Airbnb a lancé le 24 mars un nouveau dispositif pour mettre en relation
+des personnels médicaux et travailleurs sociaux mobilisés contre le
+COVID-19 avec des hôtes proposant un logement gratuit. Le soignant doit
+remplir un formulaire sur :
+<https://news.airbnb.com/fr/des-logements-gratuits-sur-airbnb-pour-les-personnels-medicaux/>\
+\
+Dans ce cadre, les propriétaires sont bien sûr autorisés à sortir pour
+remettre les clés du logement au bénéficiaire.
+
+
+
+
+
+#### Aidons-nous les personnes sans-abri ? {#aidons-nous-les-personnes-sans-abri .item-question}
+
+
+
+Les personnes sans-abri sont accueillies dans des lieux qui restent
+ouverts et respectent le seuil de rassemblement maximal. 164 000 places
+d’hébergement sont actuellement disponibles pour les personnes sans abri
+qui ne sont pas malades. De nouvelles solutions d’hébergement sont en
+train d’être identifiées. 5 500 chambres d’hôtels supplémentaires ont
+notamment déjà été mobilisées. Le dispositif va continuer de se
+déployer.
+
+Des distributions de nourritures sont organisées de même que des
+maraudes maintenues. La période hivernale a également été prolongée de 2
+mois. 
+
+En complément, depuis le 19 mars, 40 centres d’hébergement médicalisés
+ont ouvert pour accueillir des personnes sans-abris atteintes par le
+COVID-19, mais ne nécessitant pas d’hospitalisation. D’autres
+établissements ouvriront bientôt, à raison d’au moins un par région.
 
 
 
@@ -5337,110 +5816,6 @@ collier ?
 Oui. Les bijoux d’une personne décédée suite au COVID-19 doivent
 cependant, après avoir été ôté du défunt, être désinfectés avec un
 désinfectant approprié ou de l’alcool à 70°.
-
-
-
-
-
-
-
-
-
-### Entraide {#entraide .item-paragraphe-titre .c-onglet data-picto="https://www.gouvernement.fr/sites/default/files/cimages/qr_entraide.svg"}
-
-
-
-
-
-#### Comment s’organiser pendant le confinement ? {#comment-sorganiser-pendant-le-confinement .item-question}
-
-
-
-Le secrétariat d’État au Numérique a recensé l’ensemble des offres
-gratuites des plateformes numériques susceptibles de vous accompagner
-pendant cette période de confinement : télétravail, connectivité,
-apprentissage, livraison, téléconsultation, accès à l’information et au
-divertissement.
-
-Retrouvez l’ensemble de ces offres sur la plateforme dédiée :
-[www.mobilisation-numerique.gouv.fr](http://www.mobilisation-numerique.gouv.fr)
-
-
-
-
-
-#### Je veux me rendre utile, comment faire ? {#je-veux-me-rendre-utile-comment-faire .item-question}
-
-
-
-Pour que chacun puisse prendre sa part de cette mobilisation générale
-des solidarités, le Gouvernement lance la Réserve civique-COVID 19
-[jeveuxaider.gouv.fr](https://jeveuxaider.gouv.fr). Afin de permettre à
-tous ceux qui le peuvent et qui le souhaitent de s’engager et de donner
-de leur temps, pour que les plus démunis et les plus vulnérables ne
-soient pas les premières victimes de cette crise. Quatre missions
-prioritaires sont répertoriées : 
-
- 
--   Aide alimentaire et d’urgence.
--   Garde exceptionnelle d’enfants de soignants ou d’une structure de
-    l’Aide Sociale à l’Enfance.
--   Lien (téléphonique, visio, mail, etc.) avec les personnes fragiles
-    isolées : personnes âgées, malades ou en situation de handicap. 
--   Solidarité de proximité : courses de produits essentiels pour les
-    voisins (fragiles, isolés, handicapés). 
-
-Cet espace est ouvert à tous, vous pouvez également y déposer des
-missions.
-
-
-
-
-
-#### Je suis soignant et je cherche à me loger à proximité de mon lieu de travail, que faire ? {#je-suis-soignant-et-je-cherche-à-me-loger-à-proximité-de-mon-lieu-de-travail-que-faire .item-question}
-
-
-
-En solidarité avec le personnel soignant le groupe Accor a lancé le
-programme CEDA (pour Coronavirus Emergency Desk Accor), en collaboration
-avec l’AP-HP. Les personnels soignants peuvent envoyer un email à
-l'adresse : <ceda@accor.com>. Le groupe Accor essaie ensuite de leur
-trouver un hébergement à proximité de leur lieu de travail.
-
-De plus, en partenariat avec le ministre de la Ville et du Logement,
-Airbnb a lancé le 24 mars un nouveau dispositif pour mettre en relation
-des personnels médicaux et travailleurs sociaux mobilisés contre le
-COVID-19 avec des hôtes proposant un logement gratuit. Le soignant doit
-remplir un formulaire sur :
-<https://news.airbnb.com/fr/des-logements-gratuits-sur-airbnb-pour-les-personnels-medicaux/>\
-\
-Dans ce cadre, les propriétaires sont bien sûr autorisés à sortir pour
-remettre les clés du logement au bénéficiaire.
-
-
-
-
-
-#### Aidons-nous les personnes sans-abri ? {#aidons-nous-les-personnes-sans-abri .item-question}
-
-
-
-Les personnes sans-abri sont accueillies dans des lieux qui restent
-ouverts et respectent le seuil de rassemblement maximal. 164 000 places
-d’hébergement sont actuellement disponibles pour les personnes sans abri
-qui ne sont pas malades. De nouvelles solutions d’hébergement sont en
-train d’être identifiées. 5 500 chambres d’hôtels supplémentaires ont
-notamment déjà été mobilisées. Le dispositif va continuer de se
-déployer.
-
-Des distributions de nourritures sont organisées de même que des
-maraudes maintenues. La période hivernale a également été prolongée de 2
-mois. 
-
-En complément, depuis le 19 mars, 40 centres d’hébergement médicalisés
-ont ouvert pour accueillir des personnes sans-abris atteintes par le
-COVID-19, mais ne nécessitant pas d’hospitalisation. D’autres
-établissements ouvriront bientôt, à raison d’au moins un par région.
 
 
 
@@ -6725,124 +7100,6 @@ handicap**](/info-coronavirus/espace-handicap). Cet espace regroupe
 toutes les réponses à vos questions, et permet également de rentrer en
 contact avec le service officiel d'information en transcription écrite
 et en Langue des Signes Française (LSF).
-
-
-
-
-
-
-
-
-### Droit de visite et d'hébergement - Pensions alimentaires {#droit-de-visite-et-dhébergement---pensions-alimentaires .item-paragraphe-titre .c-onglet data-picto=""}
-
-
-
-
-
-#### Je suis séparé, est-ce que le droit de visite et d’hébergement des enfants s’applique comme d’habitude ? {#je-suis-séparé-est-ce-que-le-droit-de-visite-et-dhébergement-des-enfants-sapplique-comme-dhabitude .item-question}
-
-
-
-Le droit de visite et d’hébergement doit s’appliquer en respectant les
-consignes sanitaires, c’est-à-dire :
--   limiter les déplacements de l’enfant, en particulier sur de grandes
-    distances ;
--   éviter que l’enfant prenne les transports en commun pour aller du
-    domicile d’un parent à l’autre ;
--   éviter que l’enfant soit au contact de personnes vulnérables ;
--   empêcher que l’enfant rencontre des personnes présentant des
-    symptômes du COVID-19.
-
- Pour cela, les parents peuvent se mettre d’accord pour modifier leur
-organisation de façon temporaire. Par exemple, une résidence avec
-alternance chaque semaine peut provisoirement être remplacée par une
-alternance par quinzaine.
-
-
-
-
-
-#### Comment remplir l’attestation de déplacement ? {#comment-remplir-lattestation-de-déplacement .item-question}
-
-
-
-Sur l’attestation de déplacement, il faut cocher la case : «
-Déplacements pour motif familial impérieux, pour l’assistance aux
-personnes vulnérables ou la garde d’enfants ».
-
-
-
-
-
-#### Le droit de visite à la journée, chez un tiers ou dans un espace de rencontre est-il possible ? {#le-droit-de-visite-à-la-journée-chez-un-tiers-ou-dans-un-espace-de-rencontre-est-il-possible .item-question}
-
-
-
-Tous les droits de visite et remises d’enfant en espaces de rencontre
-sont suspendus en raison de la fermeture de ces lieux.\
-Il est recommandé par ailleurs d’éviter de déplacer un enfant pour un
-droit de visite de courte durée à la journée et de suspendre les
-rencontres au domicile de tiers ou avec l’assistance de tiers.
-
-
-
-
-
-#### Peut-on refuser un droit de visite ou d’hébergement ? {#peut-on-refuser-un-droit-de-visite-ou-dhébergement .item-question}
-
-
-
-Il est interdit par la loi de refuser sans motif légitime de remettre un
-enfant mineur à la personne qui a le droit de le voir. C’est un délit
-puni d’un an d’emprisonnement et de 15.000 € d’amende.\
- \
-Mais ce refus peut être justifié afin de respecter les consignes
-sanitaires, par exemple :
--    si l’éloignement des deux parents est important et nécessite de
-    déplacer l’enfant pendant un long trajet en transport en commun,
--   si l’un des parents ou l’enfant présente des symptômes,
--   si une personne malade vit au domicile de l’un des parents…
-
-
-
-
-
-#### Le parent chez lequel vit l’enfant me refuse un droit de visite ou d’hébergement de manière injustifiée, que dois-je faire ? {#le-parent-chez-lequel-vit-lenfant-me-refuse-un-droit-de-visite-ou-dhébergement-de-manière-injustifiée-que-dois-je-faire .item-question}
-
-
-
-Le recours à un médiateur peut vous permettre de trouver un accord pour
-la période de confinement. De nombreux services de médiation familiale
-continuent de proposer leur service par téléphone ou par
-visio-conférence ainsi que certains cabinets d’avocats médiateurs.\
-A défaut et si vous pensez que ce refus n’est pas justifié par le
-respect des consignes sanitaires, vous pourrez déposer plainte après la
-période de confinement.
-
-
-
-
-
-#### L’autre parent met l’enfant en danger, et m’empêche de voir l’enfant, que dois-je faire ? {#lautre-parent-met-lenfant-en-danger-et-mempêche-de-voir-lenfant-que-dois-je-faire .item-question}
-
-
-
-Vous pouvez saisir le juge des enfants si vous avez des informations qui
-vous permettent de croire que votre enfant est en danger physique ou
-moral : mauvais traitement, menaces de mort, violence physique ou
-psychologique.
-
-
-
-
-
-#### Les pensions alimentaires doivent-elles être versées comme d’habitude ? {#les-pensions-alimentaires-doivent-elles-être-versées-comme-dhabitude .item-question}
-
-
-
-Oui. Toutes les pensions alimentaires doivent être payées à la date
-prévue.
-
 
 
 
