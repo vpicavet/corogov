@@ -3257,6 +3257,75 @@ COVID-19.
 
 
 
+#### Les personnes guéries peuvent-elles de nouveau se rendre au travail ? {#les-personnes-guéries-peuvent-elles-de-nouveau-se-rendre-au-travail .item-question}
+
+
+
+Les personnes guéries du COVID-19 peuvent retourner au travail après la
+levée de l’isolement strict.\
+\
+Les critères de levée de l’isolement strict ont été définis par le Haut
+Conseil de la Santé Publique. Dans la plupart des situations, ils sont
+les suivants : au moins 8 jours à partir du début des symptômes ; ET au
+moins 48 heures de disparition de la fièvre vérifiée deux fois dans la
+journée (en l’absence de toute prise de médicament anti-fièvre depuis au
+moins 12 heures) ; ET au moins 48 heures de disparition d’une éventuelle
+difficulté respiratoire.\
+\
+Des critères spécifiques existent pour les personnes à risque ou le
+personnel de santé. En cas de doute, demandez conseil à votre médecin. \
+Les personnes vivant dans le même foyer qu’une personne COVID-19 peuvent
+également retourner au travail à l’issue de la levée de l’isolement du
+proche.\
+\
+Pour rappel, en période de confinement, il est toutefois toujours
+demandé de recourir au télétravail dès que cela est possible - même
+lorsque l’on est guéri. En cas d’impossibilité de télétravail, il faut
+continuer rigoureusement de respecter les gestes barrières et les
+mesures de distanciation sociale, tout en aménageant son poste de
+travail afin de limiter les risques.\
+\
+Concernant les professionnels de santé, ils sont invités à porter un
+masque chirurgical pendant 7 jours après la levée de leur isolement
+strict lors de leur retour au travail, par principe de précaution
+maximum car ils sont en contacts de malades et sujets fragiles.
+
+
+
+
+
+#### Les proches des personnes fragiles peuvent-ils avoir un arrêt de travail ? {#les-proches-des-personnes-fragiles-peuvent-ils-avoir-un-arrêt-de-travail .item-question}
+
+
+
+Les proches de personnes fragiles sont invitées à opter pour le
+télétravail ou à un aménagement du poste de travail si leur travail est
+indispensable à la crise sanitaire. Au travail comme à domicile, elles
+doivent rigoureusement respecter les gestes barrières et les mesures de
+distanciation sociale. De plus, au terme d’une démarche supervisée par
+l’Agence nationale de sécurité du médicament et des produits de santé
+(ANSM) avec le soutien de l’ANSES, il a été demandé la création de
+nouveaux masques à usage non sanitaire pour maximiser la protection des
+professionnels. A ce titre, les proches de personnes fragiles pourront
+en être équipés sur le lieu de travail.
+
+
+
+
+
+#### Les professionnels de santé considérés comme personnes fragiles (femmes enceintes notamment) peuvent-ils bénéficier d’un arrêt de travail ? {#les-professionnels-de-santé-considérés-comme-personnes-fragiles-femmes-enceintes-notamment-peuvent-ils-bénéficier-dun-arrêt-de-travail .item-question}
+
+
+
+Les professionnels de santé considérés personnes fragiles sont invités à
+aménager leur poste de travail en lien avec les Services de Santé au
+Travail, afin d’éviter l’exposition au coronavirus. Si les aménagements
+sont impossibles, il leur est possible de bénéficier d’un arrêt de
+travail.\
+Si un aménagement afin de limiter les risques est possible, elles
+doivent porter un masque, rigoureusement respecter les gestes barrières
+et les mesures de distanciation sociale.
+
 
 
 
@@ -3354,6 +3423,29 @@ En tant que particulier-employeur vous êtes lié par un contrat avec la
 personne qui garde votre enfant. Les assistantes maternelles peuvent
 toutefois bénéficier des mesures de chômage partiel. Vous êtes donc tenu
 de lui payer 80% de son salaire qui vous sera remboursé ultérieurement.
+
+
+
+
+
+#### Quelles sont les consignes de sécurité pour les personnels de l'éducation nationale qui accueillent les enfants des personnels de crise ? {#quelles-sont-les-consignes-de-sécurité-pour-les-personnels-de-léducation-nationale-qui-accueillent-les-enfants-des-personnels-de-crise .item-question}
+
+
+
+Au quotidien, les personnels de l’Education Nationale accueillant les
+enfants des personnels indispensables à la crise doivent renforcer leur
+attention et appliquer avec rigueur les mesures barrières et les règles
+d’hygiène. Il leur est également demandé de respecter la distanciation
+sociale, en adaptant les pratiques d’accueil suivant les situations
+rencontrées. Bien respecter ces consignes est efficace pour se protéger
+du coronavirus.\
+\
+De plus, au terme d’une démarche supervisée par l’Agence nationale de
+sécurité du médicament et des produits de santé (ANSM) avec le soutien
+de l’ANSES, il a été demandé la création de nouveaux masques à usage non
+sanitaire pour maximiser la protection des professionnels en contact
+avec du public. A ce titre, les professionnels de l'Éducation Nationale
+pourront en être équipés.
 
 
 
@@ -3655,20 +3747,6 @@ Non. Il est uniquement possible de pratiquer individuellement une
 activité physique de courte durée et à proximité de son domicile (rayon
 maximal d'un kilomètre autour du domicile), dans la limite d'une heure
 quotidienne, muni de son attestation de déplacement dérogatoire.
-
-
-
-
-
-#### La pratique du vélo est-elle interdite ? {#la-pratique-du-vélo-est-elle-interdite .item-question}
-
-
-
-La pratique du vélo est autorisée comme moyens de déplacement pour aller
-au travail ou faire ses courses. En revanche, elle est interdite dans le
-cadre des loisirs et de l'activité physique individuelle. A l'exception
-des promenades pour aérer les enfants où il est toléré que les enfants
-soient à vélo ou trottinette, si l'adulte accompagnant est à pied.
 
 
 
@@ -4907,6 +4985,32 @@ protéger contre le coronavirus.
 
 
 
+#### Quels produits utiliser pour lutter contre le COVID-19 ? {#quels-produits-utiliser-pour-lutter-contre-le-covid-19 .item-question}
+
+
+
+Pour se laver les mains :\
+ 
+-   L’eau et le savon doivent être privilégiés. Un lavage efficace doit
+    durer 30 secondes, en couvrant l’ensemble des surfaces des 2 mains.
+-   En cas d’absence de point d’eau, il est possible d’utiliser du gel
+    hydro-alcoolique , en frictionnant la surface des 2 mains jusqu’à ce
+    que la solution soit sèche.
+
+Pour désinfecter les surfaces souillées :\
+ 
+-   L’ANSM recommande les produits avec la norme NF EN 14476 .
+-   Les produits à base d’alcool (alcool ménager avec 70% d’éthanol ou
+    alcool à brûler à 90-95% d’éthanol) sont également efficaces.
+-   L’eau de Javel &gt; 0.05% constitue également une alternative
+    efficace si on ne dispose pas de tels produits
+-   L’utilisation de vinaigre ou d’huiles essentielles n’est pas
+    recommandée car ils ne sont pas efficaces contre le coronavirus.
+
+
+
+
+
 #### L'alcool modifié à 70 ou 90 degrés peut-il remplacer le gel hydro-alcoolique ? {#lalcool-modifié-à-70-ou-90-degrés-peut-il-remplacer-le-gel-hydro-alcoolique .item-question}
 
 
@@ -4915,32 +5019,6 @@ L’alcool à 70 degrés et 90 degrés ne sont recommandés que pour la
 désinfection des surfaces. Pour remplacer le gel hydro-alcoolique, on
 peut avant tout utiliser de l’eau et du savon, qui restent la méthode la
 plus efficace pour éliminer le virus.
-
-
-
-
-
-#### L’alcool à brûler et le vinaigre sont-ils des désinfectants efficaces pour lutter contre le COVID-19 ? {#lalcool-à-brûler-et-le-vinaigre-sont-ils-des-désinfectants-efficaces-pour-lutter-contre-le-covid-19 .item-question}
-
-
-
-Concernant la désinfection des surfaces contre le coronavirus : \
-\
-·       L’ANSM recommande les produits avec la norme NF EN 14476.\
-·       Les produits à base d’alcool (**alcool ménager avec 70%
-d’éthanol** ou alcool à brûler à 90-95% d’éthanol) sont également
-efficaces. \
-·       **L’eau de Javel &gt; 0.05%** constitue également une
-alternative efficace si on ne dispose pas de tels produits\
-·       **L’utilisation de vinaigre ou d’huiles essentielles** n’est
-**pas recommandée** car ils ne sont pas efficaces contre le
-coronavirus.\
-\
-Pour se désinfecter les mains :\
-\
-·       L’eau et le savon doivent être privilégiés. \
-·       En cas d’absence de point d’eau, il est possible d’utiliser du
-gel hydro-alcoolique.
 
 
 
@@ -6247,7 +6325,7 @@ quotidienne conjointe sera assurée.
 Le suivi de l’épidémie est réalisée grâce :
 -   Aux nombres de cas testés et positifs
 -   A la surveillance hospitalière via le nombre d’admission dans plus
-    de 600 établissements de santé en prenant compte du nombre de
+    de 800 établissements de santé en prenant compte du nombre de
     passages aux urgences, du nombre de cas en soins intensifs et en
     réanimation, du nombre de patients guéris et du nombre de décès en
     milieu hospitalier.
@@ -6612,62 +6690,9 @@ mars :
     soutien financier de la BEI aux PME et ETI… D’autres initiatives
     suivront.
 
-
-
-
-
-#### Existe-t-il d’autres masques que les FFP2 pour se protéger efficacement contre le COVID-19 ? {#existe-t-il-dautres-masques-que-les-ffp2-pour-se-protéger-efficacement-contre-le-covid-19-1 .item-question}
-
-
-
- Il existe principalement deux types de masques : le masque dit
-chirurgical et le masque FFP2.\
-\
-1.     Le masque chirurgical protège lui contre les virus qui se
-transmettent dans les gouttelettes. Il permet donc se protéger contre le
-coronavirus, à transmission gouttelettes, mais aussi d’éviter de
-contaminer les autres quand on est malade. Il est suffisant dans la
-plupart des situations pour se protéger efficacement.\
-2.    Le masque FFP2 filtre l’inhalation d’aérosols contaminés, il
-protège donc le porteur du masque contre les virus circulant dans l’air.
-Dans le cas du coronavirus, il est réservé pour les situations à risque,
-réalisées par le personnel soignant, quand il existe des possibilités
-d’aérosolisation du virus (propulsion de gouttelettes contaminées),
-notamment lors des gestes invasifs.\
-3. Les masques alternatifs\
-\
-La priorité du Gouvernement en termes de masques est l’équipement des
-professionnels de santé, via des importations massives et l’augmentation
-de nos capacités de production.\
- \
-Mais il y a aussi une demande croissante, dans de nombreux secteurs
-d’activité, d’augmenter la protection des salariés par des masques.\
- \
-Pour contribuer à y répondre, le Gouvernement a mobilisé les industriels
-français du textile afin de proposer de nouveaux types de masques
-anti-projections, avec des performances adaptées au domaine non
-médical.\
-L’une de ces catégories sera dédiée aux personnes en contact fréquent
-avec le public.\
- \
-24 producteurs français ont déjà lancé en productions des modèles et ils
-seront en capacité de produire près d’un demi-million de masques par
-jour dès les prochains jours et plus d’un million par jour avant la fin
-avril.\
- \
-Il s’agit d’un outil complémentaire pour contribuer à la prévention du
-covid19 dans le milieu professionnel. L’Etat s’en saisira, pour
-certaines catégories d’agents publics.\
-\
-Toutefois, il faut rappeler que le port de masque doit nécessairement
-s’accompagner du respect des mesures barrières (se laver les mains,
-tousser dans son coude, utiliser des mouchoirs à usage unique, ne pas se
-serrer les mains et éviter les embrassades) ainsi que les mesures de
-distanciation sociale.\
-\
-4.    Il existe des masques FFP3, réservés à certaines utilisations très
-spécifiques. Ils ne sont pas utiles en prévention de la transmission
-COVID-19.
+Plus d’informations sont disponibles sur la page dédiée à [la solidarité
+européenne face au
+COVID-19](https://www.diplomatie.gouv.fr/fr/politique-etrangere-de-la-france/europe/evenements-et-actualites-lies-a-la-politique-europeenne-de-la-france/actualites-europeennes/article/la-solidarite-europeenne-face-au-covid-19).
 
 
 
@@ -6858,6 +6883,8 @@ Ko]{}](https://www.gouvernement.fr/sites/default/files/cfiles/clauses-types_pour
     coronavirus](https://maladiecoronavirus.fr/)
 -   [Bénéficiez d’une aide gratuite pour faire vos démarches en ligne
     (administratives, courses …)](https://solidarite-numerique.fr/)
+-   [Mobilisation exceptionnelle pour
+    l’emploi](https://mobilisationemploi.gouv.fr/#/accueil)
 
 
 
