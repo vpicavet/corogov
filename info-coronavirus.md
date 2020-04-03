@@ -119,7 +119,7 @@ COVID-19
 
 
 
-Mis à jour le jeudi 2 avril 2020 à 19h30
+Mis à jour le jeudi 2 avril 2020 à 11h00
 
 
 -   [Francais](/info-coronavirus){.active}
@@ -980,7 +980,7 @@ supplémentaires dans la recherche sur les dix prochaines années.
 ### Point de situation en France {#point-de-situation-en-france .item-paragraphe-titre .c-onglet data-picto=""}
 
 
-**Le 2 avril à 19h30**\
+**Le 3 avril à 12h00**\
  
 
 Les autorités sanitaires tiennent [un point presse
