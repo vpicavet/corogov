@@ -6733,6 +6733,124 @@ et en Langue des Signes Française (LSF).
 
 
 
+### Droit de visite et d'hébergement - Pensions alimentaires {#droit-de-visite-et-dhébergement---pensions-alimentaires .item-paragraphe-titre .c-onglet data-picto=""}
+
+
+
+
+
+#### Je suis séparé, est-ce que le droit de visite et d’hébergement des enfants s’applique comme d’habitude ? {#je-suis-séparé-est-ce-que-le-droit-de-visite-et-dhébergement-des-enfants-sapplique-comme-dhabitude .item-question}
+
+
+
+Le droit de visite et d’hébergement doit s’appliquer en respectant les
+consignes sanitaires, c’est-à-dire :
+-   limiter les déplacements de l’enfant, en particulier sur de grandes
+    distances ;
+-   éviter que l’enfant prenne les transports en commun pour aller du
+    domicile d’un parent à l’autre ;
+-   éviter que l’enfant soit au contact de personnes vulnérables ;
+-   empêcher que l’enfant rencontre des personnes présentant des
+    symptômes du COVID-19.
+
+ Pour cela, les parents peuvent se mettre d’accord pour modifier leur
+organisation de façon temporaire. Par exemple, une résidence avec
+alternance chaque semaine peut provisoirement être remplacée par une
+alternance par quinzaine.
+
+
+
+
+
+#### Comment remplir l’attestation de déplacement ? {#comment-remplir-lattestation-de-déplacement .item-question}
+
+
+
+Sur l’attestation de déplacement, il faut cocher la case : «
+Déplacements pour motif familial impérieux, pour l’assistance aux
+personnes vulnérables ou la garde d’enfants ».
+
+
+
+
+
+#### Le droit de visite à la journée, chez un tiers ou dans un espace de rencontre est-il possible ? {#le-droit-de-visite-à-la-journée-chez-un-tiers-ou-dans-un-espace-de-rencontre-est-il-possible .item-question}
+
+
+
+Tous les droits de visite et remises d’enfant en espaces de rencontre
+sont suspendus en raison de la fermeture de ces lieux.\
+Il est recommandé par ailleurs d’éviter de déplacer un enfant pour un
+droit de visite de courte durée à la journée et de suspendre les
+rencontres au domicile de tiers ou avec l’assistance de tiers.
+
+
+
+
+
+#### Peut-on refuser un droit de visite ou d’hébergement ? {#peut-on-refuser-un-droit-de-visite-ou-dhébergement .item-question}
+
+
+
+Il est interdit par la loi de refuser sans motif légitime de remettre un
+enfant mineur à la personne qui a le droit de le voir. C’est un délit
+puni d’un an d’emprisonnement et de 15.000 € d’amende.\
+ \
+Mais ce refus peut être justifié afin de respecter les consignes
+sanitaires, par exemple :
+-    si l’éloignement des deux parents est important et nécessite de
+    déplacer l’enfant pendant un long trajet en transport en commun,
+-   si l’un des parents ou l’enfant présente des symptômes,
+-   si une personne malade vit au domicile de l’un des parents…
+
+
+
+
+
+#### Le parent chez lequel vit l’enfant me refuse un droit de visite ou d’hébergement de manière injustifiée, que dois-je faire ? {#le-parent-chez-lequel-vit-lenfant-me-refuse-un-droit-de-visite-ou-dhébergement-de-manière-injustifiée-que-dois-je-faire .item-question}
+
+
+
+Le recours à un médiateur peut vous permettre de trouver un accord pour
+la période de confinement. De nombreux services de médiation familiale
+continuent de proposer leur service par téléphone ou par
+visio-conférence ainsi que certains cabinets d’avocats médiateurs.\
+A défaut et si vous pensez que ce refus n’est pas justifié par le
+respect des consignes sanitaires, vous pourrez déposer plainte après la
+période de confinement.
+
+
+
+
+
+#### L’autre parent met l’enfant en danger, et m’empêche de voir l’enfant, que dois-je faire ? {#lautre-parent-met-lenfant-en-danger-et-mempêche-de-voir-lenfant-que-dois-je-faire .item-question}
+
+
+
+Vous pouvez saisir le juge des enfants si vous avez des informations qui
+vous permettent de croire que votre enfant est en danger physique ou
+moral : mauvais traitement, menaces de mort, violence physique ou
+psychologique.
+
+
+
+
+
+#### Les pensions alimentaires doivent-elles être versées comme d’habitude ? {#les-pensions-alimentaires-doivent-elles-être-versées-comme-dhabitude .item-question}
+
+
+
+Oui. Toutes les pensions alimentaires doivent être payées à la date
+prévue.
+
+
+
+
+
+
+
+
+
 
 []{#ressources}
 
