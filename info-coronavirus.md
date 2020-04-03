@@ -1183,8 +1183,9 @@ Les réflexes à adopter
 
 \
 Pour tenir la maladie à distance, **restez à plus d’un mètre de
-distance** les uns des autres\
- 
+distance** les uns des autres
+
+### Quel comportement adopter ?
 
 
 
@@ -1706,6 +1707,51 @@ suivant les comptes du gouvernement:**
 
 
 ### Confinement
+
+
+
+
+#### Je n’ai pas de symptôme {#je-nai-pas-de-symptôme .item-question}
+
+
+
+**Je ne vis pas avec un cas COVID-19**
+-   Je reste confiné chez moi
+-   Je respecte la consigne de distanciation
+-   Je respecte les gestes simples pour me protéger et protéger mon
+    entourage
+-   Je ne sors que pour le travail et l’approvisionnement alimentaire
+-   Je favorise le télétravail si disponible
+
+
+
+Je vis avec un cas COVID-19
+-   Je reste à mon domicile et je m’isole
+-   Je reste les gestes simples pour me protéger et protéger mon
+    entourage
+-   Je surveille ma température 2 fois par jour et l’apparition de
+    symptômes (toux, fièvre, difficultés respiratoires)
+-   Je suis arrêté sauf si le télétravail est disponible
+-   Si je suis personnel de santé, je poursuis le travail avec un masque
+
+
+
+
+
+#### J’ai des symptômes (toux, fièvre) {#jai-des-symptômes-toux-fièvre .item-question}
+
+
+
+**Je tousse et/ou j’ai de la fièvre**
+-   J’appelle un médecin (médecin traitant, téléconsultation)
+-   Je reste à mon domicile et je m’isole
+
+
+
+**Je tousse et j’ai de la fièvre. J’ai du mal à respirer et/ou j’ai fait
+un malaise**
+-   J’appelle le 15
+
 
 
 
@@ -3455,7 +3501,7 @@ pourront en être équipés.
 
 
 
-### Droit de visite et d'hébergement - Pensions alimentaires {#droit-de-visite-et-dhébergement---pensions-alimentaires .item-paragraphe-titre .c-onglet data-picto=""}
+### Droit de visite et d'hébergement - Pensions alimentaires {#droit-de-visite-et-dhébergement---pensions-alimentaires .item-paragraphe-titre .c-onglet data-picto="https://www.gouvernement.fr/sites/default/files/cimages/qr_droit_de_visite_et_hebergement_pension_alimentaire.svg"}
 
 
 
@@ -5216,7 +5262,7 @@ minutes. Le plus important reste donc de se laver les mains.
 
 
 
-### Sport {#sport .item-paragraphe-titre .c-onglet data-picto=""}
+### Sport {#sport .item-paragraphe-titre .c-onglet data-picto="https://www.gouvernement.fr/sites/default/files/cimages/qr_sport.svg"}
 
 
 
