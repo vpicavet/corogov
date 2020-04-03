@@ -381,6 +381,58 @@ re-contamination ne semble avoir eu lieu.
 
 
 
+#### Comment expliquer que certains meurent du virus quand d’autres sont contaminés mais n’ont aucun symptôme ? {#comment-expliquer-que-certains-meurent-du-virus-quand-dautres-sont-contaminés-mais-nont-aucun-symptôme .item-question}
+
+
+
+L’infection au coronavirus n’a pas les mêmes conséquences chez tous les
+individus. Nos corps, selon notre immunité, notre âge, nos pathologies
+associées, ne réagissent pas tous de la même manière au virus. Les plus
+fragiles sont considérées “personnes à risques”, et il existe des
+recommandations spécifiques de prise en charge dans ces situations.
+
+
+
+
+
+#### L'allergie est-elle un facteur de risque ? Comment différencier ses symptômes de ceux du COVID-19 ? {#lallergie-est-elle-un-facteur-de-risque-comment-différencier-ses-symptômes-de-ceux-du-covid-19 .item-question}
+
+
+
+Les différentes allergies ne sont pas des facteurs de risque.\
+\
+Les symptômes secondaires à des allergies respiratoires peuvent selon
+les situations ressembler au COVID-19, notamment la toux et les
+difficultés respiratoires lors des crises d’asthme. Cependant, on ne
+trouve ni fièvre, ni courbatures dans les allergies. De plus, dans le
+cas des crises d’asthme, celle-ci sont le plus souvent de brève durée,
+variables et réversibles.\
+\
+L’insuffisance respiratoire liée au COVID-19 est quant à elle de plus
+longue durée. En cas de doute sur vos symptômes, consultez un médecin
+(en privilégiant la téléconsultation) ou visitez le site
+<https://maladiecoronavirus.fr/> (algorithme d’aide à l’orientation).
+
+
+
+
+
+#### Je suis allergique aux pollens, dois-je prendre mes traitements habituels (inhalateur et comprimés) ? {#je-suis-allergique-aux-pollens-dois-je-prendre-mes-traitements-habituels-inhalateur-et-comprimés .item-question}
+
+
+
+Oui, il n’existe aucun risque associé aux traitements antiallergiques.
+Les corticoïdes prescrits dans le cadre des allergies le sont à faible
+dose. En cas de doute sur vos traitements pendant l’épidémie de
+COVID-19, demandez conseil à votre médecin ou consultez le site
+[https://www.covid19-medicaments.com](https://www.covid19-medicaments.com/)
+(réalisé avec le Réseau Français des Centres Régionaux de
+Pharmacovigilance).
+
+
+
+
+
 
 
 ### Transmission {#transmission .item-paragraphe-titre .c-onglet data-picto=""}
@@ -439,26 +491,6 @@ l’air tout seul, mais peut atteindre une personne à proximité (&lt;1
 mètre) ou se fixer sur une surface souillée par les gouttelettes, comme
 les mains ou les mouchoirs. C’est pour cela qu’il est important de
 respecter les gestes barrières et les mesures de distanciation sociale.
-
-
-
-
-
-#### Combien de temps le COVID-19 peut-il vivre sur une surface ? {#combien-de-temps-le-covid-19-peut-il-vivre-sur-une-surface .item-question}
-
-
-
-Dans des conditions propices à sa survie, le virus pourrait survivre,
-sous forme de traces, plusieurs jours sur une surface. Toutefois, ce
-n’est pas parce qu’un peu de virus survit que cela est suffisant pour
-contaminer une personne qui toucherait cette surface. En effet, au bout
-de quelques heures, la grande majorité du virus meurt et n’est
-probablement plus contagieux. Pour rappel, la grande transmissibilité du
-coronavirus COVID-19 n’est pas liée à sa survie sur les surfaces, mais à
-sa transmission quand on tousse, qu’on éternue , qu’on discute ou par
-les gouttelettes expulsées et transmises par les mains. C’est pour cela
-qu’il est important de respecter les gestes barrières et les mesures de
-distanciation sociale.
 
 
 
@@ -647,6 +679,73 @@ votre animal sans aucun bénéfice pour vous comme pour lui.
 
 
 
+#### Quel est le risque de contamination par les surfaces ? Faut-il tout nettoyer ? {#quel-est-le-risque-de-contamination-par-les-surfaces-faut-il-tout-nettoyer .item-question}
+
+
+
+Selon les dernières publications scientifiques, le virus peut, dans des
+conditions propices, survivre sous forme de traces plusieurs heures à
+plusieurs jours sur une surface contaminée par des gouttelettes.
+Toutefois, ces études ont évalué la présence de matériel génétique, et
+non pas de virus vivant. De l’avis des experts, la charge virale du
+virus diminue très rapidement dans le milieu extérieur, et en quelques
+minutes, celui-ci n’est plus contaminant.\
+\
+Ainsi, ce n’est pas parce que du virus persiste que cela est suffisant
+pour contaminer une personne qui toucherait cette surface. La grande
+transmissibilité du coronavirus COVID-19 n’est pas liée à sa survie sur
+les surfaces, mais à sa transmission quand on tousse, qu’on éternue,
+qu’on discute ou par les gouttelettes expulsées et transmises par les
+mains.\
+\
+Toutefois, par principe de précaution, il peut être utile de nettoyer
+les surfaces fréquemment et récemment touchées par les mains d’autres
+personnes, notamment quand elles sont visiblement souillées.\
+\
+Il n’est cependant pas utile de désinfecter le sol, les murs, les
+produits achetés au supermarché ou le courrier car ce sont des surfaces
+passant peu de mains en mains.\
+\
+Quand on sort de son foyer, et qu’on touche certaines surfaces
+fréquemment manipulées par d’autres (boutons, caddies de supermarché),
+il faut avant tout éviter de se toucher le visage et bien se laver les
+mains de retour à domicile.\
+\
+Quand on sort à l’extérieur, c’est le respect des gestes barrières et
+des mesures de distanciation sociale qui permet de se protéger
+efficacement du virus.
+
+
+
+
+
+
+
+
+
+#### Les hôpitaux connaissent-ils une pénurie de médicaments ? Cela pourrait-il arriver ? {#les-hôpitaux-connaissent-ils-une-pénurie-de-médicaments-cela-pourrait-il-arriver .item-question}
+
+
+
+Les hôpitaux du monde entier se retrouvent confrontés à des besoins
+croissants en matière de médicaments utilisés en réanimation. Nous
+pourrions avoir dans les semaines qui viennent des tensions
+d’approvisionnement sur certains produits.. Lorsqu’elles sont
+localisées, ces tensions sont maîtrisées en assurant la coordination et
+la circulation des produits sur l’ensemble du territoire, notamment à
+partir du stock national. Nous encourageons également l’augmentation de
+la production nationale, lorsque c’est possible, et l’augmentation de la
+production mondiale. Des initiatives mondiales sont en train d'être
+prises par les acteurs économiques et les industriels pour augmenter les
+capacités de production et faire face à la demande croissante. En outre,
+nous mobilisons actuellement tous les moyens de l’Etat pour acheter ces
+produits en quantité importante.\
+ 
+
+
+
+
+
 
 
 ### Dépistage {#dépistage .item-paragraphe-titre .c-onglet data-picto=""}
@@ -822,6 +921,29 @@ d'ibuprofène et d'aspirine est suspendue.
 
 
 
+#### Les hôpitaux connaissent-ils une pénurie de médicaments ? Cela pourrait-il arriver ? {#les-hôpitaux-connaissent-ils-une-pénurie-de-médicaments-cela-pourrait-il-arriver-1 .item-question}
+
+
+
+Les hôpitaux du monde entier se retrouvent confrontés à des besoins
+croissants en matière de médicaments utilisés en réanimation. Nous
+pourrions avoir dans les semaines qui viennent des tensions
+d’approvisionnement sur certains produits.. Lorsqu’elles sont
+localisées, ces tensions sont maîtrisées en assurant la coordination et
+la circulation des produits sur l’ensemble du territoire, notamment à
+partir du stock national. Nous encourageons également l’augmentation de
+la production nationale, lorsque c’est possible, et l’augmentation de la
+production mondiale. Des initiatives mondiales sont en train d'être
+prises par les acteurs économiques et les industriels pour augmenter les
+capacités de production et faire face à la demande croissante. En outre,
+nous mobilisons actuellement tous les moyens de l’Etat pour acheter ces
+produits en quantité importante.\
+ 
+
+
+
+
+
 #### Y a-t-il un risque de pénurie de curare ? {#y-a-t-il-un-risque-de-pénurie-de-curare .item-question}
 
 
@@ -831,6 +953,11 @@ d'approvisionnement en médicaments spécifiquement liés au service de
 réanimation car aucun système sanitaire n'a été pensé pour faire face à
 une telle vague épidémique et car tous les systèmes de santé du monde
 sont confrontés à cette vague en même temps.\
+\
+La situation du curare, comme pour les autres médicaments, a été
+anticipée. Il faut noter  que les curares ne sont pas indispensables
+dans la prise en charge des détresses respiratoires, mais
+essentiellement indiqués dans les formes les plus sévères.\
 \
 Ce risque spécifique d’une pénurie de curare a fait l’objet de groupes
 de travail avec les professionnels.\
@@ -1166,9 +1293,9 @@ A ce jour, 40 millions de masques de protection sont consommés chaque
 semaine en France.\
 \
 La France est en mesure de fabriquer 8 millions de masques
-supplémentaires chaque semaine ; à partir du mois d’avril, cette
-capacité de production s’élèvera à 8 millions de masques par semaine,
-dont la moitié de FFP2. 
+supplémentaires chaque semaine ; dans les prochaines semaines, cette
+capacité de production nationale passera à 10 millions de masques par
+semaine.. 
 
 \
 À cela s’ajoute des commandes de plus de 250 millions de masques, qui
@@ -1242,6 +1369,21 @@ pouvoir dans la durée assurer les soins urgents à la population.
 
 
 
+#### Les aidants pour personnes âgées dépendantes peuvent-ils obtenir des masques ? {#les-aidants-pour-personnes-âgées-dépendantes-peuvent-ils-obtenir-des-masques .item-question}
+
+
+
+Pour les professionnels du secteur médico-social travaillant en EHPAD,
+le Gouvernement a mis à disposition 500 000 masques par jour, comme il
+avait été demandé par les directeurs d’établissements. Concernant les
+autres aidants pour personnes âgées, le Gouvernement a demandé la
+création et fabrication de nouveaux masques à usage non sanitaire. A ce
+titre, ils pourront en être équipés.
+
+
+
+
+
 #### La réquisition des masques concerne-t-elle toute la production française et les stocks des ministères ? {#la-réquisition-des-masques-concerne-t-elle-toute-la-production-française-et-les-stocks-des-ministères .item-question}
 
 
@@ -1262,6 +1404,64 @@ Il n’existe aucune étude ce jour évaluant l’efficacité des foulards ou
 écharpes en tant que « masques » pour se protéger de virus. Il semble
 toutefois peu probable qu’ils soient efficaces, car les mailles des
 tissus utilisés laissent passer les virus.
+
+
+
+
+
+#### Existe-t-il d’autres masques que les FFP2 pour se protéger efficacement contre le COVID-19 ? {#existe-t-il-dautres-masques-que-les-ffp2-pour-se-protéger-efficacement-contre-le-covid-19 .item-question}
+
+
+
+Il existe principalement deux types de masques : le masque dit
+chirurgical et le masque FFP2.\
+\
+1.     **Le masque chirurgical** protège lui contre les virus qui se
+transmettent dans les gouttelettes. Il permet donc se protéger contre le
+coronavirus, à transmission gouttelettes, mais aussi d’éviter de
+contaminer les autres quand on est malade. Il est suffisant dans la
+plupart des situations pour se protéger efficacement.\
+\
+2.    **Le masque FFP2** filtre l’inhalation d’aérosols contaminés, il
+protège donc le porteur du masque contre les virus circulant dans l’air.
+Dans le cas du coronavirus, il est réservé pour les situations à risque,
+réalisées par le personnel soignant, quand il existe des possibilités
+d’aérosolisation du virus (propulsion de gouttelettes contaminées),
+notamment lors des gestes invasifs.\
+\
+3. **Les masques alternatifs**\
+ \
+La priorité du Gouvernement en termes de masques est l’équipement des
+professionnels de santé, via des importations massives et l’augmentation
+de nos capacités de production.\
+ \
+Mais il y a aussi une demande croissante, dans de nombreux secteurs
+d’activité, d’augmenter la protection des salariés par des masques.\
+ \
+Pour contribuer à y répondre, le Gouvernement a mobilisé les industriels
+français du textile afin de proposer de nouveaux types de masques
+anti-projections, avec des performances adaptées au domaine non
+médical.\
+L’une de ces catégories sera dédiée aux personnes en contact fréquent
+avec le public.\
+ \
+24 producteurs français ont déjà lancé en productions des modèles et ils
+seront en capacité de produire près d’un demi-million de masques par
+jour dès les prochains jours et plus d’un million par jour avant la fin
+avril.\
+ \
+Il s’agit d’un outil complémentaire pour contribuer à la prévention du
+covid19 dans le milieu professionnel. L’Etat s’en saisira, pour
+certaines catégories d’agents publics.\
+Toutefois, il faut rappeler que le port de masque doit nécessairement
+s’accompagner du respect des mesures barrières (se laver les mains,
+tousser dans son coude, utiliser des mouchoirs à usage unique, ne pas se
+serrer les mains et éviter les embrassades) ainsi que les mesures de
+distanciation sociale.\
+\
+4.    **Il existe des masques FFP3**, réservés à certaines utilisations
+très spécifiques. Ils ne sont pas utiles en prévention de la
+transmission COVID-19.
 
 
 
@@ -1304,60 +1504,6 @@ prélèvements ou gestes à risque). Ce sont les gestes barrières (se laver
 fréquemment les mains, tousser dans son coude, utiliser des mouchoirs à
 usage unique et les jeter après utilisation) et les mesures de
 distanciation sociale qui sont efficaces.
-
-
-
-
-
-#### Faut-il désinfecter les surfaces ? {#faut-il-désinfecter-les-surfaces .item-question}
-
-
-
-Oui. Les produits de nettoyage et désinfectants couramment utilisés (eau
-de Javel, éthanol 70%...) sont efficaces contre le COVID-19. En plus du
-nettoyage régulier, les surfaces qui sont fréquemment touchées avec les
-mains doivent être nettoyées et désinfectées deux fois par jour,
-notamment lorsqu’elles sont visiblement souillées. Il s’agit par exemple
-des poignées de porte, des boutons d’ascenseur, des interrupteurs
-d’éclairage, des poignées de toilettes, des comptoirs, des mains
-courantes, des surfaces d’écran tactile et des claviers.
-
-
-
-
-
-#### Les masques alternatifs {#les-masques-alternatifs .item-question}
-
-
-
-La priorité du Gouvernement en termes de masques est l’équipement des
-professionnels de santé, via des importations massives et l’augmentation
-de nos capacités de production.\
- \
-Mais il y a aussi une demande croissante, dans de nombreux secteurs
-d’activité, d’augmenter la protection des salariés par des masques.\
- \
-Pour contribuer à y répondre, le Gouvernement a mobilisé les industriels
-français du textile afin de proposer de nouveaux types de masques
-anti-projections, avec des performances adaptées au domaine non
-médical.\
-L’une de ces catégories sera dédiée aux personnes en contact fréquent
-avec le public.\
- \
-24 producteurs français ont déjà lancé en productions des modèles et ils
-seront en capacité de produire près d’un demi-million de masques par
-jour dès les prochains jours et plus d’un million par jour avant la fin
-avril.\
- \
-Il s’agit d’un outil complémentaire pour contribuer à la prévention du
-covid19 dans le milieu professionnel. L’Etat s’en saisira, pour
-certaines catégories d’agents publics.\
-\
-Toutefois, il faut rappeler que le port de masque doit nécessairement
-s’accompagner du respect des mesures barrières (se laver les mains,
-tousser dans son coude, utiliser des mouchoirs à usage unique, ne pas se
-serrer les mains et éviter les embrassades) ainsi que les mesures de
-distanciation sociale.
 
 
 
@@ -2166,7 +2312,38 @@ problématiques particulières des start-up. Ces dernières sont bien
 évidemment également éligibles aux dispositifs d’urgence proposés à
 l’ensemble des entreprises.\
 \
-Pour plus d’informations dans votre région, contactez le 0 800 130 000.
+Pour plus d’informations dans votre région, contactez le 0 800 130 000.\
+\
+Certaines entreprises, appartenant aux secteurs essentiels pour les
+citoyens dans cette période, ont besoin de renfort en main d’œuvre pour
+assurer leurs activités et la continuité économique du pays. Pour y
+répondre, la plateforme
+[mobilisationemploi.gouv.fr](https://mobilisationemploi.gouv.fr/#/accueil)
+est accessible depuis le jeudi 2 avril aux demandeurs d’emploi inscrits
+ou non à Pôle emploi et aux salariés en activité partielle. \
+\
+Elle a été créée pour faciliter la mobilisation exceptionnelle pour
+l’emploi et permettre aux travailleurs qui le souhaitent de se porter
+candidat dans les secteurs prioritaires suivants : Médico-Social,
+Agriculture, Agroalimentaire, Transports, Logistique, Aide à Domicile,
+Energie, Télécoms.\
+\
+Une autre solution pour certaines entreprises peut être la “**mise à
+disposition temporaire**”. Avec l’accord à chaque fois du salarié
+concerné et des deux entreprises, des salariés inoccupés qui le
+souhaitent peuvent travailler provisoirement dans une entreprise
+confrontée à un manque de personnel. Le salarié conserve alors son
+contrat de travail et 100% de son salaire habituel, versé par son
+employeur d’origine. L’entreprise qui l’accueille temporairement
+rembourse ce salaire à l’entreprise d’origine. \
+\
+Pour faciliter au maximum les démarches des entreprises et des salariés
+qui souhaitent s’engager dans ce dispositif, le ministère du Travail
+propose des modèles simplifiés de convention de mise à disposition entre
+entreprises et d’avenant au contrat de travail du salarié. Ces modèles
+de convention sont disponibles sur le [site du ministère du
+Travail](https://travail-emploi.gouv.fr/actualites/l-actualite-du-ministere/article/mise-a-disposition-temporaire-de-salaries-volontaires-entre-deux-entreprises?var_mode=calcul). \
+ 
 
 
 
@@ -6439,7 +6616,7 @@ mars :
 
 
 
-#### Existe-t-il d’autres masques que les FFP2 pour se protéger efficacement contre le COVID-19 ? {#existe-t-il-dautres-masques-que-les-ffp2-pour-se-protéger-efficacement-contre-le-covid-19 .item-question}
+#### Existe-t-il d’autres masques que les FFP2 pour se protéger efficacement contre le COVID-19 ? {#existe-t-il-dautres-masques-que-les-ffp2-pour-se-protéger-efficacement-contre-le-covid-19-1 .item-question}
 
 
 
