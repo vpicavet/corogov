@@ -1725,7 +1725,7 @@ suivant les comptes du gouvernement:**
 
 
 
-Je vis avec un cas COVID-19
+**Je vis avec un cas COVID-19**
 -   Je reste à mon domicile et je m’isole
 -   Je reste les gestes simples pour me protéger et protéger mon
     entourage
@@ -1750,7 +1750,7 @@ Je vis avec un cas COVID-19
 
 **Je tousse et j’ai de la fièvre. J’ai du mal à respirer et/ou j’ai fait
 un malaise**
--   J’appelle le 15
+-   J’appelle le [15](tel:15)
 
 
 
