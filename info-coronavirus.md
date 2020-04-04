@@ -119,7 +119,7 @@ COVID-19
 
 
 
-Mis à jour le vendredi 3 avril 2020 à 20h00
+Mis à jour le vendredi 3 avril 2020 à 22h00
 
 
 -   [Francais](/info-coronavirus){.active}
@@ -2250,11 +2250,38 @@ professeur et dispose de ressources et d’exercices. Pour les 5% de
 famille qui ne sont pas équipées en matériel informatique, des solutions
 seront déployées avec les collectivités locales.
 
-À noter que les territoires d’Outre-mer ne sont pas tous concernés par
-la fermeture des crèches, établissements scolaires et universités car
-ils ne sont pas tous touchés de la même manière par le COVID-19. Ce sont
-donc les préfets qui prendront cette décision et l’adapteront.\
- 
+Les départements et régions d’outre-mer (Réunion, Mayotte, Guyane,
+Guadeloupe, Martinique) sont concernés par cette mesure. Pour
+Saint-Martin, Saint-Barthélemy, la Nouvelle-Calédonie et la Polynésie
+des mesures similaires ont été prises localement.\
+A ce stade, Saint-Pierre-et-Miquelon, et Wallis-et-Futuna ne sont pas
+concernés par cette mesure.\
+\
+**Adaptation des modalités de passage des examens nationaux (Brevet,
+CAP, BEP, Bac, BTS)**\
+\
+Au regard des incertitudes sur les évolutions de la situation sanitaire,
+la perturbation dans l’apprentissage des élèves et la complexité
+d’organisation de nos examens nationaux, "Il n'est pas possible, comme
+l’a dit le Premier ministre le 2 avril, que les élèves puissent passer
+le baccalauréat dans les conditions normales."\
+\
+Après une large consultation des partenaires sociaux, des fédérations de
+parents d’élèves, des délégués nationaux et académiques des lycéens, le
+ministre de l’éducation nationale et de la jeunesse a proposé au
+Président de la République et au Premier ministre des aménagements qui
+tiennent compte de trois critères essentiels :
+
+-   le critère sanitaire ;
+-   le critère pédagogique ;
+-   le critère logistique.
+
+Le principe général : l’ensemble des épreuves du diplôme national du
+brevet et du baccalauréat général, technologique et professionnel sont
+validées à partir des notes du livret scolaire, à l’exception de
+l’épreuve orale du baccalauréat de français qui est maintenue.\
+Toutes les informations pratiques sur ce sujet sont à retrouver sur la
+page du Ministère de l’Education nationale et de la Jeunesse dédiée.
 
 **Service de garde**
 
@@ -2570,6 +2597,35 @@ intégralement remboursé, directement sur son compte en banque.\
 
 
 
+#### Qu'est-ce que le prêt garanti par l'Etat ? {#quest-ce-que-le-prêt-garanti-par-letat .item-question}
+
+
+
+Le prêt garanti par l’Etat (PGE) est un prêt qu’octroie à une entreprise
+ou un professionnel sa banque habituelle, en dépit de la forte
+incertitude économique actuelle, grâce à la garantie qu’apporte l’Etat
+sur une partie très significative du prêt.\
+\
+Le PGE est un prêt d’une banque à une entreprise : ce n’est pas un prêt
+de l’Etat.\
+\
+[Ce recours total aux réseaux bancaires pour l’octroi des PGE a été
+voulu pour que le dispositif puisse rapidement et très largement
+apporter la trésorerie nécessaire aux entreprises et aux professionnels,
+quelle que soit leur taille, leur activité et leur statut juridique
+(PME, ETI, agriculteurs, artisans, commerçants, professions libérales,
+entreprise innovante, micro-entrepreneur, association, fondation,...)
+partout sur le territoire, pour les aider à surmonter le stress
+économique majeur que nous connaissons et les accompagner dans la phase
+de reprise. Les SCI, établissements de crédits et sociétés de
+financement sont exclus. Toutes les modalités du prêt garanti par l’Etat
+sont à retrouver sur cette
+page.](http://www.economie.gouv.fr/files/files/PDF/2020/faq-pret-garanti.pdf)
+
+
+
+
+
 
 
 ### Pour les plus vulnérables {#pour-les-plus-vulnérables .item-paragraphe-titre .c-onglet data-picto=""}
@@ -2849,26 +2905,29 @@ EHPAD.
     réanimation qui sera portée à 14 000 lits et de la massification de
     la politique de tests.
 -   **30 mars :** Échange entre le Premier ministre et les acteurs
-    économiques
--   **31 mars** :
+    économiques.
+-   **31 mars** :\
+    - Intervention du Président de la République depuis une usine
+    française de masques à Saint-Barthélémy-d'Anjou sur la stratégie
+    d’importation et de production en France de masques, respirateurs et
+    gel hydroalcoolique ; 4 milliards d’euros seront alloués à Santé
+    publique France pour commander des médicaments et du matériel. \
+    - La période de déclaration de l’impôts sur le revenu sera décalée
+    de quelques semaines et débutera le 20 avril\
+    - 10 millions d'euros supplémentaires seront attribués pour le
+    financement des aides spécifiques d'urgence attribuées par les
+    Centres régionaux des œuvres universitaires (Crous).
 
-- Intervention du Président de la République depuis une usine française
-de masques à Saint-Barthélémy-d'Anjou sur la stratégie d’importation et
-de production en France de masques, respirateurs et gel hydroalcoolique
-; 4 milliards d’euros seront alloués à Santé publique France pour
-commander des médicaments et du matériel. \
-- La période de déclaration de l’impôts sur le revenu sera décalée de
-quelques semaines et débutera le 20 avril\
-- 10 millions d'euros supplémentaires seront attribués pour le
-financement des aides spécifiques d'urgence attribuées par les Centres
-régionaux des œuvres universitaires (Crous).\
  
--   **1er avril : **
+-   **1er avril : **\
+    - Conseil de défense consacré au suivi de la crise du coronavirus
+    COVID-19.\
+    - Adoption de 7 ordonnances dans le cadre de l’état d’urgence
+    sanitaire en conseil des ministres.
 
-- Conseil de défense consacré au suivi de la crise du coronavirus
-COVID-19.\
-- Adoption de 7 ordonnances dans le cadre de l’état d’urgence sanitaire
-en conseil des ministres.
+ 
+-   **2 avril :** Visioconférence du Premier ministre avec les chefs de
+    partis et de groupes parlementaires.
 
 
 
@@ -3412,6 +3471,86 @@ les personnels indispensables à la gestion de la crise sanitaire.
 
 
 
+#### Est -ce que mes examens sont maintenus (Brevet, CAP, BEP, BAC, BTS) ? {#est--ce-que-mes-examens-sont-maintenus-brevet-cap-bep-bac-bts .item-question}
+
+
+
+Après une large consultation des partenaires sociaux, des fédérations de
+parents d’élèves, des délégués nationaux et académiques des lycéens, le
+ministre de l’éducation nationale et de la jeunesse a proposé au
+Président de la République et au Premier ministre des aménagements qui
+tiennent compte de trois critères essentiels :
+-   le critère sanitaire ;
+-   le critère pédagogique ;
+-   le critère logistique.
+
+Le principe général : l’ensemble des épreuves du diplôme national du
+brevet et du baccalauréat général, technologique et professionnel sont
+validées à partir des notes du livret scolaire, à l’exception de
+l’épreuve orale du baccalauréat de français qui est maintenue.\
+\
+[Toutes les informations pratiques et modalités d’organisation sont à
+retrouver sur cette
+page.](https://www.education.gouv.fr/bac-brevet-2020-les-reponses-vos-questions-303348)
+
+
+
+
+
+#### Comment les candidats individuels passeront-ils le baccaulauréat ? {#comment-les-candidats-individuels-passeront-ils-le-baccaulauréat .item-question}
+
+
+
+Les candidats individuels, qui représentent 2% des candidats, sont en
+des situations très différentes. Lorsque leurs modalités de
+scolarisation se traduisent par la délivrance d’un livret scolaire ou de
+formation par la structure de formation, le jury académique se
+prononcera sur la base de ce livret, au cours de la session du mois de
+juin.\
+\
+Le jury pourra, pour les candidats dont les évaluations et le livret ne
+permettent pas la délivrance du diplôme, proposer à ceux-ci de passer la
+session de septembre. Les candidats individuels ne disposant d’aucune
+modalité d’évaluation en contrôle continu passeront les épreuves de la
+session de septembre.\
+\
+Un dispositif particulier leur permettra de conserver le bénéfice de
+leur inscription dans l’enseignement supérieur, acquise dans le cadre de
+la procédure Parcoursup, jusqu’à la proclamation des résultats.
+
+
+
+
+
+#### Parcoursup est-il toujours ouvert ? {#parcoursup-est-il-toujours-ouvert .item-question}
+
+
+
+Étape classique de la procédure d’inscription dans l’enseignement
+supérieur via la plateforme Parcoursup, la phase de confirmation des
+voeux a pris fin le 2 avril 2020 à 23h59, heure de Paris. Cette phase,
+qui avait débuté le 13 mars dernier, permettait aux candidats inscrits
+sur la plateforme Parcoursup de finaliser leur dossier de candidature.\
+\
+Afin de permettre aux candidats qui auraient rencontré des difficultés
+liées au contexte sanitaire actuel (difficultés de connexion, absence
+d’équipement adéquat, etc.) de ne pas être pénalisés, les recteurs
+prêteront dans les prochains jours une attention particulière aux
+situations des lycéens et étudiants qui n’auraient pu confirmer leurs
+voeux dans le temps imparti. Les candidats qui n’ont pas pu le faire
+pourront confirmer leurs voeux dans les prochains jours. Les services
+d’assistance Parcoursup resteront ainsi mobilisés pour prendre en compte
+la situation spécifique de ces candidats.\
+\
+Après cette phase de confirmation, l’examen des candidatures sera
+réalisé pendant les mois d’avril et mai par les établissements de
+l’enseignement supérieur qui apporteront des réponses aux candidats à
+partir du 19 mai 2020.
+
+
+
+
+
 #### L’école de mes enfants est fermée, comment faire ? {#lécole-de-mes-enfants-est-fermée-comment-faire .item-question}
 
 
@@ -3921,7 +4060,14 @@ quotidienne, muni de son attestation de déplacement dérogatoire.
 
 
 Oui, tant que votre jardin est attenant à votre domicile et que vous
-n'avez pas besoin de sortir dans l'espace public pour vous y rendre.
+n'avez pas besoin de sortir dans l'espace public pour vous y rendre.\
+\
+Cependant, la récolte de fruits et légumes dans un jardin peut
+s'inscrire dans l'acquisition à titre gratuit de produits de première
+nécessité. Si son jardin n'est pas attenant à son domicile, il est
+possible de s'y rendre en cochant, sur l'attestation de déplacement
+dérogatoire, la case "déplacements pour effectuer des achats de première
+nécessité".
 
 
 
@@ -4076,13 +4222,102 @@ pas aller accueillir vos proches dans les gares et aéroports.
 
 
 
-#### Puis-je prendre les transports ? {#puis-je-prendre-les-transports .item-question}
+#### Puis-je prendre les transports publics? {#puis-je-prendre-les-transports-publics .item-question}
 
 
 
-Les transports seront ouverts qu’aux personnes dans l’obligation de se
-rendre sur le lieu de travail. Une attestation pourra leur être
-demandée.
+Les transports publics ne sont ouverts qu’aux personnes dans
+l’obligation de se rendre sur leur lieu de travail. Une attestation
+pourra leur être demandée. L’offre de transport étant adaptée en
+fonction de la disponibilité du personnel, si vous devez vous déplacer
+renseignez-vous notamment sur le site internet du réseau concerné pour
+connaître les horaires ou fréquences de passage.
+
+
+
+
+
+#### Quelles sont les mesures prises dans les transports publics pour protéger les voyageurs et le personnel du coronavirus ? {#quelles-sont-les-mesures-prises-dans-les-transports-publics-pour-protéger-les-voyageurs-et-le-personnel-du-coronavirus .item-question}
+
+
+
+Conformément aux mesures prises dans le cadre de l'état d'urgence
+sanitaire, les entreprises de transport procèdent au nettoyage
+désinfectant de chaque véhicule au moins une fois par jour. Le
+conducteur est séparé des voyageurs d'une distance au moins égale à un
+mètre. Dans les bus comportant plusieurs portes, la porte avant est
+condamnée, sauf lorsque la configuration de véhicule permet de respecter
+la distance de sécurité. Les passagers sont invités à entrer par
+l'arrière des bus et une rangée est laissée libre derrière le conducteur
+pour éviter les contacts.\
+\
+Les mesures barrières, définies au niveau national, sont rappelées aux
+voyageurs - notamment l'obligation de se tenir à au moins un mètre des
+autres voyageurs.\
+\
+Il n’est plus possible d’acheter son ticket à bord auprès d’un agent.
+Les voyageurs sont informés des moyens par lesquels ils peuvent se
+procurer un titre de transport. Pensez à acheter votre titre de
+transport à l’avance, par internet ou à un automate de vente ou par SMS
+lorsque cela est possible.
+
+
+
+
+
+#### La pratique des trottinettes (libre service ou personnelle) électriques, des hoverboards et des monoroues est-elle autorisée ? {#la-pratique-des-trottinettes-libre-service-ou-personnelle-électriques-des-hoverboards-et-des-monoroues-est-elle-autorisée .item-question}
+
+
+
+La pratique des engins de déplacement personnel motorisés est autorisée
+comme moyen de déplacement uniquement, pour les cas prévus dans
+l’attestation dérogatoire. L’utilisateur doit la renseigner et l’avoir
+sur lui lors de son déplacement.\
+\
+Attention toutefois à désinfecter l’appareil avant utilisation s’il est
+en libre service.
+
+
+
+
+
+#### Les opérateurs d’engins en libre-service sans borne d’attache peuvent-ils continuer à exercer? {#les-opérateurs-dengins-en-libre-service-sans-borne-dattache-peuvent-ils-continuer-à-exercer .item-question}
+
+
+
+Oui, à condition de désinfecter régulièrement les engins et d'appliquer
+les consignes de respect des gestes barrières, notamment se laver les
+mains après manipulation.
+
+
+
+
+
+#### Est-ce que les opérateurs de covoiturage peuvent continuer à exercer ? {#est-ce-que-les-opérateurs-de-covoiturage-peuvent-continuer-à-exercer .item-question}
+
+
+
+Oui. Les covoitureurs peuvent continuer à se déplacer, à condition de
+respecter les motifs de déplacement autorisés.
+
+
+
+
+
+#### Est-ce que je peux faire du covoiturage pour aller travailler ? {#est-ce-que-je-peux-faire-du-covoiturage-pour-aller-travailler .item-question}
+
+
+
+ Oui, dans les mêmes conditions que les taxis :
+-    aucun passager ne peut s'assoir à côté du conducteur ;
+-   la présence de plusieurs passagers est admise aux places arrières ;
+-   le véhicule est en permanence aéré ;
+-   les passagers doivent emporter tous leurs déchets ;
+-   le conducteur procède au nettoyage désinfectant du véhicule au moins
+    une fois par jour.
+
+Le conducteur est autorisé à refuser l'accès du véhicule à une personne
+présentant des symptômes d'infection au Covid-19.
 
 
 
@@ -4339,7 +4574,7 @@ pas en cause la promesse de vente.
 
 
 
-#### Suis-je autorisé à me déplacer pour remettre des clés dans le cadre de la plateforme Appart Solidaire d'Airbnb ou toute autre initiative solidaire ? {#suis-je-autorisé-à-me-déplacer-pour-remettre-des-clés-dans-le-cadre-de-la-plateforme-appart-solidaire-dairbnb-ou-toute-autre-initiative-solidaire .item-question}
+#### Suis-je autorisé à me déplacer pour remettre des clés dans le cadre de la plateforme Appart Solidaire d'Airbnb, de l'initiative Solidarité avec le personnel soignant de Particulier à Particulier (PAP) ou de toute autre initiative solidaire ? {#suis-je-autorisé-à-me-déplacer-pour-remettre-des-clés-dans-le-cadre-de-la-plateforme-appart-solidaire-dairbnb-de-linitiative-solidarité-avec-le-personnel-soignant-de-particulier-à-particulier-pap-ou-de-toute-autre-initiative-solidaire .item-question}
 
 
 
