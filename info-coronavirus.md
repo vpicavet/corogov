@@ -4931,6 +4931,36 @@ vert, 0800 08 11 11, pour répondre à toute question à ce propos.
 
 
 
+#### L’interruption volontaire de grossesse (IVG) est-elle possible? {#linterruption-volontaire-de-grossesse-ivg-est-elle-possible .item-question}
+
+
+
+L’ensemble des consultations nécessaires aux IVG médicamenteuses
+pourront être réalisées sous forme de téléconsultations, si la femme le
+souhaite et le praticien l’estime possible : 
+-   Une téléconsultation d’information et de remise des ordonnances ; 
+-   Une consultation de prise du médicament qui arrête la grossesse
+    (antiprogestérone) : en cas de téléconsultation, la femme pourra
+    aller chercher le médicament en officine, en lien avec le médecin ou
+    la sage-femme. Le 2e médicament (prostaglandine) devant être pris 36
+    à 48h après le premier ; 
+-   Une téléconsultation de contrôle dans les 14 à 21 jours qui
+    suivent. 
+
+Le ministre des Solidarités et de la Santé a saisi en urgence la Haute
+Autorité de Santé afin d’émettre un avis sur la possibilité d’étendre le
+délai de réalisation des IVG médicamenteuses hors milieu hospitalier de
+7 à 9 semaines d’aménorrhée. \
+\
+L’ensemble des médecins en ville et les sages-femmes libérales sont
+encouragés à s’engager dans le maintien des IVG médicamenteuses et
+demandent aux établissements de santé d’assurer la continuité des IVG
+instrumentales.
+
+
+
+
+
 #### Puis-je donner mon sang même si le centre se trouve à plusieurs kilomètres de chez moi ? {#puis-je-donner-mon-sang-même-si-le-centre-se-trouve-à-plusieurs-kilomètres-de-chez-moi .item-question}
 
 
@@ -6141,6 +6171,31 @@ cas de récidive de plus de 3 fois dans un délai de 30 jours.\
 La police municipale peut désormais, tout comme les gardes champêtres et
 les agents de la Ville de Paris chargés d’un service de police, dresser
 les contraventions.
+
+
+
+
+
+#### Comment contester une amende pour défaut d’attestation ou attestation non conforme ? {#comment-contester-une-amende-pour-défaut-dattestation-ou-attestation-non-conforme .item-question}
+
+
+
+Le défaut d'attestation ou une attestation non conforme est sanctionnée
+par une contravention de 4eme classe, qui peut faire l'objet de la
+procédure de l'amende forfaitaire. Cette amende peut être contestée
+selon la procédure prévue par les articles 529-2 et 530 du code de
+procédure pénale. Pour contester l'amende, vous devez formuler une
+requête en exonération ou une réclamation motivée (dans le cas où
+l'amende est majorée) auprès de l'officier du ministère public (OMP)
+dans un délai de 45 jours.\
+\
+Lorsque la violation est réitérée dans un délai de 15 jours, il s'agit
+alors d'une contravention de 5eme classe, qui peut être contestée dans
+les mêmes conditions.\
+\
+Enfin, lorsque la violation est réitérée à plus de trois reprises dans
+un délai de 30 jours, il s'agit d'un délit et sa commission pourra être
+contestée devant le tribunal correctionnel lors de l'audience.
 
 
 
