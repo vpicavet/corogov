@@ -7444,6 +7444,75 @@ et en Langue des Signes Française (LSF).
 
 
 
+### Fonctionnement de la Justice {#fonctionnement-de-la-justice .item-paragraphe-titre .c-onglet data-picto=""}
+
+
+
+
+
+#### Quels sont les contentieux maintenus dans les tribunaux ? {#quels-sont-les-contentieux-maintenus-dans-les-tribunaux .item-question}
+
+
+
+Les services d’urgences pénales et civiles des juridictions,
+l’incarcération dans des conditions dignes des détenus ou encore
+l’accueil des mineurs confiés à la protection judiciaire de la jeunesse
+sont maintenus dans un cadre qui prévient la propagation du virus tant à
+l’égard des personnels que des publics reçus ou pris en charge par les
+personnels relevant du ministère de la justice.\
+\
+Cela concerne :
+-   Les audiences correctionnelles pour les mesures de détention
+    provisoire et de contrôle judiciaire ;
+-   Les audiences de comparution immédiate ;
+-   Les présentations devant le juge d’instruction et le juge des
+    libertés et de la détention ;
+-   Les audiences du juge de l’application des peines pour la gestion
+    des urgences ;
+-   Les audiences du tribunal pour enfants et du juge pour enfant pour
+    la gestion des urgences, notamment pour l’assistance éducative ;
+-   Les permanences du parquet ;
+-   Les référés devant le tribunal judiciaire visant l’urgence, et les
+    mesures urgentes relevant du juge aux affaires familiales (notamment
+    immeubles menaçant ruine, éviction conjoint violent) ;
+-   Les audiences auprès d’un juge des libertés et de la détention civil
+    (hospitalisation sous contrainte, rétention des étrangers) ;
+-   Les permanences au tribunal pour enfants, l’assistance éducative
+    d'urgence ;
+-   Les audiences de la chambre de l’instruction pour la détention ;
+-   Les audiences de la chambre des appels correctionnels et de la
+    chambre d’applications des peines pour la gestion des urgences.
+
+\
+Les sessions d’assises seront, dans la mesure du possible, annulées
+compte tenu des risques de contagion pour les jurés et le public. Les
+procès pourront être renvoyés, dans les limites du délai raisonnable et
+dans le respect des délais de détention provisoire.
+
+
+
+
+
+#### Comment joindre mon tribunal ? {#comment-joindre-mon-tribunal .item-question}
+
+
+
+Les services d’accueil du public seront fermés ainsi que les maisons de
+justice et du droit et les points d’accès au droit. Les agents de ces
+services ne recevront donc plus de public.\
+Ces services pourront, en revanche, continuer à être joints par
+téléphone pour répondre aux situations d’urgence.\
+Afin de limiter vos déplacements, nous vous invitons également à prendre
+contact avec votre tribunal pour savoir si votre audience est maintenue.
+
+
+
+
+
+
+
+
+
 
 []{#ressources}
 
@@ -7596,6 +7665,8 @@ Ko]{}](https://www.gouvernement.fr/sites/default/files/cfiles/clauses-types_pour
     (administratives, courses …)](https://solidarite-numerique.fr/)
 -   [Mobilisation exceptionnelle pour
     l’emploi](https://mobilisationemploi.gouv.fr/#/accueil)
+-   [Nouvelles règles de remboursement dans le secteur du
+    Tourisme](https://www.economie.gouv.fr/dgccrf/nouvelles-regles-de-remboursement-dans-le-secteur-du-tourisme-voir-la-faq)
 
 
 
