@@ -119,7 +119,7 @@ COVID-19
 
 
 
-Mis à jour le samedi 4 avril 2020 à 19h30
+Mis à jour le dimanche 5 avril 2020 à 19h00
 
 
 -   [Francais](/info-coronavirus){.active}
@@ -1107,7 +1107,7 @@ supplémentaires dans la recherche sur les dix prochaines années.
 ### Point de situation en France {#point-de-situation-en-france .item-paragraphe-titre .c-onglet data-picto=""}
 
 
-**Le 4 avril à 19h30**\
+**Le 5 avril à 19h00**\
  
 
 Les autorités sanitaires tiennent [un point presse
@@ -1120,10 +1120,10 @@ Les informations du jour :
     plusieurs zones de regroupement de cas (clusters). Nous sommes
     actuellement au stade 3 du plan d’actions du Gouvernement qui a pour
     objectif de prévenir et limiter la circulation du virus. 
--   Depuis le 24 janvier 2020, la France compte 66 605 cas confirmés de
+-   Depuis le 24 janvier 2020, la France compte 68 605 cas confirmés de
     coronavirus COVID-19.
 -   5 532 personnes sont décédées à l'hôpital depuis le 1er mars.
--   14 438 personnes sont sorties guéris de l'hôpital depuis le 1er
+-   15 438 personnes sont sorties guéris de l'hôpital depuis le 1er
     mars.
 
 Retrouvez toutes les données sur [le tableau de bord COVID-19 de
@@ -3789,18 +3789,6 @@ Non, le lieu de confinement doit être choisi et déterminé.
 
 
 
-#### Quelles conséquences pour les enfants des parents divorcés, notamment ceux qui vivent dans des régions différentes ? {#quelles-conséquences-pour-les-enfants-des-parents-divorcés-notamment-ceux-qui-vivent-dans-des-régions-différentes .item-question}
-
-
-
-Le déplacement pour aller chercher ses enfants dans le cadre d'une garde
-alternée est autorisé quelle que soit la distance. Il s’agit d’un
-déplacement pour motif familial impérieux.
-
-
-
-
-
 #### Puis-je faire mes courses au supermarché ou à l'épicerie ? {#puis-je-faire-mes-courses-au-supermarché-ou-à-lépicerie .item-question}
 
 
@@ -4130,17 +4118,6 @@ Non, cela n'est pas possible sauf motif familial impérieux.
 
 
 
-#### Mes enfants sont en garde alternée, puis-je effectuer les allers-retours nécessaires pour aller les chercher ? {#mes-enfants-sont-en-garde-alternée-puis-je-effectuer-les-allers-retours-nécessaires-pour-aller-les-chercher .item-question}
-
-
-
-Oui, vous pouvez aller chercher vos enfants quelle que soit la distance.
-Il s’agit d’un déplacement pour motif familial impérieux.
-
-
-
-
-
 #### Je dois accompagner mon conjoint malade qui n’a pas le permis à l’hôpital, est ce que je risque une amende ? {#je-dois-accompagner-mon-conjoint-malade-qui-na-pas-le-permis-à-lhôpital-est-ce-que-je-risque-une-amende .item-question}
 
 
@@ -4317,7 +4294,7 @@ respecter les motifs de déplacement autorisés.
     une fois par jour.
 
 Le conducteur est autorisé à refuser l'accès du véhicule à une personne
-présentant des symptômes d'infection au Covid-19.
+présentant des symptômes d'infection au COVID-19.
 
 
 
@@ -4714,7 +4691,14 @@ vous occupez le logement.
 
 Oui, cela est autorisé. Il faut se munir de son attestation de
 déplacement dérogatoire en cochant la case «  déplacement pour effectuer
-des achats de première nécessité ».
+des achats de première nécessité ».\
+\
+Il est toutefois indispensable de vérifier auparavant auprès de votre
+collectivité si votre déchetterie est ou non ouverte et accessible au
+public. En cas de fermeture de votre déchetterie, vous ne devez en aucun
+cas laisser vos encombrants dans la nature, sur le trottoir ou devant la
+grille de la déchetterie (sanction allant jusqu'à 1500€ et la
+confiscation du véhicule).
 
 
 
@@ -5967,18 +5951,20 @@ remettre les clés du logement au bénéficiaire.
 
 
 Les personnes sans-abri sont accueillies dans des lieux qui restent
-ouverts et respectent le seuil de rassemblement maximal. 164 000 places
+ouverts et respectent le seuil de rassemblement maximal. 172 000 places
 d’hébergement sont actuellement disponibles pour les personnes sans abri
 qui ne sont pas malades. De nouvelles solutions d’hébergement sont en
 train d’être identifiées. 5 500 chambres d’hôtels supplémentaires ont
 notamment déjà été mobilisées. Le dispositif va continuer de se
 déployer.
 
-Des distributions de nourritures sont organisées de même que des
-maraudes maintenues. La période hivernale a également été prolongée de 2
-mois. 
+Les maraudes sont maintenues, la période hivernale prolongée de deux
+mois et un dispositif exceptionnel de distribution de chèques services
+permet aux personnes sans domicile d’acheter des produits d’alimentation
+et d’hygiène pendant la crise sanitaire. L’Etat débloque au total une
+enveloppe d’urgence de 65 millions d’euros.
 
-En complément, depuis le 19 mars, 40 centres d’hébergement médicalisés
+En complément, depuis le 4 avril, 73 centres d’hébergement médicalisés
 ont ouvert pour accueillir des personnes sans-abris atteintes par le
 COVID-19, mais ne nécessitant pas d’hospitalisation. D’autres
 établissements ouvriront bientôt, à raison d’au moins un par région.
