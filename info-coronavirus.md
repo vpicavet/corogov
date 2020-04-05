@@ -119,7 +119,7 @@ COVID-19
 
 
 
-Mis à jour le dimanche 5 avril 2020 à 19h00
+Mis à jour le dimanche 5 avril 2020 à 19h30
 
 
 -   [Francais](/info-coronavirus){.active}
@@ -1107,7 +1107,7 @@ supplémentaires dans la recherche sur les dix prochaines années.
 ### Point de situation en France {#point-de-situation-en-france .item-paragraphe-titre .c-onglet data-picto=""}
 
 
-**Le 5 avril à 19h00**\
+**Le 5 avril à 19h30**\
  
 
 Les autorités sanitaires tiennent [un point presse
@@ -1120,10 +1120,10 @@ Les informations du jour :
     plusieurs zones de regroupement de cas (clusters). Nous sommes
     actuellement au stade 3 du plan d’actions du Gouvernement qui a pour
     objectif de prévenir et limiter la circulation du virus. 
--   Depuis le 24 janvier 2020, la France compte 68 605 cas confirmés de
+-   Depuis le 24 janvier 2020, la France compte 70 478 cas confirmés de
     coronavirus COVID-19.
--   5 532 personnes sont décédées à l'hôpital depuis le 1er mars.
--   15 438 personnes sont sorties guéris de l'hôpital depuis le 1er
+-   5 889 personnes sont décédées à l'hôpital depuis le 1er mars.
+-   16 183 personnes sont sorties guéris de l'hôpital depuis le 1er
     mars.
 
 Retrouvez toutes les données sur [le tableau de bord COVID-19 de
@@ -6621,6 +6621,30 @@ test adaptée sera mise en œuvre pour cette phase post-épidémique.
 
 
 
+#### Les locations de vacances sont-elles interdites ? {#les-locations-de-vacances-sont-elles-interdites .item-question}
+
+
+
+Enfin d’empêcher les départs en vacances et si cela était nécessaire
+localement, il a été demandé aux préfets de prendre des arrêtés visant à
+interdire les locations de chambres d’hôtel dans le cadre de leur
+pouvoir de police spéciale et les locations saisonnières dans le cadre
+de leur pouvoir de police générale.\
+\
+Ce dispositif n’empêche bien entendu pas l’hébergement d’urgence des
+personnes précaires comme les SDF, ni celui des soignants qui luttent
+contre l’épidémie de COVID-19. Un certain nombre d’exception sont
+également prévues dans le cadre de locations à usage professionnel.\
+\
+Les arrêtés seront motivés localement sur la base des éléments suivants
+: taux de réservation important des locations saisonnières, conditions
+météorologiques propices, risque de saturation des établissements de
+santé en cas d’augmentations brutale de la population, etc
+
+
+
+
+
 
 
 
@@ -7239,7 +7263,13 @@ que la téléconsultation soit prise en charge par l’assurance maladie
 
 La télémédecine est maintenant remboursée à 100% par la sécurité sociale
 et ouverte aux sages-femmes pour faciliter la consultation des femmes
-enceintes.
+enceintes.\
+\
+Depuis le 4 avril 2020 les consultations peuvent également être réalisée
+par téléphone afin de permettre la détection de cas suspects ou le suivi
+des personnes fragiles lorsque les patients n’ont pas accès aux
+technologies numériques : smartphone ou matériel de vidéotransmission,
+connexion internet...
 
 
 
