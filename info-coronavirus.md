@@ -6364,38 +6364,6 @@ déplacement puisse être vérifiée.\
 
 
 
-#### Est-il indispensable d'imprimer l'attestation ou peut-on la remplir sur mobile/ordinateur et la présenter directement depuis son smartphone ? {#est-il-indispensable-dimprimer-lattestation-ou-peut-on-la-remplir-sur-mobileordinateur-et-la-présenter-directement-depuis-son-smartphone .item-question}
-
-
-
-Il existe deux documents différents permettant de se déplacer : 
-
--   l’attestation de déplacement dérogatoire, qui est un document papier
-    signé par la personne qui en fait usage. Elle ne peut donc pas être
-    présentée depuis un smartphone. Nous étudions la possibilité de
-    mettre en place un dispositif digital et mobile;
--   le justificatif de déplacement professionnel est un document papier
-    renseigné et signé par l’employeur. Cette attestation doit être
-    utilisée lors des déplacements domicile-travail et lors des
-    déplacements professionnels, et doit être présentée aux forces de
-    l’ordre sur demande. La présentation de ce justificatif lors des
-    contrôles suffit, il n’est pas nécessaire de présenter en outre une
-    attestation de déplacement obligatoire. Pour les travailleurs
-    non-salariés, il convient de remplir à chaque déplacement une
-    attestation de déplacement dérogatoire en cochant la première case.
-
-Par ailleurs, la carte professionnelle des professionnels de santé
-(médecins, soignants, pharmaciens), des forces de sécurité et de secours
-(policiers, gendarmes et pompiers), des élus, des magistrats etc. et des
-journalistes, peut être utilisée pour se rendre sur son lieu de travail.
-Elle ne constitue pas pour autant un « passe-droit » permettant de
-s’exonérer des règles applicables aux déplacements personnels, et de la
-présentation pour ceux-ci de l’attestation de déplacement dérogatoire.
-
-
-
-
-
 #### Je n'ai pas d’imprimante chez moi, comment faire ? {#je-nai-pas-dimprimante-chez-moi-comment-faire .item-question}
 
 
@@ -7384,12 +7352,7 @@ par téléphone afin de permettre la détection de cas suspects ou le suivi
 des personnes fragiles lorsque les patients n’ont pas accès aux
 technologies numériques : smartphone ou matériel de vidéotransmission,
 connexion internet...\
-\
-Depuis le 4 avril 2020 les consultations peuvent également être réalisée
-par téléphone afin de permettre la détection de cas suspects ou le suivi
-des personnes fragiles lorsque les patients n’ont pas accès aux
-technologies numériques : smartphone ou matériel de vidéotransmission,
-connexion internet...
+ 
 
 
 
