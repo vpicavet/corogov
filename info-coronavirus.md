@@ -3497,7 +3497,7 @@ page.](https://www.education.gouv.fr/bac-brevet-2020-les-reponses-vos-questions-
 
 
 
-#### Comment les candidats individuels passeront-ils le baccaulauréat ? {#comment-les-candidats-individuels-passeront-ils-le-baccaulauréat .item-question}
+#### Comment les candidats individuels passeront-ils le baccalauréat ? {#comment-les-candidats-individuels-passeront-ils-le-baccalauréat .item-question}
 
 
 
@@ -3631,6 +3631,20 @@ de l’ANSES, il a été demandé la création de nouveaux masques à usage non
 sanitaire pour maximiser la protection des professionnels en contact
 avec du public. A ce titre, les professionnels de l'Éducation Nationale
 pourront en être équipés.
+
+
+
+
+
+#### L’arrêt de travail pour garde d’enfant peut-il être prolongé pour les vacances scolaires ? {#larrêt-de-travail-pour-garde-denfant-peut-il-être-prolongé-pour-les-vacances-scolaires .item-question}
+
+
+
+Oui, si vous êtes toujours dans l’impossibilité de télétravailler. La
+demande de prolongement s’effectue par votre employeur dans les mêmes
+conditions que l’arrêt initial. Le site internet de la sécurité sociale
+présente de façon détaillée la démarche à effectuer
+<https://www.ameli.fr/assure/actualites/covid-19-des-arrets-de-travail-simplifies-pour-les-salaries-contraints-de-garder-leurs-enfants>
 
 
 
@@ -5956,14 +5970,14 @@ d’hébergement sont actuellement disponibles pour les personnes sans abri
 qui ne sont pas malades. De nouvelles solutions d’hébergement sont en
 train d’être identifiées. 5 500 chambres d’hôtels supplémentaires ont
 notamment déjà été mobilisées. Le dispositif va continuer de se
-déployer.
-
+déployer.\
+\
 Les maraudes sont maintenues, la période hivernale prolongée de deux
 mois et un dispositif exceptionnel de distribution de chèques services
 permet aux personnes sans domicile d’acheter des produits d’alimentation
 et d’hygiène pendant la crise sanitaire. L’Etat débloque au total une
-enveloppe d’urgence de 65 millions d’euros.
-
+enveloppe d’urgence de 65 millions d’euros.\
+\
 En complément, depuis le 4 avril, 73 centres d’hébergement médicalisés
 ont ouvert pour accueillir des personnes sans-abris atteintes par le
 COVID-19, mais ne nécessitant pas d’hospitalisation. D’autres
@@ -6223,6 +6237,27 @@ Les catégories de titres concernées par cette mesure sont :
 
 
 
+#### Ne pas préciser l'heure de sortie sur son attestation peut-il faire l'objet d'une contravention ? {#ne-pas-préciser-lheure-de-sortie-sur-son-attestation-peut-il-faire-lobjet-dune-contravention .item-question}
+
+
+
+L'obligation légale est de se munir d'un document justifiant que l'on se
+trouve dans l'un des cas de déplacements autorisés, par exception au
+principe d'interdiction de sortie du domicile.\
+\
+L'attestation est un des documents permettant de justifier que le
+déplacement entre dans le champ de l'une de ces exceptions ; en fonction
+du motif invoqué, la durée du déplacement peut être pris en
+considération, particulièrement pour le 5e motif. Il est donc légitime
+d'exiger l'indication, sur l'attestation, de l'heure de sortie. Ce n'est
+pas l'absence de mention qui constitue l'infraction mais le fait qu'en
+raison de cette absence, la personne contrôlée ne peut justifier que son
+déplacement entre dans le champ de l'une des exceptions autorisées.
+
+
+
+
+
 #### Que faire si je dépasse le temps indiqué sur mon attestation en raison du temps d’attente dans certains supermarchés ? {#que-faire-si-je-dépasse-le-temps-indiqué-sur-mon-attestation-en-raison-du-temps-dattente-dans-certains-supermarchés .item-question}
 
 
@@ -6268,6 +6303,30 @@ d'employeur de l'attestation de déplacement dérogatoire.
 
 
 
+#### Les locations de vacances sont-elles interdites ? {#les-locations-de-vacances-sont-elles-interdites .item-question}
+
+
+
+Enfin d’empêcher les départs en vacances et si cela était nécessaire
+localement, il a été demandé aux préfets de prendre des arrêtés visant à
+interdire les locations de chambres d’hôtel dans le cadre de leur
+pouvoir de police spéciale et les locations saisonnières dans le cadre
+de leur pouvoir de police générale.\
+\
+Ce dispositif n’empêche bien entendu pas l’hébergement d’urgence des
+personnes précaires comme les SDF, ni celui des soignants qui luttent
+contre l’épidémie de COVID-19. Un certain nombre d’exception sont
+également prévues dans le cadre de locations à usage professionnel.\
+\
+Les arrêtés seront motivés localement sur la base des éléments suivants
+: taux de réservation important des locations saisonnières, conditions
+météorologiques propices, risque de saturation des établissements de
+santé en cas d’augmentations brutale de la population, etc
+
+
+
+
+
 #### Des reconduites à domicile auront-elles lieu ? Comment seront organisés les contrôles ? {#des-reconduites-à-domicile-auront-elles-lieu-comment-seront-organisés-les-contrôles .item-question}
 
 
@@ -6298,7 +6357,8 @@ approfondis au besoin.
 
 Lors d’un contrôle par les forces de l’ordre vous devez indiquer votre
 lieu de confinement s’il vous est demandé afin que la nature de votre
-déplacement puisse être vérifiée.
+déplacement puisse être vérifiée.\
+ 
 
 
 
@@ -6331,35 +6391,6 @@ journalistes, peut être utilisée pour se rendre sur son lieu de travail.
 Elle ne constitue pas pour autant un « passe-droit » permettant de
 s’exonérer des règles applicables aux déplacements personnels, et de la
 présentation pour ceux-ci de l’attestation de déplacement dérogatoire.
-
-
-
-
-
-#### Peut-on utiliser l’ancien modèle d’attestation de déplacement dérogatoire ? {#peut-on-utiliser-lancien-modèle-dattestation-de-déplacement-dérogatoire .item-question}
-
-
-
-On peut utiliser pendant quelque temps l’ancien modèle d’attestation de
-déplacement dérogatoire en y ajoutant impérativement l’heure de sortie à
-la main.
-
-
-
-
-
-#### Le Gouvernement peut-il mettre une application officielle pour les attestations de sortie ? Je n’ai pas d’imprimante et je suis bientôt à court de papier libre. {#le-gouvernement-peut-il-mettre-une-application-officielle-pour-les-attestations-de-sortie-je-nai-pas-dimprimante-et-je-suis-bientôt-à-court-de-papier-libre. .item-question}
-
-
-
-Non. S'agissant de l'attestation de déplacement dérogatoire, seules les
-attestations officielles imprimées et les attestations rédigées sur
-papier libre sont reconnues valables. Quant au justificatif de
-déplacement professionnel, seul le document officiel imprimé est reconnu
-valable.
-
-Les formats numériques sont refusés, par souci de protection des données
-personnelles et pour dissuader les tentatives de fraude.
 
 
 
@@ -6412,17 +6443,6 @@ L’attestation de l’employeur, elle, a une validité permanente.
 
 
 
-#### Doit-on préciser l’heure de sortie sur l’attestation ? {#doit-on-préciser-lheure-de-sortie-sur-lattestation .item-question}
-
-
-
-L’heure de sortie doit être impérativement portée sur l’attestation de
-déplacement dérogatoire.
-
-
-
-
-
 #### Peut-on écrire au crayon à papier et gommer ? {#peut-on-écrire-au-crayon-à-papier-et-gommer .item-question}
 
 
@@ -6454,6 +6474,100 @@ chaque déplacement personnel.
 Vous êtes incités à limiter vos sorties aux cas limitatifs énumérés, il
 est donc conseillé de grouper vos sorties et il est donc possible
 d’indiquer plusieurs motifs.
+
+
+
+
+
+#### Qu’est-ce que le dispositif de création numérique de l’attestation de déplacement dérogatoire ? {#quest-ce-que-le-dispositif-de-création-numérique-de-lattestation-de-déplacement-dérogatoire .item-question}
+
+
+
+Le ministère de l’Intérieur met désormais à la disposition des citoyens
+un dispositif de création numérique de l'attestation de déplacement
+dérogatoire, en complément du dispositif "papier" toujours valide. Ce
+service est accessible en ligne, depuis le lundi 6 avril, sur le site du
+ministère de l’Intérieur.\
+\
+Ses objectifs sont de fournir aux concitoyens une nouvelle capacité de
+production de l’attestation simple et sûre, ainsi que de sécuriser le
+contrôle pour les forces de l’ordre, au moyen d’une capacité de lecture
+à distance des informations figurant sur le document par lecture d’un QR
+Code.
+
+
+
+
+
+#### Est-ce que les attestations papier restent valables ? {#est-ce-que-les-attestations-papier-restent-valables .item-question}
+
+
+
+Oui. Les attestations papier sont toujours valables.
+
+
+
+
+
+#### Comment le dispositif numérique fonctionne-t-il ? {#comment-le-dispositif-numérique-fonctionne-t-il .item-question}
+
+
+
+Il suffit de remplir un formulaire en ligne, disponible sur le site
+internet du ministère de l’Intérieur. Il faut renseigner notamment les
+informations relatives à son identité et à son adresse, indiquer le
+motif de sa sortie, ainsi que la date et heure de sortie souhaitée. Un
+fichier PDF comprenant l’ensemble des informations et à l’image de la
+version papier est alors généré. Ce document comporte automatiquement un
+QR Code comprenant l’ensemble des données du formulaire, ainsi que la
+date et l’heure de génération du document.\
+\
+Ce fichier doit être présenté sous forme numérique lors d’un contrôle,
+grâce à son smartphone ou à sa tablette numérique.
+
+
+
+
+
+#### Quelles sont les garanties concernant les données personnelles ? {#quelles-sont-les-garanties-concernant-les-données-personnelles .item-question}
+
+
+
+Ce service n’est pas un traitement de données personnelles. C’est une
+traduction fidèle du dispositif déclaratif au format papier : aucune
+donnée saisie n’est transmise aux serveurs du Gouvernement. Les données
+saisies servent uniquement à générer localement l'attestation sous forme
+numérique. Aucune donnée personnelle n'est collectée et aucun fichier
+n'est constitué.\
+\
+Le QR Code généré facilite le contrôle des attestations en permettant
+aux forces de sécurité d’obtenir les informations du document par une
+lecture à une distance de ce QR Code.
+
+
+
+
+
+#### Ce dispositif fonctionne-t-il sur tous les appareils ? {#ce-dispositif-fonctionne-t-il-sur-tous-les-appareils .item-question}
+
+
+
+Ce service est accessible sur tout type de terminal mobile (smartphone
+ou tablette) au travers d’un navigateur.
+
+
+
+
+
+#### Pourquoi ne pas avoir conçu une application pour smartphone ? {#pourquoi-ne-pas-avoir-conçu-une-application-pour-smartphone .item-question}
+
+
+
+Un formulaire en ligne a été préféré à la création d’une application
+disponible sur les magasins d’applications mobiles. La solution du
+formulaire est en effet parue plus simple à utiliser pour le plus grand
+nombre et permet de faciliter les éventuelles mises à jour au cas où
+l’attestation viendrait à évoluer.
 
 
 
@@ -6621,7 +6735,7 @@ test adaptée sera mise en œuvre pour cette phase post-épidémique.
 
 
 
-#### Les locations de vacances sont-elles interdites ? {#les-locations-de-vacances-sont-elles-interdites .item-question}
+#### Les locations de vacances sont-elles interdites ? {#les-locations-de-vacances-sont-elles-interdites-1 .item-question}
 
 
 
@@ -7259,11 +7373,17 @@ atteints du COVID-19 : il n’est plus nécessaire de passer par son
 médecin traitant ou d’avoir eu une consultation présentielle au cours
 des 12 mois précédant la réalisation d’une consultation à distance pour
 que la téléconsultation soit prise en charge par l’assurance maladie
-(télémédecine). 
-
+(télémédecine).\
+\
 La télémédecine est maintenant remboursée à 100% par la sécurité sociale
 et ouverte aux sages-femmes pour faciliter la consultation des femmes
 enceintes.\
+\
+Depuis le 4 avril 2020 les consultations peuvent également être réalisée
+par téléphone afin de permettre la détection de cas suspects ou le suivi
+des personnes fragiles lorsque les patients n’ont pas accès aux
+technologies numériques : smartphone ou matériel de vidéotransmission,
+connexion internet...\
 \
 Depuis le 4 avril 2020 les consultations peuvent également être réalisée
 par téléphone afin de permettre la détection de cas suspects ou le suivi
@@ -7619,6 +7739,9 @@ Ko]{}](https://www.gouvernement.fr/sites/default/files/cfiles/attestation-deplac
 [Attestation professionnelle[ TXT - 2.42
 Ko]{}](https://www.gouvernement.fr/sites/default/files/cfiles/justificatif-deplacement-professionnel-fr_20200330.txt "justificatif-deplacement-professionnel-fr_20200330.txt"){.download-link}
 
+
+-   [Attestation dérogatoire
+    numérique](https://media.interieur.gouv.fr/deplacement-covid-19/)
 
 
 
