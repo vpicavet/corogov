@@ -2823,11 +2823,10 @@ attribuées par les Centres régionaux des œuvres universitaires (Crous).
 -   **6 mars :**
     -   Réunion des ministres de la Santé de l'Union Européenne à
         Bruxelles
-
-Activation du plan blanc dans les hôpitaux et du plan bleu dans les
-EHPAD.
--   Publication du décret encadrant les prix de vente du gel
-    hydro-alcoolique.
+    -   Activation du plan blanc dans les hôpitaux et du plan bleu dans
+        les EHPAD.
+    -   Publication du décret encadrant les prix de vente du gel
+        hydro-alcoolique.
 -   **8 mars :**
     -   Conseil de défense consacré au suivi de la crise du coronavirus
         COVID-19
@@ -4061,6 +4060,7 @@ un petit footing mais en respectant 3 règles importantes :
 -   Et sans autre contact qu’avec sa cellule familiale. Vous pouvez
     sortir avec vos enfants ou seul mais pas retrouver des amis.
 
+\
 Dans les lieux où auraient été constatés des comportements manifestement
 abusifs entraînant des regroupements de personnes, les préfets pourront
 être amenés, en lien avec les maires, à encadrer la pratique sportive.
@@ -4551,14 +4551,13 @@ financière, qui s’élève généralement au montant du loyer et des charges.
 La convention précisera le contexte très exceptionnel de la situation
 (crise du Coronavirus) et les principaux éléments de la mise à
 disposition du logement (montant des sommes dues par le locataire /
-modalités pour sortir du logement à la fin du confinement). Retrouver
-ici le modèle de convention. Des clauses-types pour la mise en place
-d’une telle convention sont disponibles sur le [site de
-l’ANIL](http://www.anil.org/). Elles pourront vous aider à rédiger votre
-propre convention d’occupation temporaire, dans le contexte de lutte
-contre le Covid-19. Vous pouvez vérifier qu’elles correspondent bien à
-votre situation avec un juriste d'ADIL qui vous apportera un conseil
-neutre et gratuit.
+modalités pour sortir du logement à la fin du confinement). Des
+clauses-types pour la mise en place d’une telle convention sont
+disponibles sur le [site de l’ANIL](http://www.anil.org/). Elles
+pourront vous aider à rédiger votre propre convention d’occupation
+temporaire, dans le contexte de lutte contre le Covid-19. Vous pouvez
+vérifier qu’elles correspondent bien à votre situation avec un juriste
+d'ADIL qui vous apportera un conseil neutre et gratuit.
 
 
 
