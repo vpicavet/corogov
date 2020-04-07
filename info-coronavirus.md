@@ -4061,6 +4061,10 @@ un petit footing mais en respectant 3 règles importantes :
 -   Et sans autre contact qu’avec sa cellule familiale. Vous pouvez
     sortir avec vos enfants ou seul mais pas retrouver des amis.
 
+Dans les lieux où auraient été constatés des comportements manifestement
+abusifs entraînant des regroupements de personnes, les préfets pourront
+être amenés, en lien avec les maires, à encadrer la pratique sportive.
+
 
 
 
@@ -4295,17 +4299,22 @@ lorsque cela est possible.
 
 
 
-#### La pratique des trottinettes (libre service ou personnelle) électriques, des hoverboards et des monoroues est-elle autorisée ? {#la-pratique-des-trottinettes-libre-service-ou-personnelle-électriques-des-hoverboards-et-des-monoroues-est-elle-autorisée .item-question}
+#### La pratique du vélo, de la trottinette (électrique ou non), du hoverboard et du monoroue est-elle autorisée ? {#la-pratique-du-vélo-de-la-trottinette-électrique-ou-non-du-hoverboard-et-du-monoroue-est-elle-autorisée .item-question}
 
 
 
-La pratique des engins de déplacement personnel motorisés est autorisée
-comme moyen de déplacement uniquement, pour les cas prévus dans
-l’attestation dérogatoire. L’utilisateur doit la renseigner et l’avoir
-sur lui lors de son déplacement.\
+La pratique des engins de déplacement personnel motorisés ou non
+motorisés est autorisée comme moyen de déplacement uniquement, pour les
+cas prévus dans l’attestation dérogatoire (aller au travail, faire ses
+courses...). L’utilisateur doit renseigner cette attestation et l’avoir
+sur lui lors de son déplacement. En revanche, il est interdit d'utiliser
+ces engins dans le cadre des loisirs et de l'activité physique
+individuelle, sauf dans le cas des promenades pour aérer les enfants où
+il est toléré que les enfants soient à vélo ou trottinette, si l'adulte
+accompagnant est à pied.\
 \
-Attention toutefois à désinfecter l’appareil avant utilisation s’il est
-en libre service.
+Concernant les vélos et trottinettes en libre-service, il est recommandé
+de les désinfecter avant utilisation.
 
 
 
@@ -4467,19 +4476,20 @@ population, notamment les plus fragiles, et notre système de santé.
 Pour ce qui concerne les déménagements des particuliers, seuls les
 déménagements qui ne peuvent pas être reportés sont autorisés.\
 \
-Mais veillez à respecter les gestes barrières et prenez l'attache de la
-police pour signaler votre déménagement et vous renseigner pour savoir
-s'il existe des restrictions locales spécifiques. Munissez-vous
+Mais veillez à respecter les gestes barrières et contactez la police ou
+la gendarmerie pour signaler votre déménagement et vous renseigner pour
+savoir s'il existe des restrictions locales spécifiques. Munissez-vous
 également d'une attestation sur l'honneur, que vous rédigez, expliquant
 que vous vous déplacez pour le motif d'un déménagement non reportable,
 dont vous précisez la date et les deux adresses de départ et de
 destination. Vous pouvez aussi entrer en contact avec votre bailleur
 afin de lui demander de continuer à occuper le logement que vous deviez
-quitter. Il est alors possible de signer une convention d'occupation
-temporaire. Dans tous les cas, à partir du moment où vous restez plus
-longtemps que prévu, vous devez continuer à payer votre loyer et les
-charges pour toute la période pendant laquelle vous occupez
-effectivement le logement.
+quitter. Il est alors possible de signer une [convention d'occupation
+temporaire](https://www.anil.org/fileadmin/ANIL/modeles_courriers/Location/Convention_occupation_temporaire.docx).
+Dans tous les cas, à partir du moment où vous restez plus longtemps que
+prévu, vous devez continuer à payer votre loyer et les charges pour
+toute la période pendant laquelle vous occupez effectivement le
+logement.
 
 
 
@@ -4541,9 +4551,14 @@ financière, qui s’élève généralement au montant du loyer et des charges.
 La convention précisera le contexte très exceptionnel de la situation
 (crise du Coronavirus) et les principaux éléments de la mise à
 disposition du logement (montant des sommes dues par le locataire /
-modalités pour sortir du logement à la fin du confinement). [Retrouver
-ici le modèle de
-convention](/sites/default/files/filefield_paths/clauses-types_pour_une_convention_doccupation_temporaire.docx).
+modalités pour sortir du logement à la fin du confinement). Retrouver
+ici le modèle de convention. Des clauses-types pour la mise en place
+d’une telle convention sont disponibles sur le [site de
+l’ANIL](http://www.anil.org/). Elles pourront vous aider à rédiger votre
+propre convention d’occupation temporaire, dans le contexte de lutte
+contre le Covid-19. Vous pouvez vérifier qu’elles correspondent bien à
+votre situation avec un juriste d'ADIL qui vous apportera un conseil
+neutre et gratuit.
 
 
 
@@ -4687,6 +4702,20 @@ pour demander à reporter la date de signature.
 
 
 
+#### Puis-je signer un acte devant notaire ? {#puis-je-signer-un-acte-devant-notaire .item-question}
+
+
+
+Oui, le notaire peut désormais faire signer les deux parties de manière
+dématérialisée. Cette dérogation accordée par le Gouvernement ne sera
+valable que jusqu’à un mois après la fin du confinement. Dans le domaine
+immobilier, cela permet de couvrir l’ensemble des cas de ventes en
+cours.
+
+
+
+
+
 #### Le paiement des loyers des logements est-t-il suspendu, comme pour les petites entreprises ? {#le-paiement-des-loyers-des-logements-est-t-il-suspendu-comme-pour-les-petites-entreprises .item-question}
 
 
@@ -4707,11 +4736,11 @@ Si vous rencontrez des difficultés à payer votre loyer, il est
 recommandé de contacter rapidement votre propriétaire pour lui expliquer
 la situation et voir avec lui si un report et un étalement du paiement
 du loyer sont possibles. Si vous n’arrivez pas à trouver un accord
-amiable, vous pouvez vous tourner vers l’[Agence nationale pour
+amiable, vous pouvez vous tourner vers  [l’Agence nationale pour
 l’Information sur le Logement
-(ANIL)](https://www.anil.org/lanil-et-les-adil/votre-adil/) dont les
-conseillers juridiques vous accompagneront et vous aideront à trouver
-des solutions.
+(ANIL)](https://www.anil.org/lanil-et-les-adil/votre-adil/) qui, à
+travers les conseillers juristes des Agences départementales (ADIL),
+vous informeront et vous aideront à trouver des solutions.
 
 
 
@@ -4723,6 +4752,27 @@ des solutions.
 
 Oui, vous devez continuer à payer votre loyer pour toute la période où
 vous occupez le logement.
+
+
+
+
+
+#### Puis-je faire intervenir un prestataire pour la désinfection de mon logement en cas de présence de punaises de lit ? Puis-je quitter mon logement si un traitement chimique est nécessaire ? {#puis-je-faire-intervenir-un-prestataire-pour-la-désinfection-de-mon-logement-en-cas-de-présence-de-punaises-de-lit-puis-je-quitter-mon-logement-si-un-traitement-chimique-est-nécessaire .item-question}
+
+
+
+1.  Prenez connaissance des premiers gestes que vous pouvez réaliser sur
+    stop-punaises.gouv.fr.
+2.  Si elle ne peut être reportée, l'intervention d'un prestataire reste
+    possible dans le respect des gestes barrières pour réaliser un
+    diagnostic et un traitement.
+3.  Pour ne pas avoir à quitter le logement, privilégiez des solutions
+    non chimiques (traitements mécaniques ou thermiques).
+4.  S'il est nécessaire de quitter le logement plusieurs heures à
+    plusieurs jours, cocher dans l'attestation « déplacements pour motif
+    familial impérieux » et fournir les justificatifs du prestataire
+    (précisant la dangerosité des produits nécessite de quitter le
+    logement pour une durée à préciser).
 
 
 
@@ -4782,7 +4832,8 @@ ordures ménagères.
 
 Attention, aucun de ces produits ne doit être jeté dans la poubelle
 jaune, dans le compost ou dans la nature, même si vous n’êtes pas malade
-!
+! Attention à ne pas jeter non plus les lingettes dans les toilettes,
+car vous risqueriez de les boucher.
 
 Pour les professionnels de santé et les personnes malades confinées chez
 elles, il est nécessaire de suivre les recommandations du ministère des
@@ -5048,12 +5099,24 @@ les tests actuels, fondés sur les PCR, n’éliminent pas une possible
 infection ultérieure, ni ne donnent d’information sur une contamination
 passée. Ainsi, un dépistage massif ne donnerait pas suffisamment
 d’information ce jour pour contenir l’épidémie.\
+\
 Cependant, de nouveaux tests sont en cours de développement et devraient
 nous permettre de proposer une stratégie élargie de test pour sortir du
 confinement. Ces tests sont les tests rapides, qui pourront nous
 permettre de généraliser le dépistage, et les sérologies, qui pourront
 nous donner des informations sur une contamination passée ou une
-immunité contre le virus.
+immunité contre le virus.\
+\
+Par ailleurs, le ministère des Armées a annoncé, le 4 avril 2020, le
+financement d’un projet de test de dépistage du COVID-19 porté par la
+société NG Biotech. Cette commande, financée à hauteur de 1 million
+d’euros par un contrat de la Direction générale de l’armement, permettra
+à la PME de lancer rapidement la production de nouveaux kits de
+dépistage (kits immunologiques de dépistage sanguin rapide de
+l’infection au coronavirus). La commande inclut également le
+développement d’un second type de kit de détection directe du virus,
+dans la salive ou par échantillon nasal, et la sécurisation d’une
+filière de réactifs de base nationale.
 
 
 
@@ -5068,6 +5131,18 @@ ne sera plus fortement active sur le territoire et que la situation
 pourra être contrôlée par des mesures plus ciblées. Une stratégie de
 test adaptée sera mise en œuvre pour cette phase post-épidémique.\
  
+
+
+
+
+
+#### Les tests de dépistage rapide sont-ils fiables ? {#les-tests-de-dépistage-rapide-sont-ils-fiables .item-question}
+
+
+
+Les tests de dépistage rapide sont toujours en cours d’évaluation par le
+Centre National de Référence (Institut Pasteur). Ils seront utilisés
+lorsque leur fiabilité sera validée.
 
 
 
@@ -5365,6 +5440,26 @@ notre système de santé.
 
 
 
+#### Le masque sera-t-il rendu obligatoire ? {#le-masque-sera-t-il-rendu-obligatoire .item-question}
+
+
+
+Le Gouvernement travaille activement afin d’élargir les disponibilités
+en masques à usage professionnel non sanitaire, destinés à une
+population plus large. Au terme d’une démarche supervisée par l’Agence
+nationale de sécurité du médicament et des produits de santé (ANSM),
+avec le soutien de l’ANSES, deux nouvelles catégories de masques à usage
+non sanitaire ont ainsi été créées. Ces masques auront vocation à être
+utilisés dans des situations professionnelles en complément des mesures
+barrières.\
+ \
+Les masques chirurgicaux et FFP2, à usage sanitaire, restent
+réquisitionnés par l’Etat et sont destinés aux professionnels de santé.
+
+
+
+
+
 #### Que penser de l’utilisation des masques Decathlon par les professionnels de santé ? {#que-penser-de-lutilisation-des-masques-decathlon-par-les-professionnels-de-santé .item-question}
 
 
@@ -5373,6 +5468,23 @@ Aucune recommandation ni données scientifiques ne sont disponibles ce
 jour concernant l’usage de tels dispositifs, non médicaux, pour la
 protection des professionnels de santé. Il n’est donc pas recommandé de
 faire usage de ce type de masques.
+
+
+
+
+
+#### Le prix des masques sera-t-il encadré ? {#le-prix-des-masques-sera-t-il-encadré .item-question}
+
+
+
+Les masques chirurgicaux et FFP2, à usage sanitaire, restent
+réquisitionnés par l’Etat et sont destinés aux professionnels de santé.\
+ \
+Concernant les nouveaux masques à usage non sanitaire, leur prix n’est
+pas encadré à ce jour. Les entreprises mobilisées pour la fabrication
+des nouveaux masques sont volontaristes pour répondre au besoin national
+et n’ont pas pour objectif de réaliser des marges. Le Gouvernement
+restera toutefois vigilant à la question de l’accès aux protections.
 
 
 
@@ -5388,6 +5500,23 @@ tissus pulmonaires et les rend plus vulnérables à l’arrivée du virus.
 Des études ont montré que fumer augmente le risque de développer une
 forme sévère ou très sévère du COVID-19 de +50%, ainsi qu’un risque de
 décès de +133% par rapport aux non-fumeurs.
+
+
+
+
+
+#### Les poumons des personnes ayant été contaminées sont-ils définitivement abimés ? {#les-poumons-des-personnes-ayant-été-contaminées-sont-ils-définitivement-abimés .item-question}
+
+
+
+La grande majorité des patients atteints de COVID-19 guérissent sans
+séquelles. Chez les patients atteints de formes graves, la prise en
+charge hospitalière adaptée permet de réduire le risque de séquelles.
+Chez les patients guéris après un passage en réanimation, il est
+toutefois possible d’avoir des troubles ventilatoires persistants à
+distance de l’infection. Ces séquelles ne semblent toutefois pas liées
+au virus en tant que tel mais à la ventilation assistée lors du passage
+en réanimation.
 
 
 
@@ -5914,7 +6043,26 @@ mesures d'hygiène drastiques pour éviter l'entrée du virus dans les
 établissements, \
 \
 - parmi ces mesures renforcées figurera une politique de tests renforcée
-des personnels des établissements.
+des personnels des établissements.\
+\
+Le lundi 6 avril 2020, le ministre des Solidarités et de la Santé a
+annoncé que les capacités de tests par PCR sont en train de doubler,
+permettant ainsi de lancer une vaste opération de dépistage des
+personnes les plus vulnérables, en mettant la priorité sur les personnes
+âgées, les personnes handicapées les plus fragiles et les professionnels
+qui les accompagnent en établissement.\
+\
+Il s’agit de tester tous les résidents et tous les personnels à compter
+de l’apparition d’un premier cas confirmé de malade du COVID-19 au sein
+d’un EHPAD, afin de regrouper les cas positifs et ainsi, éviter les
+contaminations et prendre les dispositions adaptées pour le personnel.
+Pour permettre cette opération de dépistage, d’importants moyens de
+projection seront mis en place au sein des établissements, en lien avec
+les laboratoires, la réserve sanitaire et les conseils départementaux.\
+\
+Par ailleurs, un accent est mis sur les renforts humains (réserve
+sanitaire, intervention des professionnels de ville, ressources locales)
+dans ces établissements.
 
 
 
@@ -6098,22 +6246,25 @@ Selon l’avis du Haut Conseil de Santé Publique du 24 mars, les effets
 personnels d’une personne COVID-19 décédée doivent être lavés à plus de
 60°C pendant au moins 30 minutes ou désinfectés (dans le cas des
 bijoux). Si le lavage n’est pas possible, ils sont mis dans un sac
-plastique fermé pendant 10 jours.\
- 
+plastique fermé pendant 10 jours.
 
 
 
 
 
-#### Après le décès d’un proche, on me dit que ses effets personnels doivent être brûlés. Quelles sont les consignes pour l’inhumation ? {#après-le-décès-dun-proche-on-me-dit-que-ses-effets-personnels-doivent-être-brûlés.-quelles-sont-les-consignes-pour-linhumation .item-question}
+#### L’incinération est-elle imposée pour les personnes décédées ? {#lincinération-est-elle-imposée-pour-les-personnes-décédées .item-question}
 
 
 
-Les effets personnels d’une personne décédée suite au COVID-19 peuvent
-être lavés à plus de 60°C pendant au moins 30 minutes ou désinfectés
-(dans le cas des bijoux). Ils n’ont besoin d’être brûlés. Si le lavage
-ou la désinfection ne sont pas possibles, ils, sont mis dans un sac
-plastique fermé pendant 10 jours.  
+Non. Selon l’avis du Haut Conseil de la Santé Publique, il est tout à
+fait possible d’enterrer une personne décédée, sans incinération. La
+mise en bière nécessite toutefois des précautions particulières dites
+“gouttelettes”. Les effets personnels d’une personne COVID-19 décédée
+peuvent être lavés à plus de 60°C pendant au moins 30 minutes ou
+désinfectés - dans le cas des bijoux. Si le lavage ou la désinfection ne
+sont pas possibles, ils sont mis dans un sac plastique fermé pendant 10
+jours. Enfin, la toilette et l'habillage sont possibles avec une
+protection adaptée.
 
 
 
@@ -6128,6 +6279,18 @@ COVID-19. Selon l’avis du Haut Conseil de la Santé Publique, en cas de
 donneur ayant présenté une infection, le prélèvement n’est possible qu’à
 partir 28 jours après résolution des symptômes, car il existe un risque
 de présence résiduelle du virus dans le sang.
+
+
+
+
+
+#### Après le décès d’un proche : puis-je récupérer son alliance et son collier ? {#après-le-décès-dun-proche-puis-je-récupérer-son-alliance-et-son-collier .item-question}
+
+
+
+Oui. Les bijoux d’une personne décédée suite au COVID-19 doivent
+cependant, après avoir été ôté du défunt, être désinfectés avec un
+désinfectant approprié ou de l’alcool à 70.
 
 
 
@@ -6151,21 +6314,6 @@ personnes malades ou en fin de vie.
 Oui, les lieux de culte ont été autorisés à rester ouverts. Mais je ne
 peux pas participer à un rassemblement ou une réunion de plus de 20
 personnes au sein d’un lieu de culte.
-
-
-
-
-
-
-
-Après le décès d’un proche : puis-je récupérer son alliance et son
-collier ?
-
-
-
-Oui. Les bijoux d’une personne décédée suite au COVID-19 doivent
-cependant, après avoir été ôté du défunt, être désinfectés avec un
-désinfectant approprié ou de l’alcool à 70°.
 
 
 
@@ -6197,7 +6345,12 @@ cas de récidive de cette violation (pour deux violations en 15 jours),
 l’amende est de 200 euros (qui peut être majorée à 450 euros) et devient
 un délit puni de 6 mois d’emprisonnement et de 3750 euros d’amende en
 cas de récidive de plus de 3 fois dans un délai de 30 jours.\
- 
+\
+Par ailleurs, si cela s’avère nécessaire, les préfets, en lien avec les
+maires, pourront prendre les mesures qui s’imposent, en particulier de
+limitation de la pratique sportive individuelle, pour assurer un respect
+strict du confinement et garantir l’efficacité de la lutte contre le
+COVID-19.
 
 
 
@@ -6226,7 +6379,7 @@ selon la procédure prévue par les articles 529-2 et 530 du code de
 procédure pénale. Pour contester l'amende, vous devez formuler une
 requête en exonération ou une réclamation motivée (dans le cas où
 l'amende est majorée) auprès de l'officier du ministère public (OMP)
-dans un délai de 45 jours.\
+dans un délai de 90 jours.\
 \
 Lorsque la violation est réitérée dans un délai de 15 jours, il s'agit
 alors d'une contravention de 5eme classe, qui peut être contestée dans
