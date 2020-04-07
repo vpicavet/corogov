@@ -2696,276 +2696,288 @@ attribuées par les Centres régionaux des œuvres universitaires (Crous).
 ### Chronologie {#chronologie .item-paragraphe-titre .c-onglet data-picto=""}
 
 
--   **2 janvier :** Début de veiller au Centre opérationnel de réception
-    et de régulation des urgences sanitaires et sociales (CORRUSS)
--   **10 janvier :** Envoi aux Agences Régionales de Santé - ARS, aux
-    sociétés savantes (urgentistes, SAMU, infectiologues) de fiches de
-    conduites à tenir et de définition de cas par le ministère des
-    Solidarités et de la Santé.
--   **14 janvier :** Sensibilisation des établissements hospitaliers,
-    médico-sociaux et des professionnels de santé libéraux, à la
-    situation et aux recommandations sanitaires. 
--   **22 janvier :** Activation de CORRUSS en niveau 2 de mobilisation
-    renforcé.
--   **23 janvier :** Mise en place d’un dispositif de suivi et de
-    réponse aux préoccupations des Français présents en Chine par le
-    Centre de crise et de soutien du ministère de l’Europe et des
-    Affaires étrangères, en coordination avec l’Ambassade de France à
-    Pékin et l’ensemble des consulats généraux en Chine.
--   **24 janvier :**
-    -   Confirmation des premiers cas confirmés de coronavirus COVID-19
-        par Agnès Buzyn, ministre des solidarités et de la Santé.
-    -   Déploiement de flyers et d’affiches d’information en français,
-        anglais et mandarin dans les aéroports.
--   **25 janvier :**
-    -   Mise en place d’une procédure d’identification et de suivi des
-        cas contacts personnalisée et quotidienne a été mise en place
-        via les ARS.
-    -   Mise en place d’un accueil spécifique des voyageurs en
-        provenance de Chine, Hong-Kong et Macao à Paris Charles de
-        Gaulle et Saint-Denis de la Réunion assuré par des personnels
-        d’associations agréées de sécurité civile en lien avec le
-        service médical de l’aéroport, renforcé de professionnels de
-        santé médicaux et paramédicaux issus de la réserve sanitaire du
-        ministère des Solidarités et de la Santé.
--   **26 janvier 2020 :** Première Réunion interministérielle présidée
-    par le Premier Ministre
--   **27 janvier :**
-    -   Activation du Centre de Crise Sanitaire
-    -   Développement d’un test diagnostic rapide par l’institut Pasteur
-        permettant de donner un résultat en quelques heures.
--   **31 janvier :** Première opération de retour des ressortissants
-    français vivant dans la province de Hubei, par vol direct depuis
-    Wuhan accompagné d’une équipe médicale et confinement des passagers
-    pendant 14 jours à Carry-le-Rouet.
--   **2 février :** Deuxième opération de retour des ressortissants
-    français de Hubei et confinement des passagers à Aix-en-Provence.
--   **8 février :** Apparition d’un cluster (regroupement de plusieurs
-    cas autour d’un cas initial) en Haute-Savoie. Les cinq cas confirmés
-    de coronavirus COVID-19, quatre adultes et un enfant, ont été
-    hospitalisés ainsi que six autres contacts proches. Une cellule de
-    crise est mise en place par l’Agence Régionale de Santé
-    d’Auvergne-Rhône-Alpes pour suivre la situation et retrouver
-    l’ensemble des cas contacts. Les trois établissements scolaires
-    fréquentés par l’enfant malade ont été fermés pendant deux semaines
-    par mesure de précaution et pour mener les investigations
-    nécessaires (test diagnostic). L’opération de recherche et de tests
-    auprès des cas contacts est engagée immédiatement.
--   **9 février :**
-    -   Un centre de consultation exceptionnel est installé dans la
-        salle d’animation de la commune de Contamines-Montjoie afin de
-        dépister les enfants de l’école où était scolarisé l’enfant
-        malade.
-    -   Troisième opération de retour de ressortissants français de
-        Hubei sur un vol britannique.
--   **13 février :** Activation du plan ORSAN qui vise à organiser la
-    mobilisation du système de santé pour se préparer à une éventuelle
-    circulation active du coronavirus COVID-19 sur le territoire
-    français.
--   **14 février :**
-    -   Levée des mesures de confinement pour les passagers du premier
-        vol de retour des Français de Wuhan suite à la fin de la période
-        d’incubation de 14 jours et la réalisation de tests de
-        diagnostic revenus négatifs.
-    -   Premier décès en France d’un patient âgé de 80 ans hospitalisé
-        en France des suites du Coronavirus COVID-19.
--   **16 février :** Levée des mesures de confinement pour les passagers
-    du deuxième vol de retour.
--   **17 février :** Envoi d’un guide pratique aux professionnels de
-    santé par le ministère des solidarités et de la santé.
--   **18 février :** Confirmation de trois passagers Français atteints
-    de coronavirus COVID-19 à bord du paquebot de croisière Diamond
-    Princess en confinement au large du Japon.
--   **19 février:** Envoi de fret médical en solidarité avec la Chine à
-    destination des structures hospitalières de Wuhan et de la province
-    du Hubei.
--   **21 février :**
-    -   Quatrième opération de retour de Français, Européens et
-        ayants-droit.
-    -   Rencontre de M. Bruno Le Maire et Mme Agnès Pannier-Runacher
-        avec les acteurs économiques nationaux sur les conséquences de
-        l’épidémie de coronavirus COVID-19.
--   **23 février :** Levée des mesures de confinement pour les passagers
-    du troisième vol de retour.
--   **24 février :**
-    -   Activation de 70 établissements de santé siège d’un SAMU. 107
-        établissements de santé sont donc en capacité d’accueillir des
-        patients atteints de coronavirus COVID-19 soit au moins un par
-        département métropolitain et d’Outre-mer.
-    -   Augmentation des capacités de diagnostic biologique et commande
-        de plusieurs millions de masques FFP2 supplémentaires pour les
-        professionnels de santé.
--   **25 février :** Déploiement d’affiches d’information sur le
-    Coronavirus COVID-19 dans les gares.
--   **27 février :** Sommet Italie-France à Naples (Italie)
--   **28 février :**
-    -   Déclaration du coronavirus COVID-19 comme “cas de force majeure”
-        pour les entreprises.
-    -   Diffusion de spot radio et télévision de prévention.
--   **29 février :**
-    -   Conseil restreint de défense et de sécurité (Élysée)
-    -   Tenus d’un conseil de défense et d’un conseil des ministres
-        exceptionnels sous l’autorité du président de la République,
-        consacré au coronavirus. Officialisation du passage du stade 1
-        au stade 2 du plan de prévention et de gestion de la crise
-        sanitaire impliquant de prendre de nouvelles mesures afin de
-        limiter la diffusion du virus.
-    -   Interdiction des rassemblements de plus de 5000 personnes en
-        espace clos.
--   **2 mars :** Bpifrance est désormais garante des prêts demandés par
-    les PME afin de les accompagner dans la gestion de la situation.
--   **3 mars:** Mise en place d’une cellule de continuité économique au
-    ministère de l’Economie et des Finances.
--   **4 mars :** Conseil restreint de défense et de sécurité consacré au
-    COVID-19 (Élysée)
--   **5 mars :** Réunion de travail avec des acteurs de la recherche
-    publique et privée engagés dans la lutte contre le COVID-19
--   **6 mars :**
-    -   Réunion des ministres de la Santé de l'Union Européenne à
-        Bruxelles
-    -   Activation du plan blanc dans les hôpitaux et du plan bleu dans
-        les EHPAD.
-    -   Publication du décret encadrant les prix de vente du gel
-        hydro-alcoolique.
--   **8 mars :**
-    -   Conseil de défense consacré au suivi de la crise du coronavirus
-        COVID-19
-    -   Interdiction des rassemblements de plus de 1000 personnes non
-        indispensables à la continuité de la vie de la Nation.
--   **9 mars :** Diffusion d’une circulaire du ministre de l’Intérieur
-    pour garantir la sécurité et la sincérité des opérations de vote
-    ainsi que des mesures de précautions sanitaires avant les élections
-    municipales et communautaires des 15 et 22 mars.
--   **10 mars :** Visioconférence de coordination européenne sur le
-    Coronavirus COVID-19.
--   **11 mars :** Conseil restreint de défense et de sécurité nationale
-    (Élysée)
--   **12 mars :**
-    -   Réunion sur le COVID-19 du Premier ministre avec les présidents
-        des Assemblées, les présidents des groupes parlementaires, les
-        chefs de partis et les présidents des associations d'élus
-    -   Allocution du Président de la République
-    -   Fermeture des crèches, écoles, collèges, lycées et universités
-        jusqu’à nouvel ordre, et mise en place d’un service de garde,
-        région par région, pour les personnels qui sont indispensables à
-        la gestion de la crise sanitaire.
-    -   Mobilisation des médecins, des soignants, mais aussi d’étudiants
-        et de jeunes retraités, et report des soins non essentiels et
-        opérations non urgentes à l’hôpital.
-    -   Prolongement de deux mois de la trêve hivernale.
-    -   Mise en oeuvre d’un mécanisme exceptionnel et massif de chômage
-        partiel, avec prise en charge par l’Etat de l'indemnisation des
-        salariés contraints à rester chez eux.
-    -   Possibilité de reporter le paiement des cotisations et impôts
-        dus en mars pour toutes les entreprises qui le souhaitent sans
-        justification, ni pénalité.
-    -   Conseil de défense consacré au suivi de la crise du coronavirus
-        COVID-19
--   **13 mars :**
-    -   Réunion interministerielle sur la recherche et la coordination
-        sanitaire.
-    -   Réunion interministerielle pour la mobilisation économique.
-    -   Annonce de l’Interdiction des rassemblements de plus de 100
-        personnes le Premier ministre
--   **14 mars :** Annonce du passage en stade 3 par le Premier ministre
--   **16 mars :**
-    -   Réunion du Premier ministre avec Bruno Le Maire, Muriel
-        Pénicaud, Didier Guillaume, Jean-Baptiste Lemoyne et Agnès
-        Pannier-Runacher, et les différents acteurs économiques
-        nationaux
-    -   Conférence téléphonique du président de la République avec la
-        Chancelière de la République fédérale d’Allemagne, Mme Angela
-        Merkel, le Président du Conseil européen, M. Charles Michel, et
-        la Présidente de la Commission européenne, Mme Ursula Von der
-        Leyen
-    -   Allocution du Président de la République.
-    -   Conseil de défense consacré au suivi de la crise du coronavirus
-        COVID-19
--   **17 mars :**
-    -   Conseil européen extraordinaire par visioconférence
-    -   Restriction des déplacements au strict minimum.
-    -   Fermeture des frontières de l’espace Schengen.
-    -   Activation de la cellule interministérielle de crise par le
-        Premier ministre.
--   **18 mars :** 1re mission entre Mulhouse et Toulon d’un A330 de
-    l’armée de l’air équipé du kit MORPHEE (Module de Réanimation pour
-    Patient à Haute Élongation d'Évacuation) pour le transfert de 6
-    patients vers les hôpitaux de Laveran et de Sainte Anne.
--   **20 mars :**
-    -   Conseil de défense consacré au suivi de la crise du coronavirus
-        COVID-19
-    -   Mobilisation du porte-hélicoptère amphibie “Tonnerre” de la
-        Marine nationale pour l’évacuation des patients en réanimation
-        en Corse vers des établissements de santé du continent.
--   **21 mars :**
-    -   Le ministre des Solidarités et de la Santé Olivier Véran annonce
-        que des commandes de plus de 250 millions de masques ont été
-        signées et seront livrées progressivement.
-    -   2ème mission MORPHEE entre Mulhouse et Bordeaux pour le
-        transfert par A330 de l’armée de l’air de 6 patients vers
-        l’hôpital Pellegrin.
--   **22 mars :**
-    -   12 patients atteints du coronavirus ont été évacués de Corse à
-        bord du “Tonnerre” pour être admis dans plusieurs hôpitaux des
-        Bouches-du-Rhône.
-    -   22 patients hospitalisés dans le Grand Est et placés sous
-        assistance respiratoire seront accueillis dans des hôpitaux
-        situés dans trois pays frontaliers de la France : en Allemagne,
-        en Suisse et au Luxembourg.
--   **23 mars :** Réunion par audioconférence du président de la
-    République avec les autorités morales et religieuses
--   **24 mars :** 3ème mission MORPHEE entre Mulhouse et Brest pour le
-    transfert par A330 de l’armée de l’air de 6 patients.
--   **23 mars :** Installation d’un hôpital de campagne militaire à
-    Mulhouse.
--   **25 mars :**
-    -   Affrètement d’un TGV médicalisé entre Mulhouse et les Pays de la
-        Loire
-    -   Conseil de défense consacré au suivi de la crise du coronavirus
-        COVID-19
-    -   Adoption de 25 ordonnances dans le cadre de l’état d’urgence
-        sanitaire en conseil des ministres
--   **26 mars :**
-    -   Publication du décret encadrant l’utilisation de la chloroquine
-    -   Annonce par le G20 de l’injection de 5 000 milliards de dollars
-        dans l’économie mondiale
--   **27 mars :** Annonce par le Premier ministre du renouvellement de
-    la période de confinement jusqu’au mercredi 15 avril 2020.
--   **28 mars :** Annonce de la commande de plus d’un milliard de
-    masques, de l’augmentation de la capacité du nombre de lits en
-    réanimation qui sera portée à 14 000 lits et de la massification de
-    la politique de tests.
--   **30 mars :** Échange entre le Premier ministre et les acteurs
-    économiques.
--   **31 mars** :\
-    - Intervention du Président de la République depuis une usine
+**2 janvier :** Début de veiller au Centre opérationnel de réception et
+de régulation des urgences sanitaires et sociales (CORRUSS)\
+**10 janvier :** Envoi aux Agences Régionales de Santé - ARS, aux
+sociétés savantes (urgentistes, SAMU, infectiologues) de fiches de
+conduites à tenir et de définition de cas par le ministère des
+Solidarités et de la Santé.\
+**14 janvier :** Sensibilisation des établissements hospitaliers,
+médico-sociaux et des professionnels de santé libéraux, à la situation
+et aux recommandations sanitaires. \
+**22 janvier :** Activation de CORRUSS en niveau 2 de mobilisation
+renforcé.\
+**23 janvier :** Mise en place d’un dispositif de suivi et de réponse
+aux préoccupations des Français présents en Chine par le Centre de crise
+et de soutien du ministère de l’Europe et des Affaires étrangères, en
+coordination avec l’Ambassade de France à Pékin et l’ensemble des
+consulats généraux en Chine.\
+**24 janvier :**
+-   Confirmation des premiers cas confirmés de coronavirus COVID-19 par
+    Agnès Buzyn, ministre des solidarités et de la Santé.
+-   Déploiement de flyers et d’affiches d’information en français,
+    anglais et mandarin dans les aéroports.
+
+**25 janvier :**
+-   Mise en place d’une procédure d’identification et de suivi des cas
+    contacts personnalisée et quotidienne a été mise en place via les
+    ARS.
+-   Mise en place d’un accueil spécifique des voyageurs en provenance de
+    Chine, Hong-Kong et Macao à Paris Charles de Gaulle et Saint-Denis
+    de la Réunion assuré par des personnels d’associations agréées de
+    sécurité civile en lien avec le service médical de l’aéroport,
+    renforcé de professionnels de santé médicaux et paramédicaux issus
+    de la réserve sanitaire du ministère des Solidarités et de la Santé.
+
+\
+**26 janvier 2020 :** Première Réunion interministérielle présidée par
+le Premier Ministre\
+**27 janvier :**
+-   Activation du Centre de Crise Sanitaire
+-   Développement d’un test diagnostic rapide par l’institut Pasteur
+    permettant de donner un résultat en quelques heures.
+
+**31 janvier :** Première opération de retour des ressortissants
+français vivant dans la province de Hubei, par vol direct depuis Wuhan
+accompagné d’une équipe médicale et confinement des passagers pendant 14
+jours à Carry-le-Rouet.\
+**2 février :** Deuxième opération de retour des ressortissants français
+de Hubei et confinement des passagers à Aix-en-Provence.\
+**8 février :** Apparition d’un cluster (regroupement de plusieurs cas
+autour d’un cas initial) en Haute-Savoie. Les cinq cas confirmés de
+coronavirus COVID-19, quatre adultes et un enfant, ont été hospitalisés
+ainsi que six autres contacts proches. Une cellule de crise est mise en
+place par l’Agence Régionale de Santé d’Auvergne-Rhône-Alpes pour suivre
+la situation et retrouver l’ensemble des cas contacts. Les trois
+établissements scolaires fréquentés par l’enfant malade ont été fermés
+pendant deux semaines par mesure de précaution et pour mener les
+investigations nécessaires (test diagnostic). L’opération de recherche
+et de tests auprès des cas contacts est engagée immédiatement.\
+**9 février :**
+-   Un centre de consultation exceptionnel est installé dans la salle
+    d’animation de la commune de Contamines-Montjoie afin de dépister
+    les enfants de l’école où était scolarisé l’enfant malade.
+-   Troisième opération de retour de ressortissants français de Hubei
+    sur un vol britannique.
+
+**13 février :** Activation du plan ORSAN qui vise à organiser la
+mobilisation du système de santé pour se préparer à une éventuelle
+circulation active du coronavirus COVID-19 sur le territoire français.\
+**14 février :**
+-   Levée des mesures de confinement pour les passagers du premier vol
+    de retour des Français de Wuhan suite à la fin de la période
+    d’incubation de 14 jours et la réalisation de tests de diagnostic
+    revenus négatifs.
+-   Premier décès en France d’un patient âgé de 80 ans hospitalisé en
+    France des suites du Coronavirus COVID-19.
+
+**16 février :** Levée des mesures de confinement pour les passagers du
+deuxième vol de retour.\
+**17 février :** Envoi d’un guide pratique aux professionnels de santé
+par le ministère des solidarités et de la santé.\
+**18 février :** Confirmation de trois passagers Français atteints de
+coronavirus COVID-19 à bord du paquebot de croisière Diamond Princess en
+confinement au large du Japon.\
+**19 février:** Envoi de fret médical en solidarité avec la Chine à
+destination des structures hospitalières de Wuhan et de la province du
+Hubei.\
+**21 février :**
+-   Quatrième opération de retour de Français, Européens et
+    ayants-droit.
+-   Rencontre de M. Bruno Le Maire et Mme Agnès Pannier-Runacher avec
+    les acteurs économiques nationaux sur les conséquences de l’épidémie
+    de coronavirus COVID-19.
+
+**23 février :** Levée des mesures de confinement pour les passagers du
+troisième vol de retour.\
+**24 février :**
+-   Activation de 70 établissements de santé siège d’un SAMU. 107
+    établissements de santé sont donc en capacité d’accueillir des
+    patients atteints de coronavirus COVID-19 soit au moins un par
+    département métropolitain et d’Outre-mer.
+-   Augmentation des capacités de diagnostic biologique et commande de
+    plusieurs millions de masques FFP2 supplémentaires pour les
+    professionnels de santé.
+
+**25 février :** Déploiement d’affiches d’information sur le Coronavirus
+COVID-19 dans les gares.\
+**27 février :** Sommet Italie-France à Naples (Italie)\
+**28 février :**
+-   Déclaration du coronavirus COVID-19 comme “cas de force majeure”
+    pour les entreprises.
+-   Diffusion de spot radio et télévision de prévention.
+
+**29 février :**
+-   Conseil restreint de défense et de sécurité (Élysée)
+-   Tenus d’un conseil de défense et d’un conseil des ministres
+    exceptionnels sous l’autorité du président de la République,
+    consacré au coronavirus. Officialisation du passage du stade 1 au
+    stade 2 du plan de prévention et de gestion de la crise sanitaire
+    impliquant de prendre de nouvelles mesures afin de limiter la
+    diffusion du virus.
+-   Interdiction des rassemblements de plus de 5000 personnes en espace
+    clos.
+
+**2 mars :** Bpifrance est désormais garante des prêts demandés par les
+PME afin de les accompagner dans la gestion de la situation.\
+**3 mars:** Mise en place d’une cellule de continuité économique au
+ministère de l’Economie et des Finances.\
+**4 mars :** Conseil restreint de défense et de sécurité consacré au
+COVID-19 (Élysée)\
+**5 mars :** Réunion de travail avec des acteurs de la recherche
+publique et privée engagés dans la lutte contre le COVID-19\
+**6 mars :**
+-   Réunion des ministres de la Santé de l'Union Européenne à Bruxelles
+-   Activation du plan blanc dans les hôpitaux et du plan bleu dans les
+    EHPAD.
+-   Publication du décret encadrant les prix de vente du gel
+    hydro-alcoolique.
+
+**8 mars :**
+-   Conseil de défense consacré au suivi de la crise du coronavirus
+    COVID-19
+-   Interdiction des rassemblements de plus de 1000 personnes non
+    indispensables à la continuité de la vie de la Nation.
+
+**9 mars :** Diffusion d’une circulaire du ministre de l’Intérieur pour
+garantir la sécurité et la sincérité des opérations de vote ainsi que
+des mesures de précautions sanitaires avant les élections municipales et
+communautaires des 15 et 22 mars.\
+**10 mars :** Visioconférence de coordination européenne sur le
+Coronavirus COVID-19.\
+**11 mars :** Conseil restreint de défense et de sécurité nationale
+(Élysée)\
+**12 mars :**
+-   Réunion sur le COVID-19 du Premier ministre avec les présidents des
+    Assemblées, les présidents des groupes parlementaires, les chefs de
+    partis et les présidents des associations d'élus
+-   Allocution du Président de la République
+-   Fermeture des crèches, écoles, collèges, lycées et universités
+    jusqu’à nouvel ordre, et mise en place d’un service de garde, région
+    par région, pour les personnels qui sont indispensables à la gestion
+    de la crise sanitaire.
+-   Mobilisation des médecins, des soignants, mais aussi d’étudiants et
+    de jeunes retraités, et report des soins non essentiels et
+    opérations non urgentes à l’hôpital.
+-   Prolongement de deux mois de la trêve hivernale.
+-   Mise en oeuvre d’un mécanisme exceptionnel et massif de chômage
+    partiel, avec prise en charge par l’Etat de l'indemnisation des
+    salariés contraints à rester chez eux.
+-   Possibilité de reporter le paiement des cotisations et impôts dus en
+    mars pour toutes les entreprises qui le souhaitent sans
+    justification, ni pénalité.
+-   Conseil de défense consacré au suivi de la crise du coronavirus
+    COVID-19
+
+**13 mars :**
+-   Réunion interministerielle sur la recherche et la coordination
+    sanitaire.
+-   Réunion interministerielle pour la mobilisation économique.
+-   Annonce de l’Interdiction des rassemblements de plus de 100
+    personnes le Premier ministre.
+
+**14 mars :** Annonce du passage en stade 3 par le Premier ministre\
+**16 mars :**
+-   Réunion du Premier ministre avec Bruno Le Maire, Muriel Pénicaud,
+    Didier Guillaume, Jean-Baptiste Lemoyne et Agnès Pannier-Runacher,
+    et les différents acteurs économiques nationaux
+-   Conférence téléphonique du président de la République avec la
+    Chancelière de la République fédérale d’Allemagne, Mme Angela
+    Merkel, le Président du Conseil européen, M. Charles Michel, et la
+    Présidente de la Commission européenne, Mme Ursula Von der Leyen
+-   Allocution du Président de la République.
+-   Conseil de défense consacré au suivi de la crise du coronavirus
+    COVID-19.
+
+**17 mars :**
+-   Conseil européen extraordinaire par visioconférence
+-   Restriction des déplacements au strict minimum.
+-   Fermeture des frontières de l’espace Schengen.
+-   Activation de la cellule interministérielle de crise par le Premier
+    ministre.
+
+**18 mars :** 1re mission entre Mulhouse et Toulon d’un A330 de l’armée
+de l’air équipé du kit MORPHEE (Module de Réanimation pour Patient à
+Haute Élongation d'Évacuation) pour le transfert de 6 patients vers les
+hôpitaux de Laveran et de Sainte Anne.\
+**20 mars :**
+-   Conseil de défense consacré au suivi de la crise du coronavirus
+    COVID-19
+-   Mobilisation du porte-hélicoptère amphibie “Tonnerre” de la Marine
+    nationale pour l’évacuation des patients en réanimation en Corse
+    vers des établissements de santé du continent.
+
+**21 mars :**
+-   Le ministre des Solidarités et de la Santé Olivier Véran annonce que
+    des commandes de plus de 250 millions de masques ont été signées et
+    seront livrées progressivement.
+-   2ème mission MORPHEE entre Mulhouse et Bordeaux pour le transfert
+    par A330 de l’armée de l’air de 6 patients vers l’hôpital Pellegrin.
+
+**22 mars :**
+-   12 patients atteints du coronavirus ont été évacués de Corse à bord
+    du “Tonnerre” pour être admis dans plusieurs hôpitaux des
+    Bouches-du-Rhône.
+-   22 patients hospitalisés dans le Grand Est et placés sous assistance
+    respiratoire seront accueillis dans des hôpitaux situés dans trois
+    pays frontaliers de la France : en Allemagne, en Suisse et au
+    Luxembourg.
+
+**23 mars :** Réunion par audioconférence du président de la République
+avec les autorités morales et religieuses\
+**24 mars :** 3ème mission MORPHEE entre Mulhouse et Brest pour le
+transfert par A330 de l’armée de l’air de 6 patients.\
+**23 mars :** Installation d’un hôpital de campagne militaire à
+Mulhouse.\
+**25 mars :**
+-   Affrètement d’un TGV médicalisé entre Mulhouse et les Pays de la
+    Loire
+-   Conseil de défense consacré au suivi de la crise du coronavirus
+    COVID-19
+-   Adoption de 25 ordonnances dans le cadre de l’état d’urgence
+    sanitaire en conseil des ministres
+
+**26 mars :**
+-   Publication du décret encadrant l’utilisation de la chloroquine.
+-   Annonce par le G20 de l’injection de 5 000 milliards de dollars dans
+    l’économie mondiale.
+
+**27 mars :** Annonce par le Premier ministre du renouvellement de la
+période de confinement jusqu’au mercredi 15 avril 2020.\
+**28 mars :** Annonce de la commande de plus d’un milliard de masques,
+de l’augmentation de la capacité du nombre de lits en réanimation qui
+sera portée à 14 000 lits et de la massification de la politique de
+tests.\
+**30 mars :** Échange entre le Premier ministre et les acteurs
+économiques.\
+**31 mars** :
+-   Intervention du Président de la République depuis une usine
     française de masques à Saint-Barthélémy-d'Anjou sur la stratégie
     d’importation et de production en France de masques, respirateurs et
     gel hydroalcoolique ; 4 milliards d’euros seront alloués à Santé
-    publique France pour commander des médicaments et du matériel. \
-    - La période de déclaration de l’impôts sur le revenu sera décalée
-    de quelques semaines et débutera le 20 avril\
-    - 10 millions d'euros supplémentaires seront attribués pour le
+    publique France pour commander des médicaments et du matériel. 
+-   La période de déclaration de l’impôts sur le revenu sera décalée de
+    quelques semaines et débutera le 20 avril
+-   10 millions d'euros supplémentaires seront attribués pour le
     financement des aides spécifiques d'urgence attribuées par les
     Centres régionaux des œuvres universitaires (Crous).
 
- 
--   **1er avril : **\
-    - Conseil de défense consacré au suivi de la crise du coronavirus
-    COVID-19.\
-    - Adoption de 7 ordonnances dans le cadre de l’état d’urgence
+\
+**1er avril : **
+-   Conseil de défense consacré au suivi de la crise du coronavirus
+    COVID-19.
+-   Adoption de 7 ordonnances dans le cadre de l’état d’urgence
     sanitaire en conseil des ministres.
 
- 
--   **2 avril :** Visioconférence du Premier ministre avec les chefs de
-    partis et de groupes parlementaires.
--   **4 avril :** Financement d’un projet de test de dépistage du
-    COVID-19 par le ministère des Armées, à hauteur de 1 million
-    d’euros.
--   **6 avril :** Lancement d’une vaste opération de dépistage des
-    personnes les plus vulnérables, en mettant la priorité sur les
-    personnes âgées, les personnes handicapées les plus fragiles et les
-    professionnels qui les accompagnent en établissement
+ \
+**2 avril :** Visioconférence du Premier ministre avec les chefs de
+partis et de groupes parlementaires.\
+**4 avril :** Financement d’un projet de test de dépistage du COVID-19
+par le ministère des Armées, à hauteur de 1 million d’euros.\
+**6 avril :** Lancement d’une vaste opération de dépistage des personnes
+les plus vulnérables, en mettant la priorité sur les personnes âgées,
+les personnes handicapées les plus fragiles et les professionnels qui
+les accompagnent en établissement
 
 
 
