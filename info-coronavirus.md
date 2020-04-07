@@ -785,7 +785,35 @@ réalisables.\
 En parallèle, des tests rapides sont dorénavant disponibles et la France
 en a commandé 5 millions. La capacité des tests rapides sera portée à 30
 000 par jour en avril, 60 000 en mai pour atteindre les 100 000 tests
-rapides au mois de juin.
+rapides au mois de juin.\
+\
+Le samedi 4 avril 2020, le ministère des Armées a annoncé le financement
+d’un projet de test de dépistage du COVID-19 porté par la société NG
+Biotech, suite à l’appel à projets de solutions innovantes pour lutter
+contre l’épidémie, lancé par l’Agence innovation défense (AID). Cette
+commande, financée à hauteur de 1 million d’euros par un contrat de la
+Direction générale de l’armement, permettra à NG Biotech de lancer
+rapidement la production de nouveaux kits de dépistage (kits
+immunologiques de dépistage sanguin rapide de l’infection au
+coronavirus). Le prototype a déjà été évalué en France sur échantillons
+cliniques. La commande inclut également le développement d’un second
+type de kit de détection directe du virus, dans la salive ou par
+échantillon nasal, et la sécurisation d’une filière de réactifs de base
+nationale.\
+\
+Le lundi 6 avril 2020, le ministre des Solidarités et de la Santé a
+annoncé que les capacités de tests par PCR sont en train de doubler,
+permettant ainsi de lancer une vaste opération de dépistage des
+personnes les plus vulnérables, en mettant la priorité sur les personnes
+âgées, les personnes handicapées les plus fragiles et les professionnels
+qui les accompagnent en établissement. Il s’agit de tester tous les
+résidents et tous les personnels à compter de l’apparition d’un premier
+cas confirmé de malade du COVID-19 au sein d’un EHPAD, afin de regrouper
+les cas positifs et ainsi, éviter les contaminations et prendre les
+dispositions adaptées pour le personnel. Pour permettre cette opération
+de dépistage, d’importants moyens de projection seront mis en place au
+sein des établissements, en lien avec les laboratoires, la réserve
+sanitaire et les conseils départementaux.
 
 
 
@@ -1727,7 +1755,7 @@ suivant les comptes du gouvernement:**
 
 **Je vis avec un cas COVID-19**
 -   Je reste à mon domicile et je m’isole
--   Je reste les gestes simples pour me protéger et protéger mon
+-   Je respecte les gestes simples pour me protéger et protéger mon
     entourage
 -   Je surveille ma température 2 fois par jour et l’apparition de
     symptômes (toux, fièvre, difficultés respiratoires)
@@ -2371,6 +2399,10 @@ charges sociales et fiscales, et qui versent en même temps des
 dividendes à leurs actionnaires devront rembourser cette avance de
 trésorerie de l’État avec des pénalités.\
 \
+Le 3 avril, le ministre de l’Action et des Comptes publics a annoncé un
+prolongement des possibilités de report des cotisations sociales et
+impôts directs des entreprises pour le mois d’avril.\
+\
 De la même manière, toutes les grandes entreprises qui verseront des
 dividendes ne pourront pas bénéficier de la garantie d’État de 300
 milliards d’euros sur les prêts de trésorerie.
@@ -2928,6 +2960,13 @@ EHPAD.
  
 -   **2 avril :** Visioconférence du Premier ministre avec les chefs de
     partis et de groupes parlementaires.
+-   **4 avril :** Financement d’un projet de test de dépistage du
+    COVID-19 par le ministère des Armées, à hauteur de 1 million
+    d’euros.
+-   **6 avril :** Lancement d’une vaste opération de dépistage des
+    personnes les plus vulnérables, en mettant la priorité sur les
+    personnes âgées, les personnes handicapées les plus fragiles et les
+    professionnels qui les accompagnent en établissement
 
 
 
