@@ -1507,6 +1507,7 @@ Ces masques sont qualifiés pour des environnements de travail :
     filtration des particules supérieures ou égales à 3 microns
     apportent un complément de protection aux gestes barrières.
 
+\
 Toutefois, il faut rappeler que le port de masque doit nécessairement
 s’accompagner du respect des mesures barrières (se laver les mains,
 tousser dans son coude, utiliser des mouchoirs à usage unique, ne pas se
@@ -2307,23 +2308,24 @@ l’Ambassade de France à Pékin et le consulat général de France à Wuhan.
 
 Le Président de la République a annoncé, le 12 mars 2020, la fermeture
 de l’ensemble des crèches, écoles, collèges, lycées et universités à
-partir du lundi 16 mars 2020.
-
+partir du lundi 16 mars 2020.\
+\
 Cette mesure, prise sur recommandations des scientifiques au vu de
 l’accélération de l’épidémie, vise à la fois à protéger les plus jeunes
-et à réduire la dissémination du virus à travers notre territoire.
-
+et à réduire la dissémination du virus à travers notre territoire.\
+\
 Cela implique la continuité pédagogique et administrative, avec
 notamment les plateformes « ma classe à la maison » du CNED, ainsi que
 les classes virtuelles, pour que chaque élève conserve le lien avec son
 professeur et dispose de ressources et d’exercices. Pour les 5% de
 famille qui ne sont pas équipées en matériel informatique, des solutions
-seront déployées avec les collectivités locales.
-
+seront déployées avec les collectivités locales.\
+\
 Les départements et régions d’outre-mer (Réunion, Mayotte, Guyane,
 Guadeloupe, Martinique) sont concernés par cette mesure. Pour
 Saint-Martin, Saint-Barthélemy, la Nouvelle-Calédonie et la Polynésie
 des mesures similaires ont été prises localement.\
+\
 A ce stade, Saint-Pierre-et-Miquelon, et Wallis-et-Futuna ne sont pas
 concernés par cette mesure.\
 \
@@ -2381,8 +2383,8 @@ livret scolaire. Deux cas de figure différents sont pris en compte :
 \
 Concernant le Diplôme de Comptabilité et de Gestion (DGC), il a été
 décidé du report des épreuves en juillet pour les plus de 20 000
-candidats inscrits.
-
+candidats inscrits.\
+\
 **Service de garde**
 
 Le Président de la République a également annoncé la mise en place d’un
@@ -5199,7 +5201,12 @@ d'indiquer un déplacement pour motif de santé.
 
 Toutes les capacités hospitalières nationales et le maximum de médecins
 et de soignants sont mobilisés, et les consultations et les soins "non
-essentiels" sont reportés dans les hôpitaux.
+essentiels" sont reportés dans les hôpitaux.\
+\
+Cependant, il ne doit pas y avoir de renonciation aux soins
+indispensables. C’est pourquoi les structures de soins se sont
+organisées avec des parcours de prise en charge dédiés pour éviter toute
+contamination.
 
 
 
