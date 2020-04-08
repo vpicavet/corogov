@@ -8232,11 +8232,16 @@ aux collectivités locales, dans le cadre de l’urgence sanitaire, sur : \
     (adaptation des règles de passation, de procédure ou d'exécution des
     contrats soumis au code de la commande publique et des contrats
     publics, passation et exécution des marchés publics).
-6.  Fonction publique [(fonctionnement des établissements publics et des
-    instances collégiales administratives, organisation des examens et
-    concours, informations sur la fonction publique territoriale,
-    situation des agents publics,
-    …).](https://www.legifrance.gouv.fr/affichTexte.do?cidTexte=JORFTEXT000041762732&categorieLien=id)
+6.  Fonction publique ([fonctionnement des établissements publics et des
+    instances collégiales
+    administratives](https://www.legifrance.gouv.fr/eli/ordonnance/2020/3/27/CPAX2008185R/jo/texte),
+    [organisation des examens et
+    concours](https://www.legifrance.gouv.fr/affichTexte.do?cidTexte=JORFTEXT000041762732&categorieLien=id),[informations
+    sur la fonction publique
+    territoriale](https://drive.google.com/file/d/1GQMaQgW5YCYBN6FRQEaFRCyIg_ZuY9nI/edit),
+    [situation des agents
+    publics](https://www.collectivites-locales.gouv.fr/files/files/dgcl_v2/covid19/fiche_dgafp_comparaison_public-prive_13032020.pdf),
+    …).
 7.  [Services et réseaux de communications
     électroniques](https://www.legifrance.gouv.fr/eli/ordonnance/2020/3/25/ECOX2008260R/jo/texte)
     (adaptation des délais et procédures de la communication
