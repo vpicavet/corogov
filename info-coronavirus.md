@@ -111,6 +111,9 @@ COVID-19
 
 
 
+-   [Orientation
+    médicale](/info-coronavirus/orientation-medicale){.button-cta
+    .omedicale}
 -   [Carte et données](/info-coronavirus/carte-et-donnees){.button-cta
     .carte}
 -   [Questions/réponses](/info-coronavirus#questions){.button-cta .red}
@@ -3620,14 +3623,44 @@ tiennent compte de trois critères essentiels :
 -   le critère pédagogique ;
 -   le critère logistique.
 
+\
 Le principe général : l’ensemble des épreuves du diplôme national du
 brevet et du baccalauréat général, technologique et professionnel sont
 validées à partir des notes du livret scolaire, à l’exception de
 l’épreuve orale du baccalauréat de français qui est maintenue.\
 \
-[Toutes les informations pratiques et modalités d’organisation sont à
-retrouver sur cette
-page.](https://www.education.gouv.fr/bac-brevet-2020-les-reponses-vos-questions-303348)
+Toutes les informations pratiques et modalités d’organisation sont à
+retrouver [sur cette
+page.](https://www.education.gouv.fr/adaptation-des-modalites-de-passage-des-examens-nationaux-303363)\
+\
+Concernant les examens nationaux des diplômes de BTS et DCG, le ministre
+de l’Éducation nationale et de la Jeunesse et la ministre de
+l’Enseignement supérieur, de la Recherche et de l’Innovation ont décidé
+d’un aménagement en prenant en compte plusieurs objectifs :
+-   assurer l’égalité de traitement entre des candidats qui auront subi
+    des périodes de confinement et des modalités de continuité
+    pédagogique variables.
+-   garantir le niveau d’exigence de l’examen.
+-   assurer la protection des personnels et des étudiants.
+
+\
+Pour les épreuves de BTS, les épreuves terminales sont annulées et
+l’ensemble des épreuves du BTS, à l’instar des baccalauréats général,
+technologique et professionnel, seront validées à partir des notes du
+livret scolaire. Deux cas de figure différents sont pris en compte :
+-   pour chaque étudiant de BTS en mesure de présenter un livret
+    scolaire ou de formation, le diplôme national du BTS sera attribué
+    sur le fondement du contrôle en cours de formation déjà effectué et
+    du livret scolaire.
+-   pour les candidats au BTS dont les modalités de scolarisation ne se
+    traduisent pas par la délivrance d’un livret scolaire ou de
+    formation, la session est reportée au mois de septembre.
+
+\
+Concernant le Diplôme de Comptabilité et de Gestion (DGC), il a été
+décidé du report des épreuves en juillet pour les plus de 20 000
+candidats inscrits.\
+ 
 
 
 
@@ -3823,6 +3856,9 @@ alternance par quinzaine.
 
 
 
+Pendant le confinement, accompagner ou aller chercher son enfant dans le
+cadre de la garde alternée est tout à fait autorisé.\
+\
 Sur l’attestation de déplacement, il faut cocher la case : «
 Déplacements pour motif familial impérieux, pour l’assistance aux
 personnes vulnérables ou la garde d’enfants ».
