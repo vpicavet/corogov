@@ -1442,10 +1442,7 @@ tissus utilisés laissent passer les virus.
 
 
 
-Il existe principalement deux types de masques : le masque dit
-chirurgical et le masque FFP2.\
-\
-1.     **Le masque chirurgical** protège lui contre les virus qui se
+1\.     **Le masque chirurgical** protège lui contre les virus qui se
 transmettent dans les gouttelettes. Il permet donc se protéger contre le
 coronavirus, à transmission gouttelettes, mais aussi d’éviter de
 contaminer les autres quand on est malade. Il est suffisant dans la
@@ -1458,7 +1455,7 @@ réalisées par le personnel soignant, quand il existe des possibilités
 d’aérosolisation du virus (propulsion de gouttelettes contaminées),
 notamment lors des gestes invasifs.\
 \
-3. **Les masques alternatifs**\
+3. **Les masques barrières**\
  \
 La priorité du Gouvernement en termes de masques est l’équipement des
 professionnels de santé, via des importations massives et l’augmentation
@@ -1471,22 +1468,48 @@ Pour contribuer à y répondre, le Gouvernement a mobilisé les industriels
 français du textile afin de proposer de nouveaux types de masques
 anti-projections, avec des performances adaptées au domaine non
 médical.\
+\
 L’une de ces catégories sera dédiée aux personnes en contact fréquent
 avec le public.\
- \
-24 producteurs français ont déjà lancé en productions des modèles et ils
-seront en capacité de produire près d’un demi-million de masques par
-jour dès les prochains jours et plus d’un million par jour avant la fin
-avril.\
- \
+\
 Il s’agit d’un outil complémentaire pour contribuer à la prévention du
-covid19 dans le milieu professionnel. L’Etat s’en saisira, pour
+COVID19 dans le milieu professionnel. L’Etat s’en saisira, pour
 certaines catégories d’agents publics.\
+\
+Le mardi 7 avril 2020, le ministère de l’Economie et des Finances a
+annoncé que l’engagement de la filière Textile-Habillement a déjà permis
+la production de 3,9 millions de masques barrières à usage professionnel
+non sanitaire (produits entre le 30 mars et le 5 avril). Cette
+production devrait monter rapidement en cadence pour atteindre 6,6
+millions d’unités au cours de la même semaine.\
+\
+Ce sont désormais 76 entreprises dont les prototypes de masques
+barrières ont été testés et qualifiés pour leur propriétés filtrantes.
+Parmi les 146 modèles qualifiés à ce jour, 12 ont d’ores-et-déjà été
+certifiés lavables au moins 5 fois, pour une capacité de production
+quotidienne à court terme de 456 000 masques (soit l’équivalent d’une
+production de 3,5 millions de masques à usage unique par jour).\
+\
+Ces masques sont qualifiés pour des environnements de travail :
+-   Les masques barrières contacts fréquents : l’usage de ces masques
+    est destiné aux populations amenées à accueillir du public dans le
+    cadre de leurs activités professionnelles (policiers, gendarmes,
+    hôtesses de caisses, etc.). Ils filtrent plus de 90% des particules
+    émises d’une taille supérieure ou égale à 3 microns compatibles avec
+    cette utilisation.
+-   Les masques barrières, pour protéger l’ensemble d’un groupe portant
+    ces masques et sans contact avec le public : ces masques sont
+    destinés à l’usage d’individus ayant des contacts occasionnels avec
+    d’autres personnes, dans le cadre professionnel. Leurs propriétés de
+    filtration des particules supérieures ou égales à 3 microns
+    apportent un complément de protection aux gestes barrières.
+
 Toutefois, il faut rappeler que le port de masque doit nécessairement
 s’accompagner du respect des mesures barrières (se laver les mains,
 tousser dans son coude, utiliser des mouchoirs à usage unique, ne pas se
 serrer les mains et éviter les embrassades) ainsi que les mesures de
 distanciation sociale.\
+\
 \
 4.    **Il existe des masques FFP3**, réservés à certaines utilisations
 très spécifiques. Ils ne sont pas utiles en prévention de la
@@ -2229,8 +2252,24 @@ voyageurs](https://www.diplomatie.gouv.fr/fr/le-ministere-et-son-reseau/actualit
 dans les pays touchés par le Coronavirus COVID-19. Les conseils aux
 voyageurs sont réévalués en fonction de l’évolution de la situation
 épidémiologique internationale et des recommandations de l’OMS.\
- 
+\
+Dans le contexte de la mise en œuvre de l'état d'urgence sanitaire en
+France, des restrictions d'accès à la France métropolitaine et aux
+collectivités d'Outre-mer ont été mises en place. Tout voyageur est
+tenu, à compter du 8 avril 2020, 0h00, de compléter et d'avoir sur soi
+l'attestation correspondant à sa situation :
 
+-   [pour un déplacement dérogatoire de la France métropolitaine vers
+    l'Outre-mer](https://www.interieur.gouv.fr/content/download/121920/978794/file/Attestation-om-depuis-la-metropole.pdf)
+-   [pour une voyage international depuis l'étranger vers la France
+    métropolitaine](https://www.interieur.gouv.fr/content/download/121915/978769/file/07-04-20-Attestation-etranger-metropole-FR.pdf)
+-   [pour un voyage international depuis l'étranger vers une
+    collectivité
+    d'Outre-mer](https://www.interieur.gouv.fr/content/download/121918/978784/file/Attestation-outre-mer-depuis-l-etranger.pdf)
+
+Le document devra être présenté aux transporteurs avant l'embarquement
+ainsi que lors des contrôles d'arrivée.\
+\
 Le ministère a aussi mis en place quatre opérations de rapatriement en
 activant le mécanisme européen de solidarité pour les ressortissants
 français et européens qui habitaient dans la province de Hubei en Chine,
@@ -2308,8 +2347,38 @@ Le principe général : l’ensemble des épreuves du diplôme national du
 brevet et du baccalauréat général, technologique et professionnel sont
 validées à partir des notes du livret scolaire, à l’exception de
 l’épreuve orale du baccalauréat de français qui est maintenue.\
+\
 Toutes les informations pratiques sur ce sujet sont à retrouver sur la
-page du Ministère de l’Education nationale et de la Jeunesse dédiée.
+page du Ministère de l’Education nationale et de la Jeunesse dédiée.\
+\
+Concernant les examens nationaux des diplômes de BTS et DCG, le ministre
+de l’Éducation nationale et de la Jeunesse et la ministre de
+l’Enseignement supérieur, de la Recherche et de l’Innovation ont décidé
+d’un aménagement en prenant en compte plusieurs objectifs : 
+
+-   assurer l’égalité de traitement entre des candidats qui auront subi
+    des périodes de confinement et des modalités de continuité
+    pédagogique variables.
+-   garantir le niveau d’exigence de l’examen.
+-   assurer la protection des personnels et des étudiants.
+
+Pour les épreuves de BTS, les épreuves terminales sont annulées et
+l’ensemble des épreuves du BTS, à l’instar des baccalauréats général,
+technologique et professionnel, seront validées à partir des notes du
+livret scolaire. Deux cas de figure différents sont pris en compte :
+
+-   pour chaque étudiant de BTS en mesure de présenter un livret
+    scolaire ou de formation, le diplôme national du BTS sera attribué
+    sur le fondement du contrôle en cours de formation déjà effectué et
+    du livret scolaire.
+-   pour les candidats au BTS dont les modalités de scolarisation ne se
+    traduisent pas par la délivrance d’un livret scolaire ou de
+    formation, la session est reportée au mois de septembre.
+
+\
+Concernant le Diplôme de Comptabilité et de Gestion (DGC), il a été
+décidé du report des épreuves en juillet pour les plus de 20 000
+candidats inscrits.
 
 **Service de garde**
 
@@ -2697,7 +2766,7 @@ attribuées par les Centres régionaux des œuvres universitaires (Crous).
 
 
 **2 janvier :** Début de veiller au Centre opérationnel de réception et
-de régulation des urgences sanitaires et sociales (CORRUSS)\
+de régulation des urgences sanitaires et sociales (CORRUSS).\
 **10 janvier :** Envoi aux Agences Régionales de Santé - ARS, aux
 sociétés savantes (urgentistes, SAMU, infectiologues) de fiches de
 conduites à tenir et de définition de cas par le ministère des
@@ -2977,7 +3046,7 @@ par le ministère des Armées, à hauteur de 1 million d’euros.\
 **6 avril :** Lancement d’une vaste opération de dépistage des personnes
 les plus vulnérables, en mettant la priorité sur les personnes âgées,
 les personnes handicapées les plus fragiles et les professionnels qui
-les accompagnent en établissement
+les accompagnent en établissement.
 
 
 
