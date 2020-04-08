@@ -3518,20 +3518,37 @@ maximum car ils sont en contacts de malades et sujets fragiles.
 
 
 
+#### Je souhaite retourner au travail. Puis-je demander un dépistage ? {#je-souhaite-retourner-au-travail.-puis-je-demander-un-dépistage .item-question}
+
+
+
+Non. Tester les personnes par dépistage dans cette situation n’a pas
+d’utilité ni d’intérêt car il ne donne qu’une information à un temps
+donné. Si elles sont négatives, on ne peut pas savoir si elles sont
+encore en période d’incubation ou si elles ont déjà été malades mais
+sans le savoir. Le dépistage ne préjuge donc en rien d’une possible
+future infection.\
+\
+Concernant les personnes guéries du COVID-19, elles peuvent retourner au
+travail après la levée de leur isolement strict, selon les critères
+définis par le Haut Conseil de la Santé Publique. Aucun test n’est
+nécessaire pour lever cet isolement.
+
+
+
+
+
 #### Les proches des personnes fragiles peuvent-ils avoir un arrêt de travail ? {#les-proches-des-personnes-fragiles-peuvent-ils-avoir-un-arrêt-de-travail .item-question}
 
 
 
-Les proches de personnes fragiles sont invitées à opter pour le
-télétravail ou à un aménagement du poste de travail si leur travail est
-indispensable à la crise sanitaire. Au travail comme à domicile, elles
-doivent rigoureusement respecter les gestes barrières et les mesures de
-distanciation sociale. De plus, au terme d’une démarche supervisée par
-l’Agence nationale de sécurité du médicament et des produits de santé
-(ANSM) avec le soutien de l’ANSES, il a été demandé la création de
-nouveaux masques à usage non sanitaire pour maximiser la protection des
-professionnels. A ce titre, les proches de personnes fragiles pourront
-en être équipés sur le lieu de travail.
+Oui. Les proches de personnes fragiles sont d’abord invités à opter pour
+le télétravail, ou à un aménagement du poste de travail si leur travail
+est indispensable à la crise sanitaire. Si celui-ci est impossible, il
+est possible pour les proches de solliciter leur médecin traitant ou un
+médecin de ville, qui pourra prescrire un arrêt de travail s’il l’estime
+nécessaire. L’arrêt peut être prescrit jusqu’au 15 avril et est
+renouvelable tant que les consignes sanitaires sont maintenues.
 
 
 
