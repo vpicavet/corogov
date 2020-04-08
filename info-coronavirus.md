@@ -2854,7 +2854,6 @@ circulation active du coronavirus COVID-19 sur le territoire français.\
 -   Premier décès en France d’un patient âgé de 80 ans hospitalisé en
     France des suites du Coronavirus COVID-19.
 
-\
 **16 février :** Levée des mesures de confinement pour les passagers du
 deuxième vol de retour.\
 \
@@ -2876,7 +2875,6 @@ Hubei.\
     les acteurs économiques nationaux sur les conséquences de l’épidémie
     de coronavirus COVID-19.
 
-\
 **23 février :** Levée des mesures de confinement pour les passagers du
 troisième vol de retour.\
 \
@@ -2889,7 +2887,6 @@ troisième vol de retour.\
     plusieurs millions de masques FFP2 supplémentaires pour les
     professionnels de santé.
 
-\
 **25 février :** Déploiement d’affiches d’information sur le Coronavirus
 COVID-19 dans les gares.\
 \
@@ -2900,7 +2897,6 @@ COVID-19 dans les gares.\
     pour les entreprises.
 -   Diffusion de spot radio et télévision de prévention.
 
-\
 **29 février :**
 -   Conseil restreint de défense et de sécurité (Élysée)
 -   Tenus d’un conseil de défense et d’un conseil des ministres
@@ -2931,14 +2927,12 @@ publique et privée engagés dans la lutte contre le COVID-19\
 -   Publication du décret encadrant les prix de vente du gel
     hydro-alcoolique.
 
-\
 **8 mars :**
 -   Conseil de défense consacré au suivi de la crise du coronavirus
     COVID-19
 -   Interdiction des rassemblements de plus de 1000 personnes non
     indispensables à la continuité de la vie de la Nation.
 
-\
 **9 mars :** Diffusion d’une circulaire du ministre de l’Intérieur pour
 garantir la sécurité et la sincérité des opérations de vote ainsi que
 des mesures de précautions sanitaires avant les élections municipales et
@@ -2972,7 +2966,6 @@ Coronavirus COVID-19.\
 -   Conseil de défense consacré au suivi de la crise du coronavirus
     COVID-19
 
-\
 **13 mars :**
 -   Réunion interministerielle sur la recherche et la coordination
     sanitaire.
@@ -2980,7 +2973,6 @@ Coronavirus COVID-19.\
 -   Annonce de l’Interdiction des rassemblements de plus de 100
     personnes le Premier ministre.
 
-\
 **14 mars :** Annonce du passage en stade 3 par le Premier ministre\
 \
 **16 mars :**
@@ -2995,7 +2987,6 @@ Coronavirus COVID-19.\
 -   Conseil de défense consacré au suivi de la crise du coronavirus
     COVID-19.
 
-\
 **17 mars :**
 -   Conseil européen extraordinaire par visioconférence
 -   Restriction des déplacements au strict minimum.
@@ -3003,7 +2994,6 @@ Coronavirus COVID-19.\
 -   Activation de la cellule interministérielle de crise par le Premier
     ministre.
 
-\
 **18 mars :** 1re mission entre Mulhouse et Toulon d’un A330 de l’armée
 de l’air équipé du kit MORPHEE (Module de Réanimation pour Patient à
 Haute Élongation d'Évacuation) pour le transfert de 6 patients vers les
@@ -3016,7 +3006,6 @@ hôpitaux de Laveran et de Sainte Anne.\
     nationale pour l’évacuation des patients en réanimation en Corse
     vers des établissements de santé du continent.
 
-\
 **21 mars :**
 -   Le ministre des Solidarités et de la Santé Olivier Véran annonce que
     des commandes de plus de 250 millions de masques ont été signées et
@@ -3024,7 +3013,6 @@ hôpitaux de Laveran et de Sainte Anne.\
 -   2ème mission MORPHEE entre Mulhouse et Bordeaux pour le transfert
     par A330 de l’armée de l’air de 6 patients vers l’hôpital Pellegrin.
 
-\
 **22 mars :**
 -   12 patients atteints du coronavirus ont été évacués de Corse à bord
     du “Tonnerre” pour être admis dans plusieurs hôpitaux des
@@ -3034,7 +3022,6 @@ hôpitaux de Laveran et de Sainte Anne.\
     pays frontaliers de la France : en Allemagne, en Suisse et au
     Luxembourg.
 
-\
 **23 mars :** Réunion par audioconférence du président de la République
 avec les autorités morales et religieuses.\
 \
@@ -3052,13 +3039,11 @@ Mulhouse.\
 -   Adoption de 25 ordonnances dans le cadre de l’état d’urgence
     sanitaire en conseil des ministres
 
-\
 **26 mars :**
 -   Publication du décret encadrant l’utilisation de la chloroquine.
 -   Annonce par le G20 de l’injection de 5 000 milliards de dollars dans
     l’économie mondiale.
 
-\
 **27 mars :** Annonce par le Premier ministre du renouvellement de la
 période de confinement jusqu’au mercredi 15 avril 2020.\
 \
@@ -3082,15 +3067,13 @@ tests.\
     financement des aides spécifiques d'urgence attribuées par les
     Centres régionaux des œuvres universitaires (Crous).
 
-\
 **1er avril : **
 -   Conseil de défense consacré au suivi de la crise du coronavirus
     COVID-19.
 -   Adoption de 7 ordonnances dans le cadre de l’état d’urgence
     sanitaire en conseil des ministres.
 
- \
-**2 avril :** Visioconférence du Premier ministre avec les chefs de
+  **2 avril :** Visioconférence du Premier ministre avec les chefs de
 partis et de groupes parlementaires.\
 \
 **4 avril :** Financement d’un projet de test de dépistage du COVID-19
