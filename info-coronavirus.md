@@ -2772,20 +2772,25 @@ attribuées par les Centres régionaux des œuvres universitaires (Crous).
 
 **2 janvier :** Début de veiller au Centre opérationnel de réception et
 de régulation des urgences sanitaires et sociales (CORRUSS).\
+\
 **10 janvier :** Envoi aux Agences Régionales de Santé - ARS, aux
 sociétés savantes (urgentistes, SAMU, infectiologues) de fiches de
 conduites à tenir et de définition de cas par le ministère des
 Solidarités et de la Santé.\
+\
 **14 janvier :** Sensibilisation des établissements hospitaliers,
 médico-sociaux et des professionnels de santé libéraux, à la situation
 et aux recommandations sanitaires. \
+\
 **22 janvier :** Activation de CORRUSS en niveau 2 de mobilisation
 renforcé.\
+\
 **23 janvier :** Mise en place d’un dispositif de suivi et de réponse
 aux préoccupations des Français présents en Chine par le Centre de crise
 et de soutien du ministère de l’Europe et des Affaires étrangères, en
 coordination avec l’Ambassade de France à Pékin et l’ensemble des
 consulats généraux en Chine.\
+\
 **24 janvier :**
 -   Confirmation des premiers cas confirmés de coronavirus COVID-19 par
     Agnès Buzyn, ministre des solidarités et de la Santé.
@@ -2803,9 +2808,9 @@ consulats généraux en Chine.\
     renforcé de professionnels de santé médicaux et paramédicaux issus
     de la réserve sanitaire du ministère des Solidarités et de la Santé.
 
-\
 **26 janvier 2020 :** Première Réunion interministérielle présidée par
-le Premier Ministre\
+le Premier ministre\
+\
 **27 janvier :**
 -   Activation du Centre de Crise Sanitaire
 -   Développement d’un test diagnostic rapide par l’institut Pasteur
@@ -2815,8 +2820,10 @@ le Premier Ministre\
 français vivant dans la province de Hubei, par vol direct depuis Wuhan
 accompagné d’une équipe médicale et confinement des passagers pendant 14
 jours à Carry-le-Rouet.\
+\
 **2 février :** Deuxième opération de retour des ressortissants français
 de Hubei et confinement des passagers à Aix-en-Provence.\
+\
 **8 février :** Apparition d’un cluster (regroupement de plusieurs cas
 autour d’un cas initial) en Haute-Savoie. Les cinq cas confirmés de
 coronavirus COVID-19, quatre adultes et un enfant, ont été hospitalisés
@@ -2827,6 +2834,7 @@ la situation et retrouver l’ensemble des cas contacts. Les trois
 pendant deux semaines par mesure de précaution et pour mener les
 investigations nécessaires (test diagnostic). L’opération de recherche
 et de tests auprès des cas contacts est engagée immédiatement.\
+\
 **9 février :**
 -   Un centre de consultation exceptionnel est installé dans la salle
     d’animation de la commune de Contamines-Montjoie afin de dépister
@@ -2837,6 +2845,7 @@ et de tests auprès des cas contacts est engagée immédiatement.\
 **13 février :** Activation du plan ORSAN qui vise à organiser la
 mobilisation du système de santé pour se préparer à une éventuelle
 circulation active du coronavirus COVID-19 sur le territoire français.\
+\
 **14 février :**
 -   Levée des mesures de confinement pour les passagers du premier vol
     de retour des Français de Wuhan suite à la fin de la période
@@ -2845,16 +2854,21 @@ circulation active du coronavirus COVID-19 sur le territoire français.\
 -   Premier décès en France d’un patient âgé de 80 ans hospitalisé en
     France des suites du Coronavirus COVID-19.
 
+\
 **16 février :** Levée des mesures de confinement pour les passagers du
 deuxième vol de retour.\
+\
 **17 février :** Envoi d’un guide pratique aux professionnels de santé
 par le ministère des solidarités et de la santé.\
+\
 **18 février :** Confirmation de trois passagers Français atteints de
 coronavirus COVID-19 à bord du paquebot de croisière Diamond Princess en
 confinement au large du Japon.\
+\
 **19 février:** Envoi de fret médical en solidarité avec la Chine à
 destination des structures hospitalières de Wuhan et de la province du
 Hubei.\
+\
 **21 février :**
 -   Quatrième opération de retour de Français, Européens et
     ayants-droit.
@@ -2862,8 +2876,10 @@ Hubei.\
     les acteurs économiques nationaux sur les conséquences de l’épidémie
     de coronavirus COVID-19.
 
+\
 **23 février :** Levée des mesures de confinement pour les passagers du
 troisième vol de retour.\
+\
 **24 février :**
 -   Activation de 70 établissements de santé siège d’un SAMU. 107
     établissements de santé sont donc en capacité d’accueillir des
@@ -2873,14 +2889,18 @@ troisième vol de retour.\
     plusieurs millions de masques FFP2 supplémentaires pour les
     professionnels de santé.
 
+\
 **25 février :** Déploiement d’affiches d’information sur le Coronavirus
 COVID-19 dans les gares.\
+\
 **27 février :** Sommet Italie-France à Naples (Italie)\
+\
 **28 février :**
 -   Déclaration du coronavirus COVID-19 comme “cas de force majeure”
     pour les entreprises.
 -   Diffusion de spot radio et télévision de prévention.
 
+\
 **29 février :**
 -   Conseil restreint de défense et de sécurité (Élysée)
 -   Tenus d’un conseil de défense et d’un conseil des ministres
@@ -2894,12 +2914,16 @@ COVID-19 dans les gares.\
 
 **2 mars :** Bpifrance est désormais garante des prêts demandés par les
 PME afin de les accompagner dans la gestion de la situation.\
+\
 **3 mars:** Mise en place d’une cellule de continuité économique au
 ministère de l’Economie et des Finances.\
+\
 **4 mars :** Conseil restreint de défense et de sécurité consacré au
-COVID-19 (Élysée)\
+COVID-19 (Élysée).\
+\
 **5 mars :** Réunion de travail avec des acteurs de la recherche
 publique et privée engagés dans la lutte contre le COVID-19\
+\
 **6 mars :**
 -   Réunion des ministres de la Santé de l'Union Européenne à Bruxelles
 -   Activation du plan blanc dans les hôpitaux et du plan bleu dans les
@@ -2907,20 +2931,25 @@ publique et privée engagés dans la lutte contre le COVID-19\
 -   Publication du décret encadrant les prix de vente du gel
     hydro-alcoolique.
 
+\
 **8 mars :**
 -   Conseil de défense consacré au suivi de la crise du coronavirus
     COVID-19
 -   Interdiction des rassemblements de plus de 1000 personnes non
     indispensables à la continuité de la vie de la Nation.
 
+\
 **9 mars :** Diffusion d’une circulaire du ministre de l’Intérieur pour
 garantir la sécurité et la sincérité des opérations de vote ainsi que
 des mesures de précautions sanitaires avant les élections municipales et
 communautaires des 15 et 22 mars.\
+\
 **10 mars :** Visioconférence de coordination européenne sur le
 Coronavirus COVID-19.\
+\
 **11 mars :** Conseil restreint de défense et de sécurité nationale
 (Élysée)\
+\
 **12 mars :**
 -   Réunion sur le COVID-19 du Premier ministre avec les présidents des
     Assemblées, les présidents des groupes parlementaires, les chefs de
@@ -2943,6 +2972,7 @@ Coronavirus COVID-19.\
 -   Conseil de défense consacré au suivi de la crise du coronavirus
     COVID-19
 
+\
 **13 mars :**
 -   Réunion interministerielle sur la recherche et la coordination
     sanitaire.
@@ -2950,7 +2980,9 @@ Coronavirus COVID-19.\
 -   Annonce de l’Interdiction des rassemblements de plus de 100
     personnes le Premier ministre.
 
+\
 **14 mars :** Annonce du passage en stade 3 par le Premier ministre\
+\
 **16 mars :**
 -   Réunion du Premier ministre avec Bruno Le Maire, Muriel Pénicaud,
     Didier Guillaume, Jean-Baptiste Lemoyne et Agnès Pannier-Runacher,
@@ -2963,6 +2995,7 @@ Coronavirus COVID-19.\
 -   Conseil de défense consacré au suivi de la crise du coronavirus
     COVID-19.
 
+\
 **17 mars :**
 -   Conseil européen extraordinaire par visioconférence
 -   Restriction des déplacements au strict minimum.
@@ -2970,10 +3003,12 @@ Coronavirus COVID-19.\
 -   Activation de la cellule interministérielle de crise par le Premier
     ministre.
 
+\
 **18 mars :** 1re mission entre Mulhouse et Toulon d’un A330 de l’armée
 de l’air équipé du kit MORPHEE (Module de Réanimation pour Patient à
 Haute Élongation d'Évacuation) pour le transfert de 6 patients vers les
 hôpitaux de Laveran et de Sainte Anne.\
+\
 **20 mars :**
 -   Conseil de défense consacré au suivi de la crise du coronavirus
     COVID-19
@@ -2981,6 +3016,7 @@ hôpitaux de Laveran et de Sainte Anne.\
     nationale pour l’évacuation des patients en réanimation en Corse
     vers des établissements de santé du continent.
 
+\
 **21 mars :**
 -   Le ministre des Solidarités et de la Santé Olivier Véran annonce que
     des commandes de plus de 250 millions de masques ont été signées et
@@ -2988,6 +3024,7 @@ hôpitaux de Laveran et de Sainte Anne.\
 -   2ème mission MORPHEE entre Mulhouse et Bordeaux pour le transfert
     par A330 de l’armée de l’air de 6 patients vers l’hôpital Pellegrin.
 
+\
 **22 mars :**
 -   12 patients atteints du coronavirus ont été évacués de Corse à bord
     du “Tonnerre” pour être admis dans plusieurs hôpitaux des
@@ -2997,12 +3034,16 @@ hôpitaux de Laveran et de Sainte Anne.\
     pays frontaliers de la France : en Allemagne, en Suisse et au
     Luxembourg.
 
+\
 **23 mars :** Réunion par audioconférence du président de la République
-avec les autorités morales et religieuses\
+avec les autorités morales et religieuses.\
+\
 **24 mars :** 3ème mission MORPHEE entre Mulhouse et Brest pour le
 transfert par A330 de l’armée de l’air de 6 patients.\
+\
 **23 mars :** Installation d’un hôpital de campagne militaire à
 Mulhouse.\
+\
 **25 mars :**
 -   Affrètement d’un TGV médicalisé entre Mulhouse et les Pays de la
     Loire
@@ -3011,19 +3052,24 @@ Mulhouse.\
 -   Adoption de 25 ordonnances dans le cadre de l’état d’urgence
     sanitaire en conseil des ministres
 
+\
 **26 mars :**
 -   Publication du décret encadrant l’utilisation de la chloroquine.
 -   Annonce par le G20 de l’injection de 5 000 milliards de dollars dans
     l’économie mondiale.
 
+\
 **27 mars :** Annonce par le Premier ministre du renouvellement de la
 période de confinement jusqu’au mercredi 15 avril 2020.\
+\
 **28 mars :** Annonce de la commande de plus d’un milliard de masques,
 de l’augmentation de la capacité du nombre de lits en réanimation qui
 sera portée à 14 000 lits et de la massification de la politique de
 tests.\
+\
 **30 mars :** Échange entre le Premier ministre et les acteurs
 économiques.\
+\
 **31 mars** :
 -   Intervention du Président de la République depuis une usine
     française de masques à Saint-Barthélémy-d'Anjou sur la stratégie
@@ -3046,12 +3092,15 @@ tests.\
  \
 **2 avril :** Visioconférence du Premier ministre avec les chefs de
 partis et de groupes parlementaires.\
+\
 **4 avril :** Financement d’un projet de test de dépistage du COVID-19
 par le ministère des Armées, à hauteur de 1 million d’euros.\
+\
 **6 avril :** Lancement d’une vaste opération de dépistage des personnes
 les plus vulnérables, en mettant la priorité sur les personnes âgées,
 les personnes handicapées les plus fragiles et les professionnels qui
-les accompagnent en établissement.
+les accompagnent en établissement.\
+ 
 
 
 
@@ -8074,6 +8123,171 @@ contact avec votre tribunal pour savoir si votre audience est maintenue.
 
 
 
+### Élus et collectivités {#élus-et-collectivités .item-paragraphe-titre .c-onglet data-picto="https://www.gouvernement.fr/sites/default/files/cimages/qr_elus_locaux.svg"}
+
+
+
+
+
+#### Quelles sont les dispositions liées aux collectivités locales dans le cadre de l'état d'urgence sanitaire ? {#quelles-sont-les-dispositions-liées-aux-collectivités-locales-dans-le-cadre-de-létat-durgence-sanitaire .item-question}
+
+
+
+La loi d’urgence pour faire face à l’épidémie de covid-19 a été adoptée
+par le Parlement le 22 mars 2020 et promulguée le 24 mars 2020. Elle
+vise à donner une traduction législative aux mesures annoncées par le
+Président de la République et le Gouvernement pour faire face à la crise
+majeure que traverse notre pays.\
+\
+Cette loi comprend différentes mesures relatives à la gouvernance, à
+l’organisation et au fonctionnement des collectivités territoriales et
+leurs groupements.
+-   [Loi d’urgence : les dispositions qui concernent les collectivités
+    territoriales](https://www.cohesion-territoires.gouv.fr/loi-durgence-pour-faire-face-lepidemie-de-covid-19-les-dispositions-qui-concernent-les)
+
+\
+Dans le cadre de cette loi, le Parlement a habilité le Gouvernement à
+prendre des ordonnances, dont certaines concernent les collectivités
+territoriales. Une partie d'entre elles a été adoptée lors du Conseil
+des ministres du 25 mars afin d'assurer leur continuité budgétaire,
+fiscale et financière.
+-   [Foire aux questions : dispositions financières, budgétaires et
+    fiscales des collectivités
+    territoriales](https://www.cohesion-territoires.gouv.fr/collectivites-territoriales-dispositions-financieres-budgetaires-et-fiscales)
+-   [Les collectivités territoriales et leurs groupements - Ordonnances
+    du Conseil des ministres du 25 mars
+    2020](https://www.cohesion-territoires.gouv.fr/sites/default/files/2020-03/Note%20de%20synth%C3%A8se%20Ordonnance%20MCTRCT%20%282%29.pdf)
+    (PDF - 416.18 Ko)
+
+\
+Ordonnance du Conseil des ministres du 1er avril 2020 visant à assurer
+la continuité du fonctionnement des institutions locales et de
+l'exercice des compétences des collectivités territoriales et des
+établissements publics locaux afin de faire face à l’épidémie de
+covid-19.
+-   [Téléconférence et audioconférence pour les séances
+    locales](https://www.cohesion-territoires.gouv.fr/teleconference-pour-les-seances-des-collectivites-locales)
+-   [Ordonnance du Conseil des ministres du 1er avril
+    2020](https://www.cohesion-territoires.gouv.fr/sites/default/files/2020-04/Ordonnanceinst.pdf)
+    (PDF - 148.45 Ko)
+-   [Synthèse de l’ordonnance du Conseil des ministres du 1er avril
+    2020](https://www.cohesion-territoires.gouv.fr/sites/default/files/2020-04/20200401%20Note%20ordonnance%20institutionnelle%20VF.pdf)
+    (PDF - 478.59 Ko)
+
+
+
+
+
+#### Quelles sont les dispositions liées à la continuité des services publics locaux ? {#quelles-sont-les-dispositions-liées-à-la-continuité-des-services-publics-locaux .item-question}
+
+
+
+Le ministère de la Cohésion des territoires et des Relations avec les
+collectivités territoriales met à disposition des élus un document
+d'aide à la prise de décision. Ce document qui précise les
+recommandations en vigueur sera régulièrement mis à jour en fonction de
+l’évolution de la situation.
+-   [ Actualité - Recommandations pour adapter les services publics
+    demeurant
+    ouverts](https://www.cohesion-territoires.gouv.fr/recommandations-generales-pour-adapter-les-services-publics-demeurant-ouverts)
+-   [Actualité - Etat d'urgence sanitaire : continuité des services
+    publics
+    locaux](https://www.cohesion-territoires.gouv.fr/continuite-des-services-publics-locaux-dans-le-cadre-de-letat-durgence-sanitaire)
+
+
+
+
+
+#### Qu’en est-il des services funéraires ? {#quen-est-il-des-services-funéraires .item-question}
+
+
+
+Une fiche consultable sur le site de la Direction générale des
+collectivités locales permet de préciser la mise en œuvre du service
+public funéraire dans ce contexte d’épidémie. Elle présente les
+opérations consécutives au décès de personnes atteintes du covid-19, le
+rôle du maire en tant qu’officier d’état civil en matière funéraire,
+l’organisation de cérémonies funéraires, la définition des dépositoires
+comme possibilité de dépôt temporaire des cercueils, le transport
+international de corps, et enfin, les habilitations dans le domaine
+funéraire.
+-   [Fiche sur les impacts de l’épidémie de covid-19 dans le domaine
+    funéraire](https://www.cohesion-territoires.gouv.fr/sites/default/files/2020-04/note%20DGCL%20covid-19%20et%20fun%C3%A9raire%202%20avril%202020%20V2.pdf)
+
+
+
+
+
+#### Et de la vie de la collectivité territoriale ? {#et-de-la-vie-de-la-collectivité-territoriale .item-question}
+
+
+
+Retrouvez toutes les informations en lien avec les dispositions liées
+aux collectivités locales, dans le cadre de l’urgence sanitaire, sur : \
+<https://www.cohesion-territoires.gouv.fr/covid-collectivites-locales>
+1.  [Personnes âgées et personnes
+    handicapées](https://solidarites-sante.gouv.fr/soins-et-maladies/maladies/maladies-infectieuses/coronavirus/professionnels-du-social-et-medico-social/article/accompagnement-des-personnes-agees-et-des-personnes-handicapees)
+    (adaptation des règles d’organisation et de fonctionnement des
+    établissements sociaux et médico-sociaux, recommandations sur les
+    coopérations à faciliter sous l’égide de l’ARS et du CD au sein des
+    territoires, consignes pour les Établissements ou service social ou
+    médico-social, …).
+2.  [Protection de l'enfance et
+    éducation](https://solidarites-sante.gouv.fr/soins-et-maladies/maladies/maladies-infectieuses/coronavirus/professionnels-du-social-et-medico-social/article/protection-de-l-enfance-des-majeurs-accueil-du-jeune-enfant)(capacité
+    individuelle de garde des assistants maternels, rappel des missions
+    essentielles qui incombent au conseil départemental, recommandations
+    applicables aux services de la PMI et des crèches, modalités de
+    prise en charge des enfants de 0 à 3 ans, …).
+3.  [Eau et
+    assainissement](https://www.legifrance.gouv.fr/affichTexte.do?cidTexte=JORFTEXT000041774082&categorieLien=id)(paiement
+    des factures d'eau, gestion des boues d'épuration).
+4.  [Comptabilité
+    publique](https://www.legifrance.gouv.fr/eli/ordonnance/2020/3/25/CPAX2008180R/jo/texte)
+    (responsabilité personnelle et pécuniaire des comptables publics). 
+5.  [Marchés
+    publics](https://www.legifrance.gouv.fr/eli/ordonnance/2020/3/25/ECOM2008122R/jo/texte)
+    (adaptation des règles de passation, de procédure ou d'exécution des
+    contrats soumis au code de la commande publique et des contrats
+    publics, passation et exécution des marchés publics).
+6.  Fonction publique [(fonctionnement des établissements publics et des
+    instances collégiales administratives, organisation des examens et
+    concours, informations sur la fonction publique territoriale,
+    situation des agents publics,
+    …).](https://www.legifrance.gouv.fr/affichTexte.do?cidTexte=JORFTEXT000041762732&categorieLien=id)
+7.  [Services et réseaux de communications
+    électroniques](https://www.legifrance.gouv.fr/eli/ordonnance/2020/3/25/ECOX2008260R/jo/texte)
+    (adaptation des délais et procédures de la communication
+    électronique). 
+8.  [Urbanisme](https://www.legifrance.gouv.fr/affichTexte.do?cidTexte=JORFTEXT000041755644)
+    (prorogation des délais échus et adaptation des procédures)
+
+
+
+
+
+#### Dans le cadre de la crise sanitaire, les conseils municipaux peuvent-ils être maintenus ? {#dans-le-cadre-de-la-crise-sanitaire-les-conseils-municipaux-peuvent-ils-être-maintenus .item-question}
+
+
+
+Non. Dans ce contexte de crise sanitaire, les conseils municipaux
+programmés à partir du 20 mars dans les communes dont le conseil
+municipal est complet suite au premier tour des élections municipales
+doivent être ajournés. Les maires et adjoints en exercice avant le 1er
+tour voient leurs mandats prorogés jusqu’à une date qui sera fixée par
+décret (date du 2nd tour des élections municipales ou date
+d’installation des conseils municipaux pourvus au 1er tour).
+-   [Report des conseils municipaux d’installation des maires élus au
+    1er
+    tour](https://www.cohesion-territoires.gouv.fr/report-des-conseils-municipaux-dinstallation-des-maires-elus-au-premier-tour)
+
+
+
+
+
+
+
+
+
 
 []{#ressources}
 
@@ -8167,6 +8381,15 @@ Ko]{}](https://www.gouvernement.fr/sites/default/files/cfiles/justificatif-depla
 
 -   [Attestation dérogatoire
     numérique](https://media.interieur.gouv.fr/deplacement-covid-19/)
+-   [Attestation pour un déplacement dérogatoire de la France
+    métropolitaine vers
+    l'Outre-mer](https://www.interieur.gouv.fr/content/download/121920/978794/file/Attestation-om-depuis-la-metropole.pdf)
+-   [Attestation pour une voyage international depuis l'étranger vers la
+    France
+    métropolitaine](https://www.interieur.gouv.fr/content/download/121915/978769/file/07-04-20-Attestation-etranger-metropole-FR.pdf)
+-   [Attestation pour un voyage international depuis l'étranger vers une
+    collectivité
+    d'Outre-mer](https://www.interieur.gouv.fr/content/download/121918/978784/file/Attestation-outre-mer-depuis-l-etranger.pdf)
 
 
 
@@ -8240,6 +8463,8 @@ Ko]{}](https://www.gouvernement.fr/sites/default/files/cfiles/clauses-types_pour
     santé](https://solidarites-sante.gouv.fr/soins-et-maladies/maladies/maladies-infectieuses/coronavirus/covid-19-informations-aux-professionnels-de-sante/article/covid-19-prise-en-charge-en-ambulatoire)
 -   [Les
     enseignants](https://www.education.gouv.fr/coronavirus-covid-19-informations-et-recommandations-pour-les-etablissements-scolaires-et-les-274253)
+-   [Les élus
+    locaux](https://www.cohesion-territoires.gouv.fr/covid-collectivites-locales)
 -   [Salariés et chef
     d’entreprise](https://travail-emploi.gouv.fr/actualites/l-actualite-du-ministere/article/coronavirus-questions-reponses-pour-les-entreprises-et-les-salaries)
 -   [Aides aux
