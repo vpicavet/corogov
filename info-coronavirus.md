@@ -5379,6 +5379,113 @@ certains services des hôpitaux publics.
 
 
 
+#### Quelle est la place de la Réserve sanitaire dans le dispositif actuel de renfort des hôpitaux ? {#quelle-est-la-place-de-la-réserve-sanitaire-dans-le-dispositif-actuel-de-renfort-des-hôpitaux .item-question}
+
+
+
+La Réserve sanitaire est "un des bataillons de l'armée des soignants"
+qui s'est levé pour lutter contre le COVID-19. Les différents
+dispositifs existants sont les suivants :
+-   Les circuits courts permettent aux hôpitaux de contractualiser
+    directement avec les professionnels de santé disponibles dans leur
+    département ou leur région pour répondre plus rapidement et sur la
+    durée aux besoins identifiés.
+-   Les plateformes mises en place par les Agences Régionales de Santé
+    (ARS) viennent en complément de ces circuits courts lorsque d’autres
+    renforts sont nécessaires.
+-   La plateforme nationale gérée par le ministère des Solidarités et de
+    la Santé en collaboration avec les ARS, renforce ces deux autres
+    dispositifs si nécessaires.
+-   Enfin, la Réserve sanitaire peut-être mobilisée lorsque que ces
+    ressources locales et régionales ne sont pas suffisantes. Ce sont
+    les ARS qui décident de faire appel à la Réserve sanitaire et qui
+    évaluent les renforts nécessaires en concertation avec le centre de
+    crise du ministère des Solidarités et de la Santé.
+
+
+
+
+
+#### Pour quelles missions la Réserve sanitaire est-elle mobilisée ? {#pour-quelles-missions-la-réserve-sanitaire-est-elle-mobilisée .item-question}
+
+
+
+La Réserve sanitaire est constituée de professionnels de santé
+volontaires et mobilisables à tout moment par le ministère des
+Solidarités et de la Santé ou par les agences régionales de santé. Elle
+peut être mobilisée rapidement pour :
+-   des missions de renfort de l’offre de soins ou médico-sociale,
+    notamment lors d’une situation sanitaire exceptionnelle (épidémie,
+    canicule, afflux de population, ...).
+-   des missions de rapatriement ou d’évacuation lors de troubles
+    politiques ou des catastrophes naturelles lorsque des ressortissants
+    français sont impactés.
+-   des missions de renfort dans le cadre de cellules téléphoniques
+    destinées aux victimes, à leurs proches, à la population en général.
+-   des missions de renfort et de prévention lors de grands
+    rassemblements de population.
+-   des missions d’expertise.
+
+\
+Compte tenu des missions assignées à la Réserve sanitaire, les
+réservistes doivent exercer dans le milieu de la santé et être capable
+de s’y intégrer très rapidement. Peuvent ainsi devenir réservistes
+sanitaires (liste non exhaustive) :
+-   Des professionnels de santé : médecins, infirmiers, aides-soignants,
+    de tout type de services y compris médico-sociaux.
+-   Des agents hospitaliers non soignants : secrétaires médicaux,
+    assistants de régulation médicale, cadres hospitaliers, ingénieurs,
+    etc.
+-   Des professionnels des agences régionales de santé, inspecteurs de
+    l’action sanitaire et sociale, épidémiologistes, etc.
+-   Des psychologues. 
+
+ \
+Les professionnels peuvent être agents du secteur public, salariés du
+secteur privé, exercer en libéral ou être retraités. Les étudiants
+paramédicaux et médicaux, ainsi que les internes en médecine et en
+pharmacie, peuvent aussi devenir réservistes sanitaires.
+
+
+
+
+
+#### Comment devenir réserviste sanitaire ? {#comment-devenir-réserviste-sanitaire .item-question}
+
+
+
+Pour devenir réserviste sanitaire, il suffit de s’inscrire en ligne sur
+[www.reservesanitaire.fr](http://www.reservesanitaire.fr). La plateforme
+propose alors un contrat d’engagement dans la Réserve sanitaire, qu’il
+suffit d’imprimer, signer et envoyer à Santé Publique France. Dès lors
+qu’un professionnel de santé s’est inscrit dans la Réserve sanitaire et
+qu’il dispose bien d’un numéro de matricule, il est destinataire des
+alertes concernant sa profession et son profil, et peut y postuler.\
+\
+Cependant, et jusqu’à nouvel ordre, les professionnels de santé doivent
+privilégier le[dispositif mis en place par le ministère des Solidarités
+et de la
+Santé](https://solen3.enquetes.social.gouv.fr/cgi-4/HE/SF?P=12z111z3z-1z-1zA228F2FF17).
+En effet, les professionnels de santé en activité (salarié, libéral),
+sans emploi ou retraités, volontaires pour venir renforcer le système de
+santé dans le cadre de l’épidémie du COVID-19, sont appelés à se faire
+connaître auprès des autorités en s’enregistrant sur le site du
+ministère des Solidarités et de la Santé
+[ici](http://www.reservesanitaire.fr).\
+\
+Par la suite, ils pourront être mobilisés (hors cadre Réserve sanitaire)
+par leur agence régionale de santé pour venir en renfort dans leur
+région, ou encore par le ministère des Solidarités et de la Santé pour
+venir renforcer les équipes soignantes des régions fortement impactées
+par le COVID-19. Ils pourront bien sûr, par la suite, s’inscrire dans la
+Réserve sanitaire pour renforcer, tout au long de l’année, le système de
+santé en cas de situation sanitaire exceptionnelle sur le territoire
+national.
+
+
+
+
+
 #### Peut-on effectuer un diagnostic en ligne via une application ? {#peut-on-effectuer-un-diagnostic-en-ligne-via-une-application .item-question}
 
 
@@ -5595,6 +5702,29 @@ barrières.\
  \
 Les masques chirurgicaux et FFP2, à usage sanitaire, restent
 réquisitionnés par l’Etat et sont destinés aux professionnels de santé.
+
+
+
+
+
+#### Pourquoi les masques périment-ils ? Quels sont les risques d’utiliser les masques périmés ? {#pourquoi-les-masques-périment-ils-quels-sont-les-risques-dutiliser-les-masques-périmés .item-question}
+
+
+
+\
+Les matériaux qui composent les masques peuvent se dégrader au fil du
+temps. C’est pourquoi il existe une date de péremption, au-delà de
+laquelle le masque peut être trop dégradé pour être utilisable. Cette
+dégradation concerne néanmoins essentiellement les élastiques qui
+permettent de bien placer le masque sur le visage. Si ces élastiques
+sont trop abîmés, le masque peut ne pas suffisamment bien tenir et ne
+pas fournir la protection appropriée. Les filtres restent quant à eux
+efficaces, bien au-delà de la date de péremption.\
+\
+Il n’existe donc aucun risque à utiliser un masque périmé, si les
+élastiques de celui-ci sont encore solides et que le masque tient bien
+en place sur le visage. Pour les masques périmés distribués, il existe
+des recommandations de vérification des élastiques.
 
 
 
