@@ -5520,6 +5520,33 @@ pharmacie, peuvent aussi devenir réservistes sanitaires.
 
 
 
+#### Qui peut devenir réserviste sanitaire ? {#qui-peut-devenir-réserviste-sanitaire .item-question}
+
+
+
+Compte tenu des missions assignées à la Réserve sanitaire, les
+réservistes doivent exercer dans le milieu de la santé et être capable
+de s’y intégrer très rapidement. Peuvent ainsi devenir réservistes
+sanitaires (liste non exhaustive) :\
+ 
+-   Des professionnels de santé : médecins, infirmiers, aides-soignants,
+    de tout type de services y compris médico-sociaux.
+-   Des agents hospitaliers non soignants : secrétaires médicaux,
+    assistants de régulation médicale, cadres hospitaliers, ingénieurs,
+    etc.
+-   Des professionnels des agences régionales de santé, inspecteurs de
+    l’action sanitaire et sociale, épidémiologistes, etc.
+-   Des psychologues.   
+
+Les professionnels peuvent être agents du secteur public, salariés du
+secteur privé, exercer en libéral ou être retraités. Les étudiants
+paramédicaux et médicaux, ainsi que les internes en médecine et en
+pharmacie, peuvent aussi devenir réservistes sanitaires.
+
+
+
+
+
 #### Comment devenir réserviste sanitaire ? {#comment-devenir-réserviste-sanitaire .item-question}
 
 
@@ -5550,7 +5577,17 @@ venir renforcer les équipes soignantes des régions fortement impactées
 par le COVID-19. Ils pourront bien sûr, par la suite, s’inscrire dans la
 Réserve sanitaire pour renforcer, tout au long de l’année, le système de
 santé en cas de situation sanitaire exceptionnelle sur le territoire
-national.
+national.\
+\
+Outre ces dispositifs, le ministère du Travail a annoncé, le 8 avril
+2020, la mobilisation d’enveloppes exceptionnelles du Plan
+d’investissement dans les compétences (PIC) pour permettre aux
+élèves-infirmiers et élèves aides-soignants de venir en renfort du
+personnel soignant, en partenariat avec les conseils régionaux et les
+Agences Régionales de Santé (ARS). Au total, ce sont 57 millions d’euros
+affectés à ce projet et 35 000 élèves-infirmiers et élèves
+aides-soignants qui bénéficient de cet accompagnement financier, sous
+forme d’une aide individuelle exceptionnelle.
 
 
 
@@ -5661,13 +5698,18 @@ virus via l’eau courante.
 
 
 
-L’efficacité de la désinfection systématique des rues pour lutter contre
-la propagation du virus n’est pas démontrée. Par ailleurs, l’impact
+Conformément à l’avis rendu par le HSCP le 7 avril 2020, l’efficacité de
+la désinfection systématique des rues pour lutter contre la propagation
+du virus n’est pas démontrée scientifiquement. Par ailleurs, l’impact
 éventuel de l’utilisation massive de produits désinfectants dans les
 lieux publics peut poser un problème environnemental et sanitaire non
-négligeable. Pour lutter contre la propagation du virus, le confinement,
-le respect des règles d’hygiène et de distanciation sont les méthodes
-qui ont montré leur efficacité, notamment en Chine.\
+négligeable. Il est préconisé de maintenir le nettoyage habituel des
+rues, associé au ramassage des déchets. Il est également conseillé
+d’augmenter la fréquence du nettoyage et de la désinfection du mobilier
+urbain, en maintenant le protocole habituel. Pour lutter contre la
+propagation du virus, le confinement, le respect des règles d’hygiène et
+de distanciation sont les méthodes qui ont montré leur efficacité,
+notamment en Chine.\
  
 
 
@@ -6024,33 +6066,6 @@ Ces produits passent peu de mains en mains. De plus, même s’ils étaient
 contaminés par des gouttelettes, de l’avis des experts, la plus grande
 partie du virus, susceptible de contaminer, meurt au bout de quelques
 minutes. Le plus important reste donc de se laver les mains.
-
-
-
-
-
-#### Qui peut devenir réserviste sanitaire ? {#qui-peut-devenir-réserviste-sanitaire .item-question}
-
-
-
-Compte tenu des missions assignées à la Réserve sanitaire, les
-réservistes doivent exercer dans le milieu de la santé et être capable
-de s’y intégrer très rapidement. Peuvent ainsi devenir réservistes
-sanitaires (liste non exhaustive) :\
- 
--   Des professionnels de santé : médecins, infirmiers, aides-soignants,
-    de tout type de services y compris médico-sociaux.
--   Des agents hospitaliers non soignants : secrétaires médicaux,
-    assistants de régulation médicale, cadres hospitaliers, ingénieurs,
-    etc.
--   Des professionnels des agences régionales de santé, inspecteurs de
-    l’action sanitaire et sociale, épidémiologistes, etc.
--   Des psychologues.   
-
-Les professionnels peuvent être agents du secteur public, salariés du
-secteur privé, exercer en libéral ou être retraités. Les étudiants
-paramédicaux et médicaux, ainsi que les internes en médecine et en
-pharmacie, peuvent aussi devenir réservistes sanitaires.
 
 
 
@@ -6717,7 +6732,9 @@ Par ailleurs, si cela s’avère nécessaire, les préfets, en lien avec les
 maires, pourront prendre les mesures qui s’imposent, en particulier de
 limitation de la pratique sportive individuelle, pour assurer un respect
 strict du confinement et garantir l’efficacité de la lutte contre le
-COVID-19.
+COVID-19. Il vous est conseillé de vérifier, notamment en consultant le
+site internet de votre mairie ou de votre préfecture, si des mesures
+particulières s'appliquent dans votre commune.
 
 
 
@@ -7204,28 +7221,29 @@ exercez.
 
 
 
-#### Quel motif choisir sur l'attestation de déplacement lorsque la personne revient de l'étranger ou d'une île ? {#quel-motif-choisir-sur-lattestation-de-déplacement-lorsque-la-personne-revient-de-létranger-ou-dune-île .item-question}
+#### Y a-t-il des restrictions d'accès au territoire français ? {#y-a-t-il-des-restrictions-daccès-au-territoire-français .item-question}
 
 
 
-Si vous rentrez de l’étranger, par exemple suite à un rapatriement, il
-vous faut cocher le motif : "déplacement pour motif familiaux
-impérieux".
+Dans le contexte de l’état d’urgence sanitaire en France, des
+restrictions d’accès à la France métropolitaine et aux collectivités
+d’Outre-Mer ont été mises en place. Depuis le 8 avril 2020 à 0h00, tout
+voyageur est tenu de compléter et d’avoir sur soi une attestation
+correspondant à sa situation, parmi les trois cas suivants : 
+-   pour un déplacement dérogatoire de la France métropolitaine vers
+    l’Outre-mer ;
+-    pour un voyage international depuis l’étranger vers la France
+    métropolitaine ; 
+-   pour un voyage international depuis l’étranger vers une collectivité
+    d’Outre-mer. 
 
-
-
-
-
-#### Est ce qu'il y a une notion de distance pour les trajets ? {#est-ce-quil-y-a-une-notion-de-distance-pour-les-trajets .item-question}
-
-
-
-Non il n'y a pas de notion de distance pour porter assistance à une
-personne vulnérable. Il convient toutefois de faire preuve de
-responsabilité et de n'effectuer que les déplacements impératifs. Sur
-place, il faut protéger les personnes vulnérables en respectant
-scrupuleusement les gestes barrières et les distances entre les
-personnes.
+Le document doit indiquer le motif du déplacement. Il doit être présenté
+aux transporteurs avant l’embarquement ainsi que lors des contrôles
+d’arrivée.\
+\
+Les documents sont téléchargeables sur le site du ministère de
+l'Intérieur :
+<https://www.interieur.gouv.fr/Actualites/L-actu-du-Ministere/Attestation-de-deplacement-et-de-voyage>
 
 
 
@@ -8202,12 +8220,7 @@ fiscale et financière.
 -   [Foire aux questions : dispositions financières, budgétaires et
     fiscales des collectivités
     territoriales](https://www.cohesion-territoires.gouv.fr/collectivites-territoriales-dispositions-financieres-budgetaires-et-fiscales)
--   [Les collectivités territoriales et leurs groupements - Ordonnances
-    du Conseil des ministres du 25 mars
-    2020](https://www.cohesion-territoires.gouv.fr/sites/default/files/2020-03/Note%20de%20synth%C3%A8se%20Ordonnance%20MCTRCT%20%282%29.pdf)
-    (PDF - 416.18 Ko)
 
-\
 Ordonnance du Conseil des ministres du 1er avril 2020 visant à assurer
 la continuité du fonctionnement des institutions locales et de
 l'exercice des compétences des collectivités territoriales et des
@@ -8221,6 +8234,25 @@ covid-19.
 -   [Synthèse de l’ordonnance du Conseil des ministres du 1er avril
     2020](https://www.cohesion-territoires.gouv.fr/sites/default/files/2020-04/20200401%20Note%20ordonnance%20institutionnelle%20VF.pdf)
     (PDF - 478.59 Ko)
+
+Par ailleurs, le 8 avril 2020, le ministère de la Cohésion des
+territoires et des Relations avec les collectivités territoriales a
+présenté une ordonnance visant à assurer la continuité de l’exercice des
+fonctions exécutives locales durant l’état d’urgence sanitaire. Elle
+prévoit ainsi notamment qu'en cas de vacance du siège de maire, pour
+quelque cause que ce soit, les fonctions de maire sont provisoirement
+exercées par un adjoint au maire ou, à défaut, par un membre de l'organe
+délibérant. L'élu chargé de ces fonctions les conserve jusqu’à
+l’élection des maires à la suite du premier ou du second tour du
+renouvellement général des conseils municipaux. Il est par ailleurs
+prévu que l’élection du maire pourra se tenir, dans les communes pour
+lesquelles le conseil municipal a été élu au complet lors du premier
+tour organisé le 15 mars 2020, même si des vacances se sont produites
+postérieurement. L’ordonnance prévoit également pour les conseils
+départementaux, qu’en cas de vacance d’un siège intervenue pendant la
+durée de l’état d’urgence sanitaire, il est procédé à une élection
+partielle dans les quatre mois suivant la fin de l’état d’urgence
+sanitaire.
 
 
 
