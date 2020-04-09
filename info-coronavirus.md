@@ -122,7 +122,7 @@ COVID-19
 
 
 
-Mis à jour le mercredi 8 avril 2020, à 19h30
+Mis à jour le mercredi 8 avril 2020, à 20h00
 
 
 -   [Francais](/info-coronavirus){.active}
@@ -145,11 +145,11 @@ Point de situation
 
 
 
-Le 27 mars 2020, le Premier ministre a annoncé le renouvellement du
-confinement pour deux semaines supplémentaires, soit jusqu’au mercredi
-15 avril. Les mêmes règles que celles actuellement en vigueur
-continueront à s’appliquer. Cette période de confinement pourra être
-prolongée si la situation sanitaire l’exige.\
+Après une première prolongation de deux semaines annoncée par le Premier
+ministre le 27 mars 2020, le confinement sera à nouveau prolongé au-delà
+du mercredi 15 avril. Les mêmes règles que celles actuellement en
+vigueur continueront à s’appliquer. Cette période de confinement pourra
+être prolongée si la situation sanitaire l’exige.\
 \
 En application de l’état d’urgence sanitaire, les déplacements sont
 interdits sauf dans les cas suivants et uniquement à condition d'être
@@ -805,6 +805,14 @@ cliniques. La commande inclut également le développement d’un second
 type de kit de détection directe du virus, dans la salive ou par
 échantillon nasal, et la sécurisation d’une filière de réactifs de base
 nationale.\
+\
+Par ailleurs, le ministère des Armées a également annoncé, le 7 avril
+2020, le financement d’une nouvelle technologie de détection rapide du
+COVID-19 par l’agence de l’innovation de défense (AID) à hauteur de 1,8
+million d’euros. Il s’agit du projet NOMORECOV, développé par la PME
+BforCure, qui consiste à développer un automate mobile, modulaire et
+connecté pour le dépistage rapide d’une infection au coronavirus (en
+moins de 30 minutes).\
 \
 Le lundi 6 avril 2020, le ministre des Solidarités et de la Santé a
 annoncé que les capacités de tests par PCR sont en train de doubler,
@@ -1478,7 +1486,7 @@ L’une de ces catégories sera dédiée aux personnes en contact fréquent
 avec le public.\
 \
 Il s’agit d’un outil complémentaire pour contribuer à la prévention du
-COVID19 dans le milieu professionnel. L’Etat s’en saisira, pour
+COVID-19 dans le milieu professionnel. L’Etat s’en saisira, pour
 certaines catégories d’agents publics.\
 \
 Le mardi 7 avril 2020, le ministère de l’Economie et des Finances a
@@ -2012,7 +2020,11 @@ Corse, et ont interdiction de faire escale ou de mouiller dans les eaux
 intérieures et territoriales des départements et régions d'outre-mer,
 ainsi que de Saint-Barthélemy et Saint-Martin, Saint-Pierre-et-Miquelon,
 et Wallis-et-Futuna, sauf dérogation accordée par le représentant de
-l'Etat compétent pour ces mêmes collectivités.
+l'Etat compétent pour ces mêmes collectivités.\
+\
+Après une première prolongation de deux semaines annoncée par le Premier
+ministre le 27 mars 2020, le confinement sera à nouveau prolongé au-delà
+du mercredi 15 avril.
 
 
 
