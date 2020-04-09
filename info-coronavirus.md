@@ -2221,11 +2221,9 @@ Le 16 mars 2020, le Président de la République a décidé de prendre des
 mesures supplémentaires pour réduire à leur plus strict minimum les
 contacts et les déplacements. Un dispositif de confinement est mis en
 place sur l’ensemble du territoire à compter du mardi 17 mars à 12h00,
-pour quinze jours minimum. Le 27 mars 2020, le Premier ministre a
-annoncé le renouvellement du confinement pour deux semaines
-supplémentaires, soit jusqu’au mercredi 15 avril. Les mêmes règles que
-celles actuellement en vigueur continueront à s’appliquer. Cette période
-de confinement pourra être prolongée si la situation sanitaire l’exige.\
+pour quinze jours minimum. Après une première prolongation de deux
+semaines annoncée par le Premier ministre le 27 mars 2020, le
+confinement sera à nouveau prolongé au-delà du mercredi 15 avril.\
 \
 Les déplacements sont interdits sauf dans les cas suivants et uniquement
 à condition d'être munis d'une attestation pour :
@@ -2271,11 +2269,11 @@ dans les pays touchés par le Coronavirus COVID-19. Les conseils aux
 voyageurs sont réévalués en fonction de l’évolution de la situation
 épidémiologique internationale et des recommandations de l’OMS.\
 \
-Dans le contexte de la mise en œuvre de l'état d'urgence sanitaire en
-France, des restrictions d'accès à la France métropolitaine et aux
-collectivités d'Outre-mer ont été mises en place. Tout voyageur est
-tenu, à compter du 8 avril 2020, 0h00, de compléter et d'avoir sur soi
-l'attestation correspondant à sa situation :
+Dans le contexte de l’état d’urgence sanitaire en France, des
+restrictions d’accès à la France métropolitaine et aux collectivités
+d’Outre-Mer ont été mises en place. Depuis le 8 avril 2020 à 0h00, tout
+voyageur est tenu de compléter et d’avoir sur soi une attestation
+correspondant à sa situation, parmi les trois cas suivants :
 
 -   [pour un déplacement dérogatoire de la France métropolitaine vers
     l'Outre-mer](https://www.interieur.gouv.fr/content/download/121920/978794/file/Attestation-om-depuis-la-metropole.pdf)
@@ -2285,8 +2283,12 @@ l'attestation correspondant à sa situation :
     collectivité
     d'Outre-mer](https://www.interieur.gouv.fr/content/download/121918/978784/file/Attestation-outre-mer-depuis-l-etranger.pdf)
 
-Le document devra être présenté aux transporteurs avant l'embarquement
-ainsi que lors des contrôles d'arrivée.\
+Le document doit indiquer le motif du déplacement. Il doit être présenté
+aux transporteurs avant l’embarquement ainsi que lors des contrôles
+d’arrivée.\
+Les documents sont téléchargeables sur le site du ministère de
+l'Intérieur :
+<https://www.interieur.gouv.fr/Actualites/L-actu-du-Ministere/Attestation-de-deplacement-et-de-voyage>\
 \
 Le ministère a aussi mis en place quatre opérations de rapatriement en
 activant le mécanisme européen de solidarité pour les ressortissants
@@ -2294,8 +2296,7 @@ français et européens qui habitaient dans la province de Hubei en Chine,
 épicentre de l’épidémie. Des règles sanitaires strictes ont été
 appliquées à l’ensemble de l’opération, qui prévoit notamment une
 période de confinement de 14 jours à l’arrivée pour l’ensemble des
-Français bénéficiant de l’opération. \
- 
+Français bénéficiant de l’opération. 
 
 Enfin, comme annoncé par le Président de la République, pour manifester
 sa solidarité avec le peuple chinois, un avion affrété par la France a
@@ -2452,6 +2453,9 @@ Pour les entreprises, le Gouvernement a annoncé les mesures suivantes :
 
 -   Des **délais de paiement d’échéances sociales et/ou fiscales**
     (URSSAF, impôts) ;
+-   Si à la fin du confinement, des entreprises sont menacées de
+    disparaître, des **annulations de charges pourront être envisagées**
+    au cas par cas ;
 -   Dans les situations les plus difficiles, des **remises d’impôts
     directs** pouvant être décidées dans le cadre d'un examen
     individualisé des demandes ;
@@ -3097,6 +3101,11 @@ par le ministère des Armées, à hauteur de 1 million d’euros.\
 les plus vulnérables, en mettant la priorité sur les personnes âgées,
 les personnes handicapées les plus fragiles et les professionnels qui
 les accompagnent en établissement.\
+\
+\
+**7 avril :** Financement d’une nouvelle technologie de détection rapide
+du COVID-19 par le ministère des Armées, à hauteur de 1,8 million
+d’euros.\
  
 
 
@@ -4111,11 +4120,11 @@ est très faible.
 
 
 
-Les restaurants ont fermé leurs portes le 15 mars, comme tout comme les
-bars, brasseries, cafés et discothèques, jusqu'à nouvel ordre. En
-revanche les activités de vente à emporter et de livraison sont
-maintenues dans les restaurants et débits de boissons, avec la
-recommandation d'éviter tout contact.
+Les restaurants ont fermé leurs portes le 15 mars, tout comme les bars,
+brasseries, cafés et discothèques, jusqu'à nouvel ordre. En revanche les
+activités de vente à emporter et de livraison sont maintenues dans les
+restaurants et débits de boissons, avec la recommandation d'éviter tout
+contact.
 
 
 
@@ -4246,6 +4255,9 @@ un petit footing mais en respectant 3 règles importantes :
 Dans les lieux où auraient été constatés des comportements manifestement
 abusifs entraînant des regroupements de personnes, les préfets pourront
 être amenés, en lien avec les maires, à encadrer la pratique sportive.
+Il vous est conseillé de vérifier, notamment en consultant le site
+internet de votre mairie ou de votre préfecture, si des mesures
+particulières s'appliquent dans votre commune.
 
 
 
@@ -4664,9 +4676,13 @@ savoir s'il existe des restrictions locales spécifiques. Munissez-vous
 également d'une attestation sur l'honneur, que vous rédigez, expliquant
 que vous vous déplacez pour le motif d'un déménagement non reportable,
 dont vous précisez la date et les deux adresses de départ et de
-destination. Vous pouvez aussi entrer en contact avec votre bailleur
-afin de lui demander de continuer à occuper le logement que vous deviez
-quitter. Il est alors possible de signer une [convention d'occupation
+destination. L'échange des clés pourra se faire en cochant la case
+"motif familial impérieux" sur l’attestation dérogatoire de
+déplacement.\
+\
+Vous pouvez aussi entrer en contact avec votre bailleur afin de lui
+demander de continuer à occuper le logement que vous deviez quitter. Il
+est alors possible de signer une [convention d'occupation
 temporaire](https://www.anil.org/fileadmin/ANIL/modeles_courriers/Location/Convention_occupation_temporaire.docx).
 Dans tous les cas, à partir du moment où vous restez plus longtemps que
 prévu, vous devez continuer à payer votre loyer et les charges pour
@@ -5302,7 +5318,15 @@ dépistage (kits immunologiques de dépistage sanguin rapide de
 l’infection au coronavirus). La commande inclut également le
 développement d’un second type de kit de détection directe du virus,
 dans la salive ou par échantillon nasal, et la sécurisation d’une
-filière de réactifs de base nationale.
+filière de réactifs de base nationale.\
+\
+Le ministère des Armées a également annoncé, le 7 avril 2020, le
+financement d’une nouvelle technologie de détection rapide du COVID-19
+par l’agence de l’innovation de défense (AID) à hauteur de 1,8 million
+d’euros. Il s’agit du projet NOMORECOV, développé par la PME BforCure,
+qui consiste à développer un automate mobile, modulaire et connecté pour
+le dépistage rapide d’une infection au coronavirus (en moins de 30
+minutes).
 
 
 
@@ -6000,6 +6024,33 @@ Ces produits passent peu de mains en mains. De plus, même s’ils étaient
 contaminés par des gouttelettes, de l’avis des experts, la plus grande
 partie du virus, susceptible de contaminer, meurt au bout de quelques
 minutes. Le plus important reste donc de se laver les mains.
+
+
+
+
+
+#### Qui peut devenir réserviste sanitaire ? {#qui-peut-devenir-réserviste-sanitaire .item-question}
+
+
+
+Compte tenu des missions assignées à la Réserve sanitaire, les
+réservistes doivent exercer dans le milieu de la santé et être capable
+de s’y intégrer très rapidement. Peuvent ainsi devenir réservistes
+sanitaires (liste non exhaustive) :\
+ 
+-   Des professionnels de santé : médecins, infirmiers, aides-soignants,
+    de tout type de services y compris médico-sociaux.
+-   Des agents hospitaliers non soignants : secrétaires médicaux,
+    assistants de régulation médicale, cadres hospitaliers, ingénieurs,
+    etc.
+-   Des professionnels des agences régionales de santé, inspecteurs de
+    l’action sanitaire et sociale, épidémiologistes, etc.
+-   Des psychologues.   
+
+Les professionnels peuvent être agents du secteur public, salariés du
+secteur privé, exercer en libéral ou être retraités. Les étudiants
+paramédicaux et médicaux, ainsi que les internes en médecine et en
+pharmacie, peuvent aussi devenir réservistes sanitaires.
 
 
 
