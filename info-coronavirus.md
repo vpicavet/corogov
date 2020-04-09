@@ -5496,26 +5496,6 @@ peut être mobilisée rapidement pour :
     rassemblements de population.
 -   des missions d’expertise.
 
-\
-Compte tenu des missions assignées à la Réserve sanitaire, les
-réservistes doivent exercer dans le milieu de la santé et être capable
-de s’y intégrer très rapidement. Peuvent ainsi devenir réservistes
-sanitaires (liste non exhaustive) :
--   Des professionnels de santé : médecins, infirmiers, aides-soignants,
-    de tout type de services y compris médico-sociaux.
--   Des agents hospitaliers non soignants : secrétaires médicaux,
-    assistants de régulation médicale, cadres hospitaliers, ingénieurs,
-    etc.
--   Des professionnels des agences régionales de santé, inspecteurs de
-    l’action sanitaire et sociale, épidémiologistes, etc.
--   Des psychologues. 
-
- \
-Les professionnels peuvent être agents du secteur public, salariés du
-secteur privé, exercer en libéral ou être retraités. Les étudiants
-paramédicaux et médicaux, ainsi que les internes en médecine et en
-pharmacie, peuvent aussi devenir réservistes sanitaires.
-
 
 
 
@@ -7237,6 +7217,7 @@ correspondant à sa situation, parmi les trois cas suivants : 
 -   pour un voyage international depuis l’étranger vers une collectivité
     d’Outre-mer. 
 
+\
 Le document doit indiquer le motif du déplacement. Il doit être présenté
 aux transporteurs avant l’embarquement ainsi que lors des contrôles
 d’arrivée.\
@@ -8221,6 +8202,7 @@ fiscale et financière.
     fiscales des collectivités
     territoriales](https://www.cohesion-territoires.gouv.fr/collectivites-territoriales-dispositions-financieres-budgetaires-et-fiscales)
 
+\
 Ordonnance du Conseil des ministres du 1er avril 2020 visant à assurer
 la continuité du fonctionnement des institutions locales et de
 l'exercice des compétences des collectivités territoriales et des
@@ -8235,6 +8217,7 @@ covid-19.
     2020](https://www.cohesion-territoires.gouv.fr/sites/default/files/2020-04/20200401%20Note%20ordonnance%20institutionnelle%20VF.pdf)
     (PDF - 478.59 Ko)
 
+\
 Par ailleurs, le 8 avril 2020, le ministère de la Cohésion des
 territoires et des Relations avec les collectivités territoriales a
 présenté une ordonnance visant à assurer la continuité de l’exercice des
@@ -8292,7 +8275,7 @@ comme possibilité de dépôt temporaire des cercueils, le transport
 international de corps, et enfin, les habilitations dans le domaine
 funéraire.
 -   [Fiche sur les impacts de l’épidémie de covid-19 dans le domaine
-    funéraire](https://www.cohesion-territoires.gouv.fr/sites/default/files/2020-04/note%20DGCL%20covid-19%20et%20fun%C3%A9raire%202%20avril%202020%20V2.pdf)
+    funéraire](https://www.collectivites-locales.gouv.fr/covid19)
 
 
 
