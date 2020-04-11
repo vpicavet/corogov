@@ -5638,19 +5638,6 @@ Il faut appeler le 15 si ces symptômes surviennent.
 
 
 
-#### Les porteurs qui guérissent sont-ils immunisés ? {#les-porteurs-qui-guérissent-sont-ils-immunisés .item-question}
-
-
-
-A ce jour, il nous est impossible d’affirmer qu’il existe une immunité
-chez les personnes guéries du COVID-19. Cependant, les données
-scientifiques sont rassurantes, car il n’existe pour le moment aucun cas
-avéré de seconde infection.
-
-
-
-
-
 #### Les problèmes dermatologiques font-ils partie des symptômes du coronavirus ? {#les-problèmes-dermatologiques-font-ils-partie-des-symptômes-du-coronavirus .item-question}
 
 
@@ -5660,8 +5647,22 @@ Des signes cutanés, comme des engelures ou des rougeurs du visage ont
 Société Française de Dermatologie en lien avec les médecins généralistes
 est en train d’étudier cette hypothèse et fera connaître ses
 conclusions.\
+\
 Toute personne souhaitant avoir un avis sur ses symptômes doit être
 orientée vers son médecin traitant.
+
+
+
+
+
+#### Les porteurs qui guérissent sont-ils immunisés ? {#les-porteurs-qui-guérissent-sont-ils-immunisés .item-question}
+
+
+
+A ce jour, il nous est impossible d’affirmer qu’il existe une immunité
+chez les personnes guéries du COVID-19. Cependant, les données
+scientifiques sont rassurantes, car il n’existe pour le moment aucun cas
+avéré de seconde infection.
 
 
 
@@ -6596,7 +6597,8 @@ Les visites aux personnes fragiles et âgées à domicile comme dans les
 établissements médico-sociaux sont suspendues. En revanche, les services
 de soins et d’accompagnement à domicile continuent à intervenir auprès
 des plus fragiles lorsque cela est nécessaire ; ils doivent néanmoins
-appliquer les gestes barrières avec une attention extrême.
+appliquer les gestes barrières avec une attention extrême, et une
+filière d’approvisionnement en masques leur est dédiée.
 
 
 
@@ -6606,11 +6608,11 @@ appliquer les gestes barrières avec une attention extrême.
 
 
 
-Uniquement pour vous occuper de personnes vulnérables comme par exemple
-les personnes en situation de handicap et en vous rappelant que les
-seniors sont les personnes les plus vulnérables et qu’il faut les
-protéger le plus possible de tout contact et donc porter une attention
-encore renforcée aux gestes barrières.
+Oui mais uniquement pour vous occuper de personnes vulnérables comme par
+exemple les personnes en situation de handicap et en vous rappelant que
+les seniors sont les personnes les plus vulnérables et qu’il faut les
+protéger le plus possible de tout contact proche et donc porter une
+attention encore renforcée aux gestes barrières.
 
 
 
@@ -6695,6 +6697,14 @@ les laboratoires, la réserve sanitaire et les conseils départementaux.\
 Par ailleurs, un accent est mis sur les renforts humains (réserve
 sanitaire, intervention des professionnels de ville, ressources locales)
 dans ces établissements.
+
+
+
+
+
+
+
+
 
 
 
@@ -6870,6 +6880,19 @@ impérieux.\
 
 
 
+#### Est-il autorisé d'aller se recueillir sur la tombe d'un défunt ? {#est-il-autorisé-daller-se-recueillir-sur-la-tombe-dun-défunt .item-question}
+
+
+
+S’il ne s’agit pas d’un enterrement, pour se rendre sur la tombe d’un
+défunt déjà inhumé, Il faudra attendre la fin de la période de
+confinement, sauf si celle-ci se situe dans le rayon d’un kilomètre
+autour du domicile.
+
+
+
+
+
 #### A l’occasion du décès d’un proche, on me dit que ses effets personnels doivent être brûlés. Quelles sont les consignes pour l’inhumation ? {#a-loccasion-du-décès-dun-proche-on-me-dit-que-ses-effets-personnels-doivent-être-brûlés.-quelles-sont-les-consignes-pour-linhumation .item-question}
 
 
@@ -6943,9 +6966,11 @@ personnes malades ou en fin de vie.
 
 
 
-Oui, les lieux de culte ont été autorisés à rester ouverts. Mais je ne
-peux pas participer à un rassemblement ou une réunion de plus de 20
-personnes au sein d’un lieu de culte.
+Oui, les lieux de culte ont été autorisés à rester ouverts, mais ils ne
+peuvent accueillir de réunions de fidèles ; seule la célébration
+d’obsèques peut donner lieu à l’accueil de la famille proche, dans la
+limite d’un total de 20 personnes et dans le respect des gestes et
+distance barrières.
 
 
 
@@ -7569,13 +7594,14 @@ santé en cas d’augmentations brutale de la population, etc
 
 
 
-Je reste chez moi et je limite mes déplacements au strict nécessaire
-(travail, course, rendez-vous médicaux). J’applique les gestes barrières
-qui permettent de freiner l'épidémie : je me lave régulièrement les
-mains, je tousse et éternue dans mon coude, j’utilise des mouchoirs à
-usage unique et les jette immédiatement, je ne salue pas les autres par
-une poignée de main ou par une embrassade, je respecte une distance de 1
-mètre avec toute autre personne.
+Je respecte le confinement en restant chez moi et je limite mes
+déplacements au strict nécessaire (travail, course, rendez vous
+médicaux). J’applique les gestes barrières qui permettent de freiner
+l'épidémie : je me lave régulièrement les mains, je tousse et éternue
+dans mon coude, j’utilise des mouchoirs à usage unique et les jette
+immédiatement, je ne salue pas les autres par une poignée de main ou par
+une embrassade, je respecte une distance de 1 mètre avec toute autre
+personne.
 
 
 
@@ -7596,16 +7622,18 @@ s’aggravent avec des difficultés respiratoires j’appelle le SAMU- Centre
 
 
 
-#### J’ai été en contact avec un cas confirmé de COVID-19 ou je vis avec un cas confirmé de COVID-19 {#jai-été-en-contact-avec-un-cas-confirmé-de-covid-19-ou-je-vis-avec-un-cas-confirmé-de-covid-19 .item-question}
+#### Je vis avec un cas confirmé de COVID-19 {#je-vis-avec-un-cas-confirmé-de-covid-19 .item-question}
 
 
 
-Je reste à mon domicile, je m’isole 2 semaines, je respecte
-scrupuleusement les gestes-barrières, je surveille ma température 2 fois
-par jour, je surveille l’apparition éventuelle de symptômes (toux,
-difficultés respiratoires, fièvre) et j’adopte le télétravail. Si des
-symptômes surviennent, je peux appeler mon médecin, mais je ne me
-déplace pas jusqu’à son cabinet, ni au laboratoire ni aux urgences. 
+ Je reste à mon domicile, je m’isole pendant que la personne vivant avec
+moi est malade, je respecte scrupuleusement les gestes barrières, je
+surveille ma température 2 fois par jour, je surveille l’apparition
+éventuelle de symptômes (toux, difficultés respiratoires, fièvre) et
+j’adopte le télétravail. Je suis avec rigueur les recommandations
+d’isolement à domicile avec un malade. Si des symptômes surviennent, je
+peux appeler mon médecin, mais je ne me déplace pas jusqu’à son cabinet,
+ni au laboratoire, ni aux urgences.
 
 
 
@@ -7636,9 +7664,10 @@ outils de télémédecine. La prise en charge ambulatoire des patients qui
 présentent des symptômes modérés a vocation à être organisée par les
 médecins habituels des patients. Cela implique, de la part des
 professionnels de santé concernés, d’organiser des circuits spécifiques
-ou de la téléconsultation pour la prise en charge des patients. Je
-m’abonne et je suis les recommandations sanitaires via le service
-DGS-Urgent.
+ou de la téléconsultation pour la prise en charge des patients. Je me
+renseigne sur les recommandations en vigueur sur le site du ministère
+des Solidarités et de la Santé, et je suis les recommandations
+sanitaires via le service DGS-Urgent.
 
 
 
@@ -8045,21 +8074,21 @@ La surveillance des décès repose sur plusieurs sources de données :
     cause du décès et à quelques caractéristiques socio démographiques
     et médicales des personnes décédées.
 -   Le nombre de décès survenus en collectivités de personnes âgées. Une
-    application est en cours de développement permettant un suivi
-    quotidien de la mortalité, dès lors qu’un EHPAD ou un autre
-    établissement médico-social a signalé au moins un cas suspecté
-    d’être infecté par le SARS-CoV-2 survenu dans l’établissement. 
-    L’application permettant la remontée quotidienne du nombre de décès
-    survenus en établissement médico-social devrait être opérationnelle
-    dans les tous prochains jours. Dès qu’elle le sera, l’addition des
-    décès survenus à l’hôpital et de ceux survenus dans les EHPAD
-    permettra de disposer d’estimations quotidiennes de la mortalité
-    couvrant les 2 principaux lieux de survenue des décès liés au
-    COVID-19, ceux survenant à domicile ou dans d’autres institutions
-    représentant a priori une faible part de la mortalité liée au
-    COVID-19. Ces données de mortalité quotidiennes peuvent être
-    déclinées au niveau régional et départemental.
+    application a été développée  afin de permettre un suivi quotidien
+    de la mortalité, dès lors qu’un EHPAD ou un autre établissement
+    médico-social a signalé au moins un cas suspecté d’être infecté par
+    le SARS-CoV-2 survenu dans l’établissement. L’application permettant
+    la remontée quotidienne du nombre de décès survenus en établissement
+    médico-social est opérationnelle depuis début avril. L’addition des
+    décès survenus à l’hôpital et de ceux survenus dans les EHPAD permet
+    de disposer d’estimations quotidiennes de la mortalité couvrant les
+    2 principaux lieux de survenue des décès liés au COVID-19, les
+    hôpitaux et les EHPAD. Les décès survenant à domicile ou dans
+    d’autres institutions représentant a priori une faible part de la
+    mortalité liée au COVID-19. Ces données de mortalité quotidiennes
+    peuvent être déclinées au niveau régional et départemental.
 
+\
 Enfin, Santé publique France dispose d’une surveillance de la mortalité
 toutes causes, s’appuyant sur les déclarations de décès transmises à
 l’Institut National de la Statistique et des Etudes Economiques (Insee)
@@ -8328,6 +8357,14 @@ mars :
     soutien financier de la BEI aux PME et ETI… D’autres initiatives
     suivront.
 
+\
+Le 9 avril 2020, les ministres des finances de l’Union européenne sont
+parvenus à un accord de grande ampleur en réponse à la crise du
+COVID-19, avec une capacité de financement de 540 milliards d’euros
+dégagée tout de suite, qui sera complétée par un fonds de relance
+ambitieux pour soutenir une reprise forte de l’activité économique en
+Europe.\
+\
 Plus d’informations sont disponibles sur la page dédiée à [la solidarité
 européenne face au
 COVID-19](https://www.diplomatie.gouv.fr/fr/politique-etrangere-de-la-france/europe/evenements-et-actualites-lies-a-la-politique-europeenne-de-la-france/actualites-europeennes/article/la-solidarite-europeenne-face-au-covid-19).
@@ -8671,7 +8708,8 @@ Violences sur les enfants : [119](tel:119) (ou sur [le site internet
 allo119.gouv.fr](http://www.allo119.gouv.fr/))\
 Violences conjugales : [3919](tel:3919) (ou sur [le site internet
 arretonslesviolences.gouv.fr](https://arretonslesviolences.gouv.fr))\
- 
+Plateforme nationale d’appui médico-psychologique pour tous les
+professionnels de santé : 0800 73 09 58 (n° vert)
 
 ### **J’habite à l’étranger, qui appeler ?**
 
