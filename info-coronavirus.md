@@ -231,9 +231,9 @@ gouttelettes](https://www.gouvernement.fr/sites/default/files/cimages/transmissi
 
 Les coronavirus sont une famille de virus, qui provoquent des maladies
 allant d’un simple rhume (certains virus saisonniers sont des
-coronavirus) à des pathologies plus sévères comme le MERS-CoV ou le
-SRAS.
-
+coronavirus) à des pathologies plus sévères comme les détresses
+respiratoires du MERS, du SRAS ou du COVID-19.\
+\
 Le virus identifié en janvier 2020 en Chine est un nouveau coronavirus,
 nommé SARS-CoV-2. La maladie provoquée par ce coronavirus a été nommée
 COVID-19 par l’[Organisation mondiale de la Santé -
@@ -251,8 +251,8 @@ de pandémie ; c’est-à-dire que l’épidémie est désormais mondiale.
 
 Les premières personnes à avoir contracté le virus s’étaient rendues au
 marché de Wuhan dans la Province de Hubei en Chine. La maladie
-semblerait donc venir d’un animal (zoonose) mais l’origine n’a pas été
-confirmée.
+semblerait donc venir d’un animal (zoonose) mais l’origine exacte n’a
+pas été confirmée.
 
 
 
@@ -263,13 +263,13 @@ confirmée.
 
 
 Le coronavirus est dangereux pour trois raisons :
--   Il est tres contagieux : chaque personne infectée va contaminer au
+-   Il est très contagieux : chaque personne infectée va contaminer au
     moins 3 personnes en l'absence de mesures de protection.
--   Il est contagieux avant d’être symptomatique, c’est à dire qu’une
-    personne contaminée, qui ne ressent pas de symptômes peut contaminer
-    d’autres personnes.
--   Environ 15% des cas constatés entraînent des complications et 5% de
-    ces dernières nécessitent une hospitalisation en réanimation.
+-   Il est contagieux avant d’être symptomatique, c’est-à-dire qu’une
+    personne contaminée, mais qui ne ressent pas encore de symptômes,
+    peut contaminer d’autres personnes.
+-   Environ 15% des cas constatés ont des complications et 5% ont besoin
+    d'être hospitalisés en réanimation.
 
 
 
@@ -279,13 +279,15 @@ Le coronavirus est dangereux pour trois raisons :
 
 
 
-Les symptômes principaux sont la fièvre ou la sensation de fièvre et la
-toux.
-
-La perte brutale de l’odorat, sans obstruction nasale et disparition
-totale du goût sont également des symptômes qui ont été observés chez
-les malades. 
-
+Les symptômes principaux sont la fièvre ou la sensation de fièvre
+(frissons, chaud-froid) et la toux. D’autres signes associés aux
+infections virales peuvent être retrouvés : maux de tête, courbatures,
+fatigue…\
+\
+Chez certains malades, une perte brutale de l’odorat (sans obstruction
+nasale), une disparition totale du goût, et une diarrhée sont également
+observées.\
+\
 Chez les personnes développant des formes plus graves, on retrouve des
 difficultés respiratoires, pouvant mener jusqu’à une hospitalisation en
 réanimation et au décès.
@@ -318,13 +320,13 @@ chez qui on constate aussi des complications ou des formes graves. La
 médiane des personnes hospitalisées en réanimation est de 58 ans (ce qui
 signifie que la moitié des patients hospitalisés en réanimation ont
 moins de 58 ans et que l'autre moitié a plus de 58 ans).\
- \
-L'infection à COViD-19 entraine des décès surtout chez les personnes
-âgées et les plus fragiles. \
 \
-Les + de 60 ans représentent 96% des décès.\
-Les + de 70 ans représentent 86% des décès.\
-Les + de 80 ans représentent 62% des décès.
+L'infection à COViD-19 entraine des décès surtout chez les personnes
+âgées et les plus fragiles.\
+\
+- Les + de 60 ans représentent environ 90% des décès.\
+- Les + de 70 ans représentent environ 80% des décès.\
+- Les + de 80 ans représentent environ 60% des décès.
 
 
 
@@ -335,9 +337,10 @@ Les + de 80 ans représentent 62% des décès.
 
 
 À ce jour il n’existe pas d’arguments scientifiques suffisamment
-robustes en cette faveur.  Les travaux de recherche se poursuivent
-aujourd’hui pour mieux connaître le virus.
-
+robustes en faveur de la circulation de plusieurs souches réellement
+différentes. Les travaux de recherche se poursuivent aujourd’hui pour
+mieux connaître le virus.\
+\
 Il convient de rappeler que la grande majorité des mutations des virus
 sont neutres, et le reste plus souvent bénéfiques pour l’Homme que
 l’inverse. En effet, dans la majorité des épidémies, les virus évoluent
@@ -351,21 +354,11 @@ vers moins de dangerosité mais plus de diffusion.
 
 
 
-Les mesures annoncées par le Président de la République ont pour
-objectif freiner la progression de l’épidémie. Dès lors, la vitesse de
-propagation du virus se ralentit et permet de limiter le nombre de
-personnes atteintes en même temps par le virus. Dans cette stratégie, le
-type de personnes atteintes par le virus, et la répartition des cas
-simples, notamment en fonction de l’âge ou de l’existence de plusieurs
-maladies n’est pas modifié. Les études internationales nous montrent que
-si les personnes fragiles sont les plus à risque de développer une forme
-grave d’infection au coronavirus, l’ensemble de la population peut
-également être concernée. La notion de seconde vague évoquée par le
-Président de la République se fonde sur les observations scientifiques
-montrant que les sujets jeunes, au début de leur contamination,
-présentent des symptômes peu graves, mais qu’après environ une semaine
-d’évolution, certains présentent des atteintes plus sévères, nécessitant
-de possibles hospitalisations.
+La notion de seconde vague évoquée par le Président de la République se
+fonde sur les observations scientifiques montrant que les sujets jeunes,
+au début de leur contamination, présentent des symptômes peu graves,
+mais qu’après environ une semaine d’évolution, certains présentent des
+atteintes plus sévères, nécessitant de possibles hospitalisations.
 
 
 
@@ -377,10 +370,12 @@ de possibles hospitalisations.
 
 Après avoir rencontré un virus, notre organisme développe des défenses
 immunitaires appelées anticorps, lui permettant de se défendre contre ce
-virus. Bien que nous soyons encore à un stade précoce pour se prononcer
-sur cette question, de l’avis des scientifiques les premières données
-semblent rassurantes, car ce jour, aucun cas réellement confirmé de
-re-contamination ne semble avoir eu lieu.
+virus. Après l’infection au coronavirus, nous ne savons pas encore bien
+si ces anticorps sont efficaces et pour combien de temps. Bien que nous
+soyons encore à un stade précoce pour se prononcer sur cette question,
+de l’avis des scientifiques les premières données semblent rassurantes,
+car ce jour, aucun cas réellement confirmé de re-contamination ne semble
+avoir eu lieu.
 
 
 
