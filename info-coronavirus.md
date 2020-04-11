@@ -450,11 +450,12 @@ invisibles lors d’une discussion, d’éternuements ou de la toux). On
 considère donc qu’un contact étroit avec une personne malade est
 nécessaire pour transmettre la maladie : même lieu de vie, contact
 direct à moins d’un mètre lors d’une discussion, d’une toux, d’un
-éternuement ou en l’absence de mesures de protection.
-
+éternuement ou en l’absence de mesures de protection.\
+\
 Un des autres vecteurs privilégiés de la transmission du virus est le
-contact des mains non lavées souillées par des gouttelettes.
-
+contact des mains non lavées ou de surfaces souillées par des
+gouttelettes.\
+\
 C’est donc pourquoi les gestes barrières et les mesures de distanciation
 sociale sont indispensables pour se protéger de la maladie.
 
@@ -471,7 +472,9 @@ rapproché, plus le risque de contamination augmente (plus de 15 minutes,
 à moins d’un mètre). C’est la raison pour laquelle la distanciation
 sociale et les mesures barrières doivent être appliquées. Il est donc
 possible de vivre avec un cas COVID-19 à domicile si l’on respecte
-scrupuleusement les gestes barrières.
+scrupuleusement les gestes barrières et les mesures d’isolement avec un
+malade disponibles sur le site du ministère des Solidarités et de la
+Santé.
 
 
 
@@ -481,16 +484,56 @@ scrupuleusement les gestes barrières.
 
 
 
-Non, il ne peut pas vivre dans l’air tout seul. Le coronavirus
-responsable du COVID-19 se transmet par les gouttelettes, qui sont les
-sécrétions respiratoires qu’on émet quand on tousse, qu’on éternue ou
-qu’on parle.
+Non, dans des conditions habituelles, le coronavirus ne circule pas dans
+l’air. Le coronavirus responsable du COVID-19 se transmet par les
+gouttelettes, qui sont les sécrétions respiratoires qu’on émet quand on
+tousse, éternue ou parle.\
+\
+Les gouttelettes peuvent cependant atteindre une personne à proximité
+(&lt;1 mètre) ou se fixer sur une surface, comme les mains ou les
+mouchoirs. Ce sont les individus qui transportent le coronavirus. C’est
+pour cela qu’il est important de respecter les gestes barrières et les
+mesures de distanciation sociale.
 
-Le virus est transporté par les gouttelettes, il ne circule pas dans
-l’air tout seul, mais peut atteindre une personne à proximité (&lt;1
-mètre) ou se fixer sur une surface souillée par les gouttelettes, comme
-les mains ou les mouchoirs. C’est pour cela qu’il est important de
-respecter les gestes barrières et les mesures de distanciation sociale.
+
+
+
+
+#### Quel est le risque de contamination par les surfaces ? Faut-il tout nettoyer ? {#quel-est-le-risque-de-contamination-par-les-surfaces-faut-il-tout-nettoyer .item-question}
+
+
+
+Selon les dernières publications scientifiques, le virus peut, dans des
+conditions propices, survivre sous forme de traces plusieurs heures à
+plusieurs jours sur une surface contaminée par des gouttelettes.
+Toutefois, ces études ont évalué la présence de matériel génétique, et
+non pas de virus vivant. De l’avis des experts, la charge virale du
+virus  (qui correspond à sa capacité de contaminer) diminue très
+rapidement dans le milieu extérieur, et en quelques minutes, celui-ci
+n’est plus contaminant.\
+\
+Ainsi, ce n’est pas parce que du virus persiste que cela est suffisant
+pour contaminer une personne qui toucherait cette surface. La grande
+transmissibilité du coronavirus COVID-19 n’est pas liée à sa survie sur
+les surfaces, mais à sa transmission quand on tousse, qu’on éternue,
+qu’on discute ou par les gouttelettes expulsées et transmises par les
+mains.\
+\
+Toutefois, par principe de précaution, il peut être utile de nettoyer
+les surfaces fréquemment et récemment touchées par les mains d’autres
+personnes, notamment quand elles sont visiblement souillées.\
+\
+Il n’est cependant pas utile de désinfecter le sol, les murs ou le
+courrier car ce sont des surfaces passant peu de mains en mains.\
+\
+Quand on sort de son foyer, et qu’on touche certaines surfaces
+fréquemment manipulées par d’autres (boutons, caddies de supermarché),
+il faut avant tout éviter de se toucher le visage et bien se laver les
+mains de retour à domicile.\
+\
+Quand on sort à l’extérieur, c’est le respect des gestes barrières et
+des mesures de distanciation sociale qui permet de se protéger
+efficacement du virus.
 
 
 
@@ -592,13 +635,13 @@ préparation des denrées alimentaires.
 
 
 
-Oui mais c’est peu probable. Les caddies, comme toutes les surfaces,
-peuvent servir de support au virus si elles sont souillées par des
-gouttelettes respiratoires d’un sujet contaminé. Le virus peut rester
-quelques heures sur une surface comme un caddie, mais en quantité
-faible. En appliquant les mesures barrières (se laver les mains
-notamment) et en nettoyant le caddie avec une lingette, le risque
-devient négligeable.
+Oui, bien que ce soit peu probable si on respecte les gestes barrières.
+Les caddies, comme toutes les surfaces, peuvent servir de support au
+virus, s’ils sont souillés par des gouttelettes respiratoires d’un sujet
+contaminé. Le virus peut rester quelques heures sur une surface comme un
+caddie, mais en quantité faible. En appliquant les gestes barrières (se
+laver les mains notamment) et en nettoyant le caddie avec une lingette,
+le risque devient négligeable.
 
 
 
@@ -639,13 +682,13 @@ nombreuses personnes aujourd’hui confinées ont été contaminées avant la
 mise en place des mesures de confinement mais ne sont pas encore
 symptomatiques. Après apparition des symptômes, il faut encore quelques
 jours, entre 5 à 8 jours selon les observations, pour que les symptômes
-s’aggravent et nécessitent une hospitalisation. Au total, il faut donc
-au moins de 10 jours pour que le confinement ait un premier impact sur
-les hospitalisations. Parmi les indicateurs utiles, le nombre de
-consultations en médecine de ville en lien avec des symptômes COVID-19
-(après la période d’incubation) devrait être le premier indicateur à la
-baisse. Toutefois, ces données nécessiteront du temps afin d’être
-consolidées.
+s’aggravent et nécessitent une hospitalisation. Au total, il faut donc 2
+à 3 semaines pour que le confinement, s’il est bien respecté, ait un
+premier impact sur les hospitalisations. Parmi les indicateurs utiles,
+le nombre de consultations en médecine de ville en lien avec des
+symptômes COVID-19 (après la période d’incubation) devrait être le
+premier indicateur à la baisse. Toutefois, ces données nécessiteront du
+temps afin d’être consolidées.
 
 
 
@@ -674,46 +717,6 @@ nuire à votre animal comme à vous et votre entourage. L'usage de
 produits inadaptés (eau de javel...) voire agressifs pour l'animal, peut
 être assimilé à une véritable maltraitance et surtout ferait souffrir
 votre animal sans aucun bénéfice pour vous comme pour lui.
-
-
-
-
-
-#### Quel est le risque de contamination par les surfaces ? Faut-il tout nettoyer ? {#quel-est-le-risque-de-contamination-par-les-surfaces-faut-il-tout-nettoyer .item-question}
-
-
-
-Selon les dernières publications scientifiques, le virus peut, dans des
-conditions propices, survivre sous forme de traces plusieurs heures à
-plusieurs jours sur une surface contaminée par des gouttelettes.
-Toutefois, ces études ont évalué la présence de matériel génétique, et
-non pas de virus vivant. De l’avis des experts, la charge virale du
-virus diminue très rapidement dans le milieu extérieur, et en quelques
-minutes, celui-ci n’est plus contaminant.\
-\
-Ainsi, ce n’est pas parce que du virus persiste que cela est suffisant
-pour contaminer une personne qui toucherait cette surface. La grande
-transmissibilité du coronavirus COVID-19 n’est pas liée à sa survie sur
-les surfaces, mais à sa transmission quand on tousse, qu’on éternue,
-qu’on discute ou par les gouttelettes expulsées et transmises par les
-mains.\
-\
-Toutefois, par principe de précaution, il peut être utile de nettoyer
-les surfaces fréquemment et récemment touchées par les mains d’autres
-personnes, notamment quand elles sont visiblement souillées.\
-\
-Il n’est cependant pas utile de désinfecter le sol, les murs, les
-produits achetés au supermarché ou le courrier car ce sont des surfaces
-passant peu de mains en mains.\
-\
-Quand on sort de son foyer, et qu’on touche certaines surfaces
-fréquemment manipulées par d’autres (boutons, caddies de supermarché),
-il faut avant tout éviter de se toucher le visage et bien se laver les
-mains de retour à domicile.\
-\
-Quand on sort à l’extérieur, c’est le respect des gestes barrières et
-des mesures de distanciation sociale qui permet de se protéger
-efficacement du virus.
 
 
 
@@ -900,6 +903,30 @@ COVID-19.
 
 
 
+#### Existe-t-il un traitement ? {#existe-t-il-un-traitement .item-question}
+
+
+
+\
+Les patients infectés par le coronavirus bénéficient aujourd’hui de
+traitements symptomatiques, c’est-à-dire visant à améliorer les
+symptômes. Il n’existe pas encore de traitement visant spécifiquement le
+virus. Un grand essai clinique a démarré au niveau européen pour évaluer
+plusieurs traitements contre le coronavirus. Cet essai, dénommé
+DISCOVERY, a pour but d’évaluer l’efficacité et la sécurité de quatre
+stratégies thérapeutiques expérimentales qui pourraient avoir un effet
+contre le COVID-19. Les molécules testées sont le Remdesivir,
+l’association Lopinavir + Ritonavir, l’association Lopinavir + Ritonavir
++ interféron beta et enfin l’hydroxychloroquine. L’essai compte inclure
+notamment 800 patients en France. Il y a donc de nombreuses pistes
+thérapeutiques potentielles, mais dont l’efficacité et l’innocuité
+doivent être démontrées. Pour le moment aucune n’est favorisée ; aucun
+traitement spécifique n’est donc validé.
+
+
+
+
+
 #### La prise d'anti-inflammatoire (ibuprofène) pourrait être un facteur d'aggravation de l'infection ? {#la-prise-danti-inflammatoire-ibuprofène-pourrait-être-un-facteur-daggravation-de-linfection .item-question}
 
 
@@ -924,9 +951,9 @@ Français des Centres Régionaux de Pharmacovigilance).
 
 \
 Il n'y a pas de problème de production en oxygène, ni
-d'approvisionnement du vrac ou de livraison. Concernant les bouteilles
-en elle-même (contenant en métal), il existe des tensions liées aux
-délais de production.\
+d'approvisionnement du vrac ou de livraison. Concernant les
+bouteilles en elles-mêmes (contenants en métal)  il existe des tensions
+liées aux délais de production.\
 \
 Il n’y a cependant pas de risque de pénurie, mais il est demandé aux
 hôpitaux :\
@@ -945,12 +972,12 @@ les bouteilles.
 
 
 
-L’Agence nationale de sécurité du médicament (ANSM) a décidé, afin de
-garantir leur disponibilité, qu’à partir du 18 mars 2020, les
-pharmaciens pourront délivrer sans ordonnance une seule boite de
-paracétamol (500 mg ou 1g) par patient ne présentant aucun symptôme, ou
-deux boites (500 mg ou 1g) en cas de symptômes (douleurs et/ou fièvre).
-La vente sur Internet des médicaments à base de paracétamol,
+Non, néanmoins l’Agence nationale de sécurité du médicament (ANSM) a
+décidé, afin de garantir leur disponibilité, qu’à partir du 18 mars
+2020, les pharmaciens pourront délivrer sans ordonnance une seule boite
+de paracétamol (500 mg ou 1g) par patient ne présentant aucun symptôme,
+ou deux boites (500 mg ou 1g) en cas de symptômes (douleurs et/ou
+fièvre). La vente sur Internet des médicaments à base de paracétamol,
 d'ibuprofène et d'aspirine est suspendue.
 
 
@@ -1034,7 +1061,7 @@ Le ministre des Solidarités et de la Santé prendra prochainement un
 arrêté pour encadrer l’utilisation du médicament, qui sera accessible
 aux équipes hospitalières qui le souhaitent pour l’utiliser selon ces
 orientations précises. Il ne s’agit pas d’une autorisation de mise sur
-le marché ni d’une d’une utilisation libre.\
+le marché ni d’une utilisation libre.\
 \
 D’importantes études cliniques, sur plusieurs milliers de malades en
 Europe dont 800 malades en France, sont en cours pour identifier le ou
@@ -1125,10 +1152,30 @@ sur plusieurs pistes de traitement à Paris, Marseille ou encore Lyon ;
 les protocoles ont commencé. Des équipes sont également à pied d'œuvre
 pour inventer un vaccin, qui pourrait voir le jour dans les prochains
 mois.\
+\
 Par ailleurs, le président de la République a annoncé le 19 mars la mise
 en place d’un fonds d’urgence de 50 millions d’euros pour lutter contre
 l’épidémie ainsi que le réinvestissement de 5 milliards d’euros
-supplémentaires dans la recherche sur les dix prochaines années.
+supplémentaires dans la recherche sur les dix prochaines années.\
+\
+La France est le seul pays européen à avoir initié un programme de
+recherche clinique sur le COVID-19 dès le 22 mars. Au 3 avril, 18
+centres de recherche et hôpitaux français avaient inclus des patients à
+des essais. Également en France, 270 projets ont été soumis dans le
+cadre de l’appel à projets accéléré Flash Covid-19 lancé par l’Agence
+Nationale de la Recherche, dont 44 ont été pré-financés dans plusieurs
+domaines : modélisation, modes de transmission, enjeux sociaux et
+sociétaux, épidémiologie, aspects populationnels, diagnostic,
+physiopathologie et réponse immunitaire, développement thérapeutique.
+Dans le cadre d’une procédure d’évaluation accélérée, le ministère des
+Solidarités et de la Santé a également financé 11 projets de recherche
+clinique consacrés au COVID, dont Discovery. C'est la première fois que
+la communauté scientifique française mène un effort de recherche d’une
+telle ampleur, en temps réel, au cours d'une épidémie.\
+\
+La France participe activement aux initiatives mondiales de recherches :
+tous les travaux sont mis en ligne en open source et en open access pour
+partager le maximum de données.
 
 
 
@@ -1143,7 +1190,7 @@ supplémentaires dans la recherche sur les dix prochaines années.
 ### Point de situation en France {#point-de-situation-en-france .item-paragraphe-titre .c-onglet data-picto=""}
 
 
-**Le 10 avril, à 20h00**\
+**Le 10 avril 2020, à 20h00**\
  
 
 Les autorités sanitaires tiennent [un point presse
@@ -1299,14 +1346,23 @@ les appelle les gestes barrières :
 
 
 
-Le port du masque chirurgical n’est pas recommandé sans présence de
-symptômes. Le masque n’est pas la bonne réponse pour le grand public car
-il ne peut être porté en permanence et surtout n’a pas d’indication sans
-contact rapproché et prolongé avec un malade.
-
 \
+En raison des difficultés d’approvisionnement actuelles, les masques
+sanitaires sont réservés aux soignants. De plus, le masque n’est pas la
+bonne réponse systématique pour le grand public car il ne peut être
+porté en permanence et n’a pas d’indication sans contact rapproché et
+prolongé avec un malade.\
 Contre le coronavirus, ce sont les gestes barrières et les mesures de
-distanciation sociale qui sont efficaces.
+distanciation sociale qui sont efficaces.\
+\
+Néanmoins, au terme d’une démarche supervisée par l’Agence nationale de
+sécurité du médicament et des produits de santé (ANSM), avec le soutien
+de l’ANSES, deux nouvelles catégories de masques grand public ont ainsi
+été créées. Ces masques auront vocation à être utilisés dans des
+situations professionnelles en complément des mesures barrières (voir la
+question « Existe-t-il d’autres masques que les FFP2 pour se protéger
+efficacement contre le COVID-19 ?).\
+ 
 
 
 
@@ -1425,9 +1481,8 @@ titre, ils pourront en être équipés.
 
 
 
-Oui, par décret du 3 mars 2020, sont réquisitionnés les stocks de
-masques anti-projections et de protection respiratoire de type FFP2
-ainsi que ceux qui seront produits jusqu’au 31 mai 2020.
+Oui, par décret du 3 mars 2020, sont réquisitionnés les stocks de type
+FFP2 ainsi que les masques chirurgicaux produits jusqu’au 31 mai 2020.
 
 
 
@@ -1440,7 +1495,9 @@ ainsi que ceux qui seront produits jusqu’au 31 mai 2020.
 Il n’existe aucune étude ce jour évaluant l’efficacité des foulards ou
 écharpes en tant que « masques » pour se protéger de virus. Il semble
 toutefois peu probable qu’ils soient efficaces, car les mailles des
-tissus utilisés laissent passer les virus.
+tissus utilisés laissent passer les virus. De plus, ils exposent au
+risque de se toucher fréquemment le visage, et donc se contaminer à
+travers les mains.
 
 
 
@@ -1461,16 +1518,21 @@ protège donc le porteur du masque contre les virus circulant dans l’air.
 Dans le cas du coronavirus, il est réservé pour les situations à risque,
 réalisées par le personnel soignant, quand il existe des possibilités
 d’aérosolisation du virus (propulsion de gouttelettes contaminées),
-notamment lors des gestes invasifs.\
+notamment lors des gestes invasifs. La production nationale en masques
+de protection à destination des professionnels de santé et des patients
+atteints par le coronavirus est passée de 15 millions de masques FFP2 et
+chirurgicaux par mois avant la crise, à plus de 40 millions en avril.\
 \
-3. **Les masques barrières**\
+3. **Les masques grand public**\
  \
 La priorité du Gouvernement en termes de masques est l’équipement des
 professionnels de santé, via des importations massives et l’augmentation
 de nos capacités de production.\
  \
 Mais il y a aussi une demande croissante, dans de nombreux secteurs
-d’activité, d’augmenter la protection des salariés par des masques.\
+d’activité, d’augmenter la protection des salariés par des masques en
+complément des gestes barrières et des mesures de distanciation
+sociale.\
  \
 Pour contribuer à y répondre, le Gouvernement a mobilisé les industriels
 français du textile afin de proposer de nouveaux types de masques
@@ -1486,9 +1548,9 @@ certaines catégories d’agents publics.\
 \
 Le mardi 7 avril 2020, le ministère de l’Economie et des Finances a
 annoncé que l’engagement de la filière Textile-Habillement a déjà permis
-la production de 3,9 millions de masques barrières à usage professionnel
-non sanitaire (produits entre le 30 mars et le 5 avril). Cette
-production devrait monter rapidement en cadence pour atteindre 6,6
+la production de 3,9 millions de masques grand public à usage
+professionnel non sanitaire (produits entre le 30 mars et le 5 avril).
+Cette production devrait monter rapidement en cadence pour atteindre 6,6
 millions d’unités au cours de la même semaine.\
 \
 Ce sont désormais 76 entreprises dont les prototypes de masques
@@ -1499,16 +1561,15 @@ quotidienne à court terme de 456 000 masques (soit l’équivalent d’une
 production de 3,5 millions de masques à usage unique par jour).\
 \
 Ces masques sont qualifiés pour des environnements de travail :
--   Les masques barrières contacts fréquents : l’usage de ces masques
-    est destiné aux populations amenées à accueillir du public dans le
-    cadre de leurs activités professionnelles (policiers, gendarmes,
-    hôtesses de caisses, etc.). Ils filtrent plus de 90% des particules
-    émises d’une taille supérieure ou égale à 3 microns compatibles avec
-    cette utilisation.
--   Les masques barrières, pour protéger l’ensemble d’un groupe portant
-    ces masques et sans contact avec le public : ces masques sont
-    destinés à l’usage d’individus ayant des contacts occasionnels avec
-    d’autres personnes, dans le cadre professionnel. Leurs propriétés de
+-   Masques grand public de catégorie 1 : l’usage de ces masques est
+    destiné aux populations amenées à accueillir du public dans le cadre
+    de leurs activités professionnelles (policiers, gendarmes, hôtesses
+    de caisses, etc.). Ils filtrent plus de 90% des particules émises
+    d’une taille supérieure ou égale à 3 microns compatibles avec cette
+    utilisation.
+-   Masques grand public de catégorie 2 : ces masques sont destinés à
+    l’usage d’individus ayant des contacts occasionnels avec d’autres
+    personnes, dans le cadre professionnel. Leurs propriétés de
     filtration des particules supérieures ou égales à 3 microns
     apportent un complément de protection aux gestes barrières.
 
@@ -1522,7 +1583,39 @@ distanciation sociale.\
 \
 4.    **Il existe des masques FFP3**, réservés à certaines utilisations
 très spécifiques. Ils ne sont pas utiles en prévention de la
-transmission COVID-19.
+transmission COVID-19.\
+\
+Le ministère de l’Economie et des Finances aide les entreprises et les
+filières à s’approvisionner en masques de protection nécessaires à la
+poursuite de l’activité économique. Plusieurs possibilités sont ouvertes
+aux entreprises souhaitant acquérir des masques :
+-   **Recourir à l’importation** : les entreprises dont l’activité
+    nécessite le port d’un masque de protection peuvent se fournir
+    directement auprès de producteurs étrangers sans que les masques
+    importés ne soient réquisitionnés.
+-   **Passer commande sur la plateforme StopCovid19.fr** : plateforme
+    professionnelle qui permet de mettre en relation les fabricants et
+    les acheteurs de gels hydro-alcooliques et masques de protection (la
+    plateforme a déjà permis la commande de 1 390 000 masques). 
+-   **Mutualiser les commandes au niveau des filières ou grands donneurs
+    d’ordre** : afin d’aider les PME et sous-traitants à importer, le
+    ministère de l’Economie et des Finances a demandé aux filières
+    industrielles et économiques, ainsi qu’aux principaux donneurs
+    d’ordre, de faire preuve de solidarité en organisant, au niveau de
+    chaque filière, des commandes mutualisées au bénéfice de l’ensemble
+    de leurs entreprises.
+
+\
+Par ailleurs, le 9 avril 2020, le ministre de l’Economie et des Finances
+et le ministre de l’Action et des Comptes publics ont annoncé que les
+entreprises fabriquant ou important du matériel sanitaire (masques, gels
+hydroalcooliques, tenues de protection et respirateurs) et qui en font
+dons à des établissements de santé, à des établissements sociaux et
+médico-sociaux qui accueillent des personnes âgées, handicapées ou
+atteintes de pathologies chroniques, à des professionnels de la santé ou
+à des services de l’État et des collectivités territoriales, pourront
+déduire la taxe sur la valeur ajoutée (TVA) supportée à l’occasion de
+l’acquisition ou de la fabrication de ces matériels.   
 
 
 
@@ -1614,60 +1707,61 @@ l’Europe et des Affaires
 **A. Si vous êtes Français résident au sein de l’espace européen (Union
 européenne, espace Schengen, Royaume-Uni).**
 
-Si vous êtes Français ayant une résidence habituelle hors de France mais
-au sein de l’espace européen, nous vous recommandons d’éviter des
+Si vous êtes Français et avez votre résidence habituelle hors de France
+mais au sein de l’espace européen, nous vous recommandons d’éviter des
 déplacements intra-européens, même pour revenir sur le territoire
 national, à moins que des raisons impératives ne vous y contraignent. Si
 plusieurs frontières terrestres devaient être franchies pour regagner la
 France, des retours directs par voie aérienne devraient, dans la mesure
 du possible, être privilégiés.\
- 
-
+\
 **B. Si vous êtes Français ayant votre résidence habituelle en dehors de
 l’espace européen.**
 
-Nous vous recommandons, à partir du 17 mars à midi et pour 30 jours,
-d’éviter autant que possible les déplacements internationaux, même pour
-revenir sur le territoire national, à moins que des raisons impératives
-ne vous y contraignent. Si vous jugez nécessaire de rentrer en France,
-notamment au regard de vos conditions sanitaires, vous devez vous faire
-connaître de nos ambassades et consulats dès que possible.\
- 
-
+Nous vous recommandons d’éviter autant que possible les déplacements
+internationaux, même pour revenir sur le territoire national, à moins
+que des raisons impératives ne vous y contraignent. Si vous jugez
+nécessaire de rentrer en France, notamment au regard de vos conditions
+sanitaires, vous devez vous faire connaître de nos ambassades et
+consulats dès que possible.\
+\
 **C. Si vous êtes Français actuellement en déplacement temporaire à
-l’étranger**
-
+l’étranger.**\
+\
 Nous vous recommandons de prendre toutes les mesures nécessaires pour
 rentrer rapidement en France tant que des liaisons aériennes sont en
-place. Pour vous y aider, le ministère chargé des transports a demandé
+place. Pour vous y aider, le ministère chargé des Transports a demandé
 aux compagnies aériennes de maintenir au maximum leurs lignes ouvertes
-vers la France et de modérer leurs prix.
-
-Le ministère de l’Europe et des affaires étrangères est mobilisé pour
+vers la France et de modérer leurs prix.\
+\
+Le ministère de l’Europe et des Affaires étrangères est mobilisé pour
 obtenir l’autorisation de liaisons aériennes spéciales et pour qu’elles
-puissent être assurées par des vols commerciaux. Ces démarches ont déjà
-porté leurs fruits dans plusieurs pays.
-
+puissent être assurées par des vols commerciaux. \
+\
 Plusieurs mesures d’accompagnement ont été mises en place afin d’aider
 et de faciliter les démarches des ressortissants français. Ainsi, un
 dispositif exceptionnel a permis d’engager une coopération
 opérationnelle avec le groupe Air France, et ses compagnies Air France
 et Transavia, et d’autres compagnies aériennes françaises et étrangères,
-notamment Qatar Airways. Cette coopération permet d’abord de recenser,
-pays par pays, les besoins puis de mettre en œuvre un plan de transport
-adapté en fonction des priorités et des urgences locales.  
-
+notamment Qatar Airways. Cette coopération articulée avec les ambassades
+et consulats permet d’abord de recenser, pays par pays, les besoins puis
+de mettre en œuvre un plan de transport adapté en fonction des priorités
+et des urgences locales. Au 7 avril 2020 plus de 151.000 Français de
+passage à l’étranger ont ainsi pu regagner la France. \
+\
 Il est nécessaire de consulter régulièrement les sites des ambassades et
 des compagnies aériennes, notamment d’Air France.\
-Les Français non - résidents sont invités à  s’inscrire sur Ariane, afin
-de recevoir des informations actualisées. Lorsque vous serez rentré en
-France, pensez à vous connecter sur votre compte Ariane afin
-d’actualiser vos données de voyage en indiquant votre date de retour.  
-
-Les ambassades et les consulats sont mobilisés 24 heures sur 24, auprès
-des Français se trouvant à l'étranger, pour apporter toute l'aide
-possible.\
 \
+Les Français non-résidents sont invités à s’inscrire sur Ariane, afin de
+recevoir des informations actualisées. Lorsque vous serez rentré en
+France, pensez à vous connecter sur votre compte Ariane afin
+d’actualiser vos données de voyage en indiquant votre date de retour.\
+\
+Les ambassades et les consulats sont mobilisés 24 heures sur 24, auprès
+des Français se trouvant à l’étranger, pour apporter toute l’aide
+possible
+
+ 
 Pour plus d’informations, consultez la page dédiée du [ministère de
 l’Europe et des Affaires
 étrangères](https://www.diplomatie.gouv.fr/fr/le-ministere-et-son-reseau/actualites-du-ministere/informations-coronavirus-covid-19/coronavirus-les-reponses-a-vos-questions/).
@@ -1682,21 +1776,23 @@ l’Europe et des Affaires
 
 Les citoyens européens et les ressortissants britanniques, islandais,
 liechtensteinois, norvégiens, andorrans, monégasques et suisses, leurs
-conjoints et leurs enfants sont admis à entrer sur le territoire
-national, de même que les citoyens du Saint Siège et de San Marin, leurs
-conjoints et leurs enfants, quel que soit leur lieu de résidence.
-
+conjoints et leurs enfants sont admis à rentrer en France, de même que
+les citoyens du Saint Siège et de San Marin, leurs conjoints et leurs
+enfants, s’ils résident en France ou s’ils transitent par la France pour
+rejoindre leur résidence.\
+\
 Les étrangers titulaires d’un titre de séjour en cours de validité, y
 compris visa de long séjour valant titre de séjour, sont autorisés à
-entrer en France.
-
+entrer en France.\
+\
 Dans des cas limités (transport de marchandises notamment), des
 étrangers titulaires d’un visa de court séjour seront autorisés à entrer
-en France.
-
+en France.\
+\
 Si vous êtes Français, vous pouvez bien sûr, avec votre conjoint et vos
 enfants, continuer d’entrer sur le territoire national et rejoindre
 votre domicile.\
+ 
 Pour plus d’informations, consultez [la page dédiée du Ministère de
 l’Europe et des Affaires
 étrangères](https://www.diplomatie.gouv.fr/fr/le-ministere-et-son-reseau/actualites-du-ministere/informations-coronavirus-covid-19/coronavirus-les-reponses-a-vos-questions/).
@@ -2139,14 +2235,10 @@ Coronavirus COVID-19 sur le territoire français.
 \
 L’évolution de la situation internationale est suivie de près par les
 autorités sanitaires avec l’ensemble des acteurs concernés en lien avec
-l’OMS.
-
-Le ministère chargé de la Santé s’engage à communiquer sans délai pour
-chaque cas confirmé mais ne délivre pas d’information sur les cas en
-cours d’investigation (cas suspect, cas possible en cours de bilan…).
+l’OMS.\
 \
-Des mesures de protection sont prises dans ces établissements et
-services pour les personnes et pour freiner la propagation du virus :
+Des mesures de protection sont prises dans les établissements de santé
+pour les personnes et pour freiner la propagation du virus :
 
 -   Les visites dans les structures accueillant des enfants et des
     adultes sont suspendues, excepté dans certaines situations
@@ -2195,7 +2287,16 @@ l’opération militaire “Résilience”, distincte de l’opération
 aux services publics en terme sanitaire, logistique et de protection en
 métropole et dans les Outre-mer. Prochainement les porte-hélicoptères
 Mistral et Dixmud seront déployés respectivement au sud de l’Océan
-Indien (Réunion, Mayotte) et dans la région Antilles-Guyane.
+Indien (Réunion, Mayotte) et dans la région Antilles-Guyane.\
+\
+Par ailleurs, le ministre des Solidarités et de la Santé a annoncé, le 9
+avril 2020, la mise en place d’une plateforme nationale d’appui
+médico-psychologique pour tous les professionnels de santé, qu’ils
+exercent en milieu hospitalier, médico-social ou libéral ou qu’ils
+soient étudiants en santé et internes. Accessible par le 0800 73 09 58
+(n° vert), elle prend la forme d’une cellule d’écoute ouverte 7 jours /
+7 de 8h00 à minuit grâce à l’engagement de psychologues hospitaliers
+volontaires et bénévoles.
 
 
 
@@ -2429,6 +2530,29 @@ Sont concernés par ce dispositif :
     régionales de santé (ARS) des préfectures et ceux affectés à
     l’équipe nationale de gestion de la crise.
 
+\
+Par ailleurs, le secrétaire d’Etat auprès du ministre des Solidarités et
+de la Santé et la Caisse nationale d’allocations familiales (CNAF) ont
+annoncé, le 9 avril 2020, un plan d’actions pour aider les parents
+pendant la période de confinement, regroupant les dispositifs et
+services à destination des parents : 
+1.  Un accueil de loisirs à la maison avec des activités différentes
+    chaque jour pour apprendre en famille tout en s’amusant :
+    [monenfant.fr](http://monenfant.fr/).
+2.  La mobilisation d’un fonds exceptionnel de 500 000 euros pour
+    soutenir les projets associatifs et initiatives d’envergure
+    nationale à destination des parents.
+3.  De nouvelles initiatives et des offres de service à disposition des
+    parents plus faciles d’accès ; afin de centraliser l’ensemble de ces
+    initiatives et d’en faciliter l’accès aux parents, différents
+    vecteurs seront mobilisés : 
+4.  Le numéro vert COVID19 « 0800130000 ».
+5.  Le sites [www.monenfant.fr](http://monenfant.fr/). 
+6.  Un soutien renforcé des Caf et de leurs partenaires aux familles en
+    situation de fragilité.
+7.  Une fiche récapitulative dans chaque département à l’attention des
+    parents.
+
 
 
 
@@ -2506,6 +2630,31 @@ l’ensemble des entreprises.\
 \
 Pour plus d’informations dans votre région, contactez le 0 800 130 000.\
 \
+\
+Le 9 avril 2020, le ministre de l’Economie et des Finances et le
+ministre de l’Action et des Comptes publics ont annoncé le renforcement
+du plan d’urgence de soutien à l’économie : de 45 milliards d'euros, il
+passe à 100 milliards d'euros. Cette hausse exceptionnelle s’applique
+pour toutes les mesures mises en place comme le dispositif de chômage
+partiel et le fonds de solidarité.\
+\
+Le 10 avril 2020, le ministre de l'Economie et des Finances a annoncé le
+lancement du dispositif de réassurance publique des risques
+d’assurance-crédit des entreprises, permettant aux entreprises ayant
+souscrit une telle couverture, et qui se verraient notifier des
+réductions ou des refus de garanties sur certains clients du fait de la
+dégradation de la conjoncture économique, de continuer à être
+couvertes.\
+\
+Par ailleurs, le Conseil de la protection sociale des travailleurs
+indépendants a annoncé la création d’une aide exceptionnelle à
+destination de tous les artisans et commerçants. L’aide correspondra au
+montant des cotisations de retraite complémentaire versées par les
+artisans et commerçants sur la base de leurs revenus de 2018 et pourra
+aller jusqu’à 1 250 euros. Cette aide sera versée de façon automatique
+par les Urssaf et ne nécessitera aucune démarche des travailleurs
+indépendants concernés.\
+\
 Certaines entreprises, appartenant aux secteurs essentiels pour les
 citoyens dans cette période, ont besoin de renfort en main d’œuvre pour
 assurer leurs activités et la continuité économique du pays. Pour y
@@ -2534,8 +2683,7 @@ qui souhaitent s’engager dans ce dispositif, le ministère du Travail
 propose des modèles simplifiés de convention de mise à disposition entre
 entreprises et d’avenant au contrat de travail du salarié. Ces modèles
 de convention sont disponibles sur le [site du ministère du
-Travail](https://travail-emploi.gouv.fr/actualites/l-actualite-du-ministere/article/mise-a-disposition-temporaire-de-salaries-volontaires-entre-deux-entreprises?var_mode=calcul). \
- 
+Travail](https://travail-emploi.gouv.fr/actualites/l-actualite-du-ministere/article/mise-a-disposition-temporaire-de-salaries-volontaires-entre-deux-entreprises?var_mode=calcul). 
 
 
 
@@ -2657,6 +2805,21 @@ mars :  **\
 \
 - Vous aurez droit au maintien exceptionnel de votre indemnisation
 pendant la durée du confinement.\
+\
+**Vous avez démissionné avant le début du confinement pour changer
+d’emploi, et vous vous retrouvez désormais sans emploi :**\
+\
+le ministère du Travail a annoncé, le 9 avril 2020, le droit à
+l’indemnisation chômage de manière temporaire, aux personnes qui ont
+démissionné avant le 17 mars pour reprendre un CDI ou un CDD de plus de
+trois mois, et qui se trouvent dans un des cas suivants :\
+\
+- le nouvel employeur a mis fin au contrat dans un délai de 65 jours à
+compter du 1er mars OU l’embauche effective n’a pas pu avoir lieu, mais
+la personne dispose\
+- d’une promesse d’embauche ou, à défaut, d’une attestation de son
+employeur justifiant le report de l’embauche.\
+avoir travaillé 6 mois sur les 24 derniers mois.\
 \
 **Vous êtes saisonnier et la station où vous travaillez a été fermée le
 15 mars alors que votre contrat allait jusqu’au 15 avril :**\
@@ -3101,7 +3264,10 @@ les accompagnent en établissement.\
 **7 avril :** Financement d’une nouvelle technologie de détection rapide
 du COVID-19 par le ministère des Armées, à hauteur de 1,8 million
 d’euros.\
- 
+\
+\
+**9 avril** : renforcement du plan d’urgence de soutien à l’économie :
+de 45 milliards d'euros, il est passé à 100 milliards d'euros.
 
 
 
@@ -3578,11 +3744,11 @@ maximum car ils sont en contacts de malades et sujets fragiles.
 
 
 Non. Tester les personnes par dépistage dans cette situation n’a pas
-d’utilité ni d’intérêt car il ne donne qu’une information à un temps
-donné. Si elles sont négatives, on ne peut pas savoir si elles sont
-encore en période d’incubation ou si elles ont déjà été malades mais
-sans le savoir. Le dépistage ne préjuge donc en rien d’une possible
-future infection.\
+d’utilité ni d’intérêt car le dépistage actuel, par PCR, ne donne qu’une
+information à un temps donné. Si une personne est négative, on ne peut
+pas savoir si elle encore en période d’incubation, ou si elle a déjà été
+malade mais sans le savoir. Le dépistage ne préjuge donc en rien d’une
+possible future infection.\
 \
 Concernant les personnes guéries du COVID-19, elles peuvent retourner au
 travail après la levée de leur isolement strict, selon les critères
@@ -3986,7 +4152,39 @@ psychologique.
 
 
 Oui. Toutes les pensions alimentaires doivent être payées à la date
-prévue.
+prévue.\
+\
+Les parents qui ne percevraient pas correctement la pension alimentaire
+fixée légalement mais aussi tout parent qui, du fait de difficultés
+financières, ne pourrait pas assurer correctement le versement de cette
+pension alimentaire sont invités à saisir l’agence de recouvrement des
+impayés de pensions alimentaire (ARIPA) via leur caisse d’allocations
+familiales ou Caisse de mutualité sociale agricole. L’ARIPA pourra si
+besoin verser une allocation de substitution à la pension alimentaire
+(l’allocation de soutien familial ou ASF, d’un montant de 115€) à tout
+parent isolé et se charger du recouvrement de l’impayé. Toutes les
+informations sont disponibles sur le site
+[pension-alimentaire.caf.fr](http://eye.diffusion.social.gouv.fr/c?p=xBBsLVLzLGZP0LfQs_nzb-zQnX9WxBB7_9DNByjQik4N0JviZQca0KMHZNknaHR0cHM6Ly93d3cucGVuc2lvbi1hbGltZW50YWlyZS5jYWYuZnIvuDViMjNjZDMxYjg1YjUzNjA2NmQ5MjkxYcQQVdDX0LbQqAghTGzQhm3QsObQtTEpAbxleWUuZGlmZnVzaW9uLnNvY2lhbC5nb3V2LmZyxBR-FRc20MTQ2jfQoEPQt9CV0MnQo9C_0MwxQ9C30NXQ3g).   \
+\
+Compte tenu de la situation épidémique et des mesures de confinement, le
+versement de l’ASF aux familles monoparentales récemment séparées et
+n’ayant pas encore de titre exécutoire de pension alimentaire est
+prolongé de 4 mois.
+
+
+
+
+
+#### On m’a refusé l’entrée au supermarché, alors que j’étais accompagné de mon enfant en bas âge, que j’élève seul. Que faire ? {#on-ma-refusé-lentrée-au-supermarché-alors-que-jétais-accompagné-de-mon-enfant-en-bas-âge-que-jélève-seul.-que-faire .item-question}
+
+
+
+Le secrétariat d’Etat chargé de l’Egalité entre les femmes et les hommes
+et de la Lutte contre les discriminations a ouvert un l’adresse
+dgcs-coursesparentsisoles@social.gouv.fr, afin de recevoir les
+signalements des parents isolés, refusés à l’entrée des magasins ou à
+qui il est demandé de laisser leur enfant à la caisse ou avec des
+inconnus.
 
 
 
@@ -4097,15 +4295,25 @@ de première nécessité.
 
 
 
-Il est recommandé de bien suivre les règles d’hygiène des mains en
+l est recommandé de bien suivre les règles d’hygiène des mains en
 rentrant des courses et après manipulation des produits alimentaires. Il
-est également important de laver fruits et légumes, comme d’habitude, en
-suivant les règles de bonnes pratiques d’hygiène alimentaire disponibles
-sur le site de
+est également important de laver fruits et légumes, comme d’habitude, à
+l’eau, sans savon, en suivant les règles de bonnes pratiques d’hygiène
+alimentaire disponibles sur le site de
 l’[ANSES](https://www.anses.fr/fr/content/conseils-dhygi%C3%A8ne-dans-la-cuisine).
-Désinfecter les conserves, passant peu de mains en mains, n’est
-cependant pas jugé utile, car le risque de contamination par ce biais
-est très faible.
+Le risque de contamination à travers les emballages reste faible.
+Néanmoins, les emballages peuvent avoir été contaminés par des mains
+souillées lors de leur manipulation par une personne infectée (via les
+mains, éternuements…). Même si le virus causant la maladie ne peut
+survivre plus de 3h sur les surfaces des emballages, essuyer les
+emballages avec un essuie tout à usage unique humidifié constitue une
+précaution supplémentaire. On peut également laisser reposer les
+produits emballés non réfrigérés trois heures après les avoir ramenées à
+la maison lorsqu’il ne s’agit pas de produits frais. Pour les aliments
+qui se conservent au réfrigérateur, dès lors que cela est possible, il
+faut retirer les suremballages (ex : carton des yaourts)  avant de les
+ranger. Bien entendu, il faut se laver les mains soigneusement avant et
+après la manipulation de ces emballages.
 
 
 
@@ -4302,6 +4510,19 @@ nécessité. Si son jardin n'est pas attenant à son domicile, il est
 possible de s'y rendre en cochant, sur l'attestation de déplacement
 dérogatoire, la case "déplacements pour effectuer des achats de première
 nécessité".
+
+
+
+
+
+#### Peut-on se rendre dans les jardins familiaux ? {#peut-on-se-rendre-dans-les-jardins-familiaux .item-question}
+
+
+
+Pendant la période de confinement, beaucoup de jardins familiaux ont été
+interdits d’accès. Dans certaines communes, il est possible de s’y
+rendre à présent dans certaines conditions précises propres à la
+commune. Il faut se renseigner auprès de votre commune.
 
 
 
@@ -4608,9 +4829,9 @@ principale.
 
 Les commissariats ouverts au public 24h/24h le resteront, seuls les
 bureaux de police qui offraient un accueil limité en journée sont
-fermés. Il est néanmoins conseillé de prendre attache avec le 17 afin de
-pouvoir disposer d’informations permettant soit de reporter votre
-déplacement soit d’effectuer des démarches en ligne. 
+fermés. Il est néanmoins conseillé de prendre attache avec le
+commissariat afin de pouvoir disposer d’informations permettant soit de
+reporter votre déplacement soit d’effectuer des démarches en ligne. 
 
 
 
@@ -4642,7 +4863,7 @@ risque de contaminer les autres, bien que ce risque soit plus faible que
 les malades symptomatiques. Sortir trop tôt du confinement est donc à
 risque de recréer des foyers de contamination. Le Conseil Scientifique
 évalue la meilleure durée de confinement pour protéger au mieux la
-population, notamment les plus fragiles, et notre système de santé.
+population, notamment les plus fragiles.
 
 
 
@@ -4671,9 +4892,12 @@ savoir s'il existe des restrictions locales spécifiques. Munissez-vous
 également d'une attestation sur l'honneur, que vous rédigez, expliquant
 que vous vous déplacez pour le motif d'un déménagement non reportable,
 dont vous précisez la date et les deux adresses de départ et de
-destination. L'échange des clés pourra se faire en cochant la case
-"motif familial impérieux" sur l’attestation dérogatoire de
-déplacement.\
+destination. Pour l'échange des clés, le propriétaire doit se munir de
+l'attestation de déplacement dérogatoire, en cochant le déplacement pour
+motif familial impérieux. Il doit également se munir d'un document
+justifiant le déménagement, tel que le bail, ainsi que d'une attestation
+sur l'honneur, qu'il rédige, expliquant qu'il se déplace pour le motif
+d'un déménagement non reportable.\
 \
 Vous pouvez aussi entrer en contact avec votre bailleur afin de lui
 demander de continuer à occuper le logement que vous deviez quitter. Il
@@ -4970,6 +5194,20 @@ vous occupez le logement.
 
 
 
+#### Comment mettre à disposition des locaux (par exemple, une salle de danse) pour les femmes victimes de violences conjugales ? {#comment-mettre-à-disposition-des-locaux-par-exemple-une-salle-de-danse-pour-les-femmes-victimes-de-violences-conjugales .item-question}
+
+
+
+Vous pouvez contacter :
+-   l’association Solidarité femmes, via le formulaire de contact sur
+    leur site
+    [solidaritefemmes.org/contact](http://solidaritefemmes.org/contact).
+-   ou la Fondation des femmes : bonjour@fondationdesfemmes.org.
+
+
+
+
+
 
 
 
@@ -5020,13 +5258,14 @@ Il est recommandé de jeter vos mouchoirs, masques et gants et lingettes
 de nettoyage dans un sac plastique dédié, résistant et disposant d’un
 système de fermeture fonctionnel. Ce sac doit être soigneusement refermé
 puis conservé 24 heures avant d’être placé dans le sac plastique pour
-ordures ménagères.
-
+ordures ménagères.\
+\
 Attention, aucun de ces produits ne doit être jeté dans la poubelle
 jaune, dans le compost ou dans la nature, même si vous n’êtes pas malade
-! Attention à ne pas jeter non plus les lingettes dans les toilettes,
-car vous risqueriez de les boucher.
-
+! Il ne faut pas jeter non plus les lingettes dans les toilettes, car
+vous risqueriez de les boucher  ou d'obstruer les réseaux publics
+d'assainissement.\
+\
 Pour les professionnels de santé et les personnes malades confinées chez
 elles, il est nécessaire de suivre les recommandations du ministère des
 Solidarités et de la Santé pour la gestion de vos déchets.
@@ -5362,7 +5601,8 @@ labiles peut être nécessaire pour les patients graves hospitalisés en
 réanimation. Cependant, spécifiquement pour le coronavirus, il n’a pas
 encore été pas prouvé ce jour que l’apport de sérum de patients guéris
 améliore l’état de santé des malades. Des essais cliniques sur le sujet
-ont été débuté.\
+ont été débuté et la France, grâce à l’Établissement Français du Sang,
+est très active sur le sujet. \
  
 
 
@@ -5406,6 +5646,22 @@ A ce jour, il nous est impossible d’affirmer qu’il existe une immunité
 chez les personnes guéries du COVID-19. Cependant, les données
 scientifiques sont rassurantes, car il n’existe pour le moment aucun cas
 avéré de seconde infection.
+
+
+
+
+
+#### Les problèmes dermatologiques font-ils partie des symptômes du coronavirus ? {#les-problèmes-dermatologiques-font-ils-partie-des-symptômes-du-coronavirus .item-question}
+
+
+
+Des signes cutanés, comme des engelures ou des rougeurs du visage ont
+été récemment rapportés, comme pouvant être associés au coronavirus. La
+Société Française de Dermatologie en lien avec les médecins généralistes
+est en train d’étudier cette hypothèse et fera connaître ses
+conclusions.\
+Toute personne souhaitant avoir un avis sur ses symptômes doit être
+orientée vers son médecin traitant.
 
 
 
@@ -5593,7 +5849,9 @@ séquelles. Chez les patients atteints de formes graves, la prise en
 charge hospitalière adaptée permet de réduire le risque de séquelles.
 Chez les patients guéris après un passage en réanimation, il est
 toutefois possible d’avoir des troubles ventilatoires persistants à
-distance de l’infection.
+distance de l’infection. Ces séquelles ne semblent toutefois pas liées
+au virus en tant que tel mais à la ventilation assistée lors du passage
+en réanimation.
 
 
 
@@ -5738,7 +5996,7 @@ disposons d’aucune preuve pour étayer cette hypothèse.
 
 
 
-On retrouve du coronavirus dans le sang des personnes contaminées. Il
+On a retrouvé du coronavirus dans le sang des personnes contaminées. Il
 existe donc un possible risque de transmission par le sang. Ce jour
 cependant, il n’existe aucun cas confirmé de contamination par le sang.
 Pour rappel, le sang prélevé lors de dons du sang est systématiquement
@@ -5758,9 +6016,11 @@ confinement.
 Le port du masque dans la population générale limite essentiellement la
 propagation du virus quand il est porté par les personnes malades et
 symptomatiques (émettant des postillons contaminants).\
+\
 Pour les personnes asymptomatiques, ce sont essentiellement le respect
 des gestes barrières et les mesures de distanciation sociale qui
 limitent la propagation du virus.\
+\
 Pour les non-malades, les meilleures défenses contre le virus demeurent
 également les gestes barrière et la distanciation sociale, appliqués de
 manière systématique, et pas uniquement en présence de cas
@@ -5768,7 +6028,15 @@ symptomatiques. Le confinement généralisé, la distanciation sociale et
 l’isolement les malades sont ce jour indispensables pour limiter la
 propagation du virus. Ils permettent de protéger l’ensemble de la
 population, notamment les plus fragiles, et d’aider nos soignants et
-notre système de santé.
+notre système de santé.\
+\
+Le Gouvernement travaille activement afin d’élargir les disponibilités
+en masques grand public,destinés à une population plus large. Au terme
+d’une démarche supervisée par l’Agence nationale de sécurité du
+médicament et des produits de santé (ANSM), avec le soutien de l’ANSES,
+deux nouvelles catégories de masques grand public ont ainsi été créées.
+Ces masques auront vocation à être utilisés dans des situations
+professionnelles en complément des mesures barrières.
 
 
 
@@ -5778,14 +6046,13 @@ notre système de santé.
 
 
 
-Le Gouvernement travaille activement afin d’élargir les disponibilités
-en masques à usage professionnel non sanitaire, destinés à une
-population plus large. Au terme d’une démarche supervisée par l’Agence
-nationale de sécurité du médicament et des produits de santé (ANSM),
-avec le soutien de l’ANSES, deux nouvelles catégories de masques à usage
-non sanitaire ont ainsi été créées. Ces masques auront vocation à être
-utilisés dans des situations professionnelles en complément des mesures
-barrières.\
+Le Gouvernement travaille activement afin d’élargir les
+disponibilités en masques grand public destinés à une population plus
+large. Au terme d’une démarche supervisée par l’Agence nationale de
+sécurité du médicament et des produits de santé (ANSM), avec le soutien
+de l’ANSES, deux nouvelles catégories de masques à usage non sanitaire
+ont ainsi été créées. Ces masques auront vocation à être utilisés dans
+des situations professionnelles en complément des mesures barrières.\
  \
 Les masques chirurgicaux et FFP2, à usage sanitaire, restent
 réquisitionnés par l’Etat et sont destinés aux professionnels de santé.
@@ -5830,6 +6097,28 @@ faire usage de ce type de masques.
 
 
 
+#### Les personnes en surpoids sont-elles des personnes à risque ? {#les-personnes-en-surpoids-sont-elles-des-personnes-à-risque .item-question}
+
+
+
+Le surpoids correspond à un indice de masse corporel (IMC) calculé entre
+25 et 30. L’obésité correspond à un IMC supérieur à 30. Les premières
+données sur les patients hospitalisés en réanimation semblent montrer
+une surreprésentation de patients en surpoids et obèse, faisant
+sous-entendre que ces deux populations seraient possiblement à risque. 
+Des études sont en cours afin de savoir s’il s’agit de facteurs de
+risques indépendants, ou si cette surreprésentation est surtout liée au
+fort pourcentage de comorbidités (autres maladies) parmi les gens en
+surpoids ou obèse.\
+\
+Pour rappel, le Haut Conseil de la Santé Publique a considéré dans son
+avis du 10 mars les patients avec une obésité morbide (IMC &gt; 40)
+comme sujets à risque.
+
+
+
+
+
 #### Le prix des masques sera-t-il encadré ? {#le-prix-des-masques-sera-t-il-encadré .item-question}
 
 
@@ -5862,18 +6151,24 @@ décès de +133% par rapport aux non-fumeurs.
 
 
 
-#### Les poumons des personnes ayant été contaminées sont-ils définitivement abimés ? {#les-poumons-des-personnes-ayant-été-contaminées-sont-ils-définitivement-abimés .item-question}
+#### Le virus peut-il se transmettre par la fumée de cigarette ? {#le-virus-peut-il-se-transmettre-par-la-fumée-de-cigarette .item-question}
 
 
 
-La grande majorité des patients atteints de COVID-19 guérissent sans
-séquelles. Chez les patients atteints de formes graves, la prise en
-charge hospitalière adaptée permet de réduire le risque de séquelles.
-Chez les patients guéris après un passage en réanimation, il est
-toutefois possible d’avoir des troubles ventilatoires persistants à
-distance de l’infection. Ces séquelles ne semblent toutefois pas liées
-au virus en tant que tel mais à la ventilation assistée lors du passage
-en réanimation.
+Non, le virus ne circule pas par la fumée. Le virus se transmet par les
+gouttelettes (sécrétions projetées invisibles lors d’une discussion,
+d’éternuements ou de la toux). Un des autres vecteurs privilégiés de la
+transmission du virus est le contact des mains non lavées ou de surfaces
+souillées par des gouttelettes. Ainsi, il ne faut pas partager sa
+cigarette, ni tout autre objet qui se fume (cigarettes électroniques …),
+car ils sont à risque d’être contaminant.\
+\
+Pour rappel, les fumeurs sont surtout plus à risque de développer des
+formes graves. Fumer abîme les tissus pulmonaires et les rend plus
+vulnérables à l’arrivée du virus. Des études ont montré que fumer
+augmente le risque de développer une forme sévère ou très sévère du
+COVID-19 de +50%, ainsi qu’un risque de décès de +133% par rapport aux
+non-fumeurs.
 
 
 
@@ -6021,26 +6316,6 @@ Pour rappel, aujourd’hui, les prélèvements sont soit réalisés à
 l’hôpital, soit à domicile par des professionnels de santé en lien avec
 un laboratoire en ville. Les tests PCR sont ensuite réalisés dans des
 laboratoires de type P2, hospitaliers ou privés.
-
-
-
-
-
-#### Comment nettoyer les produits achetés au supermarché ? {#comment-nettoyer-les-produits-achetés-au-supermarché .item-question}
-
-
-
-En rentrant des courses - et de manière générale de l’extérieur du
-foyer, le plus important est le lavage des mains, à l’eau et au savon.
-Ensuite, il est également important de laver fruits et légumes, comme
-d’habitude, en suivant les règles de bonnes pratiques d’hygiène
-alimentaire disponibles sur le site de l’ANSES. \
-Désinfecter les autres produits (boites, conserves…) n’est cependant pas
-jugé utile, car le risque de contamination par ce biais est très faible.
-Ces produits passent peu de mains en mains. De plus, même s’ils étaient
-contaminés par des gouttelettes, de l’avis des experts, la plus grande
-partie du virus, susceptible de contaminer, meurt au bout de quelques
-minutes. Le plus important reste donc de se laver les mains.
 
 
 
