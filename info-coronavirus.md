@@ -122,7 +122,7 @@ COVID-19
 
 
 
-Mis à jour le samedi 11 avril 2020, à 19H30
+Mis à jour le dimanche 12 avril 2020, à 19h00
 
 
 -   [Francais](/info-coronavirus){.active}
@@ -1190,7 +1190,7 @@ partager le maximum de données.
 ### Point de situation en France {#point-de-situation-en-france .item-paragraphe-titre .c-onglet data-picto=""}
 
 
-**Le 11 avril 2020, à 20h00**\
+**Le 12avril 2020, à 19h00**\
  
 
 Les autorités sanitaires tiennent [un point presse
@@ -1203,10 +1203,10 @@ Les informations du jour :
     plusieurs zones de regroupement de cas (clusters). Nous sommes
     actuellement au stade 3 du plan d’actions du Gouvernement qui a pour
     objectif de prévenir et limiter la circulation du virus. 
--   Depuis le 24 janvier 2020, la France compte 93 790 cas confirmés de
+-   Depuis le 24 janvier 2020, la France compte 95 403 cas confirmés de
     coronavirus COVID-19.
--   8 943 personnes sont décédées à l'hôpital,  depuis le 1er mars.
--   26 391 personnes sont sorties guéries de l'hôpital, depuis le 1er
+-   9 253 personnes sont décédées à l'hôpital,  depuis le 1er mars.
+-   27 186 personnes sont sorties guéries de l'hôpital, depuis le 1er
     mars.
 
 Retrouvez toutes les données sur [le tableau de bord COVID-19 de
@@ -3408,10 +3408,10 @@ sur le [site de la Direccte de votre région.](http://direccte.gouv.fr/)\
 
 
 
-Non mais l’employeur doit mettre en place des mesures définies par le
-ministère du Travail : l[es obligations des employeurs en matière de
+**Non mais l’employeur doit mettre en place des mesures définies par le
+ministère du Travail** : l[es obligations des employeurs en matière de
 protection de la santé des
-travailleurs.](https://travail-emploi.gouv.fr/IMG/pdf/covid19_obligations_employeur.pdf.)\
+travailleurs.](https://travail-emploi.gouv.fr/IMG/pdf/covid19_obligations_employeur.pdf)\
 \
 **Principales obligations des employeurs :**
 -   respect des gestes barrière ;
@@ -3433,46 +3433,50 @@ travailleurs.](https://travail-emploi.gouv.fr/IMG/pdf/covid19_obligations_employ
 
 
 
-#### Quel est le procédé à suivre pour faire pour les démarches administratives indispensables au maintien de l’activité professionnelle rendues impossible par la situation, type visite médicale pour renouvellement de permis poids lourd ? {#quel-est-le-procédé-à-suivre-pour-faire-pour-les-démarches-administratives-indispensables-au-maintien-de-lactivité-professionnelle-rendues-impossible-par-la-situation-type-visite-médicale-pour-renouvellement-de-permis-poids-lourd .item-question}
+#### Je ne peux pas effectuer les démarches administratives indispensables pour mon activité professionnelle, par exemple, une visite médicale ou le renouvellement de mon permis poids lourds. Que dois-je faire ? {#je-ne-peux-pas-effectuer-les-démarches-administratives-indispensables-pour-mon-activité-professionnelle-par-exemple-une-visite-médicale-ou-le-renouvellement-de-mon-permis-poids-lourds.-que-dois-je-faire .item-question}
 
 
 
-Sur proposition de la France la semaine dernière, les pays européens ont
-adopté un amendement étendant de 6 mois la validité de ces certificats,
-permettant aux chauffeurs concernés de poursuivre leur activité.
-
-
-
-
-
-#### Je suis en formation, que faire ? {#je-suis-en-formation-que-faire .item-question}
-
-
-
-Pour garantir le lien continu et régulier avec les stagiaires de la
-formation professionnelle et d’éviter ainsi les ruptures de parcours, le
-ministère du Travail travaille, avec Régions de France, à la mise à
-disposition pour les organismes de formation de ressources pédagogiques,
-à la fois sous la forme de plateformes et solutions techniques
-permettant de diffuser, d’animer des formations et d’assurer le lien
-pédagogique, et sous la forme de contenus de formation et d’éléments de
-méthodes pour faciliter la formation à distance.
-
-Le type de ressources mobilisables et les accès à ces ressources seront
-proposés cette semaine, à la fois sur le site du ministère du Travail et
-de Régions de France.
-
-Dans tous les cas, et notamment lorsque le lien avec les stagiaires qui
-ont débuté leur formation ne pourra pas être maintenu, le ministère du
-Travail et Régions de France prendront les dispositions pour maintenir
-le niveau de rémunération des stagiaires durant toute la période de
-report.
+Si vous êtes un chauffeur concerné par ce problème, sachez que les
+certificats sont prolongés de 6 mois. Vous pouvez donc poursuivre votre
+activité.\
+\
+A noter : les pays européens ont adopté cette mesure sur proposition de
+la France.
 
 
 
 
 
-#### Mon contrat de travail s’arrête pendant la période confinement. Pourrai-je prétendre aux allocations chômage ? {#mon-contrat-de-travail-sarrête-pendant-la-période-confinement.-pourrai-je-prétendre-aux-allocations-chômage .item-question}
+#### Je suis en formation professionnelle, que faire ? {#je-suis-en-formation-professionnelle-que-faire .item-question}
+
+
+
+Tous les acteurs de la formation professionnelle sont en train de
+travailler sur des solutions. Leurs objectifs :  éviter une rupture de
+parcours et maintenir un lien avec chaque stagiaire.
+-   **Le suivi pédagogique :** le ministère du Travail et Régions de
+    France vont mettre des outils pédagogiques à disposition des
+    organismes de formation. Ce seront des plateformes ou des solutions
+    qui permettront de diffuser, d’animer des formations et d’assurer le
+    lien pédagogique. On y trouvera des contenus de formation et des
+    méthodes pour faciliter la formation à distance. Ils seront
+    disponibles cette semaine, à la fois sur le site du ministère du
+    Travail et de Régions de France. Vous devriez en bénéficier très
+    vite.
+-   **La rémunération** : si vous avez débuté votre formation, même si
+    le lien ne peut pas être préservé pendant une période, votre niveau
+    de rémunération sera maintenu. Le ministère du Travail et Régions de
+    France sont en train de travailler sur les modalités.
+
+\
+ 
+
+
+
+
+
+#### Mon contrat de travail s’arrête pendant la période de confinement. Puis-je prétendre aux allocations chômage ? {#mon-contrat-de-travail-sarrête-pendant-la-période-de-confinement.-puis-je-prétendre-aux-allocations-chômage .item-question}
 
 
 
@@ -3503,18 +3507,33 @@ Oui.
 
 
 
-#### Je suis en fin de droits de chômage, que faire ? {#je-suis-en-fin-de-droits-de-chômage-que-faire .item-question}
+#### Les démissions sont-elles autorisées pendant le confinement ? {#les-démissions-sont-elles-autorisées-pendant-le-confinement .item-question}
 
 
 
-La situation de confinement imposée aux Français a pour effet de
-ralentir considérablement l’activité économique, et de limiter les
-opportunités de reprise d’emploi. 
+Oui, elles sont autorisées, selon les modalités prévues à votre contrat
+de travail, par votre convention collective applicable ou, à défaut, par
+la loi.\
+\
+Pour toute info sur les modalités consultez :\
+<https://travail-emploi.gouv.fr/droit-du-travail/la-rupture-du-contrat-de-travail/article/la-demission>
 
-Dans ce contexte le Gouvernement a décidé de prolonger la durée
-d’indemnisation des personnes dont les droits prennent fin durant la
-période de confinement. L’indemnisation sera automatiquement prolongée
-jusqu’à la fin de cette période de confinement.
+[ ]{style="line-height:normal"}
+
+
+
+
+
+#### Je suis en fin de droits de chômage, que faire {#je-suis-en-fin-de-droits-de-chômage-que-faire .item-question}
+
+
+
+Votre indemnisation sera automatiquement prolongée jusqu’à la fin de
+cette période de confinement.\
+\
+Il s’agit d’une décision du Gouvernement en raison des difficultés de
+recherche et reprise d’emploi en cette période.\
+ 
 
 
 
@@ -3524,9 +3543,13 @@ jusqu’à la fin de cette période de confinement.
 
 
 
-Si cet entretien a été fixé avant la période de confinement, vous ne
-devez pas vous déplacer en agence. Vous pourrez vous voir proposer un
-contact par téléphone ou e-mail avec votre conseiller.
+Non, vous ne devez pas vous déplacer à Pôle Emploi.\
+\
+Si cet entretien a été fixé avant la période de confinement, votre
+conseiller peut vous proposer à la place un contact par téléphone ou
+e-mail.\
+\
+ 
 
 
 
@@ -3536,41 +3559,42 @@ contact par téléphone ou e-mail avec votre conseiller.
 
 
 
-Le contrôle de la recherche d’emploi est suspendu pendant toute la
-période de confinement. Aucun demandeur d’emploi ne sera radié ou
-sanctionné pendant cette période.
+Non. Le contrôle de la recherche d’emploi est suspendu pendant toute la
+période de confinement.\
+\
+Aucun demandeur d’emploi ne sera radié ou sanctionné pendant cette
+période.
 
 
 
 
 
-#### Je dois faire ma déclaration trimestrielle de ressources, comment faire ? {#je-dois-faire-ma-déclaration-trimestrielle-de-ressources-comment-faire .item-question}
+#### Je dois faire ma déclaration trimestrielle de ressources auprès des Caisses d’Allocations Familiales (CAF), comment faire ? {#je-dois-faire-ma-déclaration-trimestrielle-de-ressources-auprès-des-caisses-dallocations-familiales-caf-comment-faire .item-question}
 
 
 
-Tous ceux qui doivent faire maintenant ou prochainement une déclaration
-trimestrielle de ressources sont encouragés à le faire par internet.
-Cependant, toute personne dans l’incapacité de renouveler sa déclaration
-trimestrielle auprès des services des CAF verra le versement des
-prestations auxquelles elle avait droit jusqu’alors automatiquement
-renouvelé. Ce dispositif mis en place par les CAF permettra la
-continuité des droits pour celles et ceux qui en ont besoin.
+Vous pouvez le faire par Internet : faites-le.\
+\
+Vous ne pouvez pas le faire par Internet : **vos prestations seront
+automatiquement renouvelées pour permettre la continuité des droits.**\
+\
+Prestations concernées par ce maintien :
+-   le revenu de solidarité active (RSA) ;
+-   le revenu de solidarité dans les outremers (RSO) ;
+-   l’allocation adulte handicapés (AAH), l’allocation d’éducation de
+    l’enfant handicapé (AEEH)
+-   les aides au logement ;
+-   et l’ensemble des aides sociales versées sous condition de ressource
+    par les CAF.
 
-Sont en particulier ainsi concernés : le revenu de solidarité active
-(RSA), le revenu de solidarité (RSO) dans les outremers, l’allocation
-adulte handicapés (AAH), l’allocation d’éducation de l’enfant handicapé
-(AEEH), et l’ensemble des aides sociales versées sous condition de
-ressource par les CAF. Les aides au logement seront automatiquement
-maintenues.
-
-Par ailleurs, les droits à l’allocation adulte handicapées (AAH) et à
-l’allocation d’éducation de l’enfant handicapé (AEEH) qui arriveraient à
-échéance seront automatiquement prorogés de six mois.
-
-De la même manière, les droits à la complémentaire santé solidaire et de
-l’aide au paiement d’une assurance complémentaire de santé dont le
-bénéfice expirera au cours des prochains mois seront prolongés de 3
-mois.
+\
+Des prolongements d’aides à noter :
+-   les droits à l’allocation adulte handicapé (AAH) et à l’allocation
+    d’éducation de l’enfant handicapé (AEEH) qui arriveraient à échéance
+    seront automatiquement prolongés de six mois ;
+-   si, dans les prochains mois, vos droits à la complémentaire santé
+    solidaire et à l’aide au paiement d’une assurance complémentaire de
+    santé devaient expirer, ils  seront prolongés de 3 mois.
 
 
 
@@ -3580,30 +3604,11 @@ mois.
 
 
 
-Les personnels de santé à risques élevés, comme le reste de la
+Oui, les personnels de santé à risques élevés, comme le reste de la
 population, peuvent bénéficier d’un arrêt de travail. Ils seront pris en
 charge par l’Assurance Maladie, alignés sur les modalités des salariés
 en termes de délais de carence. Cette disposition s’applique également
 aux personnels de santé libéraux.
-
-
-
-
-
-#### Je travaille encore mais j’ai un parent âgé, qui vit seul et se retrouve sans aide à domicile. Que me conseillez-vous ? Aller le voir malgré les consignes de vigilance ? {#je-travaille-encore-mais-jai-un-parent-âgé-qui-vit-seul-et-se-retrouve-sans-aide-à-domicile.-que-me-conseillez-vous-aller-le-voir-malgré-les-consignes-de-vigilance .item-question}
-
-
-
-Il est possible de rendre visite à un parent âgé et vulnérable, qui ne
-pourrait subvenir à ses besoins sans aide à domicile. Il convient de
-rester très vigilant et appliquer très rigoureusement les gestes
-barrières. Quand cela est possible, il faut limiter au maximum les
-contacts directs (déposer les courses à l’entrée, faire le ménage dans
-autre pièce que celle où se situe le parent…) et maintenir une distance
-d’au moins 1 mètre avec le parent. \
-Si on est malade, il ne faut pas s’y rendre et demander à un proche, ne
-vivant pas dans son foyer, de s’occuper du parent. Il est également
-possible de prendre contact avec les services sociaux.
 
 
 
@@ -3627,39 +3632,29 @@ prioritaire.
 
 
 
-#### Les démissions sont-elles autorisées pendant le confinement ? {#les-démissions-sont-elles-autorisées-pendant-le-confinement .item-question}
-
-
-
-Oui, selon les modalités prévues à votre contrat de travail, par votre
-convention collective applicable ou à défaut par la loi.\
-Pour toute info sur les modalités consultez :  \
-[https://travail-emploi.gouv.fr/droit-du-travail/la-rupture-du-contrat-de-travail/article/la-demission ](https://travail-emploi.gouv.fr/droit-du-travail/la-rupture-du-contrat-de-travail/article/la-demission)
-
-
-
-
-
 #### Je peux télétravailler mais mon employeur refuse. A-t-il le droit ? {#je-peux-télétravailler-mais-mon-employeur-refuse.-a-t-il-le-droit .item-question}
 
 
 
-Le télétravail est la règle quand l’activité le permet. Le refus de
-l’employeur doit être motivé. Plus d’informations sur le télétravail sur
-le [code du travail
+Le refus de l’employeur doit être motivé : le télétravail est la règle
+quand l’activité le permet.\
+\
+Plus d’informations sur le télétravail sur le [code du travail
 numérique.](https://code.travail.gouv.fr/themes/615-teletravail)
 
 
 
 
 
-#### Mon employeur peut-il me contraindre de travailler quelques jours par semaine si je suis au chômage technique ? {#mon-employeur-peut-il-me-contraindre-de-travailler-quelques-jours-par-semaine-si-je-suis-au-chômage-technique .item-question}
+#### Mon employeur peut-il me contraindre à travailler quelques jours par semaine si je suis au chômage technique ? {#mon-employeur-peut-il-me-contraindre-à-travailler-quelques-jours-par-semaine-si-je-suis-au-chômage-technique .item-question}
 
 
 
-Non, ni en présentiel, ni à distance. Lorsqu’un employeur demande à un
-salarié de “télétravailler” alors que ce dernier est placé en activité
-partielle, cela s’apparente à une fraude et est assimilé à du [travail
+Non il n’en a pas le droit, ni sur place, ni à distance.\
+\
+A noter : lorsqu’un employeur demande à un salarié de “télétravailler”
+alors que ce dernier est placé en activité partielle, c’est une fraude
+et c’est assimilé à du [travail
 illégal](https://travail-emploi.gouv.fr/actualites/presse/communiques-de-presse/article/covid-19-sanctions-contre-les-fraudes-au-chomage-partiel).
 
 
@@ -3670,105 +3665,134 @@ illégal](https://travail-emploi.gouv.fr/actualites/presse/communiques-de-presse
 
 
 
-Quand on n’est pas malade, le port du masque n’est pas indispensable. De
-plus, le virus ne circule pas dans l’air tout seul, il doit être
-vectorisé par les postillons d’une autre personne.\
-Ainsi, le respect des gestes barrière (lavage de mains) et des mesures
-de distanciation sociale (Rester à au moins à 1 mètre des autres
-personnes) permet de se protéger et de protéger les autres contre le
-coronavirus. Les masques sont réservés aux personnels soignants
+Si vous n’êtes pas malade, le port du masque n’est pas indispensable.\
+\
+Le virus ne circule pas dans l’air tout seul, il doit être porté par les
+postillons d’une autre personne.\
+\
+D’où l’importance de respecter les gestes barrière (lavage des mains) et
+les mesures de distanciation sociale (rester à au moins 1 mètre des
+autres personnes). Ils permettent de se protéger et de protéger les
+autres contre le coronavirus.\
+\
+A noter : les masques sont réservés en priorité aux personnels soignants
 fortement exposés et proches des patients symptomatiques et atteints du
-COVID-19.
-
-
-
-
-
-#### Les personnes guéries peuvent-elles de nouveau se rendre au travail ? {#les-personnes-guéries-peuvent-elles-de-nouveau-se-rendre-au-travail .item-question}
-
-
-
-Les personnes guéries du COVID-19 peuvent retourner au travail après la
-levée de l’isolement strict.\
+COVID-19.\
 \
-Les critères de levée de l’isolement strict ont été définis par le Haut
-Conseil de la Santé Publique. Dans la plupart des situations, ils sont
-les suivants : au moins 8 jours à partir du début des symptômes ; ET au
-moins 48 heures de disparition de la fièvre vérifiée deux fois dans la
-journée (en l’absence de toute prise de médicament anti-fièvre depuis au
-moins 12 heures) ; ET au moins 48 heures de disparition d’une éventuelle
-difficulté respiratoire.\
+ 
+
+
+
+
+
+#### Je suis guéri, puis-je de nouveau me rendre au travail ? {#je-suis-guéri-puis-je-de-nouveau-me-rendre-au-travail .item-question}
+
+
+
+Oui, après la levée de l’isolement strict.\
 \
-Des critères spécifiques existent pour les personnes à risque ou le
-personnel de santé. En cas de doute, demandez conseil à votre médecin. \
-Les personnes vivant dans le même foyer qu’une personne COVID-19 peuvent
-également retourner au travail à l’issue de la levée de l’isolement du
-proche.\
+Principaux critères de levée de l’isolement strict définis par le Haut
+Conseil de la Santé Publique :
+-   se trouver au moins 8 jours après le début des symptômes ;
+-   ET au moins 48 heures après la disparition de la fièvre vérifiée
+    deux fois dans la journée (en l’absence de toute prise de médicament
+    anti-fièvre depuis au moins 12 heures) ;
+-   ET au moins 48 heures après la  disparition d’une éventuelle
+    difficulté respiratoire.
+
 \
-Pour rappel, en période de confinement, il est toutefois toujours
-demandé de recourir au télétravail dès que cela est possible - même
-lorsque l’on est guéri. En cas d’impossibilité de télétravail, il faut
-continuer rigoureusement de respecter les gestes barrières et les
-mesures de distanciation sociale, tout en aménageant son poste de
-travail afin de limiter les risques.\
+Cas particuliers :
+-   personne à risques (liste sur [www.ameli.fr](http://www.ameli.fr)) :
+    vous devez en parler à votre médecin ;
+-   professionnel de santé : vous êtes invité à porter un masque
+    chirurgical pendant 7 jours après la levée de votre isolement
+    strict, par principe de précaution maximum car vous êtes au contact
+    de malades et sujets fragiles ;
+-   personne vivant dans le même foyer qu’une personne COVID-19 : vous
+    pouvez également retourner au travail à l’issue de la levée de
+    l’isolement de votre proche.
+
 \
-Concernant les professionnels de santé, ils sont invités à porter un
-masque chirurgical pendant 7 jours après la levée de leur isolement
-strict lors de leur retour au travail, par principe de précaution
-maximum car ils sont en contacts de malades et sujets fragiles.
+A noter :  en période de confinement, recourez au télétravail dès que
+cela est possible - même lorsque vous êtes guéri. En cas d’impossibilité
+de télétravail, il faut continuer rigoureusement de respecter les gestes
+barrières et les mesures de distanciation sociale, tout en aménageant
+votre poste de travail afin de limiter les risques.\
+\
+ 
 
 
 
 
 
-#### Je souhaite retourner au travail. Puis-je demander un dépistage ? {#je-souhaite-retourner-au-travail.-puis-je-demander-un-dépistage .item-question}
+#### Je souhaite retourner au travail, puis-je demander un dépistage ? {#je-souhaite-retourner-au-travail-puis-je-demander-un-dépistage .item-question}
 
 
 
 Non. Tester les personnes par dépistage dans cette situation n’a pas
-d’utilité ni d’intérêt car le dépistage actuel, par PCR, ne donne qu’une
-information à un temps donné. Si une personne est négative, on ne peut
-pas savoir si elle encore en période d’incubation, ou si elle a déjà été
-malade mais sans le savoir. Le dépistage ne préjuge donc en rien d’une
-possible future infection.\
+d’utilité car le dépistage actuel, par PCR (dans le nez), ne donne
+l’information qu’à un temps donné.\
 \
-Concernant les personnes guéries du COVID-19, elles peuvent retourner au
-travail après la levée de leur isolement strict, selon les critères
-définis par le Haut Conseil de la Santé Publique. Aucun test n’est
-nécessaire pour lever cet isolement.
+Si vous êtes négatif, on ne peut pas savoir si vous êtes encore en
+période d’incubation ou si vous avez déjà été malade mais sans le
+savoir. Cela ne veut en outre pas dire que vous ne serez pas contaminé
+plus tard.\
+\
+Si vous êtes  guéri du COVID-19, aucun test n’est nécessaire pour lever
+cet isolement. Vous pouvez retourner au travail après la levée de votre
+isolement strict, selon les critères définis par le Haut Conseil de la
+Santé Publique..\
+\
+Pour mémoire, principaux critères de levée de l’isolement strict définis
+par le Haut Conseil de la Santé Publique :
+-   se trouver au moins 8 jours après le début des symptômes ;
+-   ET au moins 48 heures après la de disparition de la fièvre vérifiée
+    deux fois dans la journée (en l’absence de toute prise de médicament
+    anti-fièvre depuis au moins 12 heures) ;
+-   ET au moins 48 heures après la de disparition d’une éventuelle
+    difficulté respiratoire.
+
+\
+ 
 
 
 
 
 
-#### Les proches des personnes fragiles peuvent-ils avoir un arrêt de travail ? {#les-proches-des-personnes-fragiles-peuvent-ils-avoir-un-arrêt-de-travail .item-question}
+#### Je suis un proche d’une personne fragile, puis-je avoir un arrêt de travail ? {#je-suis-un-proche-dune-personne-fragile-puis-je-avoir-un-arrêt-de-travail .item-question}
 
 
 
-Oui. Les proches de personnes fragiles sont d’abord invités à opter pour
-le télétravail, ou à un aménagement du poste de travail si leur travail
-est indispensable à la crise sanitaire. Si celui-ci est impossible, il
-est possible pour les proches de solliciter leur médecin traitant ou un
-médecin de ville, qui pourra prescrire un arrêt de travail s’il l’estime
-nécessaire. L’arrêt peut être prescrit jusqu’au 15 avril et est
-renouvelable tant que les consignes sanitaires sont maintenues.
+Oui, s’il ne vous est pas possible de télétravailler ou d’aménager votre
+poste de travail et que votre travail est indispensable à la crise
+sanitaire.\
+ \
+Modalités :
+-   c’est votre médecin traitant ou un médecin de ville qui pourra
+    prescrire un arrêt de travail s’il l’estime nécessaire.
+-   l’arrêt peut être prescrit jusqu’au 15 avril et est renouvelable
+    tant que les consignes sanitaires sont maintenues.
+
+\
+ 
 
 
 
 
 
-#### Les professionnels de santé considérés comme personnes fragiles (femmes enceintes notamment) peuvent-ils bénéficier d’un arrêt de travail ? {#les-professionnels-de-santé-considérés-comme-personnes-fragiles-femmes-enceintes-notamment-peuvent-ils-bénéficier-dun-arrêt-de-travail .item-question}
+#### Je suis professionnel de santé considéré comme personne fragile (femme enceinte...). Puis-je bénéficier d’un arrêt de travail ? {#je-suis-professionnel-de-santé-considéré-comme-personne-fragile-femme-enceinte....-puis-je-bénéficier-dun-arrêt-de-travail .item-question}
 
 
 
-Les professionnels de santé considérés personnes fragiles sont invités à
-aménager leur poste de travail en lien avec les Services de Santé au
-Travail, afin d’éviter l’exposition au coronavirus. Si les aménagements
-sont impossibles, il leur est possible de bénéficier d’un arrêt de
-travail.\
-Si un aménagement afin de limiter les risques est possible, elles
-doivent porter un masque, rigoureusement respecter les gestes barrières
-et les mesures de distanciation sociale.
+Essayez d'abord d’aménager votre poste de travail, avec l’aide des
+Services de Santé au Travail. Vous devrez porter un masque,
+rigoureusement respecter les gestes barrières et les mesures de
+distanciation sociale.\
+\
+Si les aménagements sont irréalisables, il vous est possible de
+bénéficier d’un arrêt de travail.\
+\
+ 
 
 
 
