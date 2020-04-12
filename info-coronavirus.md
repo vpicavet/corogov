@@ -5167,19 +5167,17 @@ Vous êtes un propriétaire. Pour l’échange des clés  :
 Oui, sous réserve du respect de gestes « barrières » et du respect de la
 distanciation sociale d’un mètre.\
 \
-Si vous le pouvez, au regard de la situation actuelle, il est préférable
-de repousser la tenue des états des lieux jusqu’à la fin des mesures de
-confinement.\
+Si vous le pouvez, il est préférable de repousser la tenue des états des
+lieux à la fin des mesures de confinement.\
 \
-Toutefois, s’il n’est pas possible de différer l’état des lieux :\
-\
-- vous pouvez faire appel à un huissier de justice, sous réserve de sa
-disponibilité ;\
-- l’état des lieux peut se tenir par voie dématérialisée. Il est
-recommandé au bailleur et au locataire de préserver tout élément de
-preuve de - l-’état du logement : photos, vidéos…\
-- en sortie du logement, les clefs peuvent être remises par lettre
-recommandée avec avis de réception.
+Il n’est pas possible de différer l’état des lieux :
+-   Vous pouvez faire appel à un huissier de justice, sous réserve de sa
+    disponibilité ;
+-   L’état des lieux peut se tenir par voie dématérialisée. Il est
+    recommandé au bailleur et au locataire de préserver tout élément de
+    preuve de l’état du logement : photos, vidéos…
+-   En sortie du logement, les clefs peuvent être remises par lettre
+    recommandée avec avis de réception.
 
 
 
@@ -5191,38 +5189,57 @@ recommandée avec avis de réception.
 
 En règle générale, non. La possibilité de recourir à un déménageur
 professionnel n'est maintenue que pour des situations très
-exceptionnelles.
+exceptionnelles et les déménagements qui ne peuvent pas être reportés.
 
 
 
 
 
-#### J’ai donné mon préavis et je dois quitter le logement qu’est-ce qui se passe ? {#jai-donné-mon-préavis-et-je-dois-quitter-le-logement-quest-ce-qui-se-passe .item-question}
+#### J’ai donné mon préavis et je dois quitter le logement, qu’est-ce qui se passe ? {#jai-donné-mon-préavis-et-je-dois-quitter-le-logement-quest-ce-qui-se-passe .item-question}
 
 
 
 Si vous souhaitez rester dans votre logement plus longtemps, jusqu’à la
 fin de la période de confinement, vous pouvez en faire la demande à
-votre propriétaire. S’il est d’accord, il vous faudra alors signer une «
-convention d’occupation précaire »  avec votre propriétaire pour
-contractualiser cet accord temporaire. Si la signature de ce document
-pose des difficultés, un échange d’emails peut suffire comme preuve
-écrite de l’accord trouvé entre le propriétaire et le locataire. Il vous
-faudra continuer à payer votre loyer.\
+votre propriétaire. S’il est d’accord, il vous faudra signer une
+[convention d'occupation
+temporaire](https://www.anil.org/fileadmin/ANIL/modeles_courriers/Location/Convention_occupation_temporaire.docx).\
 \
-Convention d’occupation temporaire : ce contrat permet au locataire de
-rester temporairement dans le logement, moyennant une contrepartie
-financière, qui s’élève généralement au montant du loyer et des charges.
+Si la signature de ce document pose des difficultés, un échange d’emails
+peut suffire comme preuve écrite de l’accord trouvé entre le
+propriétaire et le locataire.\
+\
+Il vous faudra continuer à payer votre loyer.\
+\
+En savoir plus : la Convention d’occupation temporaire.. Ce contrat
+permet au locataire de rester temporairement dans le logement, moyennant
+une contrepartie financière, qui s’élève généralement au montant du
+loyer et des charges.\
+\
 La convention précisera le contexte très exceptionnel de la situation
 (crise du Coronavirus) et les principaux éléments de la mise à
 disposition du logement (montant des sommes dues par le locataire /
-modalités pour sortir du logement à la fin du confinement). Des
-clauses-types pour la mise en place d’une telle convention sont
+modalités pour sortir du logement à la fin du confinement). [Retrouvez
+ici le modèle de
+convention](http://www.anil.org/fileadmin/ANIL/modeles_courriers/Location/Convention_occupation_temporaire.docx).\
+\
+Des clauses-types pour la mise en place d’une telle convention sont
 disponibles sur le [site de l’ANIL](http://www.anil.org/). Elles
 pourront vous aider à rédiger votre propre convention d’occupation
-temporaire, dans le contexte de lutte contre le Covid-19. Vous pouvez
-vérifier qu’elles correspondent bien à votre situation avec un juriste
-d'ADIL qui vous apportera un conseil neutre et gratuit.
+temporaire. Vous pouvez vérifier qu’elles correspondent bien à votre
+situation avec un juriste d'ADIL qui vous apportera un conseil neutre et
+gratuit.
+
+
+
+
+
+#### Si je suis contraint de rester dans mon logement alors que mon préavis est arrivé à son terme, dois-je continuer à payer mon loyer ? {#si-je-suis-contraint-de-rester-dans-mon-logement-alors-que-mon-préavis-est-arrivé-à-son-terme-dois-je-continuer-à-payer-mon-loyer .item-question}
+
+
+
+Oui, vous devez continuer à payer votre loyer pour toute la période où
+vous occupez le logement.
 
 
 
@@ -5233,16 +5250,19 @@ d'ADIL qui vous apportera un conseil neutre et gratuit.
 
 
 Oui, selon la loi le locataire doit respecter le contrat de location
-qu’il a signé et donc payer le loyer. Néanmoins, s’il vous est
-impossible d’emménager dans votre nouveau logement, vous pouvez vous
-mettre d’accord avec le propriétaire pour reporter la date de début de
-location.
-
-Si vous n'arrivez pas à trouver un accord amiable, vous pouvez vous
-tourner vers l'Agence nationale pour l'Information sur le Logement
-(ANIL) à travers [les conseillers juristes des Agences départementales
-(ADIL)](https://www.anil.org/lanil-et-les-adil/votre-adil/) qui vous
-accompagneront et vous aideront à trouver des solutions.
+qu’il a signé et donc payer le loyer.\
+\
+S’il vous est impossible d’emménager dans votre nouveau logement, vous
+pouvez vous mettre d’accord avec le propriétaire pour reporter la date
+de début de location.\
+\
+Si vous n'arrivez pas à trouver un accord, vous pouvez vous tourner vers
+l'Agence nationale pour l'Information sur le Logement (ANIL) avec [les
+conseillers juristes des Agences départementales
+(ADIL)](https://www.anil.org/lanil-et-les-adil/votre-adil/) conseillers
+juristes des Agences départementales (ADIL), qui vous accompagneront et
+vous aideront à trouver des solutions.\
+ 
 
 
 
@@ -5252,18 +5272,23 @@ accompagneront et vous aideront à trouver des solutions.
 
 
 
-En cas de conflit avec votre propriétaire, l'Agence Nationale pour
-l'Information sur le Logement (ANIL) à travers [les conseillers juristes
-des Agences départementales
-(ADIL)](https://www.anil.org/lanil-et-les-adil/votre-adil/) peuvent vous
-accompagner pour vous aider à trouver une solution selon votre cas.
-
+Non, pas jusqu’au 31 mai : ce qu’on appelle la “trêve hivernale”, qui
+interdit les expulsions a été exceptionnellement prolongée jusqu’à cette
+date.\
+\
+Mais vous devez évidemment payer votre loyer puisque vous occupez votre
+logement.\
+\
+En savoir plus : En cas de conflit avec votre propriétaire, l'Agence
+Nationale pour l'Information sur le Logement (ANIL) - à travers [es
+conseillers juristes des Agences départementales
+(ADIL)](https://www.anil.org/lanil-et-les-adil/votre-adil/) - peuvent
+vous accompagner pour vous aider à trouver une solution selon votre
+cas.\
+\
 Si l’expulsion est demandée par le propriétaire, cela suppose d'abord
-une décision de justice, qui ne sera pas rendue avant plusieurs mois. En
-outre, la "trêve hivernale", a été exceptionnellement prolongée jusqu’au
-31 mai. C’est-à-dire que jusqu’à cette date aucune expulsion de
-locataire ne peut être exécutée. Dans tous les cas, si j’occupe le
-logement, je dois continuer à payer le loyer.
+une décision de justice.\
+ 
 
 
 
@@ -5273,11 +5298,15 @@ logement, je dois continuer à payer le loyer.
 
 
 
+Important : l’impossibilité de signature devant notaire liée au
+confinement ne remet pas en cause la promesse de vente.\
+\
 Le délai de signature devant notaire court à compter de la signature de
-la promesse de vente. A l’issue de celui-ci, la promesse de vente n’est
-pas caduque, tant qu’au total cette période n’excède pas 18 mois.
-L’impossibilité de signature devant notaire liée au confinement ne remet
-pas en cause la promesse de vente.
+la promesse de vente. La promesse de vente n’est pas caduque, tant qu’au
+total cette période n’excède pas 18 mois.
+
+\
+\
 
 
 
@@ -5292,7 +5321,7 @@ Oui sous réserve de produire les 3 pièces ci-dessous :\
 - une attestation de déplacement dérogatoire (et cocher la case « 
 Participation à des missions d'intérêt général sur demande de l'autorité
 administrative ».\
-- une attestation sur l'honneur qu'ils se déplacent à l'adresse du
+- une attestation sur l'honneur que vous vous déplacez à l'adresse du
 logement mis à disposition pour remettre les clés à un personnel
 soignant ou un travailleur ou bénévole d'un centre d'hébergement.\
 - la preuve de la réservation du logement (la confirmation numérique
@@ -5307,7 +5336,7 @@ présentés sur smartphone).
 
 
 
-Non, à moins que votre locataire soit également d’accord.
+Non, à moins que votre locataire soit d’accord.
 
 
 
@@ -5318,12 +5347,14 @@ Non, à moins que votre locataire soit également d’accord.
 
 
 Pour tenir une assemblée générale à distance, il faut que votre
-assemblée générale ait déjà voté cette possibilité avant la crise. Dans
-le cas inverse, ce ne sera pas possible.
-
-Une ordonnance prévoit que le contrat de votre syndic qui aurait dû
-expirer pendant la période de confinement est prolongé jusqu’à ce qu’une
-prochaine AG puisse se tenir (au plus tard le 31 décembre 2020).
+assemblée générale ait déjà voté cette possibilité avant la crise.\
+\
+Si ce n’est pas le cas, une ordonnance prévoit que le contrat de votre
+syndic qui aurait dû expirer pendant la période de confinement est
+prolongé jusqu’à ce qu’il puisse convoquer AG (au plus tard le 31
+décembre 2020).\
+\
+ 
 
 
 
@@ -5333,9 +5364,11 @@ prochaine AG puisse se tenir (au plus tard le 31 décembre 2020).
 
 
 
-Les gardiens / concierges d’immeubles peuvent continuer à travailler en
-respectant les consignes sanitaires, et notamment les mesures barrière
-et les mesures de distances sanitaires avec les habitants de l’immeuble.
+Oui.\
+\
+Mais ils doivent respecter les consignes sanitaires :  mesures barrière
+et mesures de distances sanitaires avec les habitants de l’immeuble.\
+ 
 
 
 
@@ -5345,22 +5378,25 @@ et les mesures de distances sanitaires avec les habitants de l’immeuble.
 
 
 
-La signature électronique est techniquement possible et le ministère
-travaille à la faciliter. Vous pouvez prendre contact avec le notaire
-qui vous indiquera les conditions dans lesquelles il est possible de
-signer de manière électronique.
+La signature électronique est techniquement possible.\
+\
+Contactez votre notaire qui vous indiquera les conditions dans
+lesquelles c’est possible.\
+ 
 
 
 
 
 
-#### Si la signature électronique n'est pas possible, est ce que le motif vaut autorisation de déplacement ? {#si-la-signature-électronique-nest-pas-possible-est-ce-que-le-motif-vaut-autorisation-de-déplacement .item-question}
+#### Si la signature électronique n'est pas possible, est-ce que le motif vaut autorisation de déplacement ? {#si-la-signature-électronique-nest-pas-possible-est-ce-que-le-motif-vaut-autorisation-de-déplacement .item-question}
 
 
 
-Ce cas ne fait pas pour l’instant partie des cas permettant une
-dérogation de sortie. Vous pouvez prendre contact avec votre notaire
-pour demander à reporter la date de signature.
+Non.\
+\
+Prenez contact avec votre notaire pour demander à reporter la date de
+signature.\
+ 
 
 
 
@@ -5371,51 +5407,44 @@ pour demander à reporter la date de signature.
 
 
 Oui, le notaire peut désormais faire signer les deux parties de manière
-dématérialisée. Cette dérogation accordée par le Gouvernement ne sera
-valable que jusqu’à un mois après la fin du confinement. Dans le domaine
-immobilier, cela permet de couvrir l’ensemble des cas de ventes en
-cours.
+dématérialisée.\
+\
+Cette dérogation accordée par le Gouvernement ne sera valable que
+jusqu’à un mois après la fin du confinement.\
+\
+Dans le domaine immobilier, cela permettra de couvrir l’ensemble des cas
+de ventes en cours.\
+ 
 
 
 
 
 
-#### Le paiement des loyers des logements est-t-il suspendu, comme pour les petites entreprises ? {#le-paiement-des-loyers-des-logements-est-t-il-suspendu-comme-pour-les-petites-entreprises .item-question}
+#### Le paiement des loyers des logements est-t-il suspendu, comme pour les petites entreprises en difficulté ? {#le-paiement-des-loyers-des-logements-est-t-il-suspendu-comme-pour-les-petites-entreprises-en-difficulté .item-question}
 
 
 
-Les mesures que le Président de la République a annoncées le 16 mars ne
-concernent que les plus petites entreprises en difficulté, ce qui
-signifie les loyers d’habitation doivent continuer à être payés.
-
-
-
-
-
-#### Mes revenus vont baisser en mars et je serai en difficulté pour payer mon loyer : que puis-je faire ? Vers qui puis-je me tourner ? {#mes-revenus-vont-baisser-en-mars-et-je-serai-en-difficulté-pour-payer-mon-loyer-que-puis-je-faire-vers-qui-puis-je-me-tourner .item-question}
-
-
-
-Si vous rencontrez des difficultés à payer votre loyer, il est
-recommandé de contacter rapidement votre propriétaire pour lui expliquer
-la situation et voir avec lui si un report et un étalement du paiement
-du loyer sont possibles. Si vous n’arrivez pas à trouver un accord
-amiable, vous pouvez vous tourner vers  [l’Agence nationale pour
-l’Information sur le Logement
-(ANIL)](https://www.anil.org/lanil-et-les-adil/votre-adil/) qui, à
-travers les conseillers juristes des Agences départementales (ADIL),
-vous informeront et vous aideront à trouver des solutions.
+Non, les loyers d’habitation doivent continuer à être payés.
 
 
 
 
 
-#### Si je suis contraint de rester dans mon logement alors que mon préavis est arrivé à son terme, dois-je continuer à payer mon loyer ? {#si-je-suis-contraint-de-rester-dans-mon-logement-alors-que-mon-préavis-est-arrivé-à-son-terme-dois-je-continuer-à-payer-mon-loyer .item-question}
+#### Mes revenus vont baisser en mars et je serai en difficulté pour payer mon loyer : que puis-je faire ? {#mes-revenus-vont-baisser-en-mars-et-je-serai-en-difficulté-pour-payer-mon-loyer-que-puis-je-faire .item-question}
 
 
 
-Oui, vous devez continuer à payer votre loyer pour toute la période où
-vous occupez le logement.
+Contactez rapidement votre propriétaire pour lui expliquer la situation
+et voir avec lui si un report et un étalement du paiement du loyer sont
+possibles.\
+\
+Vous n’arrivez pas à trouver un accord amiable : contactez  [l’Agence
+nationale pour l’Information sur le Logement
+(ANIL)](https://www.anil.org/lanil-et-les-adil/votre-adil/) dont les
+conseillers juristes départementaux vous informeront et vous aideront à
+trouver une solution.\
+\
+ 
 
 
 
@@ -5466,7 +5495,7 @@ Vous pouvez contacter :
 
 
 
-#### Ai-je le droit d'aller au container de tri sélectif situé à plusieurs mètres de mon domicile ou à une déchetterie et que dois-je cocher sur l'attestation ? {#ai-je-le-droit-daller-au-container-de-tri-sélectif-situé-à-plusieurs-mètres-de-mon-domicile-ou-à-une-déchetterie-et-que-dois-je-cocher-sur-lattestation .item-question}
+#### Ai-je le droit d'aller au container de collecte sélective ou à une déchetterie ? {#ai-je-le-droit-daller-au-container-de-collecte-sélective-ou-à-une-déchetterie .item-question}
 
 
 
@@ -5476,9 +5505,11 @@ des achats de première nécessité ».\
 \
 Il est toutefois indispensable de vérifier auparavant auprès de votre
 collectivité si votre déchetterie est ou non ouverte et accessible au
-public. En cas de fermeture de votre déchetterie, vous ne devez en aucun
-cas laisser vos encombrants dans la nature, sur le trottoir ou devant la
-grille de la déchetterie (sanction allant jusqu'à 1500€ et la
+public.\
+\
+Attention, en cas de fermeture de votre déchetterie, vous ne devez en
+aucun cas laisser vos encombrants dans la nature, sur le trottoir ou
+devant la grille de la déchetterie (sanction allant jusqu'à 1500€ et la
 confiscation du véhicule).
 
 
@@ -5564,13 +5595,12 @@ commune ou de votre intercommunalité.
 
 La préoccupation constante du Gouvernement est d’assurer la protection
 des agents grâce à la mise en place d’une organisation du travail qui
-permette le respect des gestes barrières. Un travail étroit est mené
-entre le ministère de la Transition écologique et solidaire, le
-ministère des Solidarités et de la Santé et les fédérations
-professionnelles pour adopter les règles appropriées pour chaque métier
-au sein de la chaîne des déchets (ces règles ne sont pas les mêmes pour
-la collecte des déchets ménagers ou de déchets plus spécifiques, pour
-les chaînes de tri, pour l'incinération, etc.).
+permette le respect des gestes barrières.\
+\
+Un travail étroit est mené entre le ministère de la Transition
+écologique et solidaire, le ministère des Solidarités et de la Santé et
+les fédérations professionnelles pour adopter les règles appropriées
+pour chaque métier au sein de la chaîne des déchets.
 
 
 
@@ -5581,43 +5611,42 @@ les chaînes de tri, pour l'incinération, etc.).
 
 
 Si votre déchetterie est fermée, vous pouvez stocker vos déchets verts
-en attendant qu’elles rouvrent, ou profiter de ces semaines de
-confinement pour commencer à réaliser votre propre compost et entrer
-dans la boucle de l’économie circulaire !
+en attendant qu’elles rouvre, ou profiter de ces semaines de confinement
+pour commencer à réaliser votre propre compost et entrer dans la boucle
+de l’économie circulaire !
 
 
 
 
 
-#### Je profite de ce temps libre pour faire du tri dans mon garage. Que faire des encombrants si la déchetterie la plus proche de chez moi est fermée ? {#je-profite-de-ce-temps-libre-pour-faire-du-tri-dans-mon-garage.-que-faire-des-encombrants-si-la-déchetterie-la-plus-proche-de-chez-moi-est-fermée .item-question}
+#### Je profite de mon temps libre pour faire du tri dans mon garage. Que faire des encombrants si la déchetterie la plus proche de chez moi est fermée ? {#je-profite-de-mon-temps-libre-pour-faire-du-tri-dans-mon-garage.-que-faire-des-encombrants-si-la-déchetterie-la-plus-proche-de-chez-moi-est-fermée .item-question}
 
 
 
 Si votre déchetterie est fermée, nous vous invitons à stocker vos
 encombrants chez vous en attendant sa réouverture.\
 \
-Si votre collectivité vous informe en revanche que votre déchetterie
-reste ouverte pour les particuliers, vous pouvez vous y rendre en étant
-muni de votre attestation de déplacement dérogatoire en cochant la case
-« déplacement pour effectuer des achats de première nécessité ».\
+Si votre déchetterie reste ouverte, vous pouvez vous y rendre, muni de
+votre attestation de déplacement dérogatoire en cochant la case «
+déplacement pour effectuer des achats de première nécessité ».\
 \
-Dans tous les cas, il vous est conseillé de consulter régulièrement le
-site internet de votre commune ou de votre intercommunalité pour
-connaître les règles relatives aux déchets encombrants et vous ne devez
-en aucun cas les laisser dans la nature ou sur le trottoir (sanction
-allant jusqu'à 1500€ et la confiscation du véhicule).
+Consultez régulièrement le site internet de votre commune ou de votre
+intercommunalité pour connaître les règles relatives aux déchets
+encombrants.  Ne les  laissez en aucun cas dans la nature ou sur le
+trottoir (sanction allant jusqu'à 1500€ et confiscation du véhicule).\
+ 
 
 
 
 
 
-#### Je fais du tri dans mes vêtements. Puis-je continuer à les déposer dans des bornes type Relay ? {#je-fais-du-tri-dans-mes-vêtements.-puis-je-continuer-à-les-déposer-dans-des-bornes-type-relay .item-question}
+#### Je fais du tri dans mes vêtements, puis-je continuer à les déposer dans des bornes type Relay ? {#je-fais-du-tri-dans-mes-vêtements-puis-je-continuer-à-les-déposer-dans-des-bornes-type-relay .item-question}
 
 
 
-Certains acteurs n’étant pas en mesure d’effectuer la collecte, il est
-préférable de les mettre de côté et d’attendre la fin du confinement
-pour les déposer dans les différents points de collecte.
+Il est préférable de les mettre de côté et d’attendre la fin du
+confinement pour les déposer dans les points de collecte.\
+ 
 
 
 
