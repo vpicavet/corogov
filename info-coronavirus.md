@@ -3303,13 +3303,18 @@ Questions / Réponses
 
 
 
-Non, je reste chez moi et je fais du télétravail. 
-
-Si le télétravail n’est pas possible je peux me rendre au travail en
-transport ou mes moyens personnels muni d’une attestation et d’une carte
-d’identité. \
-Mon employeur est tenu d’adapter mon travail pour assurer ma sécurité si
-le télétravail est impossible dans mon secteur.
+En priorité et si c’est possible, restez chez vous et faites du
+télétravail.\
+\
+Si le télétravail n’est pas possible dans votre cas, vérifiez que votre
+entreprise assure votre sécurité en adaptant vos conditions de travail.
+Elle y est obligée.\
+\
+Vous pouvez alors vous rendre au travail en transports en commun ou par
+vos moyens personnels. Emportez une attestation fournie par votre
+employeur et ayez votre carte d’identité sur vous.\
+\
+ 
 
 
 
@@ -3319,31 +3324,32 @@ le télétravail est impossible dans mon secteur.
 
 
 
-Oui, mis à part évidemment si vous êtes affectés par le Coronavirus ou
-si vous êtes une personne dite à risque (personnes enceintes, souffrant
-de maladies chroniques ou d’insuffisances cardiaques, âgées,
-immunodéprimées ou fragiles… la liste complète est sur
-[www.ameli.fr](https://www.ameli.fr)), ou si vous devez garder vos
-enfants.\
- 
+-    **Vous ne pouvez pas travailler** : le Gouvernement a interdit les
+    activités qui créent des rassemblements publics : commerces non
+    indispensables, restaurants, spectacles, cinéma, manifestations
+    sportives, salons… Il s’agit d’éviter que le virus se répande ;
+-   **Vous ne devez pas aller travailler** : si vous êtes affecté par le
+    Coronavirus ou si vous êtes une personne dite à risque (personne
+    enceinte, souffrant de maladie chronique ou d’insuffisance
+    cardiaque, âgée, immunodéprimée ou fragile… Liste sur
+    [www.ameli.fr](http://www.ameli.fr/)). Il **s’agit de préserver
+    votre santé ;**
+-   **Vous êtes autorisé à ne pas aller travailler** : si vous devez
+    garder vos enfants ;
+-   **Dans tous les autres cas, vous pouvez travailler**, en
+    privilégiant le télétravail. Si le télétravail n’est pas possible,
+    tous les employeurs et les salariés doivent impérativement, comme
+    dans leur vie quotidienne, respecter les gestes barrière et les
+    règles de distanciation de plus d’un mètre entre chaque collègue ou
+    avec la clientèle.
 
-Le Gouvernement a interdit les déplacements et les activités qui
-génèrent des rassemblements publics (commerce, restaurants, spectacles,
-cinéma, manifestations sportives, salons, etc) pour éviter la
-propagation du virus.\
+\
+**A noter : Les obligations des entreprises** : elles doivent adapter
+leur organisation, limiter au strict nécessaire les réunions, éviter les
+regroupements de salariés dans des espaces réduits et limiter les
+déplacements.\
+\
  
-
-Les autres activités économiques ne font pas l’objet de restriction.
-Elles doivent quand c’est possible s’exercer par télétravail. Quand ce
-n’est pas possible, employeurs comme salariés doivent impérativement,
-comme dans leur vie quotidienne, respecter les gestes barrière, et les
-règles de distanciation de plus d’un mètre entre chaque collègue ou avec
-la clientèle.\
-\
-\
-Les entreprises doivent par ailleurs adapter leur organisation pour
-limiter au strict nécessaire les réunions, éviter les regroupements de
-salariés dans des espaces réduits, éviter les déplacements…
 
 
 
@@ -3353,67 +3359,46 @@ salariés dans des espaces réduits, éviter les déplacements…
 
 
 
-En discuter avec votre employeur, le cas échéant via vos représentants
-du personnel, pour adapter l’organisation du travail aux prescriptions
-sanitaires. Le ministère du Travail vient de diffuser [un document
-rappelant les obligations des employeurs en matière de protection de la
-santé des
+D’abord : en discuter avec votre employeur.  Vos représentants du
+personnel peuvent vous aider. Demandez l’adaptation de l’organisation du
+travail aux prescriptions sanitaires.\
+\
+Pour en savoir plus sur ce que doit faire votre employeur, le ministère
+du Travail propose [un document rappelant les obligations des employeurs
+en matière de protection de la santé des
 travailleurs](https://travail-emploi.gouv.fr/IMG/pdf/covid19_obligations_employeur.pdf).
-
-Ces informations peuvent, dans certains secteurs, être complétées par la
-branche professionnelle qui proposera un guide spécifique aux différents
-métiers. En cas de méconnaissance persistante de ces consignes, vous
-pouvez prendre contact avec l’inspecteur du travail de votre secteur. 
-Ses coordonnées doivent être affichées dans l’entreprise. Elle sont
-aussi disponibles sur [le site de la Direccte de votre
-région](http://direccte.gouv.fr/).
-
-
-
-
-
-#### Quels secteurs d'activité sont autorisés à exercer ( BTP ? Paysagiste ? Bâtiment ) ? {#quels-secteurs-dactivité-sont-autorisés-à-exercer-btp-paysagiste-bâtiment .item-question}
-
-
-
-Le Gouvernement a interdit les déplacements et les activités qui
-génèrent des rassemblements publics (commerce, restaurants, spectacles,
-cinéma, manifestations sportives, salons, etc) pour éviter la
-propagation du virus. Seuls restent autorisés, les services « essentiels
-» c’est à dire les commerces alimentaires, les pharmacies etc.
-
-Les autres activités économiques ne font pas l’objet de restriction.
-Elles doivent quand c’est possible s’exercer par télétravail. Quand ce
-n’est pas possible, employeurs comme salariés doivent impérativement,
-comme dans leur vie quotidienne, respecter les gestes barrière (se laver
-les mains, tousser ou éternuer dans son coude ou un mouchoir, jeter les
-mouchoirs en papier usagés…), et les règles de distanciation de plus
-d’un mètre entre chaque collègue et avec la clientèle.
-
-Les entreprises doivent par ailleurs adapter leur organisation pour
-limiter au strict nécessaire les réunions, éviter les regroupements de
-salariés dans des espaces réduits, éviter les déplacements… Le ministère
-du Travail a diffusé à leur intention [une série de conseils et de
-règles à observer au
-travail](https://travail-emploi.gouv.fr/actualites/l-actualite-du-ministere/article/coronavirus-questions-reponses-pour-les-entreprises-et-les-salaries).
+Dans certains secteurs, ces obligations peuvent être complétées par la
+branche professionnelle qui proposera un guide par métier.\
+\
+A noter : si votre employeur ne respecte pas ces consignes, vous pouvez
+prendre contact avec l’inspecteur du travail de votre secteur. Ses
+coordonnées doivent être affichées dans l’entreprise et sont disponibles
+sur le [site de la Direccte de votre région.](http://direccte.gouv.fr/)\
+\
+ 
 
 
 
 
 
-#### Peut-on travailler en usine malgré le confinement ? {#peut-on-travailler-en-usine-malgré-le-confinement .item-question}
+#### Puis-je travailler en usine malgré le confinement ? {#puis-je-travailler-en-usine-malgré-le-confinement .item-question}
 
 
 
-Oui, dès lors que les prescriptions sanitaires diffusées par le
-Gouvernement sont respectées, et notamment l’application stricte des «
-gestes barrières » tels qu’une distance de plus d’un mètre entre
-collègues en toute circonstance, le lavage très régulier des mains avec
-du savon ou du gel hydro-alcoolique, etc. Consulter à ce propos le
-document  « [Quelles mesures l’employeur doit-il prendre pour protéger
-la santé de ses salariés face au virus
-?](https://travail-emploi.gouv.fr/actualites/l-actualite-du-ministere/article/coronavirus-covid19-quelles-mesures-l-employeur-doit-il-prendre-pour-proteger)
-» édité par le ministère du Travail.
+-   **Oui, si les prescriptions sanitaires diffusées par le Gouvernement
+    sont respectées**, et notamment l’application stricte des « gestes
+    barrières » : une distance de plus d’un mètre entre collègues en
+    toute circonstance, le lavage très régulier des mains avec du savon
+    ou du gel hydro-alcoolique, etc.
+-   **Mais votre employeur a des obligations** : voir   « [Quelles
+    mesures l’employeur doit-il prendre pour protéger la santé de ses
+    salariés face au virus
+    ?](https://travail-emploi.gouv.fr/actualites/l-actualite-du-ministere/article/coronavirus-covid19-quelles-mesures-l-employeur-doit-il-prendre-pour-proteger)
+    » édité par le ministère du Travail.
+
+\
+\
+ 
 
 
 
@@ -3423,29 +3408,26 @@ la santé de ses salariés face au virus
 
 
 
-Le ministère du Travail vient de diffuser [un document rappelant les
-obligations des employeurs en matière de protection de la santé des
-travailleurs](https://travail-emploi.gouv.fr/IMG/pdf/covid19_obligations_employeur.pdf).
-
-Parmi ces obligations figurent notamment, outre la nécessité d’assurer
-le respect des gestes barrière, la nécessité d’informer les salariés
-susceptibles d’avoir été en contact avec un personnel contaminé, la
-nécessité de prendre toute mesure d’organisation adaptée et de faire
-procéder sans délai à un nettoyage approprié des surfaces concernées par
-le risque de contamination.
-
-Ainsi, les espaces de travail occupés par les personnes [infectées ou
-suspectées de l’être doivent être nettoyés selon un protocole
-précis](https://travail-emploi.gouv.fr/actualites/l-actualite-du-ministere/article/coronavirus-covid19-quelles-mesures-l-employeur-doit-il-prendre-pour-proteger).  
-
-Enfin, il est recommandé à l’employeur d’associer si possible son
-service de santé au travail afin d’obtenir des recommandations au plus
-près de sa situation et de se rapprocher des représentants du
-personnel.\
+Non mais l’employeur doit mettre en place des mesures définies par le
+ministère du Travail : l[es obligations des employeurs en matière de
+protection de la santé des
+travailleurs.](https://travail-emploi.gouv.fr/IMG/pdf/covid19_obligations_employeur.pdf.)\
 \
-Il n’y a donc pas  d’obligation de fermeture mais obligation pour
-l’employeur de mettre en place les mesures qui ont été définies par les
-autorités.
+**Principales obligations des employeurs :**
+-   respect des gestes barrière ;
+-   information des salariés susceptibles d’avoir été en contact avec un
+    personnel contaminé ;
+-   nettoyage des surfaces concernées par le risque de contamination
+    [selon un protocole
+    précis](https://travail-emploi.gouv.fr/actualites/l-actualite-du-ministere/article/coronavirus-covid19-quelles-mesures-l-employeur-doit-il-prendre-pour-proteger)
+    ;
+-   nécessité de prendre toute mesure d’organisation adaptée.
+
+\
+**Recommandations aux employeurs :**
+-   associer si possible son service de santé au travail afin d’obtenir
+    des recommandations adaptées à la situation précise ;
+-   se rapprocher des représentants du personnel.
 
 
 
