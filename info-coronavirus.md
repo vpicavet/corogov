@@ -4289,16 +4289,18 @@ faites-le, il sera sanctionné.\
 
 
 
-#### Peut-on changer de lieu de confinement ? {#peut-on-changer-de-lieu-de-confinement .item-question}
+#### Puis-je changer de lieu de confinement ? {#puis-je-changer-de-lieu-de-confinement .item-question}
 
 
 
-Le lieu du confinement ne doit pas changer. Dans des situations
-particulières rendant nécessaires le fait de rejoindre sa résidence
-principale (fin d'une location, protection de personnes vulnérables ou
-d'animaux, garde d’enfants etc.), le retour vers sa résidence est
-possible, la personne devant se munir de son attestation dérogatoire de
-déplacement dûment remplie ainsi que de sa pièce d'identité.
+Non, votre lieu du confinement ne doit pas changer Sauf dans des
+situations particulières rendant nécessaires le fait de rejoindre sa
+résidence principale (fin d'une location, protection de personnes
+vulnérables ou d'animaux, garde d’enfants etc.).\
+\
+Vous devez alors vous munir de votre attestation dérogatoire de
+déplacement  ainsi que de votre pièce d'identité.\
+ 
 
 
 
@@ -4314,54 +4316,97 @@ Non, le lieu de confinement doit être choisi et déterminé.
 
 
 
+#### Je travaille encore mais j’ai un parent âgé, qui vit seul et se retrouve sans aide à domicile. Puis-je aller le voir malgré les consignes de vigilance ? {#je-travaille-encore-mais-jai-un-parent-âgé-qui-vit-seul-et-se-retrouve-sans-aide-à-domicile.-puis-je-aller-le-voir-malgré-les-consignes-de-vigilance .item-question}
+
+
+
+Oui, il est possible de rendre visite à un parent âgé et vulnérable, qui
+ne pourrait subvenir à ses besoins sans aide à domicile.\
+\
+Il convient de rester très vigilant et appliquer très rigoureusement les
+gestes barrières.\
+\
+Quand cela est possible, il faut limiter au maximum les contacts directs
+(déposer les courses à l’entrée, faire le ménage dans autre pièce que
+celle où se situe le parent…) et maintenir une distance d’au moins 1
+mètre avec le parent.\
+\
+Si on est malade, il ne faut pas s’y rendre et demander à un proche, ne
+vivant pas dans son foyer, de s’occuper du parent.\
+\
+Il est également possible de prendre contact avec les services sociaux.\
+\
+ 
+
+
+
+
+
 #### Puis-je faire mes courses au supermarché ou à l'épicerie ? {#puis-je-faire-mes-courses-au-supermarché-ou-à-lépicerie .item-question}
 
 
 
-Les supermarchés et épiceries resteront ouverts. Leur approvisionnement
-en produits alimentaires et de première nécessité sera garanti dans les
-jours et les semaines à venir et les règles du travail de nuit
-notamment, seront assouplies pour les magasins. Il n’y a donc aucun
-risque de rationnement et il faut éviter la surconsommation préventive.
-Les espaces culturels et les cafétérias de la grande distribution seront
-fermés.
-
-Dans la rue et dans le magasin, je dois respecter une distance de 1
-mètre avec les gens qui m’entourent et mettre en oeuvre les gestes
-barrières en avant d’y aller et en rentrant. 
-
+Oui, car il s’agit d’un déplacement pour effectuer des achats de
+première nécessité.\
+\
+Cochez la case correspondante sur votre Attestation de déplacement
+dérogatoire.\
+\
+Et soyez attentif, dans la rue comme dans le magasin, à respecter une
+distance de 1 mètre avec les gens qui vous entourent, et à mettre en
+oeuvre en toute circonstance les gestes barrières.\
+\
+*Pour en savoir plus* :\
+\
+Les supermarchés et épiceries restent ouverts. Leur approvisionnement en
+produits alimentaires et de première nécessité est garantie dans les
+jours et les semaines à venir. Les règles du travail de nuit notamment,
+sont assouplies pour les magasins. Il n’y a donc aucun risque de
+rationnement et il faut éviter la surconsommation préventive. Les
+espaces culturels et les cafétérias de la grande distribution sont
+fermés.\
+\
 La liste des établissements qui bénéficient d’une dérogation pour rester
-ouverts se trouve dans la rubrique “Les établissements fermés”.
+ouverts se trouve dans la rubrique “Les établissements fermés”.\
+ 
 
 
 
 
 
-#### Peut-on aller au marché ? {#peut-on-aller-au-marché .item-question}
+#### Puis-je aller au marché ? {#puis-je-aller-au-marché .item-question}
 
 
 
-La tenue de tous les marchés, ouverts et couverts, est interdite.
+Oui, si le préfet de votre département a accordé une autorisation
+d’ouverture à votre marché.\
+\
+Notez que beaucoup de marchés sont fermés.\
+\
+*Pour en savoir plus :*\
+\
+La règle est que tous les marchés, ouverts et couverts, sont interdits.
 Toutefois, le préfet de département peut, après un avis du maire,
 accorder une autorisation d’ouverture des marchés alimentaires qui
 répondent à un besoin d’approvisionnement de la population, si les
 conditions de leur organisation, ainsi que les contrôles mis en place,
 permettent le respect des gestes barrières et des distances nécessaires
-entre les personnes.
-
-Il n’est donc possible de se rendre au marché que lorsque que ceux-ci
-sont autorisés.
+entre les personnes.\
+ 
 
 
 
 
 
-#### Y a-t-il une zone délimitée autour de son domicile pour faire ses courses ? {#y-a-t-il-une-zone-délimitée-autour-de-son-domicile-pour-faire-ses-courses .item-question}
+#### Y a-t-il une zone délimitée autour de mon domicile pour faire mes courses ? {#y-a-t-il-une-zone-délimitée-autour-de-mon-domicile-pour-faire-mes-courses .item-question}
 
 
 
-Non, mais la règle est le déplacement bref et à proximité du domicile.
-Chacun doit faire preuve de responsabilité.
+Non, mais la règle est le déplacement bref et à proximité de votre
+domicile. Il est important que chacun soit responsable et limite ses
+déplacements pour éviter la propagation du virus.\
+\
+ 
 
 
 
@@ -4371,6 +4416,8 @@ Chacun doit faire preuve de responsabilité.
 
 
 
+C'est déconseillé.\
+\
 La règle est le déplacement bref et à proximité du domicile. Cependant,
 si vous n'avez pas d'autre possibilité pour vous ravitailler, vous
 pouvez aller faire des courses loin de votre domicile, pour des achats
@@ -4380,29 +4427,41 @@ de première nécessité.
 
 
 
-#### Faut-il désinfecter ses conserves et laver ses fruits et légumes en rentrant des courses ? {#faut-il-désinfecter-ses-conserves-et-laver-ses-fruits-et-légumes-en-rentrant-des-courses .item-question}
+#### Faut-il désinfecter les conserves et laver les fruits et légumes en rentrant des courses ? {#faut-il-désinfecter-les-conserves-et-laver-les-fruits-et-légumes-en-rentrant-des-courses .item-question}
 
 
 
-l est recommandé de bien suivre les règles d’hygiène des mains en
-rentrant des courses et après manipulation des produits alimentaires. Il
-est également important de laver fruits et légumes, comme d’habitude, à
-l’eau, sans savon, en suivant les règles de bonnes pratiques d’hygiène
-alimentaire disponibles sur le site de
-l’[ANSES](https://www.anses.fr/fr/content/conseils-dhygi%C3%A8ne-dans-la-cuisine).
+Oui.
+-   Il est recommandé de bien suivre les règles d’hygiène des mains en
+    rentrant des courses et après manipulation des produits
+    alimentaires.
+-   Il est important de laver fruits et légumes, comme d’habitude, à
+    l’eau, sans savon, en suivant les règles de bonnes pratiques
+    d’hygiène alimentaire disponibles sur le site de l’Agence nationale
+    de sécurité sanitaire de l'alimentation, de l'environnement et du
+    travail
+    ([ANSES](https://www.anses.fr/fr/content/conseils-dhygi%C3%A8ne-dans-la-cuisine)).
+
+\
+*Pour en savoir plus*  :\
+\
 Le risque de contamination à travers les emballages reste faible.
 Néanmoins, les emballages peuvent avoir été contaminés par des mains
 souillées lors de leur manipulation par une personne infectée (via les
-mains, éternuements…). Même si le virus causant la maladie ne peut
-survivre plus de 3h sur les surfaces des emballages, essuyer les
-emballages avec un essuie tout à usage unique humidifié constitue une
-précaution supplémentaire. On peut également laisser reposer les
-produits emballés non réfrigérés trois heures après les avoir ramenées à
-la maison lorsqu’il ne s’agit pas de produits frais. Pour les aliments
-qui se conservent au réfrigérateur, dès lors que cela est possible, il
-faut retirer les suremballages (ex : carton des yaourts)  avant de les
-ranger. Bien entendu, il faut se laver les mains soigneusement avant et
-après la manipulation de ces emballages.
+mains, éternuements…).\
+\
+Même si le virus causant la maladie ne peut survivre plus de 3h sur les
+surfaces des emballages, essuyer les emballages avec un essuie-tout à
+usage unique humidifié constitue une précaution supplémentaire. On peut
+également laisser reposer les produits emballés non réfrigérés trois
+heures après les avoir ramenées à la maison lorsqu’il ne s’agit pas de
+produits frais. Pour les aliments qui se conservent au réfrigérateur,
+dès lors que cela est possible, il faut retirer les sur-emballages (par
+exemple le carton des yaourts)  avant de les ranger.\
+\
+Bien entendu, il faut se laver les mains soigneusement avant et après la
+manipulation de ces emballages.\
+ 
 
 
 
@@ -4412,32 +4471,37 @@ après la manipulation de ces emballages.
 
 
 
-Les restaurants ont fermé leurs portes le 15 mars, tout comme les bars,
-brasseries, cafés et discothèques, jusqu'à nouvel ordre. En revanche les
-activités de vente à emporter et de livraison sont maintenues dans les
-restaurants et débits de boissons, avec la recommandation d'éviter tout
-contact.
+Oui.\
+\
+Les restaurants ont fermé leurs portes, tout comme les bars, brasseries,
+cafés et discothèques, jusqu'à nouvel ordre. En revanche les activités
+de vente à emporter et de livraison sont maintenues dans les restaurants
+et débits de boissons, avec la recommandation d'éviter tout contact.
 
 
 
 
 
-#### Contrôles techniques voitures arrivant à échéance pendant la période de confinement : y-aura-t-il une prorogation du délai ? {#contrôles-techniques-voitures-arrivant-à-échéance-pendant-la-période-de-confinement-y-aura-t-il-une-prorogation-du-délai .item-question}
+#### Le contrôle technique de ma voiture arrive à échéance pendant la période de confinement : que faire ? {#le-contrôle-technique-de-ma-voiture-arrive-à-échéance-pendant-la-période-de-confinement-que-faire .item-question}
 
 
 
 Les entreprises d’entretien et réparation de véhicules automobiles, de
 véhicules, engins et matériels agricoles, de commerce d'équipements
 automobiles et de commerce et réparation de motocycles et cycles restent
-ouverts. Il est donc possible de procéder à un contrôle technique
-réglementaire si vous ne pouvez pas le reporter. Dans ce cas cochez la
-case "déplacements pour effectuer des achats de première nécessité" sur
-l'attestation de déplacement dérogatoire.\
+ouverts.\
 \
-Si le contrôle technique n’a  pas pu être réalisé dans les délais, il
-sera prorogé de 3 mois pour les véhicules légers et 15 jours pour les
-véhicules lourds. Les forces de l'ordre procèdent au contrôle avec
-discernement.
+Vous pouvez donc procéder au contrôle technique si vous ne pouvez pas le
+reporter. Dans ce cas, cochez la case "déplacements pour effectuer des
+achats de première nécessité" sur l'attestation de déplacement
+dérogatoire.\
+\
+Si le contrôle technique n’a pas pu être réalisé dans les délais, il
+sera prolongé de 3 mois pour les véhicules légers, et de 15 jours pour
+les véhicules lourds. Les forces de l'ordre procèdent au contrôle avec
+discernement.\
+\
+ 
 
 
 
@@ -4447,18 +4511,22 @@ discernement.
 
 
 
-Les opérations bancaires essentielles (retrait d’argent, opérations pour
-les personnes placées sous tutelle ou curatelles démarches des
-responsables d'entreprises pour contracter des prêts garantis par
-l'État, - les retraits de chéquiers ou de CB…) sont autorisées et
-considérées comme nécessaires afin de pouvoir payer les activités
-essentielles (consultations médicales, courses alimentaires).
+Oui.\
+\
+Les opérations bancaires essentielles (retrait d’argent, de chéquier ou
+de carte bancaire ; opérations pour les personnes placées sous tutelle
+ou curatelle ; démarches des responsables d'entreprises pour contracter
+des prêts garantis par l'État, etc. ) sont autorisées et considérées
+comme nécessaires afin de pouvoir payer les activités essentielles
+(consultations médicales, courses alimentaires).\
+\
+ 
 
 
 
 
 
-#### Peut-on se rendre à la laverie ? {#peut-on-se-rendre-à-la-laverie .item-question}
+#### Puis-je me rendre à la laverie ? {#puis-je-me-rendre-à-la-laverie .item-question}
 
 
 
@@ -4475,7 +4543,7 @@ convient de cocher sur l’attestation dérogatoire de déplacement la case
 
 
 Oui, pour lui permettre de satisfaire ses besoins ou pour un rendez-vous
-vétérinaire
+chez le vétérinaire.
 
 
 
@@ -4485,10 +4553,14 @@ vétérinaire
 
 
 
-À l'instar des êtres humains, les déplacements ne pourront être
-autorisés que dans le cadre des visites urgentes ne pouvant être
-différées et décidées par le vétérinaire sur la base des informations
-fournies par le propriétaire de l'animal.
+Oui, mais seulement en cas d’urgence.\
+\
+Les déplacements chez le vétérinaire ne sont autorisés que dans le cadre
+des visites urgentes qui ne peuvent pas être différées. C’est au
+vétérinaire de décider, sur la base des informations fournies par le
+propriétaire de l'animal.\
+\
+ 
 
 
 
@@ -4498,12 +4570,26 @@ fournies par le propriétaire de l'animal.
 
 
 
-Oui, les sorties indispensables à l’équilibre des enfants, le sport et
+Oui.\
+\
+Les sorties indispensables à l’équilibre des enfants, le sport et
 l’activité physique individuels dans les espaces ouverts, sont autorisés
-à proximité du domicile, dans le respect des gestes-barrières et en
-évitant tout rassemblement. Une seule attestation sur l’honneur suffit
-pour un adulte avec des enfants. Les activités physiques en groupe ou
-les pique-niques entre amis sont par contre interdits.
+à proximité du domicile, dans le respect des gestes barrières et en
+évitant tout rassemblement, et dans la limite d’une heure par jour.\
+\
+Une seule attestation sur l’honneur suffit pour un adulte avec des
+enfants.\
+\
+Dans les lieux où auraient été constatés des comportements manifestement
+abusifs entraînant des regroupements de personnes, les préfets pourront
+être amenés, en lien avec les maires, à encadrer la pratique sportive.
+Il vous est conseillé de vérifier, notamment en consultant le site
+internet de votre mairie ou de votre préfecture, si des mesures
+particulières s'appliquent dans votre commune.\
+\
+Les activités physiques en groupe ou les pique-niques entre amis sont
+interdits.\
+ 
 
 
 
@@ -4513,12 +4599,21 @@ les pique-niques entre amis sont par contre interdits.
 
 
 
+Oui. Une seule attestation de déplacement dérogatoire suffit pour un
+adulte avec des enfants.\
+\
 Le sport et l’activité physique individuelle dans les espaces ouverts,
 sont autorisées à proximité du domicile (dans la limite d'une heure
 quotidienne et dans un rayon maximal d'un kilomètre autour du domicile),
-dans le respect des gestes-barrières et en évitant tout rassemblement.
-Une seule attestation de déplacement dérogatoire suffit pour un adulte
-avec des enfants.
+dans le respect des gestes barrières et en évitant tout rassemblement.\
+\
+Dans les lieux où auraient été constatés des comportements manifestement
+abusifs entraînant des regroupements de personnes, les préfets pourront
+être amenés, en lien avec les maires, à encadrer la pratique sportive.
+Il vous est conseillé de vérifier, notamment en consultant le site
+internet de votre mairie ou de votre préfecture, si des mesures
+particulières s'appliquent dans votre commune.\
+ 
 
 
 
@@ -4528,28 +4623,29 @@ avec des enfants.
 
 
 
-Les sports collectifs ou de contact sont à proscrire. Plus simplement,
-tout ceux qui imposent à rassemblement ne conviennent pas à la période.
-A part éventuellement pour ceux qui disposent d’un jardin et peuvent
-pratiquer un sport dans le cercle familial auquel le confinement
-s’applique, sauf, évidemment, si l’un des membres de la famille est
-malade.
-
-Faire du sport en extérieur, c’est donc avant tout faire une marche ou
-un petit footing mais en respectant 3 règles importantes :
-
--   Rester à proximité de son domicile – donc dans son quartier ;
--   Que cette sortie soit brève ;
+Vous pouvez faire une marche ou un petit footing à condition de
+respecter 3 règles importantes :
+-   Rester à proximité de votre domicile – donc dans votre quartier ;
+-   Que cette sortie soit brève - 1 heure maximum ;
 -   Et sans autre contact qu’avec sa cellule familiale. Vous pouvez
     sortir avec vos enfants ou seul mais pas retrouver des amis.
 
+\
+Les sports collectifs, de contact, ou qui impliquent un rassemblement,
+sont interdits.  \
+\
+Si vous disposez d’un jardin, vous pouvez pratiquer un sport dans le
+cercle strictement familial dans lequel vous êtes confiné. Evidemment,
+si l’un des membres de votre famille est malade, vous ne devez pas
+pratiquer de sport avec lui.\
 \
 Dans les lieux où auraient été constatés des comportements manifestement
 abusifs entraînant des regroupements de personnes, les préfets pourront
 être amenés, en lien avec les maires, à encadrer la pratique sportive.
 Il vous est conseillé de vérifier, notamment en consultant le site
 internet de votre mairie ou de votre préfecture, si des mesures
-particulières s'appliquent dans votre commune.
+particulières s'appliquent dans votre commune.\
+ 
 
 
 
@@ -4559,7 +4655,14 @@ particulières s'appliquent dans votre commune.
 
 
 
-Les applications qui ont déjà conventionnées avec les fédérations
+Différentes plateformes virtuelles (sur mobile, tablette et ordinateur)
+proposent gratuitement des séances d’entraînement variées à base
+d’exercices de renforcement musculaire, massages, stretching ou autres
+mouvements fondamentaux.\
+\
+*Pour en savoir plus* :\
+\
+Les applications qui ont déjà conventionné avec les fédérations
 sportives ainsi qu’avec le Comité National Olympique et Sportif
 Français, s’engagent à proposer gratuitement, dans les jours à venir,
 aux Françaises et aux Françaises leurs programmes conçus par des
@@ -4567,7 +4670,8 @@ professionnels du sport, mais également de la santé et de l’activité
 physique adaptée. Des séances d’entraînement variées à base d’exercices
 de renforcement musculaire, proprioception, massages, stretching et
 mouvements fondamentaux seront notamment proposées en accès libre sur
-les différentes plateformes (mobile, tablette et ordinateur).
+les différentes plateformes (mobile, tablette et ordinateur).\
+ 
 
 
 
@@ -4577,41 +4681,45 @@ les différentes plateformes (mobile, tablette et ordinateur).
 
 
 
-Non. Il est uniquement possible de pratiquer individuellement une
-activité physique de courte durée et à proximité de son domicile (rayon
-maximal d'un kilomètre autour du domicile), dans la limite d'une heure
-quotidienne, muni de son attestation de déplacement dérogatoire.
-
-
-
-
-
-#### A-t-on le droit d’aller faire son jardin pendant le confinement ? {#a-t-on-le-droit-daller-faire-son-jardin-pendant-le-confinement .item-question}
-
-
-
-Oui, tant que votre jardin est attenant à votre domicile et que vous
-n'avez pas besoin de sortir dans l'espace public pour vous y rendre.\
+Non. Il est uniquement possible de pratiquer une activité physique
+individuelle, dans un rayon maximal d'un kilomètre autour du domicile,
+et dans la limite d'une heure quotidienne.\
 \
-Cependant, la récolte de fruits et légumes dans un jardin peut
-s'inscrire dans l'acquisition à titre gratuit de produits de première
-nécessité. Si son jardin n'est pas attenant à son domicile, il est
-possible de s'y rendre en cochant, sur l'attestation de déplacement
-dérogatoire, la case "déplacements pour effectuer des achats de première
-nécessité".
+Vous devez vous munir de votre attestation de déplacement dérogatoire.\
+ 
 
 
 
 
 
-#### Peut-on se rendre dans les jardins familiaux ? {#peut-on-se-rendre-dans-les-jardins-familiaux .item-question}
+#### Ai-je le droit d’aller dans mon jardin pendant le confinement ? {#ai-je-le-droit-daller-dans-mon-jardin-pendant-le-confinement .item-question}
 
 
 
-Pendant la période de confinement, beaucoup de jardins familiaux ont été
-interdits d’accès. Dans certaines communes, il est possible de s’y
-rendre à présent dans certaines conditions précises propres à la
-commune. Il faut se renseigner auprès de votre commune.
+Oui.\
+\
+Dans le cas où votre jardin n’est pas attenant à votre domicile, et que
+vous devez sortir dans l'espace public pour vous y rendre, vous devez
+vous munir de votre attestation de déplacement dérogatoire. Vous pouvez
+cocher la case "déplacements pour effectuer des achats de première
+nécessité" si vous récoltez des fruits et légumes dans votre jardin.
+Vous pouvez cocher la case “déplacements brefs” si c’est pour vous
+rendre dans un jardin d’agrément.\
+ 
+
+
+
+
+
+#### Puis-je me rendre dans les jardins familiaux ? {#puis-je-me-rendre-dans-les-jardins-familiaux .item-question}
+
+
+
+Il faut se renseigner auprès de votre commune.\
+\
+Beaucoup de jardins familiaux ont été interdits d’accès. Dans certaines
+communes, il est possible de s’y rendre dans les conditions  fixées par
+la mairie.
 
 
 
@@ -4621,10 +4729,11 @@ commune. Il faut se renseigner auprès de votre commune.
 
 
 
-Je peux rester dans un hôtel ou une cité universitaire si je n’ai pas
-d’autre domicile, mais leurs restaurants et bars doivent garder portes
-closes. Il est toutefois possible d'y prendre son petit déjeuner ou tout
-autre repas, mais uniquement en chambre.
+Oui, si je n’ai pas d’autre domicile je peux rester dans un hôtel ou une
+cité universitaire. restaurants et bars doivent être fermés, toutefois
+il est possible d'y prendre son petit déjeuner ou tout autre repas,
+uniquement en chambre.\
+ 
 
 
 
@@ -4634,19 +4743,22 @@ autre repas, mais uniquement en chambre.
 
 
 
-Je ne peux pas aller à une fête ou recevoir chez moi en dehors des
-membres de mon foyer.
+Non, je ne peux pas aller à une fête ou recevoir chez moi en dehors des
+membres de mon foyer.\
+\
+ 
 
 
 
 
 
-#### Ma commission médicale obligatoire pour récupérer mon permis après suspension a été repoussée, que faire ? {#ma-commission-médicale-obligatoire-pour-récupérer-mon-permis-après-suspension-a-été-repoussée-que-faire .item-question}
+#### Ma commission médicale obligatoire pour récupérer mon permis après suspension a été repoussée. Que faire ? {#ma-commission-médicale-obligatoire-pour-récupérer-mon-permis-après-suspension-a-été-repoussée.-que-faire .item-question}
 
 
 
-Il faut attendre la fin de l'état d'urgence sanitaire pour pouvoir
-récupérer son permis de conduire.
+[[Il faut attendre la fin de l'état d'urgence sanitaire pour pouvoir
+récupérer son permis de
+conduire.]{style="color:black"}]{style="line-height:normal"}
 
 
 
@@ -4657,29 +4769,32 @@ récupérer son permis de conduire.
 
 
 Le covoiturage est possible pour effectuer les déplacements autorisés.
-Chaque passager du véhicule doit être muni d’une attestation (ou d’un
-justificatif de déplacement professionnel) en règle.
+Chaque passager du véhicule doit être muni d’une attestation, ou d’un
+justificatif de déplacement professionnel, en règle.\
+ 
 
 
 
 
 
-#### Est-ce que je peux rejoindre en voiture un pays européen pour voir de la famille ? {#est-ce-que-je-peux-rejoindre-en-voiture-un-pays-européen-pour-voir-de-la-famille .item-question}
+#### Puis-je rejoindre en voiture un autre pays européen pour rendre visite à de la famille ? {#puis-je-rejoindre-en-voiture-un-autre-pays-européen-pour-rendre-visite-à-de-la-famille .item-question}
 
 
 
-Non, cela n'est pas possible sauf motif familial impérieux.
+Non, cela n'est pas possible sauf motif familial impérieux.\
+ 
 
 
 
 
 
-#### Je dois accompagner mon conjoint malade qui n’a pas le permis à l’hôpital, est ce que je risque une amende ? {#je-dois-accompagner-mon-conjoint-malade-qui-na-pas-le-permis-à-lhôpital-est-ce-que-je-risque-une-amende .item-question}
+#### Je dois accompagner mon conjoint malade qui n’a pas de permis de conduire à l’hôpital, est ce permis ? {#je-dois-accompagner-mon-conjoint-malade-qui-na-pas-de-permis-de-conduire-à-lhôpital-est-ce-permis .item-question}
 
 
 
-Non, cela rentre dans la catégorie des motifs familiaux impérieux à
-cocher sur l’attestation dérogatoire de déplacement.
+Oui, cela rentre dans la catégorie des motifs familiaux impérieux à
+cocher sur l’attestation dérogatoire de déplacement.\
+ 
 
 
 
@@ -4689,7 +4804,7 @@ cocher sur l’attestation dérogatoire de déplacement.
 
 
 
-Oui, s'il n'y a pas d'autres solutions de transport, cela rentre dans la
+Oui. S'il n'y a pas d'autres solutions de transport, cela rentre dans la
 catégorie des motifs familiaux impérieux à cocher sur l’attestation
 dérogatoire de déplacement.
 
@@ -4701,7 +4816,7 @@ dérogatoire de déplacement.
 
 
 
-La conduite accompagnée reste autorisée.
+Oui, la conduite accompagnée reste autorisée.
 
 
 
@@ -4711,9 +4826,10 @@ La conduite accompagnée reste autorisée.
 
 
 
-Afin de permettre la poursuite de l’activité économique et les
-déplacements autorisés limitativement, en respectant les précautions des
-gestes barrières, certains vols sont maintenus.
+Certains vols sont maintenus afin de permettre la poursuite de
+l’activité économique et les déplacements autorisés.\
+\
+Il faut les limiter et être trèsattentifs (gestes barrières...)
 
 
 
@@ -4723,48 +4839,52 @@ gestes barrières, certains vols sont maintenus.
 
 
 
-Afin de permettre la poursuite de l’activité économique et les
-déplacements autorisés limitativement, en respectant les précautions des
-gestes-barrières, certaines liaisons ferroviaires diminuent leur
-fréquence mais la majorité des liaisons sont maintenues.
+Pour permettre la poursuite de l’activité économique et les déplacements
+autorisés, certaines liaisons ferroviaires sont maintenues, mais
+diminuent leur fréquence.\
+ 
 
 
 
 
 
-#### A-t-on le droit de prendre un train pour un déplacement professionnel ? {#a-t-on-le-droit-de-prendre-un-train-pour-un-déplacement-professionnel .item-question}
+#### Ai-je le droit de prendre un train pour un déplacement professionnel ? {#ai-je-le-droit-de-prendre-un-train-pour-un-déplacement-professionnel .item-question}
 
 
 
-Oui. A condition qu'il s'agisse d'un déplacement professionnel
-indispensable et ne pouvant être différé.
-
-
-
-
-
-#### Peut-on aller chercher des proches à la gare ? {#peut-on-aller-chercher-des-proches-à-la-gare .item-question}
-
-
-
-Sauf nécessité pour porter assistance à des personnes ne pouvant se
-déplacer seules (personne à mobilité réduite, enfants…) vous ne devez
-pas aller accueillir vos proches dans les gares et aéroports.
+Oui.\
+\
+A condition qu'il s'agisse d'un déplacement professionnel indispensable
+et ne pouvant être différé.\
+\
+ 
 
 
 
 
 
-#### Puis-je prendre les transports publics? {#puis-je-prendre-les-transports-publics .item-question}
+#### Puis-je aller chercher des proches à la gare ? {#puis-je-aller-chercher-des-proches-à-la-gare .item-question}
 
 
 
-Les transports publics ne sont ouverts qu’aux personnes dans
-l’obligation de se rendre sur leur lieu de travail. Une attestation
-pourra leur être demandée. L’offre de transport étant adaptée en
-fonction de la disponibilité du personnel, si vous devez vous déplacer
-renseignez-vous notamment sur le site internet du réseau concerné pour
-connaître les horaires ou fréquences de passage.
+Seulement si vous devez porter assistance à des personnes qui ne peuvent
+pas  se déplacer seules (personne à mobilité réduite, enfants…).\
+ 
+
+
+
+
+
+#### Puis-je prendre les transports publics ? {#puis-je-prendre-les-transports-publics .item-question}
+
+
+
+Uniquement si vous êtes dans l’obligation de vous rendre sur votre lieu
+de travail. Une attestation pourra vous être demandée.\
+\
+Nous vous recommandons de vérifier sur le site internet du réseau de
+transport les horaires ou fréquences de passage.\
+ 
 
 
 
@@ -4774,25 +4894,20 @@ connaître les horaires ou fréquences de passage.
 
 
 
-Conformément aux mesures prises dans le cadre de l'état d'urgence
-sanitaire, les entreprises de transport procèdent au nettoyage
-désinfectant de chaque véhicule au moins une fois par jour. Le
-conducteur est séparé des voyageurs d'une distance au moins égale à un
-mètre. Dans les bus comportant plusieurs portes, la porte avant est
-condamnée, sauf lorsque la configuration de véhicule permet de respecter
-la distance de sécurité. Les passagers sont invités à entrer par
-l'arrière des bus et une rangée est laissée libre derrière le conducteur
-pour éviter les contacts.\
-\
-Les mesures barrières, définies au niveau national, sont rappelées aux
-voyageurs - notamment l'obligation de se tenir à au moins un mètre des
-autres voyageurs.\
-\
-Il n’est plus possible d’acheter son ticket à bord auprès d’un agent.
-Les voyageurs sont informés des moyens par lesquels ils peuvent se
-procurer un titre de transport. Pensez à acheter votre titre de
-transport à l’avance, par internet ou à un automate de vente ou par SMS
-lorsque cela est possible.
+-   Les entreprises de transport procèdent au nettoyage désinfectant de
+    chaque véhicule au moins une fois par jour ;
+-   le conducteur est séparé des voyageurs d'une distance au moins égale
+    à un mètre ;
+-   dans les bus comportant plusieurs portes, la porte avant est
+    condamnée, sauf lorsque la configuration de véhicule permet de
+    respecter la distance de sécurité. Les passagers sont invités à
+    entrer par l'arrière des bus et une rangée est laissée libre
+    derrière le conducteur pour éviter les contact ;.
+-   les mesures barrières sont rappelées aux voyageurs - notamment
+    l'obligation de se tenir à au moins un mètre des autres voyageurs ;
+-   Il n’est plus possible d’acheter son ticket à bord auprès d’un
+    agent. Aussi, pensez à acheter votre titre de transport à l’avance,
+    par internet, sur un automate, ou par SMS lorsque cela est possible.
 
 
 
@@ -4802,18 +4917,19 @@ lorsque cela est possible.
 
 
 
-La pratique des engins de déplacement personnel motorisés ou non
-motorisés est autorisée comme moyen de déplacement uniquement, pour les
-cas prévus dans l’attestation dérogatoire (aller au travail, faire ses
-courses...). L’utilisateur doit renseigner cette attestation et l’avoir
-sur lui lors de son déplacement. En revanche, il est interdit d'utiliser
-ces engins dans le cadre des loisirs et de l'activité physique
-individuelle, sauf dans le cas des promenades pour aérer les enfants où
-il est toléré que les enfants soient à vélo ou trottinette, si l'adulte
-accompagnant est à pied.\
+Elle est autorisée uniquement pour les cas prévus dans l’attestation
+dérogatoire : aller au travail, faire des achats de première nécessité,
+etc.\
 \
-Concernant les vélos et trottinettes en libre-service, il est recommandé
-de les désinfecter avant utilisation.
+Elle est autorisée pour les promenades avec les enfants à condition que
+l'adulte qui les accompagne soit à pied.  \
+\
+Dans tous les cas, vous devez renseigner l’attestation et l’avoir sur
+vous lors de tout déplacement.\
+\
+Si vous utilisez un vélo ou une trottinette en libre-service, il est
+recommandé de le désinfecter avant utilisation.\
+ 
 
 
 
@@ -4861,28 +4977,30 @@ présentant des symptômes d'infection au COVID-19.
 
 
 
-#### La fermeture du métro est-elle envisagée ? {#la-fermeture-du-métro-est-elle-envisagée .item-question}
+#### Le métro reste-t-il ouvert ? {#le-métro-reste-t-il-ouvert .item-question}
 
 
 
-Non. Pour permettre la poursuite de l’activité économique et les
-déplacements autorisés, les liaisons ferroviaires et les lignes de métro
-diminuent leur fréquence mais la majorité des liaisons sont maintenues.
-Le métro peut être utilisé à condition qu'il s'agisse effectivement d'un
-déplacement autorisé dans le cadre des restrictions imposées par le
-confinement (déplacement pour activité professionnelle, consultations et
-soins ne pouvant être différés, motif familial impérieux).
+Oui.\
+\
+Pour permettre la poursuite de l’activité économique et les déplacements
+autorisés, les liaisons ferroviaires et les lignes de métro diminuent
+leur fréquence mais la majorité des liaisons sont maintenues. Le métro
+peut être utilisé dans le cadre des déplacements autorisés (activité
+professionnelle, consultations et soins ne pouvant être différés, motif
+familial impérieux).\
+ 
 
 
 
 
 
-#### Puis-je partir en vacances en France ? {#puis-je-partir-en-vacances-en-france .item-question}
+#### Puis-je partir en vacances ? {#puis-je-partir-en-vacances .item-question}
 
 
 
-Non, partir en vacances, se rendre dans sa résidence secondaire ou une
-résidence de location ne font pas partie des déplacements autorisés.
+Non. partir en vacances, se rendre dans sa résidence secondaire ou une
+résidence de location ne fait pas partie des déplacements autorisés.
 
 
 
@@ -4930,13 +5048,12 @@ reporter votre déplacement soit d’effectuer des démarches en ligne. 
 
 
 
-Il s’agit d’une mesure de précaution, car le risque zéro n’existe pas.
-Rester à proximité de plusieurs personnes possiblement atteintes du
-COVID-19 pendant un total de 15 minutes s'apparente à la situation de
-rester 15 minutes en contact étroit avec une seule personne
-potentiellement atteinte. Il convient donc de respecter des distances de
-sécurité d’au moins 1 mètre, quelle que soit la durée du contact, afin
-de limiter tout risque de transmission du virus.
+Il s’agit d’une mesure de précaution, car le risque zéro n’existe pas.\
+\
+Pour mémoire, le virus se transmet par les postillons projetés. Se tenir
+éloigné d’au moins un mètre des personnes rencontrées permet de limiter
+les risques de contamination.\
+ 
 
 
 
@@ -4946,13 +5063,50 @@ de limiter tout risque de transmission du virus.
 
 
 
-Après la quatorzaine, certaines personnes sans symptôme seront toujours
-infectées, ce sont les cas “asymptomatiques”. Elles sont toujours à
-risque de contaminer les autres, bien que ce risque soit plus faible que
-les malades symptomatiques. Sortir trop tôt du confinement est donc à
-risque de recréer des foyers de contamination. Le Conseil Scientifique
-évalue la meilleure durée de confinement pour protéger au mieux la
-population, notamment les plus fragiles.
+Après la quatorzaine, certaines personnes sans symptômes seront toujours
+infectées : ce sont les cas que l’on appelle “asymptomatiques”.\
+\
+Elles sont toujours à risque de contaminer les autres, bien que ce
+risque soit plus faible que les malades symptomatiques (avec
+symptômes).\
+\
+Sortir trop tôt du confinement risque donc de recréer des foyers de
+contamination, et de mettre en danger la population, notamment les plus
+fragiles.
+
+
+
+
+
+#### Puis-je faire mes courses au supermarché ou à l'épicerie ? Oui, car il s’agit d’un déplacement pour effectuer des achats de première nécessité. Cochez la case correspondante sur votre Attestation de déplacement dérogatoire. Et soyez attentif, dans la {#puis-je-faire-mes-courses-au-supermarché-ou-à-lépicerie-oui-car-il-sagit-dun-déplacement-pour-effectuer-des-achats-de-première-nécessité.-cochez-la-case-correspondante-sur-votre-attestation-de-déplacement-dérogatoire.-et-soyez-attentif-dans-la .item-question}
+
+
+
+Puis-je faire mes courses au supermarché ou à l'épicerie ?\
+Oui, car il s’agit d’un déplacement pour effectuer des achats de
+première nécessité.\
+\
+Cochez la case correspondante sur votre Attestation de déplacement
+dérogatoire.\
+\
+Et soyez attentif, dans la rue comme dans le magasin, à respecter une
+distance de 1 mètre avec les gens qui vous entourent, et à mettre en
+oeuvre en toute circonstance les gestes barrières.\
+\
+*Pour en savoir plus :*\
+\
+Les supermarchés et épiceries restent ouverts. Leur approvisionnement en
+produits alimentaires et de première nécessité est garantie dans les
+jours et les semaines à venir. Les règles du travail de nuit notamment,
+sont assouplies pour les magasins. Il n’y a donc aucun risque de
+rationnement et il faut éviter la surconsommation préventive. Les
+espaces culturels et les cafétérias de la grande distribution sont
+fermés.\
+\
+La liste des établissements qui bénéficient d’une dérogation pour rester
+ouverts se trouve dans la rubrique “Les établissements fermés”.\
+\
+ 
 
 
 
@@ -4972,30 +5126,35 @@ population, notamment les plus fragiles.
 
 
 
-Pour ce qui concerne les déménagements des particuliers, seuls les
-déménagements qui ne peuvent pas être reportés sont autorisés.\
+**Important** : seuls les déménagements qui ne peuvent pas être reportés
+sont autorisés.\
 \
-Mais veillez à respecter les gestes barrières et contactez la police ou
-la gendarmerie pour signaler votre déménagement et vous renseigner pour
-savoir s'il existe des restrictions locales spécifiques. Munissez-vous
-également d'une attestation sur l'honneur, que vous rédigez, expliquant
-que vous vous déplacez pour le motif d'un déménagement non reportable,
-dont vous précisez la date et les deux adresses de départ et de
-destination. Pour l'échange des clés, le propriétaire doit se munir de
-l'attestation de déplacement dérogatoire, en cochant le déplacement pour
-motif familial impérieux. Il doit également se munir d'un document
-justifiant le déménagement, tel que le bail, ainsi que d'une attestation
-sur l'honneur, qu'il rédige, expliquant qu'il se déplace pour le motif
-d'un déménagement non reportable.\
-\
-Vous pouvez aussi entrer en contact avec votre bailleur afin de lui
-demander de continuer à occuper le logement que vous deviez quitter. Il
-est alors possible de signer une [convention d'occupation
-temporaire](https://www.anil.org/fileadmin/ANIL/modeles_courriers/Location/Convention_occupation_temporaire.docx).
-Dans tous les cas, à partir du moment où vous restez plus longtemps que
-prévu, vous devez continuer à payer votre loyer et les charges pour
-toute la période pendant laquelle vous occupez effectivement le
-logement.
+Vous pouvez reporter votre déménagement  :
+-   Entrez en contact avec votre bailleur afin de lui demander de
+    continuer à occuper le logement que vous deviez quitter ;
+-   il est alors possible de signer une [convention d'occupation
+    temporaire](https://www.anil.org/fileadmin/ANIL/modeles_courriers/Location/Convention_occupation_temporaire.docx).
+    ;
+-   à partir du moment où vous restez plus longtemps que prévu, vous
+    devez continuer à payer votre loyer et les charges pour toute la
+    période pendant laquelle vous occupez effectivement le logement.
+-   Vous ne pouvez pas reporter votre déménagement. Vos obligations : 
+    veillez à respecter les gestes barrières ;
+-   contactez la police ou la gendarmerie pour signaler votre
+    déménagement et vous renseigner pour savoir s'il existe des
+    restrictions locales spécifiques ;
+-   munissez-vous d'une attestation sur l'honneur, que vous rédigez,
+    expliquant que vous vous déplacez pour le motif d'un déménagement
+    non reportable, dont vous précisez la date et les deux adresses de
+    départ et de destination.
+
+Vous êtes un propriétaire. Pour l’échange des clés  :
+-   munissez-vous de l'attestation de déplacement dérogatoire, en
+    cochant le déplacement pour motif familial impérieux ;
+-   ayez avec vous un document justifiant le déménagement, tel que le
+    bail, ainsi qu'une attestation sur l'honneur, que vous rédigerez,
+    expliquant que  vous vous déplacez pour le motif d'un déménagement
+    non reportable.
 
 
 
