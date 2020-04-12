@@ -3618,15 +3618,18 @@ aux personnels de santé libéraux.
 
 
 
-Tout d’abord, le lavage des mains avec de l’eau et du savon est la
-solution la plus efficace, et reste donc à privilégier. Concernant les
-solutions hydro-alcooliques, les pharmacies sont en cours de
-réapprovisionnement, de plus elles sont autorisées, par un arrêté publié
-le 7 mars, à produire leur propre solution hydro-alcoolique.\
-Par ailleurs, plusieurs grandes entreprises françaises comme LVMH ou
-Ricard ont annoncé produire et offrir des solutions désinfectantes. Face
-à la tension en matière d’approvisionnement, le personnel soignant reste
-prioritaire.
+Privilégiez le lavage des mains avec de l’eau et du savon, solution la
+plus efficace.\
+\
+Concernant les solutions hydro-alcooliques, les pharmacies sont en cours
+de réapprovisionnement. Elles sont également autorisées, par un arrêté
+publié le 7 mars,  à produire leur propre solution hydro-alcoolique. Et
+plusieurs grandes entreprises françaises ont annoncé produire et offrir
+des solutions désinfectantes.\
+\
+A noter : face à la tension en matière d’approvisionnement, le personnel
+soignant reste prioritaire.\
+ 
 
 
 
@@ -3812,23 +3815,30 @@ bénéficier d’un arrêt de travail.\
 
 
 
-Écoles, collèges, lycées et universités du pays sont fermés au moins
-jusqu'aux vacances de printemps, ce qui concerne plus de 12 millions
-d'élèves et 2,6 millions d'étudiants. Trois à quatre heures
-d'enseignement par jour - exercices en ligne, "classe virtuelle" en
-visioconférence- doivent être proposées. Les examens et les concours de
-recrutement sont reportés.\
+Vous ne pouvez pas vous rendre dans les écoles, collèges, lycées ou
+universités : ils sont fermés au moins jusqu'à la fin des vacances de
+printemps, ce qui concerne plus de 12 millions d'élèves et 2,6 millions
+d'étudiants.\
 \
-Vous pouvez retrouver plus d’informations à destination des étudiants
-sur le [site
+En revanche, trois à quatre heures de cours en ligne doivent être
+proposées par les établissements. Les examens et les concours de
+recrutement sont reportés\
+\
+Etudiants : vous pouvez retrouver plus d’informations sur le [site
 dédié](https://www.etudiant.gouv.fr/pid33626-cid150278/covid-19-%7C-faq-crous-etudes-concours-services.html).
 
-Tous les étudiants en santé qui souhaitent proposer leur aide pour la
-gestion de crise peuvent se signaler auprès de leur université (par
-exemple, apporter un appui aux centres d’appels du 15).
 
-Un service de garde sera mis en place département par département, pour
-les personnels indispensables à la gestion de la crise sanitaire.
+
+
+
+#### Je suis étudiant, puis-je proposer mon aide ? {#je-suis-étudiant-puis-je-proposer-mon-aide .item-question}
+
+
+
+Tous les étudiants en santé qui souhaitent proposer leur aide pour la
+gestion de crise (par exemple pour aider les centres d’appels du 15)
+peuvent se signaler auprès de leur université.\
+ 
 
 
 
@@ -3838,24 +3848,38 @@ les personnels indispensables à la gestion de la crise sanitaire.
 
 
 
+Non, pour :
+-   le brevet des collèges : il est remplacé par un contrôle continu ;
+-   le BAC en Terminale : il est remplacé par un contrôle continu ;
+-   le BTS : il est remplacé par un contrôle continu. Sauf dans le cas
+    où vous n’avez pas de livret scolaire ou de formation : la session
+    est alors reportée à septembre.
+
+\
+Oui, pour :
+-   l’oral du BAC de Français en Première : il est maintenu et se
+    tiendra fin juin-début juillet ;
+-   le DGC : il est reporté à juillet.
+
+\
+*Vous souhaitez en savoir plus ?*\
+\
 Après une large consultation des partenaires sociaux, des fédérations de
 parents d’élèves, des délégués nationaux et académiques des lycéens, le
 ministre de l’éducation nationale et de la jeunesse a proposé au
 Président de la République et au Premier ministre des aménagements qui
-tiennent compte de trois critères essentiels :
--   le critère sanitaire ;
--   le critère pédagogique ;
--   le critère logistique.
-
+tiennent compte de trois critères essentiels :\
+·       le critère sanitaire ;\
+·       le critère pédagogique ;\
+·       le critère logistique.\
 \
 Le principe général : l’ensemble des épreuves du diplôme national du
 brevet et du baccalauréat général, technologique et professionnel sont
 validées à partir des notes du livret scolaire, à l’exception de
-l’épreuve orale du baccalauréat de français qui est maintenue.\
-\
-Toutes les informations pratiques et modalités d’organisation sont à
-retrouver [sur cette
-page.](https://www.education.gouv.fr/adaptation-des-modalites-de-passage-des-examens-nationaux-303363)\
+l’épreuve orale du baccalauréat de français qui est maintenue. Toutes
+les informations pratiques et modalités d’organisation sont à retrouver
+[sur cette
+page](https://www.education.gouv.fr/adaptation-des-modalites-de-passage-des-examens-nationaux-303363).\
 \
 Concernant les examens nationaux des diplômes de BTS et DCG, le ministre
 de l’Éducation nationale et de la Jeunesse et la ministre de
@@ -3863,8 +3887,8 @@ l’Enseignement supérieur, de la Recherche et de l’Innovation ont décidé
 d’un aménagement en prenant en compte plusieurs objectifs :
 -   assurer l’égalité de traitement entre des candidats qui auront subi
     des périodes de confinement et des modalités de continuité
-    pédagogique variables.
--   garantir le niveau d’exigence de l’examen.
+    pédagogique variables ;
+-   garantir le niveau d’exigence de l’examen ;
 -   assurer la protection des personnels et des étudiants.
 
 \
@@ -3875,13 +3899,13 @@ livret scolaire. Deux cas de figure différents sont pris en compte :
 -   pour chaque étudiant de BTS en mesure de présenter un livret
     scolaire ou de formation, le diplôme national du BTS sera attribué
     sur le fondement du contrôle en cours de formation déjà effectué et
-    du livret scolaire.
+    du livret scolaire ;
 -   pour les candidats au BTS dont les modalités de scolarisation ne se
     traduisent pas par la délivrance d’un livret scolaire ou de
-    formation, la session est reportée au mois de septembre.
+    formation, la session est reportée au mois de septembre.  
 
 \
-Concernant le Diplôme de Comptabilité et de Gestion (DGC), il a été
+Concernant le Diplôme de Comptabilité et de Gestion (DCG), il a été
 décidé du report des épreuves en juillet pour les plus de 20 000
 candidats inscrits.\
  
@@ -4038,6 +4062,10 @@ demande de prolongement s’effectue par votre employeur dans les mêmes
 conditions que l’arrêt initial. Le site internet de la sécurité sociale
 présente de façon détaillée la démarche à effectuer
 <https://www.ameli.fr/assure/actualites/covid-19-des-arrets-de-travail-simplifies-pour-les-salaries-contraints-de-garder-leurs-enfants>
+
+
+
+
 
 
 
@@ -8660,6 +8688,16 @@ d’installation des conseils municipaux pourvus au 1er tour).
 -   [Report des conseils municipaux d’installation des maires élus au
     1er
     tour](https://www.cohesion-territoires.gouv.fr/report-des-conseils-municipaux-dinstallation-des-maires-elus-au-premier-tour)
+
+
+
+
+
+
+
+
+
+###  {#section .item-paragraphe-titre .c-onglet data-picto=""}
 
 
 
