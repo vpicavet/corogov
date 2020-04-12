@@ -4111,7 +4111,7 @@ alternance par quinzaine.
 Pendant le confinement, accompagner ou aller chercher son enfant dans le
 cadre de la garde alternée est tout à fait autorisé.\
 \
-Sur l’attestation de déplacement, il faut cocher la case : «
+Sur l’attestation de déplacement, vous devez cocher la case : «
 Déplacements pour motif familial impérieux, pour l’assistance aux
 personnes vulnérables ou la garde d’enfants ».
 
@@ -4125,9 +4125,11 @@ personnes vulnérables ou la garde d’enfants ».
 
 Tous les droits de visite et remises d’enfant en espaces de rencontre
 sont suspendus en raison de la fermeture de ces lieux.\
-Il est recommandé par ailleurs d’éviter de déplacer un enfant pour un
-droit de visite de courte durée à la journée et de suspendre les
-rencontres au domicile de tiers ou avec l’assistance de tiers.
+\
+Pour la sécurité de votre enfant,  il est recommandé d’éviter de le
+déplacer pour un droit de visite de courte durée à la journée et de
+suspendre les rencontres au domicile de tiers ou avec l’assistance de
+tiers.
 
 
 
@@ -4144,8 +4146,8 @@ puni d’un an d’emprisonnement et de 15.000 € d’amende.\
 Mais ce refus peut être justifié afin de respecter les consignes
 sanitaires, par exemple :
 -    si l’éloignement des deux parents est important et nécessite de
-    déplacer l’enfant pendant un long trajet en transport en commun,
--   si l’un des parents ou l’enfant présente des symptômes,
+    déplacer l’enfant pendant un long trajet en transport en commun ;
+-   si l’un des parents ou l’enfant présente des symptômes ;
 -   si une personne malade vit au domicile de l’un des parents…
 
 
@@ -4160,9 +4162,10 @@ Le recours à un médiateur peut vous permettre de trouver un accord pour
 la période de confinement. De nombreux services de médiation familiale
 continuent de proposer leur service par téléphone ou par
 visio-conférence ainsi que certains cabinets d’avocats médiateurs.\
+\
 A défaut et si vous pensez que ce refus n’est pas justifié par le
-respect des consignes sanitaires, vous pourrez déposer plainte après la
-période de confinement.
+respect des consignes sanitaires, vous pourrez déposer plainte mais
+après la période de confinement.
 
 
 
@@ -4219,6 +4222,58 @@ dgcs-coursesparentsisoles@social.gouv.fr, afin de recevoir les
 signalements des parents isolés, refusés à l’entrée des magasins ou à
 qui il est demandé de laisser leur enfant à la caisse ou avec des
 inconnus.
+
+
+
+
+
+#### Les pensions alimentaires doivent-elles être versées comme d’habitude ? {#les-pensions-alimentaires-doivent-elles-être-versées-comme-dhabitude-1 .item-question}
+
+
+
+Oui. Toutes les pensions alimentaires doivent être payées à la date
+prévue.\
+\
+Vous ne percevez  pas correctement la pension alimentaire fixée
+légalement oui, du fait de difficultés financières, vous ne pouvez pas
+verser cette pension alimentaire ?\
+\
+=&gt; Contactez votre Caisse d’allocations familiales ou votre Caisse de
+mutualité sociale agricole pour saisir l’agence de recouvrement des
+impayés de pensions alimentaire (ARIPA) .\
+L’ARIPA pourra, si besoin, verser une allocation de substitution à la
+pension alimentaire (l’allocation de soutien familial ou ASF, d’un
+montant de 115€) à tout parent isolé et se charger du recouvrement de
+l’impayé.\
+\
+En savoir plus :
+[pension-alimentaire.caf.fr](http://pension-alimentaire.caf.fr).     \
+\
+A noter : pendant le confinement, le versement de l’ASF aux familles
+monoparentales récemment séparées et n’ayant pas encore de titre
+exécutoire de pension alimentaire est prolongé de 4 mois.\
+\
+ 
+
+
+
+
+
+#### On m’a refusé l’entrée au supermarché, alors que j’étais accompagné de mon enfant en bas âge, que j’élève seul. Que faire ? {#on-ma-refusé-lentrée-au-supermarché-alors-que-jétais-accompagné-de-mon-enfant-en-bas-âge-que-jélève-seul.-que-faire-1 .item-question}
+
+
+
+Ce refus est illégal. De même, on ne peut pas vous demander de laisser
+votre enfant à la caisse ou avec des inconnus.\
+\
+Indiquez que vous signalez ce magasin sur
+[dgcs-coursesparentsisoles@social.gouv.fr](mailto:dgcs-coursesparentsisoles@social.gouv.fr%20)
+: une adresse ouverte par le secrétariat d’Etat chargé de l’Egalité
+entre les femmes et les hommes et de la Lutte contre les
+discriminations. Et, si le magasin persiste à vous refuser l’accès,
+faites-le, il sera sanctionné.\
+\
+ 
 
 
 
