@@ -3914,26 +3914,25 @@ candidats inscrits.\
 
 
 
-#### Comment les candidats individuels passeront-ils le baccalauréat ? {#comment-les-candidats-individuels-passeront-ils-le-baccalauréat .item-question}
+#### Je passe l’examen du baccalauréat en candidat individuel. Comment faire ? {#je-passe-lexamen-du-baccalauréat-en-candidat-individuel.-comment-faire .item-question}
 
 
 
-Les candidats individuels, qui représentent 2% des candidats, sont en
-des situations très différentes. Lorsque leurs modalités de
-scolarisation se traduisent par la délivrance d’un livret scolaire ou de
-formation par la structure de formation, le jury académique se
-prononcera sur la base de ce livret, au cours de la session du mois de
-juin.\
+Votre situation en tant que candidat individuel dépend de vos modalités
+de scolarisation :
+-    si votre structure de formation délivre un livret scolaire ou de
+    formation,le jury se prononcera sur la base de ce livret, en juin ;
+-    si vos évaluations et votre livret ne permettent pas de délivrer le
+    diplôme, le jury pourra vous proposer de passer la session de
+    septembre ;
+-   si vous ne disposez d’aucune modalité d’évaluation en contrôle
+    continu, vous passerez les épreuves lors de la session de septembre.
+
 \
-Le jury pourra, pour les candidats dont les évaluations et le livret ne
-permettent pas la délivrance du diplôme, proposer à ceux-ci de passer la
-session de septembre. Les candidats individuels ne disposant d’aucune
-modalité d’évaluation en contrôle continu passeront les épreuves de la
-session de septembre.\
-\
-Un dispositif particulier leur permettra de conserver le bénéfice de
-leur inscription dans l’enseignement supérieur, acquise dans le cadre de
-la procédure Parcoursup, jusqu’à la proclamation des résultats.
+Un dispositif particulier vous permettra de conserver le bénéfice de
+votre inscription dans l’enseignement supérieur, acquise dans le cadre
+de la procédure Parcoursup, jusqu’à la proclamation des résultats.\
+ 
 
 
 
@@ -3943,75 +3942,97 @@ la procédure Parcoursup, jusqu’à la proclamation des résultats.
 
 
 
-Étape classique de la procédure d’inscription dans l’enseignement
-supérieur via la plateforme Parcoursup, la phase de confirmation des
-voeux a pris fin le 2 avril 2020 à 23h59, heure de Paris. Cette phase,
-qui avait débuté le 13 mars dernier, permettait aux candidats inscrits
-sur la plateforme Parcoursup de finaliser leur dossier de candidature.\
+La procédure d’inscription des lycéens et étudiants à Parcoursup est
+terminée. Les établissements d’enseignement supérieur examinent
+actuellement les dossiers et apporteront des réponses à partir du 19 mai
+2020.\
 \
-Afin de permettre aux candidats qui auraient rencontré des difficultés
-liées au contexte sanitaire actuel (difficultés de connexion, absence
-d’équipement adéquat, etc.) de ne pas être pénalisés, les recteurs
-prêteront dans les prochains jours une attention particulière aux
-situations des lycéens et étudiants qui n’auraient pu confirmer leurs
-voeux dans le temps imparti. Les candidats qui n’ont pas pu le faire
-pourront confirmer leurs voeux dans les prochains jours. Les services
-d’assistance Parcoursup resteront ainsi mobilisés pour prendre en compte
-la situation spécifique de ces candidats.\
+Si vous avez rencontré des difficultés liées au contexte sanitaire, et
+n’avez pas pu confirmer vos voeux dans les délais, vous pouvez vous
+manifester auprès des services d'assistance Parcoursup. Les recteurs
+vous prêteront une attention particulière.\
+\
+*Vous souhaitez en savoir plus ?*\
+\
+La procédure d’inscription dans l’enseignement supérieur via la
+plateforme Parcoursup était ouverte du 13 mars au 2 avril 2020.\
+\
+Toutefois, afin de permettre aux candidats qui auraient rencontré des
+difficultés liées au contexte sanitaire actuel (difficultés de
+connexion, absence d’équipement, etc.) de ne pas être pénalisés, les
+recteurs vont prêter dans les prochains jours une attention particulière
+aux situations des lycéens et étudiants qui n’auraient pas pu confirmer
+leurs voeux dans le temps imparti. Ces candidats pourront confirmer
+leurs veux dans les prochains jours. Les services d’assistance
+Parcoursup restent mobilisés pour prendre en compte la situation
+spécifique de ces candidats.\
 \
 Après cette phase de confirmation, l’examen des candidatures sera
 réalisé pendant les mois d’avril et mai par les établissements de
 l’enseignement supérieur qui apporteront des réponses aux candidats à
-partir du 19 mai 2020.
+partir du 19 mai 2020.\
+ 
 
 
 
 
 
-#### L’école de mes enfants est fermée, comment faire ? {#lécole-de-mes-enfants-est-fermée-comment-faire .item-question}
+#### L’école de mes enfants est fermée, comment faire pour les garder ? {#lécole-de-mes-enfants-est-fermée-comment-faire-pour-les-garder .item-question}
 
 
 
-Dans le cadre des fermetures d’écoles, si vous êtes parent d’un enfant
-âgé de moins de 16 ans, vous pouvez bénéficier d’un arrêt maladie
-indemnisé, si vous ne pouvez pas bénéficier d’un aménagement de vos
-conditions de travail vous permettant de rester chez vous pour garder
-votre enfant.
-
-À noter qu’un seul des deux parents peut bénéficier d’un arrêt dans ce
-contexte.
-
+Si vous êtes parent d’un enfant âgé de moins de 16 ans, et que vous ne
+pouvez pas bénéficier d’un aménagement de vos conditions de travail pour
+rester chez vous et garder votre enfant, alors vous pouvez bénéficier
+d’un arrêt maladie indemnisé.notez qu’un seul des deux parents peut
+alors bénéficier d’un arrêt maladie indemnisé.\
+ 
 
 
 
 
-#### Quelle est la procédure pour bénéficier de cet arrêt ? {#quelle-est-la-procédure-pour-bénéficier-de-cet-arrêt .item-question}
+
+#### Quelle est la procédure pour bénéficier d’un arrêt de travail indemnisé pour garde d’enfant ? {#quelle-est-la-procédure-pour-bénéficier-dun-arrêt-de-travail-indemnisé-pour-garde-denfant .item-question}
 
 
 
-La procédure est la suivante :
+•    Contactez votre employeur et évaluez avec lui les modalités de
+télétravail qui pourraient être mises en place ;\
+•    si aucune autre solution ne peut être retenue, c’est l’employeur
+qui doit, via la page employeur [du site dédié sur
+ameli.fr](https://declare.ameli.fr/),, déclarer votre arrêt de travail
+;\
+•    l’indemnisation est ensuite enclenchée à partir de cette
+déclaration. Vous percevrez les indemnités journalières et, le cas
+échéant, le complément de salaire de votre employeur dès le 1er jour
+d’arrêt, sans application du délai de carence ;\
+•    vous n’avez pas à contacter l’ARS ou votre caisse d’assurance
+maladie, car c’est la déclaration de votre employeur, accompagné de la
+transmission des éléments de salaires selon les canaux habituels, qui va
+permettre l’indemnisation de votre arrêt de travail ;\
+•    les employeurs sont invités à pratiquer dans le maximum de cas le
+maintien de salaire au bénéfice de leurs salariés, auquel cas ils
+versent le salaire à hauteur du complément sans attendre le versement
+des indemnités journalières par l’assurance maladie ;\
+•    si vous êtes non-salarié (travailleur indépendant ou exploitant
+agricole), vous déclarez directement votre arrêt sur le site Internet
+dédié.
 
--   Contactez votre employeur et évaluez avec lui les modalités de
-    télétravail qui pourraient être mises en place ;  
--   Si aucune autre solution ne peut être retenue, c’est l’employeur qui
-    doit, via la page employeur [du site dédié sur
-    ameli.fr](https://declare.ameli.fr/), déclarer votre arrêt de
-    travail ;  
--   L’indemnisation est ensuite enclenchée à partir de cette
-    déclaration. Vous percevrez les indemnités journalières et, le cas
-    échéant, le complément de salaire de votre employeur dès le 1er jour
-    d’arrêt, sans application du délai de carence ; 
--   Vous n’avez pas à contacter l’ARS ou votre caisse d’assurance
-    maladie, c’est la déclaration de votre employeur, accompagné de la
-    transmission des éléments de salaires selon les canaux habituels,
-    qui va permettre l’indemnisation de votre arrêt de travail ;
--   Les employeurs sont invités à pratiquer dans le maximum de cas le
-    maintien de salaire au bénéfice de leurs salariés, auquel cas ils
-    versent le salaire à hauteur du complément sans attendre le
-    versement des indemnités journalières par l’assurance maladie ;
--   Si vous êtes non-salarié (travailleurs indépendant ou exploitant
-    agricole), vous déclarez directement votre arrêt sur le site
-    Internet dédié.
+
+
+
+
+#### L’arrêt de travail pour garde d’enfant peut-il être prolongé pour les vacances scolaires ? {#larrêt-de-travail-pour-garde-denfant-peut-il-être-prolongé-pour-les-vacances-scolaires .item-question}
+
+
+
+Oui, si vous êtes toujours dans l’impossibilité de télétravailler.\
+\
+La demande de prolongement s’effectue par votre employeur dans les mêmes
+conditions que l’arrêt initial. Le site internet de la sécurité sociale
+présente de façon détaillée la démarche à effectuer : 
+<https://www.ameli.fr/assure/actualites/covid-19-des-arrets-de-travail-simplifies-pour-les-salaries-contraints-de-garder-leurs-enfants>\
+ 
 
 
 
@@ -4030,42 +4051,21 @@ de lui payer 80% de son salaire qui vous sera remboursé ultérieurement.
 
 
 
-#### Quelles sont les consignes de sécurité pour les personnels de l'éducation nationale qui accueillent les enfants des personnels de crise ? {#quelles-sont-les-consignes-de-sécurité-pour-les-personnels-de-léducation-nationale-qui-accueillent-les-enfants-des-personnels-de-crise .item-question}
+#### Quelles sont les consignes de sécurité pour les personnels de l'Éducation Nationale qui accueillent les enfants des personnels de crise ? {#quelles-sont-les-consignes-de-sécurité-pour-les-personnels-de-léducation-nationale-qui-accueillent-les-enfants-des-personnels-de-crise .item-question}
 
 
 
 Au quotidien, les personnels de l’Education Nationale accueillant les
-enfants des personnels indispensables à la crise doivent renforcer leur
-attention et appliquer avec rigueur les mesures barrières et les règles
-d’hygiène. Il leur est également demandé de respecter la distanciation
-sociale, en adaptant les pratiques d’accueil suivant les situations
-rencontrées. Bien respecter ces consignes est efficace pour se protéger
-du coronavirus.\
+enfants des personnels indispensables à la crise doivent être très
+attentifs, et appliquer avec rigueur les mesures barrières, les règles
+d’hygiène et  de distanciation sociale.\
 \
-De plus, au terme d’une démarche supervisée par l’Agence nationale de
-sécurité du médicament et des produits de santé (ANSM) avec le soutien
-de l’ANSES, il a été demandé la création de nouveaux masques à usage non
-sanitaire pour maximiser la protection des professionnels en contact
-avec du public. A ce titre, les professionnels de l'Éducation Nationale
-pourront en être équipés.
-
-
-
-
-
-#### L’arrêt de travail pour garde d’enfant peut-il être prolongé pour les vacances scolaires ? {#larrêt-de-travail-pour-garde-denfant-peut-il-être-prolongé-pour-les-vacances-scolaires .item-question}
-
-
-
-Oui, si vous êtes toujours dans l’impossibilité de télétravailler. La
-demande de prolongement s’effectue par votre employeur dans les mêmes
-conditions que l’arrêt initial. Le site internet de la sécurité sociale
-présente de façon détaillée la démarche à effectuer
-<https://www.ameli.fr/assure/actualites/covid-19-des-arrets-de-travail-simplifies-pour-les-salaries-contraints-de-garder-leurs-enfants>
-
-
-
-
+De plus, les professionnels de l'Éducation Nationale pourront bénéficier
+des nouveaux masques grand public qui sont en cours de fabrication pour
+aider les professionnels en contact avec du public à se protéger au
+mieux.\
+\
+ 
 
 
 
