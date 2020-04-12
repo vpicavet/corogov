@@ -5666,16 +5666,24 @@ confinement pour les déposer dans les points de collecte.\
 
 
 
-À l'instar des pharmacies, les cabinets de médecine resteront ouverts
-mais attention : il est demandé aux personnes qui ressentent les
-symptômes du Coronavirus de ne pas se rendre au cabinet de leur médecin
-de ville. En cas de symptômes légers (fièvre et toux), il faut d’abord
-appeler son médecin traitant ou opter pour une téléconsultation. Si les
-symptômes s’aggravent au bout de quelques jours, comme avec l'apparition
-de difficultés respiratoires, il faut appeler le 15.
+Les cabinets de médecine restent ouverts mais privilégiez les
+téléconsultations.\
+\
+Attention :
+-   vous ressentez des symptômes légers (fièvre et toux) de cCoronavirus
+    : restez chez vous, appelez votre médecin, il vous conseillera. Ne
+    vous rendez pas à son cabinet. Vous pouvez aussi opter pour la
+    téléconsultation.
+-   si les symptômes s’aggravent au bout de quelques jours, comme avec
+    l'apparition de difficultés respiratoires, appelez le 15.
 
-Les commerces de matériel médical restent ouverts vous pouvez donc vous
-rendre chez l’opticien par exemple.
+\
+**Important** : ne reportez pas les consultations nécessaires au suivi
+et à la prévention, surtout en cas de maladie chronique. Appelez les
+spécialistes qui vous suivent et demandez-leur conseil. Enfin les
+pharmacies et les commerces de matériel médical restent ouverts : vous
+pouvez donc vous rendre chez l’opticien par exemple.\
+ 
 
 
 
@@ -5696,14 +5704,17 @@ la case "motif de santé" sur votre attestation dérogatoire.
 
 
 
-Suite au décret paru au Journal Officiel le 15 mars dernier relatif aux
-mesures mises en place par le Gouvernement pour lutter contre la
-propagation du coronavirus, les Françaises et les Français peuvent se
-voir délivrer leurs médicaments jusqu’au 31 mai, et ce sans
-renouvellement d’ordonnance. Ainsi, les pharmaciens sont autorisés à
-délivrer la pilule contraceptive aux femmes dans l’impossibité de faire
-renouveler leur ordonnance, sur simple présentation de leur ancienne
-ordonnance.
+Votre pharmacien peut vous délivrer votre pilule contraceptive si vous
+vous trouvez dans l'impossibilité de faire renouveler votre ordonnance.
+Il vous suffira de présenter votre  ancienne ordonnance.\
+\
+En savoir plus : le décret paru au Journal Officiel le 15 mars dernier,
+relatif aux mesures mises en place par le Gouvernement pour lutter
+contre la propagation du coronavirus, stipule que les Françaises et les
+Français peuvent se voir délivrer leurs médicaments jusqu’au 31 mai, et
+ce sans renouvellement d’ordonnance.\
+\
+ 
 
 
 
@@ -5713,15 +5724,19 @@ ordonnance.
 
 
 
-Les médecins en ville et les sages-femmes sont autorisés à conseiller
-les femmes et leurs partenaires sur les questions de contraception. Ces
-mêmes professionnels conventionnés avec un établissement de santé sont
-habilités à réaliser des IVG médicamenteuses sans passer par l’hôpital.
-
 Les interruptions de grossesse sont considérées comme des interventions
 urgentes par le ministère des Solidarités et de la Santé. Leur
-continuité doit être assurée. Le Planning Familial maintient son numéro
-vert, 0800 08 11 11, pour répondre à toute question à ce propos.
+continuité doit être assurée.\
+\
+Les médecins en ville et les sages-femmes sont autorisés à conseiller
+les femmes et leurs partenaires sur les questions de contraception.\
+\
+Conventionnés avec un établissement de santé, ils sont habilités à
+réaliser des IVG médicamenteuses sans passer par l’hôpital.\
+\
+En savoir plus : numéro vert du Planning Familial, 0800 08 11 11, pour
+répondre à toute question.\
+ 
 
 
 
@@ -5731,27 +5746,36 @@ vert, 0800 08 11 11, pour répondre à toute question à ce propos.
 
 
 
-L’ensemble des consultations nécessaires aux IVG médicamenteuses
-pourront être réalisées sous forme de téléconsultations, si la femme le
-souhaite et le praticien l’estime possible : 
--   Une téléconsultation d’information et de remise des ordonnances ; 
--   Une consultation de prise du médicament qui arrête la grossesse
+Oui. Les interruptions de grossesse sont considérées comme des
+interventions urgentes par le ministère des Solidarités et de la Santé.
+Leur continuité doit être assurée.\
+\
+IVG médicamenteuses : l’ensemble des consultations nécessaires pourront
+être réalisées sous forme de téléconsultations, si la femme le souhaite
+et le praticien l’estime possible :
+-   une téléconsultation d’information et de remise des ordonnances ;
+-   une consultation de prise du médicament qui arrête la grossesse
     (antiprogestérone) : en cas de téléconsultation, la femme pourra
     aller chercher le médicament en officine, en lien avec le médecin ou
     la sage-femme. Le 2e médicament (prostaglandine) devant être pris 36
-    à 48h après le premier ; 
--   Une téléconsultation de contrôle dans les 14 à 21 jours qui
-    suivent. 
+    à 48h après le premier ;
+-   une téléconsultation de contrôle dans les 14 à 21 jours qui suivent.
 
-Le ministre des Solidarités et de la Santé a saisi en urgence la Haute
-Autorité de Santé afin d’émettre un avis sur la possibilité d’étendre le
-délai de réalisation des IVG médicamenteuses hors milieu hospitalier de
-7 à 9 semaines d’aménorrhée. \
 \
-L’ensemble des médecins en ville et les sages-femmes libérales sont
-encouragés à s’engager dans le maintien des IVG médicamenteuses et
-demandent aux établissements de santé d’assurer la continuité des IVG
-instrumentales.
+A noter : L’ensemble des médecins en ville et les sages-femmes libérales
+sont encouragés à s’engager dans le maintien des IVG médicamenteuses. Le
+ministre des Solidarités et de la Santé a par ailleurs saisi en urgence
+la Haute Autorité de Santé afin d’émettre un avis sur la possibilité
+d’étendre le délai de réalisation des IVG médicamenteuses hors milieu
+hospitalier de 7 à 9 semaines d’aménorrhée. Un avis favorable a été
+donné.\
+\
+**IVG instrumentales** : le ministère demande aux établissements de
+santé d’assurer la continuité.\
+\
+**En savoir plus** : numéro vert du Planning Familial, 0800 08 11 11,
+pour répondre à toute question.\
+ 
 
 
 
@@ -5761,8 +5785,11 @@ instrumentales.
 
 
 
-Oui. Se déplacer pour donner son sang est autorisé. Il convient
-d'indiquer un déplacement pour motif de santé.
+Oui.\
+\
+Indiquez sur l’attestation dérogatoire un déplacement pour motif de
+santé.\
+ 
 
 
 
@@ -5772,72 +5799,16 @@ d'indiquer un déplacement pour motif de santé.
 
 
 
-Toutes les capacités hospitalières nationales et le maximum de médecins
-et de soignants sont mobilisés, et les consultations et les soins "non
-essentiels" sont reportés dans les hôpitaux.\
+Oui bien sûr, si votre opération est indispensable et urgente, vous de
+devez pas y renoncer. Pour éviter toute contamination, les structures de
+soins se sont organisées avec des parcours de prise en charge dédiés.\
 \
-Cependant, il ne doit pas y avoir de renonciation aux soins
-indispensables. C’est pourquoi les structures de soins se sont
-organisées avec des parcours de prise en charge dédiés pour éviter toute
-contamination.
-
-
-
-
-
-#### Je suis atteinte d’une tumeur au cerveau et devais bénéficier d’un traitement expérimental aux Etats-Unis. Comment m’y rendre avec le confinement ? {#je-suis-atteinte-dune-tumeur-au-cerveau-et-devais-bénéficier-dun-traitement-expérimental-aux-etats-unis.-comment-my-rendre-avec-le-confinement .item-question}
-
-
-
-Il s'agit d'un déplacement autorisé pour motif de santé. Il vous est
-cependant vivement conseillé de vous renseigner sur le site du ministère
-de l'Europe et des Affaires étrangères pour suivre les recommandations
-et les restrictions mises en place par les autorités américaines.
-
-
-
-
-
-#### Le dépistage massif ne serait-il pas plus efficace que le confinement ? {#le-dépistage-massif-ne-serait-il-pas-plus-efficace-que-le-confinement .item-question}
-
-
-
-Le dépistage et le confinement ont deux objectifs différents. En effet,
-le confinement a pour but de freiner la propagation du virus; et le
-dépistage d’orienter pour la prise en charge et ne faire qu’un isolement
-ciblé. Le dépistage massif n’a pas forcément de sens à toutes les phases
-d’une épidémie. En phase 3, le virus circule activement sur le
-territoire. Le suivi de cas est donc difficilement réalisable. De plus,
-les tests actuels, fondés sur les PCR, n’éliminent pas une possible
-infection ultérieure, ni ne donnent d’information sur une contamination
-passée. Ainsi, un dépistage massif ne donnerait pas suffisamment
-d’information ce jour pour contenir l’épidémie.\
+Pour les consultations et soins dits “non essentiels”, ils sont reportés
+: toutes les capacités hospitalières nationales et le maximum de
+médecins et de soignants sont mobilisés pour lutter contre l’épidémie et
+sauver des vies.\
 \
-Cependant, de nouveaux tests sont en cours de développement et devraient
-nous permettre de proposer une stratégie élargie de test pour sortir du
-confinement. Ces tests sont les tests rapides, qui pourront nous
-permettre de généraliser le dépistage, et les sérologies, qui pourront
-nous donner des informations sur une contamination passée ou une
-immunité contre le virus.\
-\
-Par ailleurs, le ministère des Armées a annoncé, le 4 avril 2020, le
-financement d’un projet de test de dépistage du COVID-19 porté par la
-société NG Biotech. Cette commande, financée à hauteur de 1 million
-d’euros par un contrat de la Direction générale de l’armement, permettra
-à la PME de lancer rapidement la production de nouveaux kits de
-dépistage (kits immunologiques de dépistage sanguin rapide de
-l’infection au coronavirus). La commande inclut également le
-développement d’un second type de kit de détection directe du virus,
-dans la salive ou par échantillon nasal, et la sécurisation d’une
-filière de réactifs de base nationale.\
-\
-Le ministère des Armées a également annoncé, le 7 avril 2020, le
-financement d’une nouvelle technologie de détection rapide du COVID-19
-par l’agence de l’innovation de défense (AID) à hauteur de 1,8 million
-d’euros. Il s’agit du projet NOMORECOV, développé par la PME BforCure,
-qui consiste à développer un automate mobile, modulaire et connecté pour
-le dépistage rapide d’une infection au coronavirus (en moins de 30
-minutes).
+Appelez votre médecin traitant ou votre spécialiste pour en parler.
 
 
 
@@ -5847,11 +5818,11 @@ minutes).
 
 
 
-Nous pourrons sortir du confinement une fois que la circulation du virus
-ne sera plus fortement active sur le territoire et que la situation
-pourra être contrôlée par des mesures plus ciblées. Une stratégie de
-test adaptée sera mise en œuvre pour cette phase post-épidémique.\
- 
+Nous pourrons sortir du confinement à deux conditions :
+-   la circulation du virus ne sera plus fortement active sur le
+    territoire
+-   et que la situation pourra être contrôlée par des mesures plus
+    ciblées.
 
 
 
@@ -5861,9 +5832,11 @@ test adaptée sera mise en œuvre pour cette phase post-épidémique.\
 
 
 
-Les tests de dépistage rapide sont toujours en cours d’évaluation par le
-Centre National de Référence (Institut Pasteur). Ils seront utilisés
-lorsque leur fiabilité sera validée.
+Ils sont toujours en cours d’évaluation par le Centre National de
+Référence (Institut Pasteur).\
+\
+Ils ne seront utilisés que lorsque leur fiabilité sera validée.\
+ 
 
 
 
@@ -5873,13 +5846,16 @@ lorsque leur fiabilité sera validée.
 
 
 
-Comme utilisé en pratique courante, la transfusion de produit sanguins
-labiles peut être nécessaire pour les patients graves hospitalisés en
-réanimation. Cependant, spécifiquement pour le coronavirus, il n’a pas
-encore été pas prouvé ce jour que l’apport de sérum de patients guéris
-améliore l’état de santé des malades. Des essais cliniques sur le sujet
-ont été débuté et la France, grâce à l’Établissement Français du Sang,
-est très active sur le sujet. \
+Des essais cliniques sur le sujet ont débutés et la France, grâce à
+l’Établissement Français du Sang, est très active sur le sujet.\
+\
+Il s’agit, comme on le fait couramment dans d’autres cas, de transfuser
+des  produits sanguins issus de dons du sang et qui pourraient être
+utiles pour les patients graves hospitalisés en réanimation.\
+\
+Pour le coronavirus, à ce jour, il n’a pas encore été prouvé que
+l’apport de sérum de patients guéris améliore l’état de santé des
+malades.\
  
 
 
@@ -5890,26 +5866,34 @@ est très active sur le sujet. \
 
 
 
-Il est primordial d’aller donner son sang en ce moment, toutes les
-informations nécessaires pour trouver le point EFS le plus proche de
-chez vous se trouvent sur :
-https://dondesang.efs.sante.fr/trouver-une-collecte. Il est possible de
-donner son sang uniquement lorsque que les symptômes du COVID-19 ont
-disparu et qu’un médecin a validé les critères de guérison.
+**Il est primordial d’aller donner son sang en ce moment.**\
+\
+Trouvez le point EFS le plus proche de chez vous :
+<https://dondesang.efs.sante.fr/trouver-une-collecte>.\
+\
+En cas de doute sur votre infection, demandez à votre médecin : il est
+possible de donner son sang uniquement lorsque vos symptômes auront
+disparu et votre médecin aura validé les critères de guérison.\
+ 
 
 
 
 
 
-#### Si on a eu des symptômes (courbatures, douleurs poitrine, toux) du COVID-19 sans forme grave (pas de fièvre, pas d'essoufflement ni difficultés respiratoires) pendant les 7 premiers jours, peut-on développer une forme grave les 7 jours suivants? {#si-on-a-eu-des-symptômes-courbatures-douleurs-poitrine-toux-du-covid-19-sans-forme-grave-pas-de-fièvre-pas-dessoufflement-ni-difficultés-respiratoires-pendant-les-7-premiers-jours-peut-on-développer-une-forme-grave-les-7-jours-suivants .item-question}
+#### Si on a eu des symptômes (courbatures, douleurs poitrine, toux) du COVID-19 sans forme grave (pas de fièvre, pas d'essoufflement ni difficultés respiratoires) pendant les 7 premiers jours, peut-on développer une forme grave pendant les 7 jours suivants ? {#si-on-a-eu-des-symptômes-courbatures-douleurs-poitrine-toux-du-covid-19-sans-forme-grave-pas-de-fièvre-pas-dessoufflement-ni-difficultés-respiratoires-pendant-les-7-premiers-jours-peut-on-développer-une-forme-grave-pendant-les-7-jours-suivants .item-question}
 
 
 
-Il convient de rester prudent car il est possible de développer une
-forme grave jusqu’à la guérison complète, confirmée par un médecin. Pour
-rappel, les difficultés respiratoires et l'essoufflement sont les
+Il convient de rester prudent.\
+\
+Même si cela ne survient que dans une minorité de cas, il est possible
+de développer une forme grave jusqu’à la guérison complète, confirmée
+par un médecin.\
+\
+=&gt; Les difficultés respiratoires et l'essoufflement sont les
 principaux signaux d’alerte d’une potentielle forme grave de la maladie.
-Il faut appeler le 15 si ces symptômes surviennent.
+Appelez le 15 si ces symptômes surviennent.\
+ 
 
 
 
@@ -5919,14 +5903,15 @@ Il faut appeler le 15 si ces symptômes surviennent.
 
 
 
-Des signes cutanés, comme des engelures ou des rougeurs du visage ont
-été récemment rapportés, comme pouvant être associés au coronavirus. La
-Société Française de Dermatologie en lien avec les médecins généralistes
-est en train d’étudier cette hypothèse et fera connaître ses
-conclusions.\
+Des signes, comme des engelures ou des rougeurs du visage, ont été
+récemment rapportés, comme pouvant être associés au coronavirus.\
 \
-Toute personne souhaitant avoir un avis sur ses symptômes doit être
-orientée vers son médecin traitant.
+La Société Française de Dermatologie, en lien avec les médecins
+généralistes, est en train d’étudier cette hypothèse et fera connaître
+ses conclusions.\
+\
+Vous avez un doute ? Appelez votre médecin traitant.\
+ 
 
 
 
@@ -5936,10 +5921,14 @@ orientée vers son médecin traitant.
 
 
 
-A ce jour, il nous est impossible d’affirmer qu’il existe une immunité
-chez les personnes guéries du COVID-19. Cependant, les données
-scientifiques sont rassurantes, car il n’existe pour le moment aucun cas
-avéré de seconde infection.
+On ne sait pas encore.\
+\
+Les données scientifiques sont rassurantes, car il n’existe pour le
+moment aucun cas de seconde infection. Mais, on ne peut pas encore
+affirmer avec certitude qu’il existe une immunité chez les personnes
+guéries du COVID-19.   \
+\
+ 
 
 
 
@@ -5949,12 +5938,15 @@ avéré de seconde infection.
 
 
 
-Il n’y a actuellement pas de preuve que la manipulation ou la
-préparation de produits alimentaires présentent un risque de
-transmission si les règles d’hygiène des mains et les recommandations
-d’hygiène habituelles données par l’ANSES sont respectées. Pour rappel,
-un apport alimentaire varié et équilibré comprenant des produits frais
-est nécessaire afin d’être en bonne santé.
+Si les règles d’hygiène des mains et les recommandations d’hygiène
+habituelles sont respectées, il n’y a pas de preuve que la préparation
+de produits alimentaires présente un risque de transmission du
+coronavirus. Donc pas de raison particulière de privilégier les produits
+surgelés.\
+\
+Pour rappel, un apport alimentaire varié et équilibré comprenant des
+produits frais est nécessaire afin d’être en bonne santé.\
+ 
 
 
 
@@ -5964,15 +5956,14 @@ est nécessaire afin d’être en bonne santé.
 
 
 
-Les cliniques privées participent déjà activement à la crise du
-COVID-19. Leurs activités non-prioritaires ont été déprogrammées. Elles
-ont bénéficié d’une autorisation spéciale pour l’utilisation de leurs
-réanimations lorsque cela était possible et en sécurité. Par ailleurs,
-les cliniques ont été mises à contribution pour soutenir l’effort
-national contre l'épidémie de coronavirus. Les cliniques ont notamment
-donné du matériel médical aux services de réanimation des hôpitaux
-publics, leurs personnels soignants ont été également réaffectés dans
-certains services des hôpitaux publics.
+Les cliniques privées participent activement à la crise du COVID-19 :
+-   leurs activités non-prioritaires ont été déprogrammées ;
+-   elles ont bénéficié d’une autorisation spéciale pour l’utilisation
+    de leurs réanimations lorsque cela était possible et en sécurité ;
+-   elles ont donné du matériel médical aux services de réanimation des
+    hôpitaux publics ;
+-   leurs personnels soignants ont été réaffectés dans certains services
+    des hôpitaux publics.
 
 
 
@@ -5985,17 +5976,16 @@ certains services des hôpitaux publics.
 La Réserve sanitaire est "un des bataillons de l'armée des soignants"
 qui s'est levé pour lutter contre le COVID-19. Les différents
 dispositifs existants sont les suivants :
--   Les circuits courts permettent aux hôpitaux de contractualiser
-    directement avec les professionnels de santé disponibles dans leur
-    département ou leur région pour répondre plus rapidement et sur la
-    durée aux besoins identifiés.
--   Les plateformes mises en place par les Agences Régionales de Santé
+-   les circuits courts permettent aux hôpitaux d’embaucher directement
+    les professionnels de santé disponibles dans leur département ou
+    leur région pour répondre plus rapidement aux besoins identifiés ;
+-   les plateformes mises en place par les Agences régionales de Santé
     (ARS) viennent en complément de ces circuits courts lorsque d’autres
-    renforts sont nécessaires.
--   La plateforme nationale gérée par le ministère des Solidarités et de
-    la Santé en collaboration avec les ARS, renforce ces deux autres
-    dispositifs si nécessaires.
--   Enfin, la Réserve sanitaire peut-être mobilisée lorsque que ces
+    renforts sont nécessaires ;.
+-   la plateforme nationale gérée par le ministère des Solidarités et de
+    la Santé, en collaboration avec les ARS, renforce ces deux autres
+    dispositifs si nécessaire ;
+-   enfin, la Réserve sanitaire peut être mobilisée lorsque ces
     ressources locales et régionales ne sont pas suffisantes. Ce sont
     les ARS qui décident de faire appel à la Réserve sanitaire et qui
     évaluent les renforts nécessaires en concertation avec le centre de
@@ -6011,19 +6001,24 @@ dispositifs existants sont les suivants :
 
 La Réserve sanitaire est constituée de professionnels de santé
 volontaires et mobilisables à tout moment par le ministère des
-Solidarités et de la Santé ou par les agences régionales de santé. Elle
+Solidarités et de la Santé ou par les Agences régionales de Ssanté. Elle
 peut être mobilisée rapidement pour :
 -   des missions de renfort de l’offre de soins ou médico-sociale,
     notamment lors d’une situation sanitaire exceptionnelle (épidémie,
-    canicule, afflux de population, ...).
+    canicule, afflux de population, ...) ;
+-   des missions de renfort dans le cadre de cellules téléphoniques
+    destinées aux victimes, à leurs proches, à la population en général
+    ;
+-   des missions d’expertise.
+
+\
+C'est le cas en ce moment. Dans d’autres contextes, elle peut aussi être
+mobilisée pour :
+-   des missions de renfort et de prévention lors de grands
+    rassemblements de population ;
 -   des missions de rapatriement ou d’évacuation lors de troubles
     politiques ou des catastrophes naturelles lorsque des ressortissants
     français sont impactés.
--   des missions de renfort dans le cadre de cellules téléphoniques
-    destinées aux victimes, à leurs proches, à la population en général.
--   des missions de renfort et de prévention lors de grands
-    rassemblements de population.
--   des missions d’expertise.
 
 
 
@@ -6033,70 +6028,77 @@ peut être mobilisée rapidement pour :
 
 
 
-Compte tenu des missions assignées à la Réserve sanitaire, les
-réservistes doivent exercer dans le milieu de la santé et être capable
-de s’y intégrer très rapidement. Peuvent ainsi devenir réservistes
-sanitaires (liste non exhaustive) :\
- 
--   Des professionnels de santé : médecins, infirmiers, aides-soignants,
-    de tout type de services y compris médico-sociaux.
--   Des agents hospitaliers non soignants : secrétaires médicaux,
+Les réservistes doivent exercer dans le milieu de la santé et être
+capable de s’y intégrer très rapidement. Peuvent ainsi devenir
+réservistes sanitaires (liste non exhaustive) :
+-   des professionnels de santé : médecins, infirmiers, aides-soignants,
+    de tout type de services y compris médico-sociaux ;
+-   des agents hospitaliers non soignants : secrétaires médicaux,
     assistants de régulation médicale, cadres hospitaliers, ingénieurs,
-    etc.
--   Des professionnels des agences régionales de santé, inspecteurs de
-    l’action sanitaire et sociale, épidémiologistes, etc.
--   Des psychologues.   
+    etc. ;
+-   des professionnels des Agences régionales de Santé, inspecteurs de
+    l’action sanitaire et sociale, épidémiologistes, etc. ;
+-   des psychologues.  
 
-Les professionnels peuvent être agents du secteur public, salariés du
-secteur privé, exercer en libéral ou être retraités. Les étudiants
-paramédicaux et médicaux, ainsi que les internes en médecine et en
-pharmacie, peuvent aussi devenir réservistes sanitaires.
-
-
-
-
-
-#### Comment devenir réserviste sanitaire ? {#comment-devenir-réserviste-sanitaire .item-question}
-
-
-
-Pour devenir réserviste sanitaire, il suffit de s’inscrire en ligne sur
-[www.reservesanitaire.fr](http://www.reservesanitaire.fr). La plateforme
-propose alors un contrat d’engagement dans la Réserve sanitaire, qu’il
-suffit d’imprimer, signer et envoyer à Santé Publique France. Dès lors
-qu’un professionnel de santé s’est inscrit dans la Réserve sanitaire et
-qu’il dispose bien d’un numéro de matricule, il est destinataire des
-alertes concernant sa profession et son profil, et peut y postuler.\
 \
-Cependant, et jusqu’à nouvel ordre, les professionnels de santé doivent
-privilégier le[dispositif mis en place par le ministère des Solidarités
-et de la
-Santé](https://solen3.enquetes.social.gouv.fr/cgi-4/HE/SF?P=12z111z3z-1z-1zA228F2FF17).
-En effet, les professionnels de santé en activité (salarié, libéral),
-sans emploi ou retraités, volontaires pour venir renforcer le système de
-santé dans le cadre de l’épidémie du COVID-19, sont appelés à se faire
-connaître auprès des autorités en s’enregistrant sur le site du
-ministère des Solidarités et de la Santé
-[ici](http://www.reservesanitaire.fr).\
+A noter : les professionnels peuvent être agents du secteur public,
+salariés du secteur privé, exercer en libéral ou être retraités. Les
+étudiants paramédicaux et médicaux, ainsi que les internes en médecine
+et en pharmacie, peuvent aussi devenir réservistes sanitaires.\
+ 
+
+
+
+
+
+#### Puis-je devenir réserviste sanitaire ? {#puis-je-devenir-réserviste-sanitaire .item-question}
+
+
+
+Si vous exercez dans le milieu de la santé et si vous êtes capable de
+vous y intégrer très rapidement : inscrivez-vous  en ligne sur
+[www.reservesanitaire.fr](http://www.reservesanitaire.fr).\
 \
-Par la suite, ils pourront être mobilisés (hors cadre Réserve sanitaire)
-par leur agence régionale de santé pour venir en renfort dans leur
-région, ou encore par le ministère des Solidarités et de la Santé pour
-venir renforcer les équipes soignantes des régions fortement impactées
-par le COVID-19. Ils pourront bien sûr, par la suite, s’inscrire dans la
-Réserve sanitaire pour renforcer, tout au long de l’année, le système de
-santé en cas de situation sanitaire exceptionnelle sur le territoire
-national.\
+La plateforme propose alors un contrat d’engagement dans la Réserve
+sanitaire, qu’il suffit d’imprimer, signer et envoyer à Santé Publique
+France. Dès lors qu’un professionnel de santé s’est inscrit dans la
+Réserve sanitaire et qu’il dispose bien d’un numéro de matricule, serez 
+destinataire des alertes concernant votre profession et votre profil, et
+vous pourrez postuler.\
+\
+**Important** : jusqu’à nouvel ordre, les professionnels de santé
+doivent privilégier [le dispositif mis en place par le ministère des
+Solidarités et de la
+Santé](https://solen3.enquetes.social.gouv.fr/cgi-4/HE/SF?P=12z111z3z-1z-1zA228F2FF17).\
+\
+Les professionnels de santé en activité (salarié, libéral), sans emploi
+ou retraités, volontaires pour venir renforcer le système de santé dans
+le cadre de l’épidémie du COVID-19, sont appelés à se faire connaître en
+priorité auprès des autorités en s’enregistrant sur le site du ministère
+des Solidarités et de la
+Santé[ici.](https://solen3.enquetes.social.gouv.fr/cgi-4/HE/SF?P=12z111z3z-1z-1zA228F2FF17)\
+\
+*Pour en savoir plus :*\
+\
+Par la suite, ceux qui sont inscrits pourront être mobilisés (hors cadre
+Réserve sanitaire) par leur Agence régionale de Santé pour venir en
+renfort dans leur région, ou encore par le ministère des Solidarités et
+de la Santé pour venir renforcer les équipes soignantes des régions
+fortement impactées par le COVID-19. Ils pourront bien sûr, par la
+suite, s’inscrire dans la Réserve sanitaire pour renforcer, tout au long
+de l’année, le système de santé en cas de situation sanitaire
+exceptionnelle sur le territoire national.\
 \
 Outre ces dispositifs, le ministère du Travail a annoncé, le 8 avril
 2020, la mobilisation d’enveloppes exceptionnelles du Plan
 d’investissement dans les compétences (PIC) pour permettre aux
 élèves-infirmiers et élèves aides-soignants de venir en renfort du
 personnel soignant, en partenariat avec les conseils régionaux et les
-Agences Régionales de Santé (ARS). Au total, ce sont 57 millions d’euros
+Agences régionales de Santé (ARS). Au total, ce sont 57 millions d’euros
 affectés à ce projet et 35 000 élèves-infirmiers et élèves
 aides-soignants qui bénéficient de cet accompagnement financier, sous
-forme d’une aide individuelle exceptionnelle.
+forme d’une aide individuelle exceptionnelle.\
+ 
 
 
 
@@ -6106,30 +6108,35 @@ forme d’une aide individuelle exceptionnelle.
 
 
 
-Non, seul un médecin peut poser un diagnostic, que ce soit par
-téléconsultation ou en consultation physique. Cependant, un algorithme
-d’aide à l’orientation, validé par le ministère des Solidarités et de la
-Santé, permet d’orienter les patients sur la base de questions types :
-https://maladiecoronavirus.fr. Son résultat ne constitue cependant pas
-un avis médical. En cas de doute, demandez conseil à votre médecin, et
-favorisez l’utilisation de téléconsultations.
+Non. Seul un médecin peut poser un diagnostic, que ce soit par
+téléconsultation ou en consultation physique.\
+\
+Un algorithme d’aide à l’orientation, validé par le ministère des
+Solidarités et de la Santé, peut aider à orienter les patients sur la
+base de questions-types : <https://maladiecoronavirus.fr>. Son résultat
+ne constitue pas un avis médical.\
+\
+En cas de doute, demandez conseil à votre médecin, et favorisez
+l’utilisation de téléconsultations.\
+ 
 
 
 
 
 
-#### Le virus laisse-t-il des séquelles ? Peut-on avoir des séquelles après guérison ? {#le-virus-laisse-t-il-des-séquelles-peut-on-avoir-des-séquelles-après-guérison .item-question}
+#### Le virus laisse-t-il des séquelles après guérison ? {#le-virus-laisse-t-il-des-séquelles-après-guérison .item-question}
 
 
 
-La grande majorité des patients atteints de COVID-19 guérissent sans
-séquelles. Chez les patients atteints de formes graves, la prise en
-charge hospitalière adaptée permet de réduire le risque de séquelles.
-Chez les patients guéris après un passage en réanimation, il est
-toutefois possible d’avoir des troubles ventilatoires persistants à
-distance de l’infection. Ces séquelles ne semblent toutefois pas liées
-au virus en tant que tel mais à la ventilation assistée lors du passage
-en réanimation.
+-   La grande majorité des patients atteints de COVID-19 guérissent sans
+    séquelles.
+-   Chez les patients atteints de formes graves, la prise en charge
+    hospitalière adaptée permet de réduire le risque de séquelles.
+-   Chez les patients guéris après un passage en réanimation, il est
+    possible d’avoir des troubles ventilatoires persistants à distance
+    de l’infection. Ces séquelles ne semblent toutefois pas liées au
+    virus lui-même mais à la ventilation assistée lors du passage en
+    réanimation.
 
 
 
@@ -6140,24 +6147,10 @@ en réanimation.
 
 
 Nous ne disposons pas d’assez d’éléments pour évaluer l’impact du
-réchauffement climatique sur le virus. De même, nous ne savons si la
-remontée des températures saisonnières aura un quelconque effet sur le
-virus.
-
-
-
-
-
-#### Les personnes atteintes souffrent-elles toutes de fièvre ? {#les-personnes-atteintes-souffrent-elles-toutes-de-fièvre .item-question}
-
-
-
-La fièvre est le symptôme le plus répandu parmi les personnes atteintes.
-Cependant toutes les personnes atteintes ne présentent pas de fièvre ;
-certaines personnes atteintes ne présentent d’ailleurs aucun symptôme
-(patients asymptomatiques), d’où l’importance de respecter les consignes
-de confinement, les gestes barrières et la distanciation sociale, même
-lorsque l’on ne se sent pas malade.
+réchauffement climatique sur le virus.\
+\
+De même, nous ne savons si la remontée des températures saisonnières
+aura un quelconque effet sur le virus.
 
 
 
@@ -6167,39 +6160,32 @@ lorsque l’on ne se sent pas malade.
 
 
 
-Avec le principe de garder la composante humaine et familiale de
-l’accouchement, et avec le principe d’éviter au maximum les risques de
-contamination des soignants et des autres patients, le CNGOF (Collège
-National des Gynécologues et Obstétriciens Français) du 27 mars 2020
+Oui.\
+\
+Le CNGOF (Collège National des Gynécologues et Obstétriciens Français)
 recommande d’accepter l’accompagnant en salle de naissance à partir de
-la phase active de travail, sans possibilité de va et vient. Les gestes
-barrière sont reprécisés à l’entrée de la salle de travail.
+la phase active de travail, sans possibilité de va et vient.\
+\
+Objectifs : garder la composante humaine et familiale de l’accouchement
+et, en même temps, éviter au maximum les risques de contamination des
+soignants et des autres patients,\
+Les gestes barrière sont reprécisés à l’entrée de la salle de travail.
 L’accompagnant peut rester dans la salle dans les 2h qui suivent
 l’accouchement.\
-Ils recommandent notamment, qu’en salle d’accouchement :\
 \
-1.     Pas de sortie du père de la salle pendant toute la durée de
+Les recommandations  :\
+1.    Pas de sortie du père de la salle pendant toute la durée de
 l’accouchement sous aucun prétexte (boire, manger, fumer). En cas de
 sortie, il doit quitter définitivement l’hôpital.\
-2.     Le père doit sonner pour aller aux toilettes.\
-3.     Prévoir dans le sac d’accouchement des aliments type barres de
+2.    Le père doit sonner pour aller aux toilettes.\
+3.    Prévoir dans le sac d’accouchement des aliments type barres de
 céréales, biscuits. Un repas sera proposé dans la mesure du possible.\
-4.     Le père ne peut pas accéder aux services d’hospitalisation. Son
+4.    Le père ne peut pas accéder aux services d’hospitalisation. Son
 départ se fait à H2 et il revient pour chercher sa conjointe.\
-5.     La sortie précoce est recommandée\
-6.     Pas d’accompagnant dans le service d’hospitalisation ni en salle
-de césarienne si celle-ci est nécessaire.
-
-
-
-
-
-#### L’eau du robinet fait-elle l’objet de contrôles ? {#leau-du-robinet-fait-elle-lobjet-de-contrôles .item-question}
-
-
-
-Il n’y a actuellement aucune raison de suspecter une transmission du
-virus via l’eau courante.
+5.    La sortie précoce est recommandée\
+6.    Pas d’accompagnant dans le service d’hospitalisation ni en salle
+de césarienne si celle-ci est nécessaire.\
+ 
 
 
 
@@ -6231,25 +6217,9 @@ notamment en Chine.\
 
 
 
-Le caractère obligatoire ou non d’un éventuel vaccin sera décidé en
-fonction des résultats des études cliniques ainsi que des données
-épidémiologiques.
-
-
-
-
-
-#### Le hantavirus est-il aussi dangereux que le coronavirus ? {#le-hantavirus-est-il-aussi-dangereux-que-le-coronavirus .item-question}
-
-
-
-Le hantavirus n’est en rien comparable au nouveau coronavirus. C’est un
-virus transmis par les rongeurs, non présent en France, et responsable
-d’une fièvre hémorragique ou d’une affection pulmonaire. Il ne s’agit
-également pas d’un virus à réelle transmission interhumaine comme le
-coronavirus, bien que quelques cas ont été décrit. Il n’y a donc pas de
-risque de diffusion massive de celui-ci, et donc pas de risque
-d’épidémie mondiale au hantavirus.
+Ce sera décidé en fonction des résultats des études cliniques ainsi que
+des données épidémiologiques.\
+ 
 
 
 
@@ -6259,12 +6229,15 @@ d’épidémie mondiale au hantavirus.
 
 
 
-Le SARS-CoV-2, responsable du COVID-19, est un nouveau virus dont nous
-connaissons encore mal le comportement. A ce jour, il nous est
-impossible de savoir si le virus pourrait revenir chaque année. La
-recherche se penche activement sur la question, ainsi que sur
-l’éventuelle saisonnalité de sa diffusion. Ce jour cependant, nous ne
-disposons d’aucune preuve pour étayer cette hypothèse.
+Nous connaissons encore mal le comportement de ce nouveau virus, le
+SARS-CoV-2, responsable du COVID-19.\
+\
+A ce jour, il nous est impossible de savoir s’il pourrait revenir chaque
+année.\
+\
+La recherche se penche activement sur la question, ainsi que sur
+l’éventuelle saisonnalité de sa diffusion.\
+ 
 
 
 
@@ -6274,14 +6247,17 @@ disposons d’aucune preuve pour étayer cette hypothèse.
 
 
 
-On a retrouvé du coronavirus dans le sang des personnes contaminées. Il
-existe donc un possible risque de transmission par le sang. Ce jour
-cependant, il n’existe aucun cas confirmé de contamination par le sang.
 Pour rappel, le sang prélevé lors de dons du sang est systématiquement
 décontaminé de tous les virus. Il n’existe donc aucun risque à donner
 son sang, ni à en recevoir. Les personnes non malades sont de plus
 fortement invitées à continuer à donner leur sang, malgré le
-confinement.
+confinement.\
+\
+Pour répondre plus précisément à la question, on a retrouvé du
+coronavirus dans le sang des personnes contaminées, ill existe donc un
+possible risque de transmission par le sang. Mais, à ce jour, il
+n’existe aucun cas confirmé.\
+ 
 
 
 
@@ -6315,25 +6291,6 @@ médicament et des produits de santé (ANSM), avec le soutien de l’ANSES,
 deux nouvelles catégories de masques grand public ont ainsi été créées.
 Ces masques auront vocation à être utilisés dans des situations
 professionnelles en complément des mesures barrières.
-
-
-
-
-
-#### Le masque sera-t-il rendu obligatoire ? {#le-masque-sera-t-il-rendu-obligatoire .item-question}
-
-
-
-Le Gouvernement travaille activement afin d’élargir les
-disponibilités en masques grand public destinés à une population plus
-large. Au terme d’une démarche supervisée par l’Agence nationale de
-sécurité du médicament et des produits de santé (ANSM), avec le soutien
-de l’ANSES, deux nouvelles catégories de masques à usage non sanitaire
-ont ainsi été créées. Ces masques auront vocation à être utilisés dans
-des situations professionnelles en complément des mesures barrières.\
- \
-Les masques chirurgicaux et FFP2, à usage sanitaire, restent
-réquisitionnés par l’Etat et sont destinés aux professionnels de santé.
 
 
 
@@ -6379,36 +6336,24 @@ faire usage de ce type de masques.
 
 
 
-Le surpoids correspond à un indice de masse corporel (IMC) calculé entre
-25 et 30. L’obésité correspond à un IMC supérieur à 30. Les premières
-données sur les patients hospitalisés en réanimation semblent montrer
-une surreprésentation de patients en surpoids et obèse, faisant
-sous-entendre que ces deux populations seraient possiblement à risque. 
-Des études sont en cours afin de savoir s’il s’agit de facteurs de
-risques indépendants, ou si cette surreprésentation est surtout liée au
-fort pourcentage de comorbidités (autres maladies) parmi les gens en
-surpoids ou obèse.\
+Les premières observations semblent l’indiquer.
+-   Les premières données sur les patients hospitalisés en réanimation
+    semblent montrer une surreprésentation de patients en surpoids et
+    obèse, faisant sous-entendre que ces deux populations seraient
+    possiblement à risque ;  
+-   des études sont en cours afin de savoir s’il s’agit de facteurs de
+    risques indépendants, ou si cette surreprésentation est surtout liée
+    au fort pourcentage de comorbidités (autres maladies) parmi les gens
+    en surpoids ou obèse ;
+-   le Haut Conseil de la Santé Publique a considéré dans son avis du 10
+    mars les patients avec une obésité morbide (IMC &gt; 40) comme
+    sujets à risque.
+
 \
-Pour rappel, le Haut Conseil de la Santé Publique a considéré dans son
-avis du 10 mars les patients avec une obésité morbide (IMC &gt; 40)
-comme sujets à risque.
-
-
-
-
-
-#### Le prix des masques sera-t-il encadré ? {#le-prix-des-masques-sera-t-il-encadré .item-question}
-
-
-
-Les masques chirurgicaux et FFP2, à usage sanitaire, restent
-réquisitionnés par l’Etat et sont destinés aux professionnels de santé.\
- \
-Concernant les nouveaux masques à usage non sanitaire, leur prix n’est
-pas encadré à ce jour. Les entreprises mobilisées pour la fabrication
-des nouveaux masques sont volontaristes pour répondre au besoin national
-et n’ont pas pour objectif de réaliser des marges. Le Gouvernement
-restera toutefois vigilant à la question de l’accès aux protections.
+En savoir plus : le surpoids correspond à un indice de masse corporel
+(IMC) calculé entre 25 et 30. L’obésité correspond à un IMC supérieur à
+30. Calculer son IMC sur ameli.fr
+:[https://www.ameli.fr/assure/sante/themes/surpoids-adulte/calcul-imc-bilan-medical](http://https://www.ameli.fr/assure/sante/themes/surpoids-adulte/calcul-imc-bilan-medical)
 
 
 
@@ -6433,20 +6378,23 @@ décès de +133% par rapport aux non-fumeurs.
 
 
 
-Non, le virus ne circule pas par la fumée. Le virus se transmet par les
-gouttelettes (sécrétions projetées invisibles lors d’une discussion,
-d’éternuements ou de la toux). Un des autres vecteurs privilégiés de la
-transmission du virus est le contact des mains non lavées ou de surfaces
-souillées par des gouttelettes. Ainsi, il ne faut pas partager sa
-cigarette, ni tout autre objet qui se fume (cigarettes électroniques …),
-car ils sont à risque d’être contaminant.\
+Non, le virus ne circule pas par la fumée.\
+\
+Le virus se transmet par les gouttelettes (sécrétions projetées
+invisibles lors d’une discussion, d’éternuements ou de la toux).\
+Un des autres vecteurs privilégiés de la transmission du virus est le
+contact des mains non lavées ou de surfaces souillées par des
+gouttelettes. Ainsi, il ne faut pas partager sa cigarette, ni tout autre
+objet qui se fume (cigarettes électroniques …), car ils sont à risque
+d’être contaminants.\
 \
 Pour rappel, les fumeurs sont surtout plus à risque de développer des
 formes graves. Fumer abîme les tissus pulmonaires et les rend plus
 vulnérables à l’arrivée du virus. Des études ont montré que fumer
 augmente le risque de développer une forme sévère ou très sévère du
 COVID-19 de +50%, ainsi qu’un risque de décès de +133% par rapport aux
-non-fumeurs.
+non-fumeurs.\
+ 
 
 
 
@@ -6456,27 +6404,33 @@ non-fumeurs.
 
 
 
-Le comité d’éthique de la SFAR (Société Française d’Anesthésie et de
-Réanimation) a publié ses recommandations à propos des décisions
-médicales d’admission des patients en unité de soins critiques dans le
-contexte pandémique.\
-Les réanimateurs sont sollicités au quotidien pour orienter la prise en
-charge des patients les plus graves. Après discussion collégiale entre
-plusieurs professionnels et après entretien avec la famille, si elle est
-disponible, il est parfois décidé ne pas infliger de souffrances
-inutiles aux patients. Cette limitation de soin répond au principe
-éthique de non malfaisance.\
-Si les hôpitaux arrivent à saturation, de telles décisions seront prise
-au cas par cas : il n’existe pas de “critères de tri” spécifiques. Des
-cellules de soutien éthique sont en cours de déploiements dans les
-hôpitaux afin d’aider les soignants à gérer la crise.\
-Ce jour, tous les efforts sont toutefois déployés pour que les hôpitaux
-qui accueillent un nombre important de patients puissent transférer ces
-derniers dans un autre établissement. Dans ce contexte, nos voisins
-européens (Suisse, Allemagne, Luxembourg) ont accepté de prendre en
-charge des patients français dans les zones sous tension. L’armée et le
-TGV médicalisé sont également mobilisés pour déplacer les malades des
-régions sous tensions vers d’autres territoire.
+C’est le comité d’éthique de la SFAR (Société Française d’Anesthésie et
+de Réanimation), composé de médecins réanimateurs, qui effectue des
+recommandations à propos des décisions médicales d’admission des
+patients en unité de soins critiques dans le contexte pandémique.
+-   Les réanimateurs orientent la prise en charge des patients les plus
+    graves. Après discussion collégiale entre plusieurs professionnels,
+    et après entretien avec la famille, si elle est disponible, il est
+    parfois décidé ne pas infliger de souffrances inutiles aux patients.
+    Cette limitation de soin répond au principe éthique de “non
+    malfaisance” : le soin ne serait pas supporté par le malade et lui
+    apporterait une souffrance supplémentaire ;
+-   si les hôpitaux arrivent à saturation, de telles décisions seront
+    prise au cas par cas : il n’existe pas de “critères de tri”
+    spécifiques. Des cellules de soutien éthique sont en cours de
+    déploiements dans les hôpitaux afin d’aider les soignants à gérer la
+    crise.
+
+\
+À ce jour, tous les efforts sont déployés pour que les hôpitaux qui
+accueillent un nombre important de patients puissent en transférer
+certains dans un autre établissement. Nos voisins européens (Suisse,
+Allemagne, Luxembourg) ont accepté de prendre en charge des patients
+français dans les zones sous tension. L’armée et le TGV médicalisé sont
+également mobilisés pour déplacer les malades des régions sous tensions
+vers d’autres territoires.\
+\
+ 
 
 
 
@@ -6486,25 +6440,32 @@ régions sous tensions vers d’autres territoire.
 
 
 
-Les premières études montrent effectivement que ce sont les personnes
-les plus âgées qui sont les plus à risque de développer des formes
-graves de COVID-19.\
+Les premières études montrent que le COVID-19 a moins d’effet sur les
+jeunes, et de nombreux jeunes sont porteurs asymptomatiques (sans
+symptômes).\
 \
-Elles sont plus fragiles pour plusieurs raisons. Tout d’abord, avec
-l’âge, le système immunitaire - qui protège contre les virus - est moins
-efficace. De plus, les personnes âgées ont souvent d’autres pathologies,
-notamment des insuffisances d’organe (hypertension artérielle,
-insuffisance rénale…) qui les rendent moins résistantes à une agression
-extérieure comme un virus.\
-\
-A l’inverse, le COVID-19 a moins d’effet sur les jeunes, et de nombreux
-jeunes sont porteurs asymptomatiques. Toutefois, il ne faut pas oublier
-que le COVID-19 peut également donner des formes graves chez des
-patients jeunes.\
+Toutefois, il ne faut pas oublier que le COVID-19 peut également parfois
+donner des formes graves chez des patients jeunes.\
 \
 Les gestes barrières, la distanciation sociale et le confinement sont
 donc utiles pour tous, et permettent aux jeunes et moins jeunes de se
-protéger contre le coronavirus.
+protéger contre le coronavirus.\
+\
+À noter : ce sont les personnes les plus âgées qui sont les plus à
+risque de développer des formes graves de COVID-19 (voir les données
+épidémiologiques).\
+\
+Elles sont plus fragiles pour plusieurs raisons.
+-   Avec l’âge, le système immunitaire - qui protège contre les virus -
+    est moins efficace.
+-   Les personnes âgées ont souvent d’autres pathologies, notamment des
+    insuffisances d’organe (hypertension artérielle, insuffisance
+    rénale…) qui les rendent moins résistantes à une agression
+    extérieure comme un virus.
+
+\
+\
+ 
 
 
 
@@ -6514,67 +6475,95 @@ protéger contre le coronavirus.
 
 
 
-Pour se laver les mains :\
- 
--   L’eau et le savon doivent être privilégiés. Un lavage efficace doit
-    durer 30 secondes, en couvrant l’ensemble des surfaces des 2 mains.
--   En cas d’absence de point d’eau, il est possible d’utiliser du gel
+Pour se laver les mains :
+-   l’eau et le savon doivent être privilégiés. Un lavage efficace doit
+    durer 30 secondes, en couvrant l’ensemble des surfaces des 2 mains ;
+-   en cas d’absence de point d’eau, il est possible d’utiliser du gel
     hydro-alcoolique , en frictionnant la surface des 2 mains jusqu’à ce
     que la solution soit sèche.
 
-Pour désinfecter les surfaces souillées :\
- 
--   L’ANSM recommande les produits avec la norme NF EN 14476 .
--   Les produits à base d’alcool (alcool ménager avec 70% d’éthanol ou
-    alcool à brûler à 90-95% d’éthanol) sont également efficaces.
--   L’eau de Javel &gt; 0.05% constitue également une alternative
-    efficace si on ne dispose pas de tels produits
--   L’utilisation de vinaigre ou d’huiles essentielles n’est pas
+\
+Pour désinfecter les surfaces souillées :
+-   l’ANSM recommande les produits avec la norme NF EN 14476;
+-   les produits à base d’alcool (alcool ménager avec 70% d’éthanol ou
+    alcool à brûler à 90-95% d’éthanol) sont également efficaces ;.
+-   l’eau de Javel &gt; 0.05% constitue également une alternative
+    efficace si on ne dispose pas de tels produits mais attention à son
+    utilisation ;
+-   l’utilisation de vinaigre ou d’huiles essentielles n’est pas
     recommandée car ils ne sont pas efficaces contre le coronavirus.
 
 
 
 
 
-#### L'alcool modifié à 70 ou 90 degrés peut-il remplacer le gel hydro-alcoolique ? {#lalcool-modifié-à-70-ou-90-degrés-peut-il-remplacer-le-gel-hydro-alcoolique .item-question}
+#### L'alcool modifié à 70 ou 90 degrés peut-il remplacer le gel hydroalcoolique ? {#lalcool-modifié-à-70-ou-90-degrés-peut-il-remplacer-le-gel-hydroalcoolique .item-question}
 
 
 
+Pour remplacer le gel hydroalcoolique, on peut avant tout utiliser de
+l’eau et du savon, qui restent la méthode la plus efficace pour éliminer
+le virus.\
+\
 L’alcool à 70 degrés et 90 degrés ne sont recommandés que pour la
-désinfection des surfaces. Pour remplacer le gel hydro-alcoolique, on
-peut avant tout utiliser de l’eau et du savon, qui restent la méthode la
-plus efficace pour éliminer le virus.
+désinfection des surfaces.\
+ 
 
 
 
 
 
-#### Pourquoi ne pas tester l’ensemble de la population et lever le confinement pour les personnes immunisées et non atteintes ? {#pourquoi-ne-pas-tester-lensemble-de-la-population-et-lever-le-confinement-pour-les-personnes-immunisées-et-non-atteintes .item-question}
+#### Pourquoi ne pas tester l’ensemble de la population et lever le confinement pour les personnes immunisées et non atteintes ? Le dépistage massif n’est-il pas plus efficace que le confinement ? {#pourquoi-ne-pas-tester-lensemble-de-la-population-et-lever-le-confinement-pour-les-personnes-immunisées-et-non-atteintes-le-dépistage-massif-nest-il-pas-plus-efficace-que-le-confinement .item-question}
 
 
 
-Le dépistage et le confinement ont deux objectifs différents. \
-·       Le confinement a pour but de freiner la propagation du virus\
-·       Le dépistage a pour but d’orienter la prise en charge ou ne
-faire qu’un isolement ciblé. \
+Le dépistage et le confinement ont deux objectifs différents :.\
+\
+·       le confinement a pour but de freiner la propagation du virus ;\
+·       le dépistage a pour but d’orienter la prise en charge ou ne
+faire qu’un isolement ciblé.\
  \
 Un dépistage massif n’est pour le moment pas envisageable car le virus
 circule trop fortement sur territoire et le suivi individuel des cas
-trop difficile.\
-De plus, les tests actuels, fondés sur les PCR, n’éliminent pas une
-possible infection ultérieure, ni ne donnent d’information sur une
-contamination passée.\
+serait  trop difficile.\
+\
+De plus, les tests actuels, fondés sur les PCR (prélèvements dans le
+nez), n’éliminent pas une possible infection ultérieure, et ne donnent
+pas d’information sur une contamination passée.\
+\
 Ainsi, un dépistage massif à base de tests PCR ne serait pas
-suffisamment efficace pour contenir l’épidémie. Enfin, même si réalisé,
-la forte circulation active du virus sur le territoire rend difficile un
-confinement individualisé.\
- \
-Cependant, de nouveaux tests sont en cours de développement et devraient
-nous permettre de proposer une stratégie élargie de test pour sortir du
+suffisamment efficace pour contenir l’épidémie.\
+\
+Et, même s’il était réalisé, la forte circulation active du virus sur le
+territoire rendrait difficile un confinement individualisé.\
+\
+De nouveaux tests sont en cours de développement et devraient nous
+permettre de proposer une stratégie élargie de test pour sortir du
 confinement. Ces tests sont les tests rapides, qui pourront nous
 permettre de généraliser le dépistage, et les sérologies, qui pourront
 nous donner des informations sur une contamination passée ou une
-immunité contre le virus.
+immunité contre le virus.\
+\
+*En savoir plus* : le ministère des Armées finance plusieurs projets.\
+\
+Par ailleurs, le ministère des Armées a annoncé, Le 4 avril 2020, le
+ministère a annoncé le financement d’un projet de test de dépistage du
+COVID-19 porté par la société NG Biotech. Cette commande, financée à
+hauteur de 1 million d’euros par un contrat de la Direction générale de
+l’armement, permettra à la PME de lancer rapidement la production de
+nouveaux kits de dépistage (kits immunologiques de dépistage sanguin
+rapide de l’infection au coronavirus). La commande inclut également le
+développement d’un second type de kit de détection directe du virus,
+dans la salive ou par échantillon nasal, et la sécurisation d’une
+filière de réactifs de base nationale.\
+\
+Le ministère des Armées a également annoncé, le 7 avril 2020, le
+ministère a annoncé le financement d’une nouvelle technologie de
+détection rapide du COVID-19 par l’agence de l’innovation de défense
+(AID) à hauteur de 1,8 million d’euros. Il s’agit du projet NOMORECOV,
+développé par la PME BforCure, qui consiste à développer un automate
+mobile, modulaire et connecté pour le dépistage rapide d’une infection
+au coronavirus (en moins de 30 minutes).
 
 
 
@@ -6594,6 +6583,30 @@ Pour rappel, aujourd’hui, les prélèvements sont soit réalisés à
 l’hôpital, soit à domicile par des professionnels de santé en lien avec
 un laboratoire en ville. Les tests PCR sont ensuite réalisés dans des
 laboratoires de type P2, hospitaliers ou privés.
+
+
+
+
+
+#### Le prix des masques sera-t-il encadré ? {#le-prix-des-masques-sera-t-il-encadré .item-question}
+
+
+
+Pas pour l’instant.
+-   Les masques chirurgicaux et FFP2, à usage sanitaire, restent
+    réquisitionnés par l’Etat et sont destinés aux professionnels de
+    santé ;
+-   concernant les nouveaux masques grand public leur prix n’est pas
+    encadré à ce jour ;
+-   les entreprises mobilisées pour la fabrication des nouveaux masques
+    sont volontaires pour répondre au besoin national et n’ont pas pour
+    objectif de réaliser des marges.
+
+\
+Le Gouvernement restera toutefois vigilant à la question de l’accès aux
+protections.\
+\
+ 
 
 
 
