@@ -6574,15 +6574,21 @@ au coronavirus (en moins de 30 minutes).
 
 
 La stratégie de test actuellement en œuvre n’inclut pas les tests en
-cabinet médical. Des tests rapides, possiblement réalisables par les
-médecins généralistes, sont en cours de développement mais ne sont pas
-encore disponibles. Le ministère des Solidarités et de la Santé
-communiquera en temps voulu sur les modalités d’accès de ces tests une
-fois qu’ils auront été validés et qu’ils seront accessibles.\
+cabinet médical.\
+\
+Des tests rapides, possiblement réalisables par les médecins
+généralistes, sont en cours de développement mais ne sont pas encore
+disponibles.\
+\
+Le ministère des Solidarités et de la Santé communiquera en temps voulu
+sur les modalités d’accès de ces tests une fois qu’ils auront été
+validés et qu’ils seront accessibles.\
+\
 Pour rappel, aujourd’hui, les prélèvements sont soit réalisés à
 l’hôpital, soit à domicile par des professionnels de santé en lien avec
-un laboratoire en ville. Les tests PCR sont ensuite réalisés dans des
-laboratoires de type P2, hospitaliers ou privés.
+un laboratoire en ville. Les tests PCR sont réalisés dans des
+laboratoires de type P2, hospitaliers ou privés.\
+ 
 
 
 
@@ -6622,137 +6628,110 @@ protections.\
 
 
 
-#### Pendant la période de confinement, est-il encore possible pour moi d’aller faire un footing ? {#pendant-la-période-de-confinement-est-il-encore-possible-pour-moi-daller-faire-un-footing .item-question}
+#### Pendant la période de confinement, puis-je tout de même faire un footing ? {#pendant-la-période-de-confinement-puis-je-tout-de-même-faire-un-footing .item-question}
 
 
 
-Oui, mais dans les conditions restrictives mentionnées au 5° de
-l’article 3 du décret 2020-293 du 23 mars 2020 prescrivant les mesures
-générales nécessaires pour faire face à l'épidémie de covid-19 dans le
-cadre de l'état d'urgence sanitaire. Cette pratique doit être
-individuelle, à raison d’1 heure quotidienne au maximum, à au plus 1 km
-autour du domicile et munie de votre pièce d’identité et d’une
-attestation de déplacement dérogatoire mentionnant la date et l’heure du
-départ.
-
-
-
-
-
-#### Est-ce qu’il est également possible pour moi d’aller faire une sortie en vélo ? {#est-ce-quil-est-également-possible-pour-moi-daller-faire-une-sortie-en-vélo .item-question}
-
-
-
-Non, la pratique du vélo de loisir est proscrite. Seuls les enfants
-peuvent faire encore du vélo lors d'une sortie brève, en étant
-accompagné par un adulte à pied, à raison d’1 heure quotidienne au
-maximum, à au plus 1 km autour du domicile et munie de votre pièce
-d’identité et d’une attestation de déplacement dérogatoire mentionnant
-la date et l’heure du départ. Le vélo en revanche peut être utilisé
-comme moyen de locomotion pour vos déplacements professionnels, de santé
-ou pour faire vos courses, en étant muni d’une attestation de
-déplacement dérogatoire mentionnant la date et l’heure du départ...
-
-
-
-
-
-#### Les restrictions d’activité concernent-elles également les activités et sports qui sont pratiqués en nature, loin de toute population, et “en solo” ? {#les-restrictions-dactivité-concernent-elles-également-les-activités-et-sports-qui-sont-pratiqués-en-nature-loin-de-toute-population-et-en-solo .item-question}
-
-
-
-Les restrictions d’activités concernent-elles également les activités
-aquatiques et nautiques (sorties en bateau, aviron, voile, plongée
-sous-marine, pêche…), les sports aériens (parapente, saut en parachute,
-montgolfière…), les sports mécaniques (moto, karting...), les activités
-de montagne (escalade, spéléologie, randonnée…) ou encore les sports
-urbains (skateboard, roller…) et ce même si ces activités et sports sont
-pratiqués en nature, loin de toute population, et « en solo » ?\
+Oui, mais cette pratique doit être individuelle, à raison d’1 heure
+quotidienne au maximum, et dans un rayon d’1 km autour du domicile.
+N’oubliez pas votre pièce d’identité et votre attestation de déplacement
+dérogatoire..\
 \
-Aujourd'hui, la pratique de nombreuses activités sportives est rendue
-impossible par les circonstances. S'il n’existe aucune restriction
-concernant le type d’activité sportive pouvant être pratiquée, celles-ci
-doivent remplir les conditions mentionnées au 5° de l’article 3 du
-décret 2020-293 du 23 mars 2020 prescrivant les mesures générales
-nécessaires pour faire face à l’épidémie de covid-19 dans le cadre de
-l’état d’urgence sanitaire. C'est-à-dire qu'il doit s'agir d'une
-activité individuelle n'entraînant pas de proximité avec d’autres
-personnes. Cette activité doit également être pratiquée au maximum
-durant une heure quotidienne et à une distance maximale d’un kilomètre
-du domicile. Il faut néanmoins rappeler que les établissements
-d’activités physiques et sportives (EAPS) sont fermés et ne peuvent donc
-encadrer ce type de pratique. Or, parmi celles-ci, certaines présentent
-une dangerosité particulière et nécessitent d’être encadrées ou font
-appel à des équipements qui sont eux-mêmes fermés (remontées mécaniques,
-etc.).
-
-
-
-
-
-#### Puis je continuer malgré tout à me rendre dans ma salle de fitness, dans une piscine publique ou dans un centre équestre ? {#puis-je-continuer-malgré-tout-à-me-rendre-dans-ma-salle-de-fitness-dans-une-piscine-publique-ou-dans-un-centre-équestre .item-question}
-
-
-
-Non. Tous les établissements d’activités physiques et sportives (EAPS)
-couverts et non couverts doivent cesser leur activité jusqu’au 15 avril,
-à ce stade. Il n’est donc plus possible de les fréquenter.\
+Dans les lieux où auraient été constatés des comportements manifestement
+abusifs entraînant des regroupements de personnes, les préfets pourront
+être amenés, en lien avec les maires, à encadrer la pratique sportive.\
 \
-Seules les opérations strictement nécessaires de maintenance peuvent
-être assurées. Concernant les centres équestres et les autres
-établissements possédant des animaux (ex : chiens de traineaux), seuls
-les propriétaires ou leurs préposés peuvent s’y rendre afin de prodiguer
-les soins nécessaires aux animaux munies de l’attestation avec la
-mention « Les déplacements professionnels lorsque ceux-ci ne peuvent
-être reportés ». Les animaux peuvent bénéficier de sortie journalière
-pour leur confort exclusivement dans l’enceinte de l’établissement
-(exemple : carrière). Cette mesure de fermeture concerne aussi les
-établissements de plein air (hippodromes, stations de ski, golf, bases
-de loisirs), ainsi que tous les sites et itinéraires de nature (chemins
-de randonnée, sites d’escalade, lacs, rivières, etc.). Seuls les
-personnels strictement nécessaires aux maintenances indispensables
-peuvent s’y rendre munis de leur attestation avec la mention :  « Les
-déplacements professionnels lorsque ceux-ci ne peuvent être reportés »
+=&gt; Il vous est conseillé de vérifier, notamment en consultant le site
+internet de votre mairie ou de votre préfecture, si des mesures
+particulières s'appliquent dans votre commune.\
+ 
 
 
 
 
 
-#### Je suis adhérent dans un club ou une association sportive. Est-ce que j’aurai droit à un remboursement des semaines d’inactivités dues au confinement ou me sera-t-il accordée une compensation ? {#je-suis-adhérent-dans-un-club-ou-une-association-sportive.-est-ce-que-jaurai-droit-à-un-remboursement-des-semaines-dinactivités-dues-au-confinement-ou-me-sera-t-il-accordée-une-compensation .item-question}
+#### Puis-je continuer de faire une sortie en vélo ? {#puis-je-continuer-de-faire-une-sortie-en-vélo .item-question}
 
 
 
-C’est une décision qui relève de la libre appréciation de l’association
-à laquelle vous adhérez. C’est à son conseil d’administration qu’il
-revient d’arrêter ce choix éventuel de remboursement et ses modalités
-pratiques.
-
-
-
-
-
-#### Est-ce que la période d’activité dans les clubs ou associations sportives pourrait s’étendre pendant la période estivale pour « rattraper » les semaines d’inactivités actuelles ? {#est-ce-que-la-période-dactivité-dans-les-clubs-ou-associations-sportives-pourrait-sétendre-pendant-la-période-estivale-pour-rattraper-les-semaines-dinactivités-actuelles .item-question}
-
-
-
-Cette décision relève des fédérations sportives qui décideront
-d’allonger ou pas leurs calendriers sportifs et de la structure dans
-laquelle vous pratiquez vos activités physiques et sportives.
+Non, il est interdit de pratiquer le vélo pour les loisirs.\
+\
+Sauf pour les enfants : ils peuvent faire du vélo s’ils sont accompagnés
+par un adulte qui les accompagne à pied, à raison d’1 heure quotidienne
+au maximum, dans un rayon d’1 km autour du domicile. N’oubliez pas votre
+pièce d’identité et votre attestation de déplacement dérogatoire.\
+\
+En revanche vous pouvez faire du vélo pour vos déplacements
+professionnels, de santé ou pour faire vos courses.\
+ 
 
 
 
 
 
-#### Si je me blesse en faisant du sport, est-ce que je peux toujours consulter un médecin ? {#si-je-me-blesse-en-faisant-du-sport-est-ce-que-je-peux-toujours-consulter-un-médecin .item-question}
+#### Puis-je pratiquer une activité sportive en nature, loin de toute population, dès lors que je suis seul ? {#puis-je-pratiquer-une-activité-sportive-en-nature-loin-de-toute-population-dès-lors-que-je-suis-seul .item-question}
 
 
 
-C’est possible, mais sous conditions toutefois. L’article 3 3° du décret
-n° 2020-293 du 23 mars 2020 prescrivant les mesures générales
-nécessaires pour faire face à l'épidémie de covid-19 dans le cadre de
-l'état d'urgence sanitaire prévoit que sont possibles les déplacements
-pour motif de santé à l’exception des soins et consultations pouvant
-être réalisés à distance ou pouvant être différés.
+Vous pouvez pratiquer une activité physique individuelle, une heure par
+jour et dans un rayon de 1km autour de votre domicile, si elle
+n'entraîne pas de proximité avec d’autres personnes.\
+\
+Vous ne pouvez pas pratiquer des activités aquatiques et nautiques
+(sorties en bateau, aviron, voile, plongée sous-marine, pêche…), ni
+sports aériens (parapente, saut en parachute, montgolfière…), ni sports
+mécaniques (moto, karting...), ni activités de montagne (escalade,
+spéléologie, randonnée…) ni sports urbains (skateboard, roller…). Elles
+sont interdites car pour être pratiquées elles doivent être encadrées,
+ce qui n’est pas possible actuellement.\
+\
+Enfin, dans les lieux où auraient été constatés des comportements
+manifestement abusifs entraînant des regroupements de personnes, les
+préfets pourront être amenés, en lien avec les maires, à encadrer la
+pratique sportive.\
+\
+=&gt; Il vous est conseillé de vérifier, notamment en consultant le site
+internet de votre mairie ou de votre préfecture, si des mesures
+particulières s'appliquent dans votre commune.\
+\
+Les établissements d’activités physiques et sportives sont fermés.
+
+
+
+
+
+#### Puis je continuer à me rendre dans ma salle de sport, dans une piscine publique ou dans un centre équestre ? {#puis-je-continuer-à-me-rendre-dans-ma-salle-de-sport-dans-une-piscine-publique-ou-dans-un-centre-équestre .item-question}
+
+
+
+Non. Tous les établissements d’activités physiques et sportives doivent
+être fermés au moins jusqu’au 15 avril.\
+ 
+
+
+
+
+
+#### Est-ce que la période d’activité de Les clubs et associations sportives qui sont habituellement fermés l’été vont-ils être ouverts pour compenser les semaines d’inactivités ? {#est-ce-que-la-période-dactivité-de-les-clubs-et-associations-sportives-qui-sont-habituellement-fermés-lété-vont-ils-être-ouverts-pour-compenser-les-semaines-dinactivités .item-question}
+
+
+
+Cette décision relève de chaque fédération sportive. Renseignez-vous
+auprès d’elle.\
+ 
+
+
+
+
+
+#### Si je me blesse en faisant du sport, puis-je consulter un médecin ? {#si-je-me-blesse-en-faisant-du-sport-puis-je-consulter-un-médecin .item-question}
+
+
+
+C’est possible dans la mesure où il s’agit d’un déplacement pour motif
+de santé ne pouvant être différé. Veillez à appeler votre médecin au
+préalable, pour voir avec lui si une consultation physique est requise.\
+ 
 
 
 
@@ -6762,23 +6741,21 @@ pour motif de santé à l’exception des soins et consultations pouvant
 
 
 
-Les professions de santé peuvent continuer à exercer en mettant en œuvre
-les mesures barrières en ce qui concerne toutes les interventions
-urgentes non reportables.
+Oui, pour les interventions urgentes et non reportables, et en
+s’assurant de bien  mettre en œuvre les mesures barrières.
 
 
 
 
 
-#### Je présente des symptômes du coronavirus. Puis je continuer malgré tout à pratiquer une activité physique ? {#je-présente-des-symptômes-du-coronavirus.-puis-je-continuer-malgré-tout-à-pratiquer-une-activité-physique .item-question}
+#### Je présente des symptômes du coronavirus. Puis-je continuer malgré tout à pratiquer une activité physique ? {#je-présente-des-symptômes-du-coronavirus.-puis-je-continuer-malgré-tout-à-pratiquer-une-activité-physique .item-question}
 
 
 
-Non, les infections virales ne sont pas compatibles avec un effort
-physique.  Vous pourriez développer une myocardite – inflammation du
-muscle cardiaque. Dans tous les cas, si vous ne savez pas si vous êtes
-porteur ou non du virus, évitez actuellement les efforts trop violents
-et ne dépassez pas une heure d’activité.
+Non, ce serait dangereux. Vous pourriez développer une myocardite –
+inflammation du muscle cardiaque. Dans tous les cas, si vous ne savez
+pas si vous êtes porteur ou non du virus, évitez actuellement les
+efforts trop violents et ne dépassez pas une heure d’activité.
 
 
 
@@ -6806,13 +6783,12 @@ probable que cette période soit prolongée.
 
 Oui, Une pratique minimale d’activités physiques dynamiques est
 recommandée, correspondant à 1 heure par jour pour les enfants et les
-adolescents, et à 30 minutes par jour pour les adultes. En complément,
-il est également recommandé de réaliser plusieurs fois par semaine des
-activités variées qui renforcent les muscles et améliorent la souplesse
-et l’équilibre. En parallèle, il est tout aussi important de réduire son
-temps passé en position assise ou allongée, et de rompre les périodes
-prolongées passées en position assise par quelques minutes de marche et
-d’étirements au minimum toutes les 2 heures. \
+adolescents, et à 30 minutes par jour pour les adultes. Il est également
+recommandé de réaliser plusieurs fois par semaine des activités qui
+renforcent les muscles et améliorent la souplesse et l’équilibre. En
+parallèle, il est aussi important de réduire le temps passé en position
+assise ou allongée Il est recommandé de faire quelques minutes de marche
+et d’étirements au minimum toutes les 2 heures.\
 \
 Pour en savoir plus :
 [http://www.sports.gouv.fr/accueil-du-site/actualites/article/avec-le-ministere-des-sports-faire-du-sport-chez-soi-c-est-facile](http://www.sports.gouv.fr/accueil-du-site/actualites/article/coronavirus-covid-19-avec-le-ministere-des-sports-faire-du-sport-chez-soi-c-est)
@@ -6825,14 +6801,16 @@ Pour en savoir plus :
 
 
 
-Pour les enfants, la priorité est le développement de la coordination,
-de la motricité fine en mobilisant les qualités de vitesse, donc
-inventez des petits parcours de 2 à 5 min avec des obstacles (pour
-sauter sur 1 pied, sur l’autre / tourner dans un sens et dans l’autre –
-se coucher – ramper – se relever, puis lancer une balle – ou une pomme ?
-– d’une main à l’autre etc …) c’est ludique ! Vous pouvez également
-adapter les jeux traditionnels qui se pratiquent habituellement dans la
-cours de récréation : le saut à l’élastique, chat perché, la marelle…
+La priorité est le développement de la coordination, de la motricité
+fine en mobilisant les qualités de vitesse. Inventez des petits parcours
+de 2 à 5 min avec des obstacles (pour sauter sur 1 pied, sur l’autre /
+tourner dans un sens et dans l’autre – se coucher – ramper – se relever,
+puis lancer une balle – ou une pomme ? – d’une main à l’autre etc …)
+c’est ludique !\
+\
+Vous pouvez également adapter les jeux traditionnels qui se pratiquent
+habituellement dans la cours de récréation : le saut à l’élastique, chat
+perché, la marelle…
 
 
 
@@ -6842,28 +6820,22 @@ cours de récréation : le saut à l’élastique, chat perché, la marelle…
 
 
 
-Oui pour certains selon la nature du handicap et les traitements
-associés.
+Oui pour certains. Tout dépend de la nature du handicap et des
+traitements associés.\
+ 
 
 
 
 
 
-#### Je veux inviter des amis chez moi pour regarder à la télévision la rediffusion d’un match de football/d’un événement sportif. Est-ce possible ? {#je-veux-inviter-des-amis-chez-moi-pour-regarder-à-la-télévision-la-rediffusion-dun-match-de-footballdun-événement-sportif.-est-ce-possible .item-question}
+#### Puis-je inviter des amis chez moi pour regarder un match de football ou autre événement sportif ? {#puis-je-inviter-des-amis-chez-moi-pour-regarder-un-match-de-football-ou-autre-événement-sportif .item-question}
 
 
 
-Il n’est pas possible d’inviter des personnes à son domicile pour suivre
-la diffusion d’un évènement sportif dans la mesure où le décret n°
-2020-293 du 23 mars 2020 prescrivant les mesures générales nécessaires
-pour faire face à l'épidémie de covid-19 dans le cadre de l'état
-d'urgence sanitaire interdit en son article 3 tout déplacement de
-personne hors du domicile à l'exception des déplacements pour des motifs
-dérogatoires exhaustivement listés. Or, ces motifs ne recouvrent pas les
-déplacements pour se rendre à des invitations d’amis.\
+Non. Pour limiter la propagation du virus il est indispensable  d’éviter
+au maximum les contacts.\
 \
-La priorité est au confinement à domicile afin de limiter la propagation
-du virus et donc d’éviter au maximum les contacts.
+ 
 
 
 
@@ -6883,12 +6855,22 @@ du virus et donc d’éviter au maximum les contacts.
 
 
 
-Les visites aux personnes fragiles et âgées à domicile comme dans les
-établissements médico-sociaux sont suspendues. En revanche, les services
-de soins et d’accompagnement à domicile continuent à intervenir auprès
-des plus fragiles lorsque cela est nécessaire ; ils doivent néanmoins
-appliquer les gestes barrières avec une attention extrême, et une
-filière d’approvisionnement en masques leur est dédiée.
+Non : les visites aux personnes fragiles et âgées à domicile comme dans
+les établissements médico-sociaux sont suspendues.\
+\
+En revanche,
+
+-   les services de soins et d’accompagnement à domicile continuent à
+    intervenir auprès des plus fragiles lorsque cela est nécessaire et
+    une filière d’approvisionnement en masques leur est dédiée ;
+-   il est possible de rendre visite à un parent âgé et vulnérable, qui
+    ne pourrait subvenir à ses besoins sans aide à domicile.
+
+\
+Rappelez-vous que les seniors sont les personnes les plus vulnérables et
+qu’il faut les protéger le plus possible de tout contact proche. Portez
+donc une attention encore renforcée aux gestes barrières.\
+ 
 
 
 
@@ -6908,16 +6890,20 @@ attention encore renforcée aux gestes barrières.
 
 
 
-#### Je suis une personne âgée {#je-suis-une-personne-âgée .item-question}
+#### Je suis une personne âgée, quelles précautions dois-je prendre ? {#je-suis-une-personne-âgée-quelles-précautions-dois-je-prendre .item-question}
 
 
 
--   Je respecte strictement les gestes barrières
--   Exposée à des risques de forme grave ou de complication du COVID 19,
-    je réduis mes sorties et mes déplacements au strict minimum. 
--   Si j’ai des symptômes grippaux simples, je contacte mon médecin
+-    Je respecte strictement les gestes barrières ;
+-    exposée à des risques de forme grave ou de complication du COVID
+    19, je réduis mes sorties et mes déplacements au strict minimum ;.
+-   si j’ai des symptômes grippaux simples, je contacte mon médecin
     généraliste. Si j’ai une mauvaise tolérance (difficultés
     respiratoires, malaise, je contacte le SAMU Centre-15.
+
+\
+\
+ 
 
 
 
@@ -6927,49 +6913,45 @@ attention encore renforcée aux gestes barrières.
 
 
 
-Les personnes âgées constituent un public fragile et vulnérable face au
-virus.\
-\
-Le dispositif de protection à mettre en place par tous pour protéger les
-résidents et limiter la contamination est le suivant : 
-
+Pour protéger les personnes âgées, public fragile et vulnérable face au
+virus, il a été décidé de prendre plusieurs mesures au fil de
+l’aggravation de l’épidémie  :
 -   Renforcement des gestes barrières (lavage des mains réguliers) pour
-    ralentir la progression de l’épidémie.
+    ralentir la progression de l’épidémie ;détection très rapide de tout
+    cas suspects et isolement de la personne en attendant confirmation ;
+-    suspension des visites extérieures en EHPAD et en unité de soins de
+    longue durée, visites déconseillées dans les résidences autonomes.
+    Des exceptions pourront être décidées par le directeur pour des
+    situations exceptionnelles ;
+-   tests systématiques en cas de cas avérés en EHPAD et tests des
+    personnels soignants renforcés.
 
 \
-Les professionnels des EHPAD sont également mobilisés afin de modifier
-les habitudes au sein de ces structures.\
+Retour sur la chronologie des mesures :\
 \
-Cela comprend notamment :
-
--   La détection très rapide de tout cas suspects et isolement de la
-    personne en attendant confirmation.
-
+**Le 11 mars 2020**, le ministre des Solidarités et de la Santé a
+annoncé la suspension de l’intégralité des visites extérieures en EHPAD
+et en unité de soins longue durée. Dans les résidences autonomie, les
+visites sont fortement déconseillées. Des exceptions pourront être
+décidées par le directeur pour des situations exceptionnelles. Ces
+restrictions devront durer tant que la situation sanitaire l’exige, et
+seront accompagnées de mesures pour rendre cette situation plus simple
+pour les personnes âgées et leur proche (par exemple, par la mise en
+place de visioconférences).\
 \
-Le 11 mars 2020, le ministre des Solidarités et de la Santé a annoncé la
-suspension de l’intégralité des visites extérieures en EHPAD et en unité
-de soins longue durée. Dans les résidences autonomie, les visites sont
-fortement déconseillées. Des exceptions pourront être décidées par le
-directeur pour des situations exceptionnelles. Ces restrictions devront
-durer tant que la situation sanitaire l’exige, et seront accompagnées de
-mesures pour rendre cette situation plus simple pour les personnes âgées
-et leur proche (par exemple, par la mise en place de visioconférences).\
-\
-Samedi 28 mars, le Premier ministre et le ministre des Solidarités et de
-la Santé ont appelé à un renforcement supplémentaire des mesures de
-protection au sein des établissements hébergeant des personnes âgées
-(Ehpad, Ulsd, résidences autonomies, résidences services) : \
-\
+**Samedi 28 mars**, le Premier ministre et le ministre des Solidarités
+et de la Santé ont appelé à un renforcement supplémentaire des mesures
+de protection au sein des établissements hébergeant des personnes âgées
+(Ehpad, Ulsd, résidences autonomies, résidences services) :\
 - à travers une limitation des déplacements au sein des établissements
 pouvant aller jusqu'au confinement en chambre, sur appréciation de la
 situation par l'équipe de direction et les soignants, couplée avec des
 mesures d'hygiène drastiques pour éviter l'entrée du virus dans les
-établissements, \
-\
+établissements\
 - parmi ces mesures renforcées figurera une politique de tests renforcée
 des personnels des établissements.\
 \
-Le lundi 6 avril 2020, le ministre des Solidarités et de la Santé a
+**Le 6 avril 2020**, le ministre des Solidarités et de la Santé a
 annoncé que les capacités de tests par PCR sont en train de doubler,
 permettant ainsi de lancer une vaste opération de dépistage des
 personnes les plus vulnérables, en mettant la priorité sur les personnes
@@ -7120,17 +7102,14 @@ COVID-19, mais ne nécessitant pas d’hospitalisation. D’autres
 
 
 
-Au regard des mesures limitant les déplacements et le regroupement des
-personnes afin de lutter contre la crise sanitaire, la célébration des
-mariages et l'enregistrement des PACS doivent en principe être
-reportés. 
-
-Il peut toutefois être fait exception à cette règle pour des motifs
-justifiant qu'il y a urgence à l'établissement du lien matrimonial ou du
-partenariat (par exemple, mariage in extremis ou mariage d'un militaire
-avant son départ sur un théâtre d'opérations). Les officiers de l'état
-civil doivent préalablement solliciter les instructions du procureur de
-la République.
+La célébration des mariages et l'enregistrement des PACS doivent en
+principe être reportés.\
+\
+Sauf s’il y a urgence à établir un lien matrimonial ou un partenariat
+(par exemple, mariage in extremis ou mariage d'un militaire avant son
+départ sur un théâtre d'opérations). Les officiers de l'état-civil
+doivent d’abord solliciter le procureur de la République.\
+ 
 
 
 
@@ -7140,9 +7119,12 @@ la République.
 
 
 
-Il s’agit d’autoriser des déplacements dont la nécessité ne saurait être
-remise en cause (blessure d’un proche, accompagnement d’une personne
-vulnérable ou non autonome, décès d’un membre de la famille proche.)
+\
+\
+Un déplacement dont la nécessité ne saurait être remis en cause :
+(blessure d’un proche, accompagnement d’une personne vulnérable ou non
+autonome, décès d’un membre de la famille proche.\
+ 
 
 
 
@@ -7152,46 +7134,46 @@ vulnérable ou non autonome, décès d’un membre de la famille proche.)
 
 
 
-L'organisation des cérémonies funéraires demeure possible mais dans la
-stricte limite du cercle des intimes, donc en nombre très réduit et en
-observant scrupuleusement les gestes barrières. 
-
-Seuls les membres proches de la famille (20 personnes au maximum) ainsi
-que les desservants de rites funéraires pourront donc faire l'objet
-d'une dérogation aux mesures de confinement fondée sur des "motifs
-familiaux impérieux".\
+Oui, seulement si vous êtes un membre proches de la famille et que vous
+êtes au total (20 participants à la cérémonie au maximum.Vous devez
+alors remplir l’attestation de déplacement dérogatoire, et cocher la
+case "Déplacements pour motif familial impérieux".\
 \
-Si l’enterrement a lieu dans une autre région, vous pouvez tout de même
-vous y rendre. Il s'agit d'un déplacement pour motif familial
-impérieux.\
+Dans ce cadre, vous pouvez vous rendre à l’enterrement, même s’il a lieu
+dans une autre région que celle où vous êtes confiné.\
  
 
 
 
 
 
-#### Est-il autorisé d'aller se recueillir sur la tombe d'un défunt ? {#est-il-autorisé-daller-se-recueillir-sur-la-tombe-dun-défunt .item-question}
+#### Peut-on aller se recueillir sur la tombe d'un défunt ? {#peut-on-aller-se-recueillir-sur-la-tombe-dun-défunt .item-question}
 
 
 
-S’il ne s’agit pas d’un enterrement, pour se rendre sur la tombe d’un
-défunt déjà inhumé, Il faudra attendre la fin de la période de
-confinement, sauf si celle-ci se situe dans le rayon d’un kilomètre
-autour du domicile.
+Hélas, s’il ne s’agit pas d’un enterrement, vous devez attendre la fin
+de la période de confinement. Sauf si le cimetière se situe dans un
+rayon d’un kilomètre autour du domicile, auquel cas vous devez pour vous
+y rendre remplir l’attestation de déplacement dérogatoire et cocher la
+case “Déplacements bref, dans la limite d’une heure quotidienne”.\
+ 
 
 
 
 
 
-#### A l’occasion du décès d’un proche, on me dit que ses effets personnels doivent être brûlés. Quelles sont les consignes pour l’inhumation ? {#a-loccasion-du-décès-dun-proche-on-me-dit-que-ses-effets-personnels-doivent-être-brûlés.-quelles-sont-les-consignes-pour-linhumation .item-question}
+#### Quelles sont les consignes à respecter pour l’inhumation et pour les effets personnels du défunt ? {#quelles-sont-les-consignes-à-respecter-pour-linhumation-et-pour-les-effets-personnels-du-défunt .item-question}
 
 
 
-Selon l’avis du Haut Conseil de Santé Publique du 24 mars, les effets
-personnels d’une personne COVID-19 décédée doivent être lavés à plus de
-60°C pendant au moins 30 minutes ou désinfectés (dans le cas des
-bijoux). Si le lavage n’est pas possible, ils sont mis dans un sac
-plastique fermé pendant 10 jours.
+La toilette et l'habillage du défunt doivent être pratiqués avec une
+protection adaptée.\
+\
+Les effets personnels d’une personne victime du COVID-19 décédée doivent
+être lavés à plus de 60°C pendant au moins 30 minutes ou désinfectés
+(dans le cas des bijoux). Si le lavage n’est pas possible, ils sont mis
+dans un sac plastique fermé pendant 10 jours.\
+ 
 
 
 
@@ -7201,29 +7183,11 @@ plastique fermé pendant 10 jours.
 
 
 
-Non. Selon l’avis du Haut Conseil de la Santé Publique, il est tout à
-fait possible d’enterrer une personne décédée, sans incinération. La
-mise en bière nécessite toutefois des précautions particulières dites
-“gouttelettes”. Les effets personnels d’une personne COVID-19 décédée
-peuvent être lavés à plus de 60°C pendant au moins 30 minutes ou
-désinfectés - dans le cas des bijoux. Si le lavage ou la désinfection ne
-sont pas possibles, ils sont mis dans un sac plastique fermé pendant 10
-jours. Enfin, la toilette et l'habillage sont possibles avec une
-protection adaptée.
-
-
-
-
-
-#### Les donneurs d’organes décédés suite au COVID-19 sont-ils éligibles au don ? {#les-donneurs-dorganes-décédés-suite-au-covid-19-sont-ils-éligibles-au-don .item-question}
-
-
-
-Le don d’organe n’est pas possible suite à un décès secondaire au
-COVID-19. Selon l’avis du Haut Conseil de la Santé Publique, en cas de
-donneur ayant présenté une infection, le prélèvement n’est possible qu’à
-partir 28 jours après résolution des symptômes, car il existe un risque
-de présence résiduelle du virus dans le sang.
+Non. Il est tout à fait possible d’enterrer une personne décédée, sans
+incinération. La mise en bière nécessite toutefois des précautions
+particulières.\
+\
+ 
 
 
 
@@ -7234,8 +7198,35 @@ de présence résiduelle du virus dans le sang.
 
 
 Oui. Les bijoux d’une personne décédée suite au COVID-19 doivent
-cependant, après avoir été ôté du défunt, être désinfectés avec un
-désinfectant approprié ou de l’alcool à 70.
+cependant, après avoir été ôtés du défunt, être désinfectés avec un
+désinfectant approprié ou de l’alcool à 70°.\
+\
+ 
+
+
+
+
+
+#### Les donneurs d’organes décédés suite au COVID-19 sont-ils éligibles au don ? {#les-donneurs-dorganes-décédés-suite-au-covid-19-sont-ils-éligibles-au-don .item-question}
+
+
+
+Non.
+
+
+
+
+
+#### J’ai été infecté par le COVID-19, puis-je faire un don d’organe ou de sang ? {#jai-été-infecté-par-le-covid-19-puis-je-faire-un-don-dorgane-ou-de-sang .item-question}
+
+
+
+Oui, mais le prélèvement ne sera possible qu’à partir de 28 jours après
+la résolution des symptômes, car il existe un risque de présence
+résiduelle du virus.\
+\
+\
+ 
 
 
 
@@ -7245,8 +7236,9 @@ désinfectant approprié ou de l’alcool à 70.
 
 
 
-Les ministres des cultes ont le droit de se rendre au chevet des
-personnes malades ou en fin de vie.
+Oui.\
+\
+ 
 
 
 
@@ -7256,11 +7248,12 @@ personnes malades ou en fin de vie.
 
 
 
-Oui, les lieux de culte ont été autorisés à rester ouverts, mais ils ne
-peuvent accueillir de réunions de fidèles ; seule la célébration
-d’obsèques peut donner lieu à l’accueil de la famille proche, dans la
-limite d’un total de 20 personnes et dans le respect des gestes et
-distance barrières.
+Oui, mais il ne peut pas accueillir de réunions de fidèles. Seule la
+célébration d’obsèques peut donner lieu à l’accueil de la famille
+proche, dans la limite de 20 personnes et ce dans le respect des gestes
+et distance barrières.\
+\
+ 
 
 
 
