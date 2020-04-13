@@ -7581,21 +7581,13 @@ d’indiquer plusieurs motifs.
 
 
 
-#### Qu’est-ce que le dispositif de création numérique de l’attestation de déplacement dérogatoire ? {#quest-ce-que-le-dispositif-de-création-numérique-de-lattestation-de-déplacement-dérogatoire .item-question}
+#### L’attestation de déplacement dérogatoire peut-elle se faire en numérique, plutôt que sur papier ? {#lattestation-de-déplacement-dérogatoire-peut-elle-se-faire-en-numérique-plutôt-que-sur-papier .item-question}
 
 
 
-Le ministère de l’Intérieur met désormais à la disposition des citoyens
-un dispositif de création numérique de l'attestation de déplacement
-dérogatoire, en complément du dispositif "papier" toujours valide. Ce
-service est accessible en ligne, depuis le lundi 6 avril, sur le site du
-ministère de l’Intérieur.\
-\
-Ses objectifs sont de fournir aux concitoyens une nouvelle capacité de
-production de l’attestation simple et sûre, ainsi que de sécuriser le
-contrôle pour les forces de l’ordre, au moyen d’une capacité de lecture
-à distance des informations figurant sur le document par lecture d’un QR
-Code.
+Oui. Vous pouvez créer votre attestation de déplacement dérogatoire en
+ligne sur le site du ministère de l’Intérieur :
+<https://www.interieur.gouv.fr/Actualites/L-actu-du-Ministere/Attestation-de-deplacement-et-de-voyage>
 
 
 
@@ -7605,7 +7597,7 @@ Code.
 
 
 
-Oui. Les attestations papier sont toujours valables.
+Oui.
 
 
 
@@ -7616,16 +7608,16 @@ Oui. Les attestations papier sont toujours valables.
 
 
 Il suffit de remplir un formulaire en ligne, disponible sur le site
-internet du ministère de l’Intérieur. Il faut renseigner notamment les
-informations relatives à son identité et à son adresse, indiquer le
-motif de sa sortie, ainsi que la date et heure de sortie souhaitée. Un
-fichier PDF comprenant l’ensemble des informations et à l’image de la
-version papier est alors généré. Ce document comporte automatiquement un
-QR Code comprenant l’ensemble des données du formulaire, ainsi que la
-date et l’heure de génération du document.\
-\
+internet du ministère de l’Intérieur.\
+ 
+-   renseignez les informations relatives à votre identité et adresse,
+    et indiquez le motif de sa sortie
+-   un fichier PDF est alors généré. Ce document comporte un QR Code
+    comprenant l’ensemble des données du formulaire, ainsi que la date
+    et l’heure de génération du document.
+
 Ce fichier doit être présenté sous forme numérique lors d’un contrôle,
-grâce à son smartphone ou à sa tablette numérique.
+grâce à votre smartphone ou votre tablette numérique.
 
 
 
@@ -7635,16 +7627,14 @@ grâce à son smartphone ou à sa tablette numérique.
 
 
 
-Ce service n’est pas un traitement de données personnelles. C’est une
-traduction fidèle du dispositif déclaratif au format papier : aucune
-donnée saisie n’est transmise aux serveurs du Gouvernement. Les données
-saisies servent uniquement à générer localement l'attestation sous forme
-numérique. Aucune donnée personnelle n'est collectée et aucun fichier
-n'est constitué.\
+Aucune donnée saisie n’est transmise aux serveurs du Gouvernement. Les
+données saisies servent uniquement à générer localement l'attestation
+sous forme numérique. Aucune donnée personnelle n'est collectée et aucun
+fichier n'est constitué.\
 \
 Le QR Code généré facilite le contrôle des attestations en permettant
 aux forces de sécurité d’obtenir les informations du document par une
-lecture à une distance de ce QR Code.
+lecture à une distance conforme aux gestes barrière.
 
 
 
@@ -7654,8 +7644,7 @@ lecture à une distance de ce QR Code.
 
 
 
-Ce service est accessible sur tout type de terminal mobile (smartphone
-ou tablette) au travers d’un navigateur.
+Oui.
 
 
 
@@ -7665,23 +7654,19 @@ ou tablette) au travers d’un navigateur.
 
 
 
-Un formulaire en ligne a été préféré à la création d’une application
-disponible sur les magasins d’applications mobiles. La solution du
-formulaire est en effet parue plus simple à utiliser pour le plus grand
+Le formulaire en ligne est plus simple à utiliser pour le plus grand
 nombre et permet de faciliter les éventuelles mises à jour au cas où
-l’attestation viendrait à évoluer.
+l’attestation viendrait à évoluer
 
 
 
 
 
-#### L’attestation implique qu’on doive toujours sortir avec une pièce d’identité ? {#lattestation-implique-quon-doive-toujours-sortir-avec-une-pièce-didentité .item-question}
+#### Dois-je toujours sortir avec une pièce d’identité ? {#dois-je-toujours-sortir-avec-une-pièce-didentité .item-question}
 
 
 
-Il est obligatoire de disposer de sa pièce d’identité pendant les
-déplacements afin que les contrôles puissent être réalisés par les
-forces de l’ordre.
+Oui, c’est obligatoire, comme en temps normal.
 
 
 
@@ -7691,11 +7676,8 @@ forces de l’ordre.
 
 
 
-Cela ne fait pas partie des motifs de déplacement, sauf si cette
-personne est dépendante ou vulnérable et a un besoin impératif
-d’assistance. Il convient toutefois de faire preuve de responsabilité
-pour protéger les personnes vulnérables en limitant au maximum les
-visites et en respectant scrupuleusement les gestes barrières.
+Non, sauf si cette personne est dépendante ou vulnérable et a un besoin
+impératif d’assistance.
 
 
 
@@ -7705,9 +7687,9 @@ visites et en respectant scrupuleusement les gestes barrières.
 
 
 
-Non, l’attestation dérogatoire de déplacement est nominative. Chacun
-doit remplir une attestation différente, en indiquant le motif et la
-date de sortie. Chacun doit disposer également de son titre d’identité.
+Non, chacun doit remplir une attestation différente, en indiquant le
+motif et la date de sortie. Chacun doit disposer également de sa pièce
+d’identité.
 
 
 
@@ -7717,7 +7699,7 @@ date de sortie. Chacun doit disposer également de son titre d’identité.
 
 
 
-Les enseignants qui accueillent des enfants de soignants n’ont pas
+Non. Les enseignants qui accueillent des enfants de soignants n’ont pas
 besoin de justificatif complémentaire.
 
 
@@ -7728,11 +7710,10 @@ besoin de justificatif complémentaire.
 
 
 
-Les personnes illettrées peuvent faire appel à un proche, un voisin ou
-une connaissance. Au besoin, elles peuvent se rendre dans le
-commissariat ou la brigade de gendarmerie la plus proche de leur
-domicile pour être accompagnées dans la rédaction de leur attestation de
-déplacement dérogatoire.
+Elles peuvent faire appel à un proche, un voisin ou une connaissance. Au
+besoin, elles peuvent se rendre dans le commissariat ou la brigade de
+gendarmerie la plus proche de leur domicile pour être accompagnées dans
+la rédaction de leur attestation de déplacement dérogatoire.
 
 
 
@@ -7758,10 +7739,10 @@ journalistes peut être utilisée pour se rendre sur son lieu de travail.
 L’employeur doit renseigner et signer une attestation dédiée, différente
 de l’attestation de déplacement dérogatoire. Il s’agit d’un document
 papier renseigné et signé par l’employeur attestant qu’une personne
-exerce une profession entrant dans la catégorie des professions
-autorisées à se déplacer et ne pouvant exercer en télétravail. Cette
-attestation doit être utilisée lors des déplacements domicile travail et
-doit être présentée aux forces de l’ordre sur demande.
+exerce une profession entrant dans une catégorie autorisée à se déplacer
+et ne pouvant exercer en télétravail. Cette attestation doit être
+utilisée lors des déplacements domicile-travail et doit être présentée
+aux forces de l’ordre sur demande.
 
 
 
@@ -7783,26 +7764,24 @@ exercez.
 
 
 
-Dans le contexte de l’état d’urgence sanitaire en France, des
-restrictions d’accès à la France métropolitaine et aux collectivités
-d’Outre-Mer ont été mises en place. Depuis le 8 avril 2020 à 0h00, tout
-voyageur est tenu de compléter et d’avoir sur soi une attestation
-correspondant à sa situation, parmi les trois cas suivants : 
+Oui. Tout voyageur est tenu de compléter et d’avoir sur lui une
+attestation correspondant à sa situation, parmi les trois cas suivants
+: \
+ 
 -   pour un déplacement dérogatoire de la France métropolitaine vers
     l’Outre-mer ;
--    pour un voyage international depuis l’étranger vers la France
+-   pour un voyage international depuis l’étranger vers la France
     métropolitaine ; 
 -   pour un voyage international depuis l’étranger vers une collectivité
     d’Outre-mer. 
 
-\
 Le document doit indiquer le motif du déplacement. Il doit être présenté
 aux transporteurs avant l’embarquement ainsi que lors des contrôles
 d’arrivée.\
 \
 Les documents sont téléchargeables sur le site du ministère de
-l'Intérieur :
-<https://www.interieur.gouv.fr/Actualites/L-actu-du-Ministere/Attestation-de-deplacement-et-de-voyage>
+l'Intérieur
+:[https://www.interieur.gouv.fr/Actualites/L-actu-du-Ministere/Attestation-de-deplacement-et-de-voyage](http://www.interieur.gouv.fr/Actualites/L-actu-du-Ministere/Attestation-de-deplacement-et-de-voyage)
 
 
 
@@ -7863,13 +7842,17 @@ santé en cas d’augmentations brutale de la population, etc
 
 
 
-#### L’attestation de déplacement dérogatoire peut-elle se faire en numérique, plutôt que sur papier ? {#lattestation-de-déplacement-dérogatoire-peut-elle-se-faire-en-numérique-plutôt-que-sur-papier .item-question}
+#### Est ce qu'il y a une notion de distance pour les trajets ? {#est-ce-quil-y-a-une-notion-de-distance-pour-les-trajets .item-question}
 
 
 
-Oui. Vous pouvez créer votre attestation de déplacement dérogatoire en
-ligne sur le site du ministère de l’Intérieur :
-<https://www.interieur.gouv.fr/Actualites/L-actu-du-Ministere/Attestation-de-deplacement-et-de-voyage>
+Non, il n'y a pas de notion de distance pour porter assistance à une
+personne vulnérable. Il convient toutefois de faire preuve de
+responsabilité et de n'effectuer que les déplacements impératifs.\
+\
+Sur place, il faut protéger les personnes vulnérables en respectant
+scrupuleusement les gestes barrières et les distances entre les
+personnes.
 
 
 
