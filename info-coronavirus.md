@@ -7460,6 +7460,30 @@ dérogatoire
 
 
 
+Enfin d’empêcher les départs en vacances et si cela était nécessaire
+localement, il a été demandé aux préfets de prendre des arrêtés visant à
+interdire les locations de chambres d’hôtel dans le cadre de leur
+pouvoir de police spéciale et les locations saisonnières dans le cadre
+de leur pouvoir de police générale.\
+\
+Ce dispositif n’empêche bien entendu pas l’hébergement d’urgence des
+personnes précaires comme les SDF, ni celui des soignants qui luttent
+contre l’épidémie de COVID-19. Un certain nombre d’exception sont
+également prévues dans le cadre de locations à usage professionnel.\
+\
+Les arrêtés seront motivés localement sur la base des éléments suivants
+: taux de réservation important des locations saisonnières, conditions
+météorologiques propices, risque de saturation des établissements de
+santé en cas d’augmentations brutale de la population, etc
+
+
+
+
+
+#### Les locations de vacances sont-elles interdites ? {#les-locations-de-vacances-sont-elles-interdites-1 .item-question}
+
+
+
 Oui.
 
 
@@ -7787,61 +7811,6 @@ l'Intérieur
 
 
 
-#### Quand pourra-t-on voir les effets du confinement ? {#quand-pourra-t-on-voir-les-effets-du-confinement .item-question}
-
-
-
-Les premiers effets du confinement, sur le nombre de nouveaux cas,
-seront visibles une fois la période d’incubation maximale du virus
-passée, à partir de 14 jours au minimum.\
-\
-Il faudra ensuite quelques jours supplémentaires pour voir son effet sur
-les hospitalisations, car une fois l’incubation terminée, les sujets
-atteints peuvent ne développer des formes graves qu’au bout de quelques
-jours.
-
-
-
-
-
-#### Quel élément pourra déclencher la fin du confinement ? {#quel-élément-pourra-déclencher-la-fin-du-confinement .item-question}
-
-
-
-\
-Nous pourrons sortir du confinement une fois que la circulation du virus
-ne sera plus fortement active sur le territoire et que la situation
-pourra être contrôlée par des mesures plus ciblées. Une stratégie de
-test adaptée sera mise en œuvre pour cette phase post-épidémique.
-
-
-
-
-
-#### Les locations de vacances sont-elles interdites ? {#les-locations-de-vacances-sont-elles-interdites-1 .item-question}
-
-
-
-Enfin d’empêcher les départs en vacances et si cela était nécessaire
-localement, il a été demandé aux préfets de prendre des arrêtés visant à
-interdire les locations de chambres d’hôtel dans le cadre de leur
-pouvoir de police spéciale et les locations saisonnières dans le cadre
-de leur pouvoir de police générale.\
-\
-Ce dispositif n’empêche bien entendu pas l’hébergement d’urgence des
-personnes précaires comme les SDF, ni celui des soignants qui luttent
-contre l’épidémie de COVID-19. Un certain nombre d’exception sont
-également prévues dans le cadre de locations à usage professionnel.\
-\
-Les arrêtés seront motivés localement sur la base des éléments suivants
-: taux de réservation important des locations saisonnières, conditions
-météorologiques propices, risque de saturation des établissements de
-santé en cas d’augmentations brutale de la population, etc
-
-
-
-
-
 #### Est ce qu'il y a une notion de distance pour les trajets ? {#est-ce-quil-y-a-une-notion-de-distance-pour-les-trajets .item-question}
 
 
@@ -7853,6 +7822,36 @@ responsabilité et de n'effectuer que les déplacements impératifs.\
 Sur place, il faut protéger les personnes vulnérables en respectant
 scrupuleusement les gestes barrières et les distances entre les
 personnes.
+
+
+
+
+
+#### Quand pourra-t-on voir les effets du confinement ? {#quand-pourra-t-on-voir-les-effets-du-confinement .item-question}
+
+
+
+Les premiers effets du confinement, sur le nombre de nouveaux cas,
+seront visibles une fois la période d’incubation maximale du virus
+passée, à partir de 14 jours au minimum.\
+\
+Il faudra ensuite quelques jours supplémentaires pour voir son effet sur
+les hospitalisations, car même une fois l’incubation terminée, les
+personnes atteintes peuvent développer des formes graves
+
+
+
+
+
+#### Quel élément pourra déclencher la fin du confinement ? {#quel-élément-pourra-déclencher-la-fin-du-confinement .item-question}
+
+
+
+Nous pourrons sortir du confinement une fois que la circulation du virus
+ne sera plus fortement active sur le territoire et que la situation
+pourra être contrôlée par des mesures plus ciblées.\
+Une stratégie de test adaptée sera mise en œuvre pour cette phase
+post-épidémique.
 
 
 
@@ -7872,14 +7871,16 @@ personnes.
 
 
 
-Je respecte le confinement en restant chez moi et je limite mes
-déplacements au strict nécessaire (travail, course, rendez vous
-médicaux). J’applique les gestes barrières qui permettent de freiner
-l'épidémie : je me lave régulièrement les mains, je tousse et éternue
-dans mon coude, j’utilise des mouchoirs à usage unique et les jette
-immédiatement, je ne salue pas les autres par une poignée de main ou par
-une embrassade, je respecte une distance de 1 mètre avec toute autre
-personne.
+-   j’applique en permanence les gestes et comportements recommandés ;
+-   je respecte le confinement en restant chez moi et je limite mes
+    déplacements au strict nécessaire (travail, courses, rendez-vous
+    médicaux ;
+-   j’applique les gestes barrières qui permettent de freiner l’épidémie
+    : je me lave régulièrement les mains, je tousse et éternue dans mon
+    coude, j’utilise des mouchoirs à usage unique et les jette
+    immédiatement, je ne salue pas les autres par une poignée de main ou
+    par une embrassade, je respecte une distance de 1 mètre avec toute
+    autre personne
 
 
 
@@ -7889,12 +7890,12 @@ personne.
 
 
 
-Je reste à domicile, j’évite les contacts, j’appelle un médecin ou
-j’appelle le numéro de permanence de soins de ma région et ne me rends
-pas directement au cabinet, au laboratoire ou aux urgences. Je peux
-également bénéficier d’une téléconsultation. Si les symptômes
-s’aggravent avec des difficultés respiratoires j’appelle le SAMU- Centre
-15.
+-   je reste à domicile, j’évite les contacts, j’appelle un médecin ou
+    le numéro de permanence de soins de ma région ;
+-   je ne me rends pas directement au cabinet, au laboratoire ou aux
+    urgences. Je privilégie la téléconsultation ;
+-   si les symptômes s’aggravent avec des difficultés respiratoires
+    j’appelle le SAMU- Centre 15.
 
 
 
@@ -7904,14 +7905,16 @@ s’aggravent avec des difficultés respiratoires j’appelle le SAMU- Centre
 
 
 
- Je reste à mon domicile, je m’isole pendant que la personne vivant avec
-moi est malade, je respecte scrupuleusement les gestes barrières, je
-surveille ma température 2 fois par jour, je surveille l’apparition
-éventuelle de symptômes (toux, difficultés respiratoires, fièvre) et
-j’adopte le télétravail. Je suis avec rigueur les recommandations
-d’isolement à domicile avec un malade. Si des symptômes surviennent, je
-peux appeler mon médecin, mais je ne me déplace pas jusqu’à son cabinet,
-ni au laboratoire, ni aux urgences.
+Je suis avec rigueur les recommandations d’isolement à domicile avec un
+malade :
+
+-   je reste à mon domicile ;
+-   je m’isole pendant que la personne vivant avec moi est malade ;
+-   je respecte scrupuleusement les gestes barrières ;
+-   je surveille ma température 2 fois par jour ;
+-   je surveille l’apparition éventuelle de symptômes (toux, difficultés
+    respiratoires, fièvre) ;
+-   j’adopte le télétravail.
 
 
 
@@ -7921,12 +7924,15 @@ ni au laboratoire, ni aux urgences.
 
 
 
-Si c’est possible, j’assure la garde de mes enfants à mon domicile. Les
-établissements scolaires étant temporairement fermés pour freiner la
-propagation de l’épidémie, je garde mes enfants de moins de 16 ans à
-domicile, et j’évite de les confier à leurs grands-parents qui sont plus
-vulnérables face à l’épidémie. Une procédure simplifiée me permet de
-bénéficier d’un arrêt de travail indemnisé dans ce cadre.
+Les établissements scolaires étant temporairement fermés pour freiner la
+propagation de l’épidémie, si c’est possible, vous gardez vos enfants de
+moins de 16 ans à domicile. Vous évitez de les confier à leurs
+grands-parents qui sont plus vulnérables face à l’épidémie.\
+\
+Une procédure simplifiée vous permet de bénéficier d’un arrêt de travail
+indemnisé. Vous devez faire une déclaration sur l’honneur pour vous
+permettre d’en bénéficier :
+<https://code.travail.gouv.fr/modeles-de-courriers/attestation-sur-lhonneur-arret-de-travail-pour-la-garde-denfant>.
 
 
 
@@ -7936,15 +7942,17 @@ bénéficier d’un arrêt de travail indemnisé dans ce cadre.
 
 
 
-J’organise mon activité pour être en mesure d’accueillir ou de
+Vous organisez votre activité pour être en mesure d’accueillir ou de
 conseiller des patients symptomatiques du COVID-19, notamment avec des
-outils de télémédecine. La prise en charge ambulatoire des patients qui
-présentent des symptômes modérés a vocation à être organisée par les
-médecins habituels des patients. Cela implique, de la part des
-professionnels de santé concernés, d’organiser des circuits spécifiques
-ou de la téléconsultation pour la prise en charge des patients. Je me
-renseigne sur les recommandations en vigueur sur le site du ministère
-des Solidarités et de la Santé, et je suis les recommandations
+outils de télémédecine.\
+\
+La prise en charge ambulatoire des patients qui présentent des symptômes
+modérés a vocation à être organisée par les médecins habituels des
+patients. Cela implique d’organiser des circuits spécifiques ou de la
+téléconsultation pour la prise en charge des patients.\
+\
+Renseignez-vous sur les recommandations en vigueur sur le site du
+ministère des Solidarités et de la Santé, et suivez les recommandations
 sanitaires via le service DGS-Urgent.
 
 
@@ -7955,11 +7963,13 @@ sanitaires via le service DGS-Urgent.
 
 
 
-En lien avec les services de l’État, je veille à faire respecter les
+En lien avec les services de l’État, veillez à faire respecter les
 consignes de fermeture de l’ensemble des services non essentiels à la
 vie publique (cinémas, restaurants, bars…) et à limiter les
-rassemblements. Je diffuse régulièrement les gestes barrières et les
-recommandations du ministère des Solidarités et de la Santé.
+rassemblements.\
+\
+Diffusez régulièrement les gestes barrières et les recommandations du
+ministère des Solidarités et de la Santé.
 
 
 
@@ -7969,13 +7979,14 @@ recommandations du ministère des Solidarités et de la Santé.
 
 
 
-Je généralise le recours au télétravail dans mon entreprise et suspens
-toute réunion physique de personnes qui ne serait pas indispensable à la
-continuation de l’activité. J’informe tous mes salariés des bonnes
-pratiques et recommandations pour protéger la population. Si mon
-entreprise a des difficultés je contacte le 0 800 130 000.\
-\
-Pour plus d’informations, je consulte les [fiches conseils métiers pour
+-   Généralisez le recours au télétravail dans votre entreprise et
+    suspendez toute réunion physique de personnes qui ne serait pas
+    indispensable à la continuation de l’activité.
+-   Informez tous vos salariés des bonnes pratiques et recommandations
+    pour protéger la population. Si votre entreprise a des difficultés,
+    contactez le 0 800 130 000.
+
+Pour plus d’informations, consultez les [fiches conseils métiers pour
 les salariés et les employeurs éditées par le ministère du
 Travail](https://travail-emploi.gouv.fr/actualites/l-actualite-du-ministere/article/coronavirus-covid-19-fiches-conseils-metiers-pour-les-salaries-et-les).
 
@@ -7987,13 +7998,17 @@ Travail](https://travail-emploi.gouv.fr/actualites/l-actualite-du-ministere/arti
 
 
 
-Mon établissement est fermé à compter du 16 mars. Je consulte
-quotidiennement les informations que m’adressent mes professeurs. Je
-poursuis mon cursus au moyen des outils et supports numériques mis à ma
-disposition. Si je suis étudiant en santé et volontaire, je signale ma
-disponibilité à mon Université pour aider à la gestion de crise en appui
-aux équipes médicales mobilisées face à l’épidémie (exemple : appui aux
-centres 15 pour la gestion des appels téléphoniques).
+Votre établissement est fermé depuis le 16 mars.
+
+-   consultez quotidiennement les informations que vous adressent vos
+    professeurs ;
+-   poursuivez votre cursus au moyen des outils et supports numériques
+    mis à votre disposition.
+
+*Si vous êtes étudiant en santé et volontaire, signalez votre
+disponibilité à votre Université pour aider à la gestion de crise en
+appui aux équipes médicales mobilisées face à l’épidémie (exemple :
+appui aux centres 15 pour la gestion des appels téléphoniques).*
 
 
 
@@ -8003,15 +8018,18 @@ centres 15 pour la gestion des appels téléphoniques).
 
 
 
-En l’état actuel des connaissances, rien n’indique que ma grossesse
-m’expose particulièrement au coronavirus. J’applique les gestes et
-comportements qui permettent de freiner l’épidémie. Le Haut Conseil de
-la santé publique recommande cependant d’appliquer aux femmes enceintes,
-à partir du troisième trimestre de grossesse, les mesures préventives
-applicables aux personnes fragiles (par exemple : restriction voire
-interdiction des visites, contre-indication quant à l’usage des
-transports collectifs, limitation des contacts avec les enfants de moins
-de 10 ans).
+En l’état actuel des connaissances, rien n’indique que votre grossesse
+vous expose particulièrement au coronavirus.\
+\
+Appliquez les gestes et comportements qui permettent de freiner
+l’épidémie.\
+\
+Le Haut Conseil de la santé publique recommande cependant d’appliquer
+aux femmes enceintes, à partir du troisième trimestre de grossesse, les
+mesures préventives applicables aux personnes fragiles (par exemple :
+restriction voire interdiction des visites, contre-indication quant à
+l’usage des transports collectifs, limitation des contacts avec les
+enfants de moins de 10 ans).
 
 
 
@@ -8021,10 +8039,12 @@ de 10 ans).
 
 
 
-Je peux poursuivre mon activité professionnelle si je l’exerce à titre
-individuel. Je veille à éviter les contacts entre les enfants que je
-garde et les personnes fragiles (personnes âgées notamment).
-
+Vous pouvez poursuivre votre activité professionnelle si vous exercez à
+titre individuel.\
+\
+Évitez les contacts entre les enfants que vous gardez et les personnes
+fragiles (personnes âgées notamment).\
+\
 Pour les personnes en situation de handicap, des mesures ont été prises
 pour protéger les personnes, avec la mobilisation de l’ensemble de la
 solidarité nationale.
@@ -8048,47 +8068,56 @@ solidarité nationale.
 
 
 L’état d’urgence sanitaire est déclaré par décret en conseil des
-ministres. Par dérogation l’état d’urgence sanitaire est déclaré pour
-deux mois, au lieu d’un, à compter de l’entrée en vigueur de la loi (23
-mars 2020). L’état d’urgence peut être prolongé avec l’accord du
-parlement et du comité scientifiques réuni dans le même cadre. \
+ministres. Par dérogation il est déclaré pour deux mois, au lieu d’un, à
+compter de l’entrée en vigueur de la loi (23 mars 2020). L’état
+d’urgence peut être prolongé avec l’accord du parlement et du comité
+scientifique réuni dans le même cadre.\
 \
 L’état d’urgence sanitaire permet : 
 
--   De restreindre ou interdire la circulation des personnes et des
-    véhicules.
--   D’interdire aux personnes de sortir de leur domicile, sous réserve
+-   de restreindre ou interdire la circulation des personnes et des
+    véhicules ;
+-   d’interdire aux personnes de sortir de leur domicile, sous réserve
     des déplacements strictement indispensables aux besoins familiaux ou
-    de santé.
--   D’ordonner des mesures ayant pour objet la mise en quarantaine des
-    personnes susceptibles d’être infectées.
--   D’ordonner des mesures de placement et de maintien en isolement des
-    personnes infectées. 
+    de santé ;
+-   d’ordonner des mesures ayant pour objet la mise en quarantaine des
+    personnes susceptibles d’être infectées ;
+-   d’ordonner des mesures de placement et de maintien en isolement des
+    personnes infectées ;
 -   D’ordonner la fermeture provisoire d’une ou plusieurs catégories
     d’établissements recevant du public ainsi que des lieux de réunion,
     à l’exception des établissements fournissant des biens ou des
-    services de première nécessité.
--   De limiter ou interdire les rassemblements sur la voie publique
-    ainsi que les réunions de toute nature.
--   D’ordonner la réquisition de tous biens et services nécessaires à la
-    lutte contre la catastrophe sanitaire.
--   De prendre des mesures temporaires de contrôle des prix de certains
+    services de première nécessité ;
+-   de limiter ou interdire les rassemblements sur la voie publique
+    ainsi que les réunions de toute nature ;
+-   d’ordonner la réquisition de tous biens et services nécessaires à la
+    lutte contre la catastrophe sanitaire ;
+-   de prendre des mesures temporaires de contrôle des prix de certains
     produits rendues nécessaires pour prévenir ou corriger les tensions
     constatées sur le marché de ces produits. 
--   De prendre toute mesure permettant la mise à disposition des
+-   de prendre toute mesure permettant la mise à disposition des
     patients de médicaments appropriés pour l’éradication de la
-    catastrophe sanitaire.
--   De prendre par décret toute autre mesure réglementaire limitant la
+    catastrophe sanitaire ;
+-   de prendre par décret toute autre mesure réglementaire limitant la
     liberté d’entreprendre ;
 
 Les mesures prises en application de l’état d’urgence sanitaire peuvent
-faire l’objet de recours devant le juge administratif. Toute violation
-des interdictions ou obligations est punie d’une amende de 135 euros. En
-cas de récidive dans un délai de quinze jours, la contravention peut
-aller de 1 500 à 3 000 euros. Si les violations se répètent à plus de
-trois reprises dans un délai de trente jours, les faits sont punis de
-six mois d’emprisonnement et de 3 750 euros d’amende ainsi que d’une
-peine complémentaire de travail d’intérêt général.
+faire l’objet de recours devant le juge administratif.\
+\
+**Amendes**\
+\
+Toute violation des interdictions ou obligations est punie d’une amende
+de 135 euros.\
+\
+En cas de récidive dans un délai de quinze jours, la contravention peut
+aller de 1 500 à 3 000 euros.\
+\
+Si les violations se répètent à plus de trois reprises dans un délai de
+trente jours, les faits sont punis de six mois d’emprisonnement et de 3
+750 euros d’amende ainsi que d’une peine complémentaire de travail
+d’intérêt général.\
+\
+**Ordonnances**
 
 Dans le cadre de l’état d’urgence sanitaire 25 ordonnances ont été
 adoptées en conseil des ministres le 25 mars : 
@@ -8197,60 +8226,57 @@ complémentaires ont été adoptées en conseil des ministres le 1er avril
 
 
 
-**Le stade 1** prévoit de freiner l’introduction du virus sur le
+Le **stade 1** prévoit de freiner l’introduction du virus sur le
 territoire national. Il correspond à la mise en alerte du système de
 santé. Les autorités sanitaires sont mobilisées pour isoler les malades,
-détecter et identifier rapidement les cas contact, et prendre en charge
-les cas graves dans les établissements de santé habilités.
-
-Pour **le stade 2**, l’objectif des pouvoirs publics est de freiner la
+détecter et identifier rapidement les personnes avec lesquelles ils ont
+été en contact, et prendre en charge les cas graves dans les
+établissements de santé habilités.\
+\
+Pour le **stade 2**, l’objectif des pouvoirs publics est de freiner la
 propagation du virus sur le territoire et d’empêcher ou, tout du moins,
-de retarder aussi longtemps que possible le passage au stade 3.
-
+de retarder aussi longtemps que possible le passage au stade 3.\
+\
 **Stade 3** : Le virus circule largement dans la population.\
+\
 Le stade 3 ou stade épidémique correspond à une circulation active du
-virus. La stratégie repose alors sur l’atténuation des effets de
-l’épidémie. L’organisation prévoit la mobilisation complète du système
-sanitaire hospitalier et de ville, ainsi que les établissement
-médico-sociaux pour protéger les populations fragiles, assurer la prise
-en charge des patients sans gravité en ville, et des patients avec
-signes de gravité en établissement de soins. Les activités collectives
-sont fortement impactées. Nous sommes actuellement en stade 3. 
-
+virus. La stratégie vise alors à atténuer les effets de l’épidémie.
+L’organisation prévoit la mobilisation complète du système sanitaire
+hospitalier et de ville, ainsi que les établissement médico-sociaux pour
+protéger les populations fragiles, assurer la prise en charge des
+patients sans gravité en ville, et des patients avec signes de gravité
+en établissement de soins. Les activités collectives sont fortement
+impactées.\
+\
+**Nous sommes actuellement en stade 3.**\
+\
 **Stade 4** : Fin de l’épidémie. Retour à la normale
 
 
 
 
 
-#### Qu’est-ce que le centre de crise du ministère de l’Intérieur ? {#quest-ce-que-le-centre-de-crise-du-ministère-de-lintérieur .item-question}
+#### Qu’est-ce que le centre de crise du ministère de l’Intérieur ? Et la cellule interministérielle de crise ? {#quest-ce-que-le-centre-de-crise-du-ministère-de-lintérieur-et-la-cellule-interministérielle-de-crise .item-question}
 
 
 
-Le centre de crise de Beauvau est un outil de gestion des crises, placé
-au ministère de l’Intérieur, qui peut accueillir la cellule
-interministérielle de crise.
+Le centre de crise est un lieu situé au ministère de l’Intérieur qui
+peut accueillir la cellule interministérielle de crise. Cette cellule
+interministérielle est activée dès que la pays est confronté à un
+événement urgent qui nécessite la collaboration de plusieurs
+ministères.\
+\
+Elle est progressivement montée en puissance. Elle a d’abord été placée
+dans les locaux du ministre des Solidarités et de la Santé, puis a
+évolué:
 
+-   le pilotage des aspects sanitaires de la crise reste assuré par le
+    ministère des Solidarités et de la Santé ;
+-   le pilotage des autres aspects est assuré depuis le centre de crise
+    du ministère de l’Intérieur.
 
-
-
-
-#### Pourquoi avoir activé le centre de crise du ministère de l’intérieur ? {#pourquoi-avoir-activé-le-centre-de-crise-du-ministère-de-lintérieur .item-question}
-
-
-
-Depuis le début de l’épidémie, une organisation interministérielle de
-crise est progressivement montée en puissance. Elle a été placée auprès
-du ministre des solidarités et de la santé, dans les locaux de ce
-ministère.
-
-La mise en place du confinement a conduit le Premier ministre à faire
-évoluer cette organisation : le pilotage des aspects sanitaires de la
-crise reste assuré par le ministère des Solidarités et de la Santé ; le
-pilotage des autres aspects est assuré depuis le centre de crise du
-ministère de l’intérieur. La coordination entre les deux sites est
-naturellement assurée de façon permanente, et une communication
-quotidienne conjointe sera assurée.
+La coordination entre les deux est naturellement assurée de façon
+permanente.
 
 
 
@@ -8260,21 +8286,21 @@ quotidienne conjointe sera assurée.
 
 
 
-Le suivi de l’épidémie est réalisée grâce :
--   Aux nombres de cas testés et positifs
--   A la surveillance hospitalière via le nombre d’admission dans plus
-    de 800 établissements de santé en prenant compte du nombre de
-    passages aux urgences, du nombre de cas en soins intensifs et en
-    réanimation, du nombre de patients guéris et du nombre de décès en
-    milieu hospitalier.
--   Au travail d’enquête de santé publique France auprès des médecins de
+Le suivi de l’épidémie est réalisée grâce :\
+ 
+-   aux nombres de cas testés et positifs ;
+-   à la surveillance hospitalière, via le nombre d’admission dans plus
+    de 800 établissements de santé en prenant en compte le nombre de
+    passages aux urgences, le nombre de cas en soins intensifs et en
+    réanimation, le nombre de patients guéris et le nombre de décès en
+    milieu hospitalier ;
+-   au travail d’enquête de Santé publique France auprès des médecins de
     ville, du réseau SOS médecins, des tests réalisés en laboratoires de
     ville.
 
-\
-Vous trouverez
-[ici](https://www.gouvernement.fr/info-coronavirus/carte-et-donnees), un
-tableau de bord complet de suivi de l’épidémie.
+Cliquez
+[ici](https://www.gouvernement.fr/info-coronavirus/carte-et-donnees)pour
+accéder au tableau de bord complet de suivi de l’épidémie.
 
 
 
@@ -8289,7 +8315,7 @@ Notre stratégie pour lutter contre le virus est double : 
     nombre de personnes en réanimation, grâce au respect du confinement
     et des gestes barrières.
 -   Augmenter la capacité d’admission dans les services de réanimation
-    par une mobilisation massive des moyens de l’Etat.
+    grâce à une mobilisation massive des moyens de l’Etat.
 
 
 
@@ -8299,37 +8325,35 @@ Notre stratégie pour lutter contre le virus est double : 
 
 
 
- L'ensemble du système de santé est mobilisé et mis à l'épreuve dans
-cette épidémie. Plus particulièrement, les hôpitaux font d'immenses
-efforts pour augmenter leurs capacités d'accueil.\
+L'ensemble du système de santé est mobilisé et mis à l'épreuve dans
+cette épidémie.\
 \
-Le nombre de lits en réanimation est passée de 5000 lits au début de la
-crise, à 10000 lits aujourd’hui pour atteindre l’objectif de 14 000 à 14
-500 lits.\
+En particulier, les hôpitaux font d'immenses efforts pour augmenter
+leurs capacités d'accueil.\
+Le nombre de lits en réanimation est passé de 5000 au début de la crise,
+à 10 000 aujourd’hui. L’objectif est d’atteindre de 14 000 à 14 500
+lits.\
 \
-Ce renforcement de l’accueil des hôpitaux implique des moyens matériels
-et humains supplémentaires. \
-\
-En ce sens la France a passé une commande de plus de 1 000 respirateurs
-nécessaires aux patients hospitalisés en réanimation. 10 00 respirateurs
-supplémentaires seront produits par un consortium industriel français
-d’ici mi-mai ; 250 respirateurs produits par ce consortium seront livrés
-dans les prochains jours.\
-\
-Les capacités de productions de gel hydroalcooliques ont aussi été
-décuplées passant de 40 000 litres par jour avant la crise à 500 000
-litres par jour actuellement.\
-\
-Afin de répondre plus largement aux besoins, le président de la
-République a annoncé le 31 mars qu’une dotation spécifique de 4
-milliards d’euros sera allouée à Santé publique France, pour effectuer
-des commandes de médicaments et matériels.\
-\
-La réserve sanitaire est également amenée à être mobilisée.\
-\
-Enfin, quand cela est nécessaires des transferts de malades sont
-effectués d’une région à une autre. Ils peuvent avoir lieu par avion ou
-bateau militaire, hélicoptère, ambulances ou encore TGV médicalisé.
+Le renforcement de l’accueil des hôpitaux implique des moyens matériels
+et humains supplémentaires :\
+ 
+-   la France a passé une commande de plus de 1 000 respirateurs
+    nécessaires aux patients hospitalisés en réanimation. 1 000
+    respirateurs supplémentaires seront produits par un consortium
+    industriel français d’ici mi-mai ; 250 respirateurs produits par ce
+    consortium seront livrés dans les prochains jours.
+-   les capacités de production de gel hydroalcoolique ont aussi été
+    plus que décuplées, passant de 40 000 litres par jour avant la crise
+    à 500 000 litres par jour actuellement ;
+-   afin de répondre plus largement aux besoins, le président de la
+    République a annoncé qu’une dotation spécifique de 4 milliards
+    d’euros sera allouée à Santé publique France, pour effectuer des
+    commandes de médicaments et matériels ;
+-   la réserve sanitaire est également amenée à être mobilisée ;
+-   enfin, quand cela est nécessaire, des transferts de malades sont
+    effectués d’une région à une autre. Ils peuvent avoir lieu par avion
+    ou bateau militaire, hélicoptère, ambulance ou encore TGV
+    médicalisé.
 
 
 
@@ -8339,46 +8363,42 @@ bateau militaire, hélicoptère, ambulances ou encore TGV médicalisé.
 
 
 
-La surveillance des décès repose sur plusieurs sources de données :
-
--   Les décès survenus à l’hôpital. Tous les hôpitaux susceptibles de
+La surveillance des décès repose sur plusieurs sources :\
+ 
+-   les décès survenus à l’hôpital. Tous les hôpitaux susceptibles de
     recevoir des patients diagnostiqués COVID-19 rapportent chaque jour
-    le nombre de nouveaux décès à travers une application activée
-    spécifiquement dans le contexte de cette épidémie (SI-VIC).
--   Les décès liés au COVID-19 qui sont certifiés électroniquement à
-    travers l’application mise en place par le CépiDC de l’Inserm. Cette
-    source de données, qui ne couvre qu’actuellement qu'une proportion
-    des décès permet d’avoir accès, pour chaque décès certifié, à la
-    cause du décès et à quelques caractéristiques socio démographiques
-    et médicales des personnes décédées.
--   Le nombre de décès survenus en collectivités de personnes âgées. Une
-    application a été développée  afin de permettre un suivi quotidien
-    de la mortalité, dès lors qu’un EHPAD ou un autre établissement
-    médico-social a signalé au moins un cas suspecté d’être infecté par
-    le SARS-CoV-2 survenu dans l’établissement. L’application permettant
-    la remontée quotidienne du nombre de décès survenus en établissement
-    médico-social est opérationnelle depuis début avril. L’addition des
-    décès survenus à l’hôpital et de ceux survenus dans les EHPAD permet
-    de disposer d’estimations quotidiennes de la mortalité couvrant les
-    2 principaux lieux de survenue des décès liés au COVID-19, les
-    hôpitaux et les EHPAD. Les décès survenant à domicile ou dans
-    d’autres institutions représentant a priori une faible part de la
-    mortalité liée au COVID-19. Ces données de mortalité quotidiennes
-    peuvent être déclinées au niveau régional et départemental.
+    le nombre de nouveaux décès à travers une application spécifique ;
+-   les décès liés au COVID-19 qui sont certifiés électroniquement à
+    travers l’application mise en place par l’Inserm. Cette source, qui
+    ne couvre actuellement qu'une proportion des décès, permet d’avoir
+    accès à la cause du décès et à des caractéristiques socio-
+    démographiques et médicales des personnes décédées ;
+-   le nombre de décès survenus en collectivités de personnes âgées. Une
+    application a été développée afin de permettre un suivi quotidien de
+    la mortalité, dès lors qu’un EHPAD ou un autre établissement
+    médico-social a signalé au moins un cas suspect.
 
+L’addition des décès survenus à l’hôpital et dans les EHPAD permet
+d’estimer quotidiennement la mortalité dans ces lieux. Les décès
+survenant à domicile ou dans d’autres institutions représentent a priori
+une faible part de la mortalité liée au COVID-19. Ces données de
+mortalité quotidiennes peuvent être déclinées au niveau régional et
+départemental.\
 \
-Enfin, Santé publique France dispose d’une surveillance de la mortalité
-toutes causes, s’appuyant sur les déclarations de décès transmises à
-l’Institut National de la Statistique et des Etudes Economiques (Insee)
-qui permet, en comparaison avec les données historiques, de détecter un
-excès de mortalité et, le cas échéant, d’en estimer l’ampleur. Les
-circuits de transmission de ces données, liés essentiellement au délai
-de déclaration du décès et de saisie des informations par le bureau de
-l’état-civil nécessite d’attendre au moins 2 semaines pour estimer
-l’excès de mortalité survenu une semaine donnée. Cette source de données
-permet d’estimer, au niveau national, régional et départemental, l’excès
-de mortalité induit par le SARS-CoV-2, quelque que soit le lieu du
-décès.
+Enfin, Santé publique France surveille la mortalité toutes causes
+confondues, en s’appuyant sur les déclarations de décès transmises à
+l’Institut National de la Statistique et des Etudes Economiques (Insee).
+Ce dispositif permet de détecter un éventuel excès de mortalité et d’en
+estimer l’ampleur. Les circuits de transmission de ces données, liés
+essentiellement au délai de déclaration du décès et de saisie des
+informations par le bureau de l’état-civil, nécessite d’attendre au
+moins 2 semaines pour estimer l’excès de mortalité survenu une semaine
+donnée. Cette source de données permet d’estimer, au niveau national,
+régional et départemental, l’excès de mortalité induit par le
+SARS-CoV-2, quel que soit le lieu du décès.\
+\
+Voir les données épidémiologiques :
+<https://www.gouvernement.fr/info-coronavirus/carte-et-donnees>
 
 
 
@@ -8391,15 +8411,16 @@ décès.
 Le plan blanc est une organisation spécifique d'urgence sanitaire et de
 crise permettant d’enclencher la mise en œuvre rapide et rationnelle des
 moyens indispensables en cas d'afflux de patients dans un établissement
-hospitalier. Il est Inscrit dans la loi depuis 2004.
-
--   Le plan blanc répond à quatre grands objectifs face à une situation
-    de crise :
--   Mobiliser l’établissement de santé pour répondre à une situation de
+hospitalier. Il est Inscrit dans la loi depuis 2004.\
+\
+Le plan blanc répond à quatre grands objectifs face à une situation de
+crise :\
+ 
+-   mobiliser l’établissement de santé pour répondre à une situation de
     crise ;
--   Mobiliser les professionnels de santé ;
--   Mobiliser les moyens matériels et logistiques de l’établissement ;
--   Adapter l’activité médicale de l’établissement.
+-   mobiliser les professionnels de santé ;
+-   mobiliser les moyens matériels et logistiques de l’établissement ;
+-   adapter l’activité médicale de l’établissement.
 
 
 
@@ -8420,11 +8441,10 @@ mobilisation interne, qui correspond au démarrage de leur plan blanc
 pour les hôpitaux et les cliniques, de leur plan bleu pour les EHPAD et
 autres établissements médico-sociaux.
 
-Le 13 mars, le niveau 2 est lancé, qui est en fait un niveau
-d’organisation supérieur des établissements (rappel du personnel,
-déprogrammation des interventions non urgentes, augmentation des
-capacités hospitalières) en vue de pouvoir absorber une situation
-sanitaire exceptionnelle.
+Le 13 mars, le niveau 2 a été lancé, qui est un niveau d’organisation
+supérieur des établissements (rappel du personnel, déprogrammation des
+interventions non urgentes, augmentation des capacités hospitalières) en
+vue de pouvoir absorber une situation sanitaire exceptionnelle.
 
 En complément de l’activation du plan blanc, des mesures exceptionnelles
 sont prises pour être en capacité d’accueillir et de prendre en charge
@@ -8441,13 +8461,13 @@ jeunes retraités.
 
 
 Le plan bleu est un plan spécifique d'urgence sanitaire et de crise pour
-les établissements médico-sociaux il comprend :
+les établissements médico-sociaux. Il comprend :
 
--   une mobilisation particulière sur l’hygiène,
--   la lutte contre le risque d’isolement,
--   le dimensionnement en personnel si nécessaire.
--   Il est demandé dès sa mise en place un plan de continuité
-    d’activité.
+-   une mobilisation particulière sur l’hygiène ;
+-   la lutte contre le risque d’isolement ;
+-   le dimensionnement en personnel si nécessaire ;
+
+Il est demandé dès sa mise en place un plan de continuité d’activité.
 
 
 
@@ -8457,10 +8477,36 @@ les établissements médico-sociaux il comprend :
 
 
 
-Dans les établissements de santé, il convient de limiter les visites
-auprès des patients à une seule personne, interdire les visites des
-personnes mineures et bien évidemment interdire les visites de toute
-personne malade y compris dans les services de maternité.
+Dans les établissements de santé, il convient :
+
+-   de limiter les visites auprès des patients à une seule personne ;
+-   d’interdire les visites des personnes mineures ;
+
+\
+et bien évidemment d’interdire les visites de toute personne malade y
+compris dans les services de maternité.
+
+
+
+
+
+#### Comment fonctionne le remboursement d’une consultation en télémédecine ? {#comment-fonctionne-le-remboursement-dune-consultation-en-télémédecine .item-question}
+
+
+
+Pour que votre téléconsultation soit prise en charge par l’assurance
+maladie, il n’est plus nécessaire de passer par votre médecin traitant
+ou d’avoir eu une consultation physique au cours des 12 derniers mois.\
+\
+La télémédecine est maintenant remboursée à 100%.\
+\
+Point particulier : la télémédecine est aussi ouverte aux sages-femmes
+pour faciliter la consultation des femmes enceintes.\
+Depuis le 4 avril 2020, les consultations peuvent également être
+réalisée par téléphone afin de permettre la détection de cas suspects ou
+le suivi des personnes fragiles lorsque les patients n’ont pas accès aux
+technologies numériques : smartphone ou matériel de vidéotransmission,
+connexion Internet…
 
 
 
@@ -8497,40 +8543,40 @@ connexion internet...\
 
 
 
-Le déplafonnement des heures supplémentaires pour les professionnels de
-santé à l'hôpital, leur permet de pouvoir plus facilement assurer la
-continuité des soins dans les services dans cette situation
-exceptionnelle.
+Parce que dans cette situation exceptionnelle, cela permet d’assurer
+plus facilement la continuité des soins dans les services.
 
 
 
 
 
-#### L’AP-HP rappelle des retraités qui viennent de partir. Tous les hôpitaux vont-ils faire de même ? {#lap-hp-rappelle-des-retraités-qui-viennent-de-partir.-tous-les-hôpitaux-vont-ils-faire-de-même .item-question}
+#### L’Assistance Publique - Hôpitaux de Paris (AP-HP) rappelle certains retraités qui ont quitté un établissement récemment. Tous les hôpitaux vont-ils faire de même ? {#lassistance-publique---hôpitaux-de-paris-ap-hp-rappelle-certains-retraités-qui-ont-quitté-un-établissement-récemment.-tous-les-hôpitaux-vont-ils-faire-de-même .item-question}
 
 
 
 La possibilité leur est donnée de le faire, en fonction de leurs
-besoins. Pour rappel, comme dans le cadre de la mobilisation de la
-réserve sanitaire, la mobilisation de professionnels de santé s’organise
-depuis plusieurs jours. Selon les régions et les moyens humains
-disponible des professionnels de santé volontaires comme des directeurs
+besoins.\
+\
+Pour rappel, comme dans le cadre de la mobilisation de la réserve
+sanitaire, la mobilisation de professionnels de santé s’organise depuis
+plusieurs jours, selon les régions et les moyens humains disponibles.
+Sont mobilisés : professionnels de santé volontaires, directeurs
 d'hôpital, médecins, psychologues, pharmaciens, infirmiers,
-ambulanciers. Ils peuvent être en activité, sans emploi, à la retraite
-ou en formation (étudiant).
+ambulanciers. Ils peuvent être en activité, sans emploi, à la retraite,
+étudiant, en formation.
 
 
 
 
 
-#### Quels sont les professionnels de santé et paramédicaux autorisés à exercer ? La liste pourrait-elle s’adapter à l’évolution de la situation ? {#quels-sont-les-professionnels-de-santé-et-paramédicaux-autorisés-à-exercer-la-liste-pourrait-elle-sadapter-à-lévolution-de-la-situation .item-question}
+#### Quels sont les professionnels de santé et paramédicaux autorisés à exercer ? {#quels-sont-les-professionnels-de-santé-et-paramédicaux-autorisés-à-exercer .item-question}
 
 
 
 Tous les professionnels de santé et paramédicaux sont autorisés à
 exercer et doivent se concentrer sur les soins urgents. Tous les autres
 types de soins doivent être reportés lorsque cela n’entraîne pas de
-perte de de chance pour les patients.
+risque pour les patients.
 
 
 
@@ -8545,46 +8591,51 @@ ministère des solidarités et de la santé pour limiter la propagation du
 COVID-19 sont mises en oeuvre au sein de l’établissement afin de
 protéger les personnes détenues et les personnels pénitentiaires : 
 
--   L’accès aux parloirs est suspendu ; 
--   Les détenus bénéficient d’un crédit de 40€ par mois sur leur compte
+-   l’accès aux parloirs est suspendu ; 
+-   les détenus bénéficient d’un crédit de 40€ par mois sur leur compte
     téléphonique permettant de rester en contact avec leur famille et
     leurs proches ; 
--   Les activités sont suspendues et compensées par la gratuité de la
-    télévision : 
--   Les détenus les plus démunis peuvent bénéficier d’une aide majorée
+-   les activités sont suspendues et compensées par la gratuité de la
+    télévision ;
+-   les détenus les plus démunis peuvent bénéficier d’une aide majorée
     de 40 euros par mois pour leur permettre notamment de cantiner ; 
--   L'exécution des courtes peines sont différées afin de réguler
+-   l'exécution des courtes peines sont différées afin de réguler
     l’occupation des maisons d’arrêt.
 
 
 
 
 
-#### Quels dispositifs spécifiques pour l’Outre-mer ? {#quels-dispositifs-spécifiques-pour-loutre-mer .item-question}
+#### Quels dispositifs spécifiques pour les territoires d’Outre-mer ? {#quels-dispositifs-spécifiques-pour-les-territoires-doutre-mer .item-question}
 
 
 
 Beaucoup de territoires d’Outre-mer ont des capacités sanitaires qui
 reposent souvent, pour les cas les plus graves, sur l’évacuation
 sanitaire en métropole. \
-Très rapidement toute une série de décisions adaptées à la situation des
-territoires d’Outre-mer a été prise :\
--       Confinement en même temps que dans l’Hexagone \
--       Restrictions strictes pour l’entrée sur chaque territoire \
-Interdiction d’entrée dans les collectivités d’outre-mer sauf motifs
-impérieux \
-Quatorzaine imposée aux personnes qui entrent dans ces territoires et
-Interdiction des escales de bateaux de croisière\
-En parallèle de ces mesures, **les capacités de réanimation sont
-renforcées et du matériel médical comme de protection sont envoyés
+\
+Une série de décisions adaptées à la situation des territoires
+d’Outre-mer a été prise rapidement :\
+ 
+-   confinement en même temps que dans l’Hexagone ;
+-   restrictions strictes pour l’entrée sur chaque territoire :
+-   interdiction d’entrée dans les collectivités d’outre-mer sauf motifs
+    impérieux ;
+-   quatorzaine imposée aux personnes qui entrent dans ces territoires
+    et Interdiction des escales de bateaux de croisière.
+
+En parallèle de ces mesures, l**es capacités de réanimation sont
+renforcées et du matériel médical et de protection est envoyé
 (respirateurs, masques, tests)** :\
--       Les Antilles passent de 81 lits en temps normal à 169 lits,
-notamment grâce à l’apport dès la semaine prochaine de 32 respirateurs
-envoyés depuis la métropole.\
--       Mayotte passe de 16 à 50 lits\
--       La Guyane passe de 29 à 40 lits de réanimation.\
--       La Réunion passe de 111 à 161 lits de réanimation.\
-Enfin, l’Etat organise avec l’armée des capacités sanitaires de
+ 
+-   Les Antilles passent de 81 lits de réanimation en temps normal à 169
+    lits, notamment grâce à l’envoi de 32 respirateurs depuis la
+    métropole ;
+-   Mayotte passe de 16 à 50 lits ;
+-   La Guyane passe de 29 à 40 lits ;
+-   La Réunion passe de 111 à 161 lits.
+
+Enfin, l’Etat organise avec l’Armée des capacités sanitaires de
 délestage pour permettre aux établissements hospitaliers de faire face
 aux malades du COVID-19.
 
@@ -8598,17 +8649,15 @@ aux malades du COVID-19.
 
 Depuis le début de la crise, une réponse européenne se développe, comme
 le Président de la République y avait appelé dans son allocution du 12
-mars :
-
--   Des mécanismes de coordination, de partage d’informations, de bonnes
+mars :\
+ 
+-   des mécanismes de coordination, de partage d’informations, de bonnes
     pratiques et de gestion de crise ont été activés : au niveau des
     ministres en charge des secteurs impactés par la crise ; au niveau
-    des experts, en particulier de santé (comme le comité de sécurité
-    sanitaire où la France est représentée par le ministère des
-    solidarités et de la santé). Les Chefs d’État et de gouvernement
-    ont, quant à eux, tenus deux téléconférences (10 et 17 mars) : une
-    troisième est prévue le 26 mars. 
--   Des coopérations et des mutualisations ont été mises en place :
+    des experts, en particulier de santé ; au niveau des Chefs d’Etat et
+    de gouvernement qui ont tenus trois téléconférences (10, 17 et 26
+    mars) ;
+-   des coopérations et des mutualisations ont été mises en place :
     passation conjointe de marchés pour les équipements de protection
     individuelle, les respirateurs et les kits de dépistage ;
     financement de projets de recherche pharmaceutique ; coordination
@@ -8616,26 +8665,25 @@ mars :
     de protection civile pour aider aux opérations de retour de citoyens
     européens depuis l’étranger) ; constitution, en cours, d’une réserve
     stratégique européenne d’équipements de protection individuelle,
-    d’appareils respiratoires et de kits de test.
--   Des règles et pratiques communes ont été proposées aux États membres
+    d’appareils respiratoires et de kits de test ;
+-   des règles et pratiques communes ont été proposées aux Etats membres
     par la Commission européenne, par exemple en matière de dépistage,
     de restrictions à la mobilité des personnes (c’est sur cette base
     par exemple qu’a été approuvée la fermeture des frontières
     extérieures de l’Union, aujourd’hui appliquée par la France et la
-    quasi-totalité des États membres), de préservation de la liberté de
-    circulation des marchandises au sein du marché intérieur. 
--   D’importantes dispositions ont enfin été proposées pour soutenir les
-    économies européennes et les efforts consentis à cette fin par les
-    États membres : assouplissement des règles de discipline budgétaire
-    fixées par le Pacte de stabilité et croissance ; adaptation des
-    règles en matière d’aide d’État ; mobilisation des fonds structurels
-    en réponse à la crise sanitaire ; programme d’achat d’urgence
-    pandémique (PEPP), pour un montant de 750 Md€, décidé par la BCE
-    pour assurer le financement de l’économie et de ses acteurs ;
-    soutien financier de la BEI aux PME et ETI… D’autres initiatives
-    suivront.
+    quasi-totalité des Etats membres), de préservation de la liberté de
+    circulation des marchandises au sein du marché intérieur ;
+-   d’importantes dispositions ont été proposées pour soutenir les
+    économies européennes : l'assouplissement des règles de discipline
+    budgétaire fixées par le Pacte de stabilité et croissance ;
+    adaptation des règles en matière d’aide d’Etat ; mobilisation des
+    fonds structurels en réponse à la crise sanitaire ; programme
+    d’achat d’urgence pandémique pour un montant de 750 Md€, décidé par
+    la Banque centrale Européenne pour assurer le financement de
+    l’économie et de ses acteurs ; soutien financier de la Banque
+    Européenne d’Investissement aux PME et ETI… ;
+-   d’autres initiatives suivront.
 
-\
 Le 9 avril 2020, les ministres des finances de l’Union européenne sont
 parvenus à un accord de grande ampleur en réponse à la crise du
 COVID-19, avec une capacité de financement de 540 milliards d’euros
@@ -8643,20 +8691,20 @@ dégagée tout de suite, qui sera complétée par un fonds de relance
 ambitieux pour soutenir une reprise forte de l’activité économique en
 Europe.\
 \
-Plus d’informations sont disponibles sur la page dédiée à [la solidarité
-européenne face au
+Plus d’informations sur la page dédiée à la [solidarité européenne face
+au
 COVID-19](https://www.diplomatie.gouv.fr/fr/politique-etrangere-de-la-france/europe/evenements-et-actualites-lies-a-la-politique-europeenne-de-la-france/actualites-europeennes/article/la-solidarite-europeenne-face-au-covid-19).
 
 
 
 
 
-#### Pourquoi ne comptabilise-t-on plus les morts dans les EHPADs dans la somme des décès suite au COVID-19 ? {#pourquoi-ne-comptabilise-t-on-plus-les-morts-dans-les-ehpads-dans-la-somme-des-décès-suite-au-covid-19 .item-question}
+#### Les personnes décédées dans les EHPAD sont-elles comptabilisées dans les chiffres de victimes du COVID-19 ? {#les-personnes-décédées-dans-les-ehpad-sont-elles-comptabilisées-dans-les-chiffres-de-victimes-du-covid-19 .item-question}
 
 
 
-Les décès liés à une infection COVID-19 dans les EHPADs sont
-comptabilisés. Toutefois, il existe un certain délai dans la remontée
+Oui, les décès liés à une infection COVID-19 dans les EHPAD sont
+comptabilisés. Toutefois, il existe un délai dans la remontée
 d’information depuis ces établissements, car ils ne disposent pas des
 mêmes moyens techniques que les hôpitaux pour comptabiliser les décès.
 Santé Publique France a élaboré un outil de remontée d’information
@@ -8699,37 +8747,37 @@ et en Langue des Signes Française (LSF).
 Les services d’urgences pénales et civiles des juridictions,
 l’incarcération dans des conditions dignes des détenus ou encore
 l’accueil des mineurs confiés à la protection judiciaire de la jeunesse
-sont maintenus dans un cadre qui prévient la propagation du virus tant à
+sont maintenus. Le cadre doit prévenir la propagation du virus tant à
 l’égard des personnels que des publics reçus ou pris en charge par les
 personnels relevant du ministère de la justice.\
 \
 Cela concerne :
--   Les audiences correctionnelles pour les mesures de détention
+-   les audiences correctionnelles pour les mesures de détention
     provisoire et de contrôle judiciaire ;
--   Les audiences de comparution immédiate ;
--   Les présentations devant le juge d’instruction et le juge des
+-   les audiences de comparution immédiate ;
+-   les présentations devant le juge d’instruction et le juge des
     libertés et de la détention ;
--   Les audiences du juge de l’application des peines pour la gestion
+-   les audiences du juge de l’application des peines pour la gestion
     des urgences ;
--   Les audiences du tribunal pour enfants et du juge pour enfant pour
+-   les audiences du tribunal pour enfants et du juge pour enfant pour
     la gestion des urgences, notamment pour l’assistance éducative ;
--   Les permanences du parquet ;
--   Les référés devant le tribunal judiciaire visant l’urgence, et les
+-   les permanences du parquet ;
+-   les référés devant le tribunal judiciaire visant l’urgence, et les
     mesures urgentes relevant du juge aux affaires familiales (notamment
     immeubles menaçant ruine, éviction conjoint violent) ;
--   Les audiences auprès d’un juge des libertés et de la détention civil
+-   les audiences auprès d’un juge des libertés et de la détention civil
     (hospitalisation sous contrainte, rétention des étrangers) ;
--   Les permanences au tribunal pour enfants, l’assistance éducative
+-   les permanences au tribunal pour enfants, l’assistance éducative
     d'urgence ;
--   Les audiences de la chambre de l’instruction pour la détention ;
--   Les audiences de la chambre des appels correctionnels et de la
+-   les audiences de la chambre de l’instruction pour la détention ;
+-   les audiences de la chambre des appels correctionnels et de la
     chambre d’applications des peines pour la gestion des urgences.
 
-\
 Les sessions d’assises seront, dans la mesure du possible, annulées
-compte tenu des risques de contagion pour les jurés et le public. Les
-procès pourront être renvoyés, dans les limites du délai raisonnable et
-dans le respect des délais de détention provisoire.
+compte tenu des risques de contagion pour les jurés et le public.\
+\
+Les procès pourront être renvoyés, dans les limites du délai raisonnable
+et dans le respect des délais de détention provisoire.
 
 
 
@@ -8739,11 +8787,10 @@ dans le respect des délais de détention provisoire.
 
 
 
-Les services d’accueil du public seront fermés ainsi que les maisons de
-justice et du droit et les points d’accès au droit. Les agents de ces
-services ne recevront donc plus de public.\
-Ces services pourront, en revanche, continuer à être joints par
-téléphone pour répondre aux situations d’urgence.\
+Sont fermés mais restent joignables par téléphone pour répondre aux
+situations d’urgence : les services d’accueil du public ; les maisons de
+justice et du droit ; les points d’accès au droit.\
+\
 Afin de limiter vos déplacements, nous vous invitons également à prendre
 contact avec votre tribunal pour savoir si votre audience est maintenue.
 
