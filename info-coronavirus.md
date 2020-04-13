@@ -7037,52 +7037,80 @@ missions.
 
 
 
-#### Je suis soignant et je cherche à me loger à proximité de mon lieu de travail, que faire ? {#je-suis-soignant-et-je-cherche-à-me-loger-à-proximité-de-mon-lieu-de-travail-que-faire .item-question}
-
-
-
-En solidarité avec le personnel soignant le groupe Accor a lancé le
-programme CEDA (pour Coronavirus Emergency Desk Accor), en collaboration
-avec l’AP-HP. Les personnels soignants peuvent envoyer un email à
-l'adresse : <ceda@accor.com>. Le groupe Accor essaie ensuite de leur
-trouver un hébergement à proximité de leur lieu de travail.
-
-De plus, en partenariat avec le ministre de la Ville et du Logement,
-Airbnb a lancé le 24 mars un nouveau dispositif pour mettre en relation
-des personnels médicaux et travailleurs sociaux mobilisés contre le
-COVID-19 avec des hôtes proposant un logement gratuit. Le soignant doit
-remplir un formulaire sur :
-<https://news.airbnb.com/fr/des-logements-gratuits-sur-airbnb-pour-les-personnels-medicaux/>\
-\
-Dans ce cadre, les propriétaires sont bien sûr autorisés à sortir pour
-remettre les clés du logement au bénéficiaire.
-
-
-
-
-
 #### Aidons-nous les personnes sans-abri ? {#aidons-nous-les-personnes-sans-abri .item-question}
 
 
 
-Les personnes sans-abri sont accueillies dans des lieux qui restent
-ouverts et respectent le seuil de rassemblement maximal. 172 000 places
-d’hébergement sont actuellement disponibles pour les personnes sans abri
-qui ne sont pas malades. De nouvelles solutions d’hébergement sont en
-train d’être identifiées. 5 500 chambres d’hôtels supplémentaires ont
-notamment déjà été mobilisées. Le dispositif va continuer de se
-déployer.\
-\
-Les maraudes sont maintenues, la période hivernale prolongée de deux
-mois et un dispositif exceptionnel de distribution de chèques services
-permet aux personnes sans domicile d’acheter des produits d’alimentation
-et d’hygiène pendant la crise sanitaire. L’Etat débloque au total une
-enveloppe d’urgence de 65 millions d’euros.\
-\
-En complément, depuis le 4 avril, 73 centres d’hébergement médicalisés
-ont ouvert pour accueillir des personnes sans-abris atteintes par le
-COVID-19, mais ne nécessitant pas d’hospitalisation. D’autres
-établissements ouvriront bientôt, à raison d’au moins un par région.
+-   172 000 places d’hébergement sont disponibles pour les personnes
+    sans-abri qui ne sont pas malades. 5 500 chambres d’hôtels
+    supplémentaires ont déjà été mobilisées. De nouvelles solutions
+    d’hébergement sont en train d’être identifiées ;
+-   73 centres d’hébergement médicalisés ont ouvert pour accueillir des
+    personnes sans-abris atteintes par le COVID-19, mais ne nécessitant
+    pas d’hospitalisation. D’autres établissements ouvriront bientôt, à
+    raison d’au moins un par région ; les maraudes sont maintenues, la
+    période hivernale prolongée de deux mois et un dispositif
+    exceptionnel de distribution de chèques-services permet aux
+    personnes sans domicile d’acheter des produits d’alimentation et
+    d’hygiène pendant la crise sanitaire. L’Etat débloque au total une
+    enveloppe d’urgence de 65 millions d’euros.
+
+
+
+
+
+#### Comment organiser mon télétravail ? {#comment-organiser-mon-télétravail .item-question}
+
+
+
+Vous pouvez consulter les offres gratuites des plateformes numériques
+susceptibles de vous accompagner pendant cette période de confinement
+télétravail, connectivité, apprentissage, livraison, téléconsultation,
+accès à l’information et au divertissement- sur
+<http://www.mobilisation-numerique.gouv.fr>
+
+
+
+
+
+#### Je veux me rendre utile, comment faire ? {#je-veux-me-rendre-utile-comment-faire-1 .item-question}
+
+
+
+Pour que chacun puisse prendre sa part, le Gouvernement a lancé la
+Réserve civique-COVID 19. Vous pouvez vous engager ou donner de votre
+temps au service des personnes démunies et vulnérables, dans les
+domaines suivants :
+-   aide alimentaire et d’urgence ;
+-   garde exceptionnelle d’enfants de soignants ou d’une structure de
+    l’Aide Sociale à l’Enfance ;
+-   maintien du lien à distance avec les personnes fragiles isolées,
+    qu’elles soient âgées, malades ou en situation de handicap ;
+-   solidarité de proximité : faire des courses pour les voisins
+    fragiles, isolés, handicapés.
+
+Consultez le site [jeveuxaider.gouv.fr](http://jeveuxaider.gouv.fr) pour
+proposer une mission ou offrir votre aide.
+
+
+
+
+
+#### Je suis soignant et je cherche à me loger à proximité de mon lieu de travail, que faire ? {#je-suis-soignant-et-je-cherche-à-me-loger-à-proximité-de-mon-lieu-de-travail-que-faire .item-question}
+
+
+
+-   Le groupe Accor avec l'Assistance publique – Hôpitaux de Paris aide
+    les personnels soignants à trouver un hébergement à proximité de
+    leur lieu de travail: écrivez à : ceda@accor.com.
+-   Le ministère de la Ville et du Logement et Airbnb mettent en
+    relation les personnels médicaux et travailleurs sociaux mobilisés
+    contre le COVID-19 avec des hôtes proposant un logement gratuit :
+    décrivez votre recherche sur :
+    <https://news.airbnb.com/fr/des-logements-gratuits-sur-airbnb-pour-les-personnels-medicaux/>
+
+Dans ce cadre, les propriétaires sont autorisés à sortir pour remettre
+les clés du logement au bénéficiaire.
 
 
 
