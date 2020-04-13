@@ -8808,7 +8808,7 @@ contact avec votre tribunal pour savoir si votre audience est maintenue.
 
 
 
-#### Quelles sont les dispositions liées aux collectivités locales dans le cadre de l'état d'urgence sanitaire ? {#quelles-sont-les-dispositions-liées-aux-collectivités-locales-dans-le-cadre-de-létat-durgence-sanitaire .item-question}
+#### Quelles dispositions doivent prendre les collectivités locales ? {#quelles-dispositions-doivent-prendre-les-collectivités-locales .item-question}
 
 
 
@@ -8817,29 +8817,25 @@ par le Parlement le 22 mars 2020 et promulguée le 24 mars 2020. Elle
 vise à donner une traduction législative aux mesures annoncées par le
 Président de la République et le Gouvernement pour faire face à la crise
 majeure que traverse notre pays.\
-\
-Cette loi comprend différentes mesures relatives à la gouvernance, à
-l’organisation et au fonctionnement des collectivités territoriales et
-leurs groupements.
+ 
 -   [Loi d’urgence : les dispositions qui concernent les collectivités
     territoriales](https://www.cohesion-territoires.gouv.fr/loi-durgence-pour-faire-face-lepidemie-de-covid-19-les-dispositions-qui-concernent-les)
 
-\
-Dans le cadre de cette loi, le Parlement a habilité le Gouvernement à
-prendre des ordonnances, dont certaines concernent les collectivités
-territoriales. Une partie d'entre elles a été adoptée lors du Conseil
-des ministres du 25 mars afin d'assurer leur continuité budgétaire,
-fiscale et financière.
+Des ordonnances ont été prises par le Gouvernement, dont une partie a
+été adoptée lors du Conseil des ministres du 25 mars afin d'assurer la
+continuité budgétaire, fiscale et financière des collectivités
+territoriales :\
+ 
 -   [Foire aux questions : dispositions financières, budgétaires et
     fiscales des collectivités
     territoriales](https://www.cohesion-territoires.gouv.fr/collectivites-territoriales-dispositions-financieres-budgetaires-et-fiscales)
 
-\
-Ordonnance du Conseil des ministres du 1er avril 2020 visant à assurer
-la continuité du fonctionnement des institutions locales et de
-l'exercice des compétences des collectivités territoriales et des
-établissements publics locaux afin de faire face à l’épidémie de
-covid-19.
+Le 1er avril 2020, une ordonnance du Conseil des ministres a été prise,
+visant à assurer la continuité du fonctionnement des institutions
+locales et de l'exercice des compétences des collectivités territoriales
+et des établissements publics locaux afin de faire face à l’épidémie de
+COVID-19 :\
+ 
 -   [Téléconférence et audioconférence pour les séances
     locales](https://www.cohesion-territoires.gouv.fr/teleconference-pour-les-seances-des-collectivites-locales)
 -   [Ordonnance du Conseil des ministres du 1er avril
@@ -8849,25 +8845,25 @@ covid-19.
     2020](https://www.cohesion-territoires.gouv.fr/sites/default/files/2020-04/20200401%20Note%20ordonnance%20institutionnelle%20VF.pdf)
     (PDF - 478.59 Ko)
 
-\
-Par ailleurs, le 8 avril 2020, le ministère de la Cohésion des
-territoires et des Relations avec les collectivités territoriales a
-présenté une ordonnance visant à assurer la continuité de l’exercice des
-fonctions exécutives locales durant l’état d’urgence sanitaire. Elle
-prévoit ainsi notamment qu'en cas de vacance du siège de maire, pour
-quelque cause que ce soit, les fonctions de maire sont provisoirement
-exercées par un adjoint au maire ou, à défaut, par un membre de l'organe
-délibérant. L'élu chargé de ces fonctions les conserve jusqu’à
-l’élection des maires à la suite du premier ou du second tour du
-renouvellement général des conseils municipaux. Il est par ailleurs
-prévu que l’élection du maire pourra se tenir, dans les communes pour
-lesquelles le conseil municipal a été élu au complet lors du premier
-tour organisé le 15 mars 2020, même si des vacances se sont produites
-postérieurement. L’ordonnance prévoit également pour les conseils
-départementaux, qu’en cas de vacance d’un siège intervenue pendant la
-durée de l’état d’urgence sanitaire, il est procédé à une élection
-partielle dans les quatre mois suivant la fin de l’état d’urgence
-sanitaire.
+Le 8 avril 2020, le ministère de la Cohésion des territoires et des
+Relations avec les collectivités territoriales a présenté une ordonnance
+visant à assurer la continuité de l’exercice des fonctions exécutives
+locales durant l’état d’urgence sanitaire. Elle prévoit notamment que :\
+ 
+-   en cas de vacance du siège de maire, pour quelque cause que ce soit,
+    les fonctions de maire sont provisoirement exercées par un adjoint
+    au maire ou, à défaut, par un membre de l'organe délibérant. L'élu
+    chargé de ces fonctions les conserve jusqu’à l’élection des maires à
+    la suite du premier ou du second tour du renouvellement général des
+    conseils municipaux ;
+-   l'élection du maire pourra se tenir, dans les communes pour
+    lesquelles le conseil municipal a été élu au complet lors du premier
+    tour organisé le 15 mars 2020, même si des vacances se sont
+    produites postérieurement ;
+-   pour les conseils départementaux, en cas de vacance d’un siège
+    intervenue pendant la durée de l’état d’urgence sanitaire, il est
+    procédé à une élection partielle dans les quatre mois suivant la fin
+    de l’état d’urgence sanitaire.
 
 
 
@@ -8878,7 +8874,7 @@ sanitaire.
 
 
 Le ministère de la Cohésion des territoires et des Relations avec les
-collectivités territoriales met à disposition des élus un document
+Collectivités territoriales met à disposition des élus un document
 d'aide à la prise de décision. Ce document qui précise les
 recommandations en vigueur sera régulièrement mis à jour en fonction de
 l’évolution de la situation.
@@ -8898,22 +8894,22 @@ l’évolution de la situation.
 
 
 Une fiche consultable sur le site de la Direction générale des
-collectivités locales permet de préciser la mise en œuvre du service
-public funéraire dans ce contexte d’épidémie. Elle présente les
-opérations consécutives au décès de personnes atteintes du covid-19, le
-rôle du maire en tant qu’officier d’état civil en matière funéraire,
+Collectivités locales précise la mise en œuvre du service public
+funéraire dans ce contexte d’épidémie. Elle présente les opérations
+consécutives au décès de personnes atteintes du COVID-19, le rôle du
+maire en tant qu’officier d’état civil en matière funéraire,
 l’organisation de cérémonies funéraires, la définition des dépositoires
 comme possibilité de dépôt temporaire des cercueils, le transport
 international de corps, et enfin, les habilitations dans le domaine
 funéraire.
--   [Fiche sur les impacts de l’épidémie de covid-19 dans le domaine
+-   [Fiche sur les impacts de l’épidémie de COVID-19 dans le domaine
     funéraire](https://www.collectivites-locales.gouv.fr/covid19)
 
 
 
 
 
-#### Et de la vie de la collectivité territoriale ? {#et-de-la-vie-de-la-collectivité-territoriale .item-question}
+#### Qu'en est-il de la vie de la collectivité territoriale ? {#quen-est-il-de-la-vie-de-la-collectivité-territoriale .item-question}
 
 
 
@@ -8924,7 +8920,8 @@ aux collectivités locales, dans le cadre de l’urgence sanitaire, sur : \
     handicapées](https://solidarites-sante.gouv.fr/soins-et-maladies/maladies/maladies-infectieuses/coronavirus/professionnels-du-social-et-medico-social/article/accompagnement-des-personnes-agees-et-des-personnes-handicapees)
     (adaptation des règles d’organisation et de fonctionnement des
     établissements sociaux et médico-sociaux, recommandations sur les
-    coopérations à faciliter sous l’égide de l’ARS et du CD au sein des
+    coopérations à faciliter sous l’égide de l’Agence régionale de Santé
+    et du Conseil Départemental sur les territoires au sein des
     territoires, consignes pour les Établissements ou service social ou
     médico-social, …).
 2.  [Protection de l'enfance et
@@ -8969,13 +8966,13 @@ aux collectivités locales, dans le cadre de l’urgence sanitaire, sur : \
 
 
 
-Non. Dans ce contexte de crise sanitaire, les conseils municipaux
-programmés à partir du 20 mars dans les communes dont le conseil
-municipal est complet suite au premier tour des élections municipales
-doivent être ajournés. Les maires et adjoints en exercice avant le 1er
-tour voient leurs mandats prorogés jusqu’à une date qui sera fixée par
-décret (date du 2nd tour des élections municipales ou date
-d’installation des conseils municipaux pourvus au 1er tour).
+Non. Les conseils municipaux programmés à partir du 20 mars dans les
+communes dont le conseil municipal est complet suite au premier tour des
+élections municipales doivent être ajournés.\
+Les maires et adjoints en exercice avant le 1er tour voient leurs
+mandats prolongés jusqu’à une date qui sera fixée par décret (date du
+2nd tour des élections municipales ou date d’installation des conseils
+municipaux pourvus au 1er tour).
 -   [Report des conseils municipaux d’installation des maires élus au
     1er
     tour](https://www.cohesion-territoires.gouv.fr/report-des-conseils-municipaux-dinstallation-des-maires-elus-au-premier-tour)
