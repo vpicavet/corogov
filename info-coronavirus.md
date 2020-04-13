@@ -7302,10 +7302,9 @@ et distance barrières.\
 
 
 100 000 policiers et gendarmes sont chargés de s’assurer que chaque
-personne soit en possession de son attestation pour quitter son
-domicile, sur l’intégralité du territoire national avec des points de
-contrôle fixes et mobiles en particulier dans les gares et les
-aéroports.\
+personne est en possession de son attestation pour quitter son domicile,
+sur l’intégralité du territoire national avec des points de contrôle
+fixes et mobiles en particulier dans les gares et les aéroports.\
 \
 Si vous ne respectez pas cette obligation, vous vous exposez à une
 amende forfaitaire de 135 euros (qui peut être majorée à 375 euros). En
@@ -7330,9 +7329,24 @@ particulières s'appliquent dans votre commune.
 
 
 
-La police municipale peut désormais, tout comme les gardes champêtres et
-les agents de la Ville de Paris chargés d’un service de police, dresser
-les contraventions.
+Oui, la police municipale le peut, tout comme les gardes champêtres et
+les agents de la Ville de Paris chargés d’un service de police.
+
+
+
+
+
+#### Suis-je passible d’une amende pour défaut d’attestation ou attestation non conforme ? {#suis-je-passible-dune-amende-pour-défaut-dattestation-ou-attestation-non-conforme .item-question}
+
+
+
+Oui.
+-   cela est sanctionné par une contravention de 4e classe, qui peut
+    faire l'objet d’une amende forfaitaire ;
+-   si la violation est réitérée dans les 15 jours, la contravention est
+    de 5e classe ;
+-   si la violation est réitérée à plus de trois reprises dans un délai
+    de 30 jours, il s'agit d'un délit.
 
 
 
@@ -7342,22 +7356,12 @@ les contraventions.
 
 
 
-Le défaut d'attestation ou une attestation non conforme est sanctionnée
-par une contravention de 4eme classe, qui peut faire l'objet de la
-procédure de l'amende forfaitaire. Cette amende peut être contestée
-selon la procédure prévue par les articles 529-2 et 530 du code de
-procédure pénale. Pour contester l'amende, vous devez formuler une
-requête en exonération ou une réclamation motivée (dans le cas où
-l'amende est majorée) auprès de l'officier du ministère public (OMP)
-dans un délai de 90 jours.\
-\
-Lorsque la violation est réitérée dans un délai de 15 jours, il s'agit
-alors d'une contravention de 5eme classe, qui peut être contestée dans
-les mêmes conditions.\
-\
-Enfin, lorsque la violation est réitérée à plus de trois reprises dans
-un délai de 30 jours, il s'agit d'un délit et sa commission pourra être
-contestée devant le tribunal correctionnel lors de l'audience.
+-   concernant les contravention de 4e et 5e classes, vous devez
+    formuler une requête en exonération ou une réclamation motivée (dans
+    le cas où l'amende est majorée) auprès de l'officier du ministère
+    public (OMP) dans un délai de 90 jours ;
+-   concernant un délit, il peut être contesté devant le tribunal
+    correctionnel lors de l'audience.
 
 
 
@@ -7367,9 +7371,8 @@ contestée devant le tribunal correctionnel lors de l'audience.
 
 
 
-Non, cependant des consignes ont été données aux forces de l’ordre pour
-respecter les gestes barrières, tout comme chaque personne contrôlée
-doit aussi les respecter.
+Non. Les forces de l’ordre, au même titre que chaque personne contrôlée
+doivent respecter les gestes barrières.
 
 
 
@@ -7379,13 +7382,13 @@ doit aussi les respecter.
 
 
 
-La situation exceptionnelle justifie de dispenser les personnes
-étrangères, dont la durée de validité du titre de séjour est expirée à
-compter du 16 mars dernier, d’accomplir les démarches pour en solliciter
-le renouvellement. Elle n'ont pas à se déplacer pour ce motif. La
-validité des titres de séjour est prolongée jusqu’à 90 jours. Ainsi, la
-situation au regard du séjour ou de l’asile des étrangers concernés est
-sécurisée, sans aucune rupture de droits.\
+Oui. Les personnes étrangères, dont la durée de validité du titre de
+séjour est expirée à compter du 16 mars dernier, sont dispensées
+d’accomplir les démarches pour en solliciter le renouvellement. Elle
+n'ont pas à se déplacer pour ce motif. La validité des titres de séjour
+est prolongée jusqu’à 90 jours. Ainsi, la situation au regard du séjour
+ou de l’asile des étrangers concernés est sécurisée, sans aucune rupture
+de droits.\
 \
 Les catégories de titres concernées par cette mesure sont :
 
@@ -7403,18 +7406,7 @@ Les catégories de titres concernées par cette mesure sont :
 
 
 
-L'obligation légale est de se munir d'un document justifiant que l'on se
-trouve dans l'un des cas de déplacements autorisés, par exception au
-principe d'interdiction de sortie du domicile.\
-\
-L'attestation est un des documents permettant de justifier que le
-déplacement entre dans le champ de l'une de ces exceptions ; en fonction
-du motif invoqué, la durée du déplacement peut être pris en
-considération, particulièrement pour le 5e motif. Il est donc légitime
-d'exiger l'indication, sur l'attestation, de l'heure de sortie. Ce n'est
-pas l'absence de mention qui constitue l'infraction mais le fait qu'en
-raison de cette absence, la personne contrôlée ne peut justifier que son
-déplacement entre dans le champ de l'une des exceptions autorisées.
+Oui, car c’est une obligation légale.
 
 
 
@@ -7425,11 +7417,14 @@ déplacement entre dans le champ de l'une des exceptions autorisées.
 
 
 La limite d’une heure concerne uniquement les déplacements liés à
-l'activité physique individuelle, la promenade et aux besoins des
-animaux de compagnie. Pour les autres déplacements, dont les achats de
-première nécessité, la durée n’est pas limitée. Néanmoins, il vous est
-fortement recommandé d'organiser vos sorties pour qu'elles soient les
-plus brèves possibles.
+l'activité physique individuelle, à la promenade et aux besoins des
+animaux de compagnie.\
+\
+Pour les autres déplacements, dont les achats de première nécessité, la
+durée n’est pas limitée.\
+\
+Dans tous les cas, il vous est fortement recommandé d'organiser vos
+sorties pour qu'elles soient les plus brèves possibles.
 
 
 
@@ -7439,10 +7434,7 @@ plus brèves possibles.
 
 
 
-Non la copropriété est un domicile et les contrôles ne s'exercent que
-sur la voie publique. La copropriété est cependant tenue de faire
-respectée, dans les espace communs, les règles relatives aux
-confinement.
+Non, car les contrôles ne s'exercent que sur la voie publique.
 
 
 
@@ -7452,14 +7444,13 @@ confinement.
 
 
 
-Les mineurs bénéficient des mêmes exceptions à l'interdiction de
-déplacement que les majeurs, dans les mêmes conditions, à ceci près que
-leur attestation dérogatoire de déplacement doit en outre être signée
-par le titulaire de l'autorité parentale. Ils n'ont en revanche pas
-vocation à être nécessairement accompagnés par un adulte. Lorsque le
-mineur travaille, il doit être muni, comme le majeur, d'un justificatif
-de déplacement professionnel, signé de son employeur ou, s'il n'a pas
-d'employeur de l'attestation de déplacement dérogatoire.
+Oui. Mais leur attestation dérogatoire de déplacement doit être signée
+par le titulaire de l'autorité parentale.\
+\
+Lorsque le mineur travaille, il doit être muni, comme le majeur, d'un
+justificatif de déplacement professionnel signé de son employeur ou
+bien, s'il n'a pas d'employeur, de l'attestation de déplacement
+dérogatoire
 
 
 
@@ -7469,21 +7460,7 @@ d'employeur de l'attestation de déplacement dérogatoire.
 
 
 
-Enfin d’empêcher les départs en vacances et si cela était nécessaire
-localement, il a été demandé aux préfets de prendre des arrêtés visant à
-interdire les locations de chambres d’hôtel dans le cadre de leur
-pouvoir de police spéciale et les locations saisonnières dans le cadre
-de leur pouvoir de police générale.\
-\
-Ce dispositif n’empêche bien entendu pas l’hébergement d’urgence des
-personnes précaires comme les SDF, ni celui des soignants qui luttent
-contre l’épidémie de COVID-19. Un certain nombre d’exception sont
-également prévues dans le cadre de locations à usage professionnel.\
-\
-Les arrêtés seront motivés localement sur la base des éléments suivants
-: taux de réservation important des locations saisonnières, conditions
-météorologiques propices, risque de saturation des établissements de
-santé en cas d’augmentations brutale de la population, etc
+Oui.
 
 
 
@@ -7493,8 +7470,8 @@ santé en cas d’augmentations brutale de la population, etc
 
 
 
-Il sera infligé une contravention et on demandera aux personnes de
-retourner chez elles mais il n’y aura pas de reconduites à domicile.
+Non, il n’y aura pas de reconduite à domicile, mais une contravention
+sera infligée et on demandera à la personne de retourner chez elle.
 
 
 
@@ -7513,14 +7490,12 @@ approfondis au besoin.
 
 
 
-#### Doit-on déclarer le lieu où nous sommes confinés ? {#doit-on-déclarer-le-lieu-où-nous-sommes-confinés .item-question}
+#### Doit-je déclarer le lieu où je suis confiné ? {#doit-je-déclarer-le-lieu-où-je-suis-confiné .item-question}
 
 
 
-Lors d’un contrôle par les forces de l’ordre vous devez indiquer votre
-lieu de confinement s’il vous est demandé afin que la nature de votre
-déplacement puisse être vérifiée.\
- 
+Oui, lors d’un contrôle par les forces de l’ordre, vous devez indiquer
+votre lieu de confinement s’il vous est demandé.
 
 
 
@@ -7530,9 +7505,9 @@ déplacement puisse être vérifiée.\
 
 
 
-L’attestation de déplacement dérogatoire peut être ou choix imprimée ou
-rédigée sur papier libre selon le modèle téléchargeable en ligne. En
-revanche, l’attestation employeur doit être visée par l’employeur.
+-   l’attestation de déplacement dérogatoire peut être imprimée ou
+    rédigée sur papier libre selon le modèle téléchargeable en ligne ;
+-   l’attestation employeur doit être signée par l’employeur.
 
 
 
@@ -7542,32 +7517,30 @@ revanche, l’attestation employeur doit être visée par l’employeur.
 
 
 
-Il est nécessaire de recopier : 
-
--   la partie correspondant à son identité 
+Il est nécessaire de recopier :\
+ 
+-   la partie correspondant à son identité ;
 -   la mention « certifie que mon déplacement est lié au motif suivant
     autorisé par l’article 3 du décret du 23 mars 2020 prescrivant les
-    mesures générales pour faire face à l'épidémie de Covid-19  dans le
-    cadre de l'état d'urgence sanitaire portant réglementation des
-    déplacements dans le cadre de la lutte contre la la propagation du
-    virus Covid-19 » 
--   la ligne correspondant au motif
--   le lieu, la date, l'heure et la signature.
+    mesures générales nécessaires pour faire face à l’épidémie de
+    Covid-19 dans le cadre de l’état d’urgence sanitaire » ;
+-   la ligne correspondant au motif ;
+-   le lieu, la date, l’heure.
+
+Et de signer, dans tous les cas.
 
 
 
 
 
-#### C’est à imprimer tous les jours ou juste une fois ? {#cest-à-imprimer-tous-les-jours-ou-juste-une-fois .item-question}
+#### Dois-je faire une nouvelle attestation pour chaque déplacement ? {#dois-je-faire-une-nouvelle-attestation-pour-chaque-déplacement .item-question}
 
 
 
-Pour chaque déplacement, une attestation de déplacement dérogatoire doit
-être renseignée et signée le jour même du déplacement : cette
-attestation n’est donc valable qu’une fois et doit être renouvelée au
-besoin.
-
-L’attestation de l’employeur, elle, a une validité permanente.
+Oui.
+-   l’attestation n’est valable qu’une fois et doit être renouvelée pour
+    chaque déplacement. ;
+-   en revanche, l’attestation de l’employeur a une validité permanente.
 
 
 
@@ -7577,9 +7550,8 @@ L’attestation de l’employeur, elle, a une validité permanente.
 
 
 
-L’attestation de déplacement dérogatoire est à usage unique. Elle doit
-donc être renseignée à l’aide d’un stylo à encre indélébile et doit être
-renouvelée pour chaque déplacement.
+Non, l’attestation de déplacement dérogatoire est à usage unique et doit
+être renseignée avec un stylo à encre indélébile.
 
 
 
@@ -7589,9 +7561,9 @@ renouvelée pour chaque déplacement.
 
 
 
-Il convient de limiter le plus possible les déplacements. Ainsi il sera
-nécessaire de réaliser une déclaration signée à la date du jour pour
-chaque déplacement personnel.
+Oui.\
+Sauf pour l’attestation de l’employeur qui vous permet de vous rendre au
+travail et une validité permanente.
 
 
 
@@ -7886,6 +7858,18 @@ Les arrêtés seront motivés localement sur la base des éléments suivants
 : taux de réservation important des locations saisonnières, conditions
 météorologiques propices, risque de saturation des établissements de
 santé en cas d’augmentations brutale de la population, etc
+
+
+
+
+
+#### L’attestation de déplacement dérogatoire peut-elle se faire en numérique, plutôt que sur papier ? {#lattestation-de-déplacement-dérogatoire-peut-elle-se-faire-en-numérique-plutôt-que-sur-papier .item-question}
+
+
+
+Oui. Vous pouvez créer votre attestation de déplacement dérogatoire en
+ligne sur le site du ministère de l’Intérieur :
+<https://www.interieur.gouv.fr/Actualites/L-actu-du-Ministere/Attestation-de-deplacement-et-de-voyage>
 
 
 
