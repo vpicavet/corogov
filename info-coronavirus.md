@@ -1279,12 +1279,12 @@ distance** les uns des autres
 
 
 **Si j’ai des symptômes (toux, fièvre) qui me font penser au COVID-19 :
-je reste à domicile, j’évite les contacts, j’appelle un médecin avant de
+je reste chez moi, j’évite les contacts, j’appelle un médecin avant de
 me rendre à son cabinet ou j’appelle le numéro de permanence de soins de
 ma région. Je peux également bénéficier d’une téléconsultation.**\
 \
-Si les symptômes s’aggravent avec des difficultés respiratoires,
-j’appelle le SAMU- Centre 15.
+**Si les symptômes s’aggravent avec des difficultés respiratoires,
+j’appelle le SAMU- Centre 15.**
 
 
 
@@ -1296,12 +1296,12 @@ j’appelle le SAMU- Centre 15.
 Face à l’infection, il existe des gestes simples pour se protéger, on
 les appelle les gestes barrières :
 
--   Se laver les mains très régulièrement
--   Tousser ou éternuer dans son coude ou dans un mouchoir 
--   Saluer sans se serrer la main, éviter les embrassades
--   Utiliser des mouchoirs à usage unique et les jeter
--   Eviter les rassemblements, limiter les déplacements et les contacts
--   Se distancier d’au moins un mètre de chaque autre personne autour de
+-   se laver les mains très régulièrement
+-   tousser ou éternuer dans son coude ou dans un mouchoir 
+-   saluer sans se serrer la main, éviter les embrassades
+-   utiliser des mouchoirs à usage unique et les jeter
+-   éviter les rassemblements, limiter les déplacements et les contacts
+-   se distancier d’au moins un mètre de chaque autre personne autour de
     soi
 
 
@@ -1356,11 +1356,12 @@ distanciation sociale qui sont efficaces.\
 \
 Néanmoins, au terme d’une démarche supervisée par l’Agence nationale de
 sécurité du médicament et des produits de santé (ANSM), avec le soutien
-de l’ANSES, deux nouvelles catégories de masques grand public ont ainsi
-été créées. Ces masques auront vocation à être utilisés dans des
-situations professionnelles en complément des mesures barrières (voir la
-question « Existe-t-il d’autres masques que les FFP2 pour se protéger
-efficacement contre le COVID-19 ?).\
+de l’Agence nationale de sécurité sanitaire de l’alimentation, de
+l’environnement et du travail (ANSES), deux nouvelles catégories de
+masques grand public ont été créées. Ces masques auront vocation à être
+utilisés dans des situations professionnelles, en complément des mesures
+barrières (voir la question "Pour l’accès aux masques" dans la rubrique
+"Les mesures prises par le Gouvernement").\
 \
 A partir du 11 mai, l'Etat, en lien avec les maires, permettra à chaque
 Français de se procurer un masque grand public.\
@@ -1374,6 +1375,13 @@ Français de se procurer un masque grand public.\
 
 
 
+Tous les efforts sont entrepris par l’Etat, les collectivités et
+certaines entreprises, pour augmenter la capacité de production de
+masques en France, multiplier les commandes à l’étranger et accélérer
+les livraisons.\
+\
+*En savoir plus*\
+\
 Le 21 mars, le ministre des Solidarités et de la Santé, Olivier Véran, a
 réaffirmé la stratégie sanitaire : fournir en priorité des masques aux
 professionnels de santé amenés à prendre en charge des patients COVID-19
@@ -1384,22 +1392,23 @@ garantir la continuité de l’accompagnement à domicile des personnes
 \
 Au 28 mars 2020, le stock d'État est de 117 millions de masques
 chirurgicaux.\
+\
 A ce jour, 40 millions de masques de protection sont consommés chaque
 semaine en France.\
 \
 La France est en mesure de fabriquer 8 millions de masques
 supplémentaires chaque semaine ; dans les prochaines semaines, cette
 capacité de production nationale passera à 10 millions de masques par
-semaine.. 
-
+semaine.\
 \
-À cela s’ajoute des commandes de plus de 250 millions de masques, qui
+À cela s’ajoutent des commandes de plus de 250 millions de masques, qui
 sont livrés progressivement depuis le 24 mars.\
 \
 Le samedi 28 mars 2020, le Premier ministre et le ministre des
 Solidarités et de la Santé annoncent avoir passé commande pour plus d’un
 milliard de masques, progressivement livrés depuis la Chine via un pont
-aérien.
+aérien. Les collectivités territoriales et certaines entreprises
+contribuent également à cet effort d’approvisionnement.
 
 
 
@@ -1409,53 +1418,52 @@ aérien.
 
 
 
-Depuis le début de la crise, les masques sont livrés en priorité : 
+Depuis le début de la crise, pour préserver les capacités hospitalières,
+les masques sont livrés en priorité : 
 
 -   aux professionnels de santé amenés à prendre en charge des patients
     COVID 19 en ville comme à l’hôpital ; 
--   aux personnes qui interviennent auprès des personnes âgées en EHPAD,
-    pour préserver les capacités hospitalières.
+-   aux personnes qui interviennent auprès des personnes âgées en EHPAD.
 
 \
 Depuis le 21 mars, les masques sont distribués ainsi :
 
--   Pour les médecins de ville, les biologistes médicaux et les
+-   pour les médecins de ville, les biologistes médicaux et les
     infirmiers de ville : 18 masques par semaine et par professionnel,
     dont des masques FFP2 dans le strict respect des indications ;
--   Pour les pharmaciens de ville : 18 masques chirurgicaux par semaine
+-   pour les pharmaciens de ville : 18 masques chirurgicaux par semaine
     et par professionnel ; 
--   Pour les masseurs-kinésithérapeutes : 6 masques par semaine et par
+-   pour les masseurs-kinésithérapeutes : 6 masques par semaine et par
     professionnel, chirurgicaux ou aux normes FFP2, dans le strict
     respect des indications et selon les disponibilités, pour la
     réalisation des actes prioritaires et non reportables ;
--   Pour les sages-femmes : 6 masques chirurgicaux par semaine pour la
+-   pour les sages-femmes : 6 masques chirurgicaux par semaine pour la
     prise en charge des femmes confirmées COVID-19 ;
--   Pour les prestataires de service et les distributeurs de matériel :
+-   pour les prestataires de service et les distributeurs de matériel :
     1 boîte de 50 masques chirurgicaux par semaine et, en moyenne, par
     entreprise pour assurer les visites prioritaires ; 
--   Pour les personnes exerçant des activités de services d’aide et de
+-   pour les personnes exerçant des activités de services d’aide et de
     soins à domicile : 9 masques chirurgicaux par semaine et par
     professionnel exerçant au sein de la structure pour assurer les
     visites prioritaires. 
--   Pour les EHPAD et les structures médico-sociales accueillant des
+-   pour les EHPAD et les structures médico-sociales accueillant des
     personnes fragiles, notamment les personnes en situation de handicap
     ou des patients COVID-19 sans domicile ne relevant pas d’une
     hospitalisation :  5 masques chirurgicaux par lit ou place et par
     semaine. Les EHPAD disposeront dans la durée de 500 000 masques
     chirurgicaux par jour, comme le réclamaient les responsables de
     leurs fédérations.
--   Pour l’hospitalisation conventionnelle dans les établissements de
+-   pour l’hospitalisation conventionnelle dans les établissements de
     santé : 3 masques chirurgicaux par jour et par professionnel de
     santé dans les services de soins prenant en charge les cas possibles
     ou confirmés et, pour la réalisation des gestes à risque, des
     masques FFP2 dans les services d’urgence, d’accueil des malades
     COVID-19 et de soins critiques 
--   Pour l’hospitalisation à domicile : 2 boîtes de 50 masques
+-   pour l’hospitalisation à domicile : 2 boîtes de 50 masques
     chirurgicaux par semaine et, en moyenne, par structure ;
--   Pour les transporteurs sanitaires et les centres de secours : 1
+-   pour les transporteurs sanitaires et les centres de secours : 1
     boîte de 50 masques par semaine et par structure.
 
-\
 Les chirurgiens-dentistes disposent désormais d’un stock dédié de
 masques qu’ils ont eux-mêmes réparti sur le territoire de façon à
 pouvoir dans la durée assurer les soins urgents à la population.
@@ -1469,7 +1477,7 @@ pouvoir dans la durée assurer les soins urgents à la population.
 
 
 Pour les professionnels du secteur médico-social travaillant en EHPAD,
-le Gouvernement a mis à disposition 500 000 masques par jour, comme il
+le Gouvernement a mis à disposition 500 000 masques par jour, comme cela
 avait été demandé par les directeurs d’établissements. Concernant les
 autres aidants pour personnes âgées, le Gouvernement a demandé la
 création et fabrication de nouveaux masques à usage non sanitaire. A ce
@@ -1484,28 +1492,29 @@ titre, ils pourront en être équipés.
 
 
 Oui, par décret du 3 mars 2020, sont réquisitionnés les stocks de type
-FFP2 ainsi que les masques chirurgicaux produits jusqu’au 31 mai 2020.
+FFP2 (masques réservés à des opérations spécifiques réalisées par les
+soignants) ainsi que les masques chirurgicaux produits jusqu’au 31 mai
+2020.
 
 
 
 
 
-#### À défaut d’un masque, est-il utile de se protéger le visage avec un foulard lorsqu’on va faire ses courses ou que l’on sort dans la rue ? {#à-défaut-dun-masque-est-il-utile-de-se-protéger-le-visage-avec-un-foulard-lorsquon-va-faire-ses-courses-ou-que-lon-sort-dans-la-rue .item-question}
+#### À défaut d’un masque, est-il utile que je me protège le visage avec un foulard ou une écharpe lorsque je vais faire mes courses ou que je sors dans la rue ? {#à-défaut-dun-masque-est-il-utile-que-je-me-protège-le-visage-avec-un-foulard-ou-une-écharpe-lorsque-je-vais-faire-mes-courses-ou-que-je-sors-dans-la-rue .item-question}
 
 
 
-Il n’existe aucune étude ce jour évaluant l’efficacité des foulards ou
-écharpes en tant que « masques » pour se protéger de virus. Il semble
-toutefois peu probable qu’ils soient efficaces, car les mailles des
-tissus utilisés laissent passer les virus. De plus, ils exposent au
-risque de se toucher fréquemment le visage, et donc se contaminer à
-travers les mains.
+Il semble peu probable qu’ils soient efficaces pour se protéger, car les
+mailles des tissus utilisés laissent passer les virus. Aucune étude à ce
+jour n’en a démontré l’efficacité. De plus, ils exposent au risque de se
+toucher fréquemment le visage, et donc se contaminer à travers les
+mains.
 
 
 
 
 
-#### Existe-t-il d’autres masques que les FFP2 pour se protéger efficacement contre le COVID-19 ? {#existe-t-il-dautres-masques-que-les-ffp2-pour-se-protéger-efficacement-contre-le-covid-19 .item-question}
+#### Quels sont les différents types de masques pour se protéger efficacement contre le COVID-19 ? {#quels-sont-les-différents-types-de-masques-pour-se-protéger-efficacement-contre-le-covid-19 .item-question}
 
 
 
@@ -1530,76 +1539,81 @@ chirurgicaux par mois avant la crise, à plus de 40 millions en avril.\
 La priorité du Gouvernement en termes de masques est l’équipement des
 professionnels de santé, via des importations massives et l’augmentation
 de nos capacités de production.\
- \
+\
 Mais il y a aussi une demande croissante, dans de nombreux secteurs
 d’activité, d’augmenter la protection des salariés par des masques en
 complément des gestes barrières et des mesures de distanciation
 sociale.\
- \
+\
 Pour contribuer à y répondre, le Gouvernement a mobilisé les industriels
 français du textile afin de proposer de nouveaux types de masques
-anti-projections, avec des performances adaptées au domaine non
-médical.\
-\
+anti-projections, avec des performances adaptées au domaine non médical.
 L’une de ces catégories sera dédiée aux personnes en contact fréquent
-avec le public.\
+avec le public. L’Etat notamment les utilisera, pour certaines
+catégories de ses agents publics.\
 \
 Il s’agit d’un outil complémentaire pour contribuer à la prévention du
-COVID-19 dans le milieu professionnel. L’Etat s’en saisira, pour
-certaines catégories d’agents publics.\
+COVID-19 dans le milieu professionnel.\
 \
-Le mardi 7 avril 2020, le ministère de l’Economie et des Finances a
-annoncé que l’engagement de la filière Textile-Habillement a déjà permis
-la production de 3,9 millions de masques grand public à usage
-professionnel non sanitaire (produits entre le 30 mars et le 5 avril).
-Cette production devrait monter rapidement en cadence pour atteindre 6,6
-millions d’unités au cours de la même semaine.\
+Les premiers résultats sont au rendez-vous : le mardi 7 avril 2020, le
+ministère de l’Economie et des Finances a annoncé que l’engagement de la
+filière Textile-Habillement a déjà permis la production de 3,9 millions
+de masques grand public à usage professionnel non sanitaire (produits
+entre le 30 mars et le 5 avril). Cette production devrait monter
+rapidement en cadence pour atteindre 6,6 millions d’unités au cours de
+la même semaine.\
 \
-Ce sont désormais 76 entreprises dont les prototypes de masques
-barrières ont été testés et qualifiés pour leur propriétés filtrantes.
-Parmi les 146 modèles qualifiés à ce jour, 12 ont d’ores-et-déjà été
+Ce sont désormais 76 entreprises dont les prototypes de masques grand
+public ont été testés et qualifiés pour leur propriétés filtrantes.
+Parmi les 146 modèles qualifiés à ce jour, 12 ont d’ores et déjà été
 certifiés lavables au moins 5 fois, pour une capacité de production
 quotidienne à court terme de 456 000 masques (soit l’équivalent d’une
 production de 3,5 millions de masques à usage unique par jour).\
 \
-Ces masques sont qualifiés pour des environnements de travail :
--   Masques grand public de catégorie 1 : l’usage de ces masques est
+Ces masques sont qualifiés pour des environnements de travail :\
+ 
+-   masques grand public de catégorie 1 : l’usage de ces masques est
     destiné aux populations amenées à accueillir du public dans le cadre
     de leurs activités professionnelles (policiers, gendarmes, hôtesses
     de caisses, etc.). Ils filtrent plus de 90% des particules émises
     d’une taille supérieure ou égale à 3 microns compatibles avec cette
-    utilisation.
--   Masques grand public de catégorie 2 : ces masques sont destinés à
+    utilisation ;
+-   masques grand public de catégorie 2 : ces masques sont destinés à
     l’usage d’individus ayant des contacts occasionnels avec d’autres
     personnes, dans le cadre professionnel. Leurs propriétés de
     filtration des particules supérieures ou égales à 3 microns
     apportent un complément de protection aux gestes barrières.
 
+Il faut rappeler que le port de masque doit nécessairement s’accompagner
+du respect des gestes barrières ainsi que des mesures de distanciation
+sociale.\
 \
-Toutefois, il faut rappeler que le port de masque doit nécessairement
-s’accompagner du respect des mesures barrières (se laver les mains,
-tousser dans son coude, utiliser des mouchoirs à usage unique, ne pas se
-serrer les mains et éviter les embrassades) ainsi que les mesures de
-distanciation sociale.\
-\
-\
-4.    **Il existe des masques FFP3**, réservés à certaines utilisations
+4. **Il existe des masques FFP3**, réservés à certaines utilisations
 très spécifiques. Ils ne sont pas utiles en prévention de la
-transmission COVID-19.\
-\
+transmission COVID-19.
+
+
+
+
+
+#### Pour les entreprises qui souhaitent acquérir des masques {#pour-les-entreprises-qui-souhaitent-acquérir-des-masques .item-question}
+
+
+
 Le ministère de l’Economie et des Finances aide les entreprises et les
 filières à s’approvisionner en masques de protection nécessaires à la
 poursuite de l’activité économique. Plusieurs possibilités sont ouvertes
-aux entreprises souhaitant acquérir des masques :
--   **Recourir à l’importation** : les entreprises dont l’activité
+aux entreprises :\
+ 
+-   **recourir à l’importation** : les entreprises dont l’activité
     nécessite le port d’un masque de protection peuvent se fournir
     directement auprès de producteurs étrangers sans que les masques
-    importés ne soient réquisitionnés.
--   **Passer commande sur la plateforme StopCovid19.fr** : plateforme
+    importés ne soient réquisitionnés ;
+-   **passer commande sur la plateforme StopCovid19.fr** : plateforme
     professionnelle qui permet de mettre en relation les fabricants et
     les acheteurs de gels hydro-alcooliques et masques de protection (la
-    plateforme a déjà permis la commande de 1 390 000 masques). 
--   **Mutualiser les commandes au niveau des filières ou grands donneurs
+    plateforme a déjà permis la commande de 1 390 000 masques) ;
+-   **mutualiser les commandes au niveau des filières ou grands donneurs
     d’ordre** : afin d’aider les PME et sous-traitants à importer, le
     ministère de l’Economie et des Finances a demandé aux filières
     industrielles et économiques, ainsi qu’aux principaux donneurs
@@ -1607,17 +1621,16 @@ aux entreprises souhaitant acquérir des masques :
     chaque filière, des commandes mutualisées au bénéfice de l’ensemble
     de leurs entreprises.
 
-\
 Par ailleurs, le 9 avril 2020, le ministre de l’Economie et des Finances
 et le ministre de l’Action et des Comptes publics ont annoncé que les
 entreprises fabriquant ou important du matériel sanitaire (masques, gels
 hydroalcooliques, tenues de protection et respirateurs) et qui en font
-dons à des établissements de santé, à des établissements sociaux et
+don à des établissements de santé, à des établissements sociaux et
 médico-sociaux qui accueillent des personnes âgées, handicapées ou
 atteintes de pathologies chroniques, à des professionnels de la santé ou
 à des services de l’État et des collectivités territoriales, pourront
 déduire la taxe sur la valeur ajoutée (TVA) supportée à l’occasion de
-l’acquisition ou de la fabrication de ces matériels.   
+l’acquisition ou de la fabrication de ces matériels.
 
 
 
@@ -1627,8 +1640,9 @@ l’acquisition ou de la fabrication de ces matériels.   
 
 
 
-Le prix du gel hydro-alcoolique est encadré depuis le 6 mars par
-[décret](https://www.service-public.fr/particuliers/actualites/A13909): 
+Le prix du gel hydro-alcoolique est encadré par
+[décret ](https://www.service-public.fr/particuliers/actualites/A13909)depuis
+le 6 mars :
 
 -   2 € TTC maximum les 50 ml 
 -   3 € TTC maximum les 100 ml 
@@ -1654,12 +1668,15 @@ disponible.
 Non. Les gants peuvent également servir de support au virus après
 souillage par des gouttelettes (les sécrétions respiratoires qu’on émet
 quand on tousse, éternue, ou discute), qui sont le moyen de transmission
-du coronavirus. Porter des gants est donc inutile, sauf dans des
-situations très spécifiques (personnels soignants réalisant des
-prélèvements ou gestes à risque). Ce sont les gestes barrières (se laver
-fréquemment les mains, tousser dans son coude, utiliser des mouchoirs à
-usage unique et les jeter après utilisation) et les mesures de
-distanciation sociale qui sont efficaces.
+du coronavirus.\
+\
+Porter des gants est donc inutile, sauf dans des situations très
+spécifiques (personnels soignants réalisant des prélèvements ou gestes à
+risque) et avec du matériel à usage unique.\
+\
+Ce sont les gestes barrières (se laver fréquemment les mains, tousser
+dans son coude, utiliser des mouchoirs à usage unique et les jeter après
+utilisation) et les mesures de distanciation sociale qui sont efficaces.
 
 
 
@@ -1705,18 +1722,18 @@ l’Europe et des Affaires
 
 
 
-**A. Si vous êtes Français résident au sein de l’espace européen (Union
+**A. Si vous êtes français résident au sein de l’espace européen (Union
 européenne, espace Schengen, Royaume-Uni).**
 
-Si vous êtes Français et avez votre résidence habituelle hors de France
-mais au sein de l’espace européen, nous vous recommandons d’éviter des
-déplacements intra-européens, même pour revenir sur le territoire
-national, à moins que des raisons impératives ne vous y contraignent. Si
-plusieurs frontières terrestres devaient être franchies pour regagner la
-France, des retours directs par voie aérienne devraient, dans la mesure
-du possible, être privilégiés.\
+Nous vous recommandons d’éviter des déplacements intra-européens, même
+pour revenir sur le territoire national, à moins que des raisons
+impératives ne vous y contraignent.\
 \
-**B. Si vous êtes Français ayant votre résidence habituelle en dehors de
+Si plusieurs frontières terrestres devaient être franchies pour regagner
+la France, des retours directs par voie aérienne devraient, dans la
+mesure du possible, être privilégiés\
+\
+**B. Si vous êtes français ayant votre résidence habituelle en dehors de
 l’espace européen.**
 
 Nous vous recommandons d’éviter autant que possible les déplacements
@@ -1730,71 +1747,51 @@ consulats dès que possible.\
 l’étranger.**\
 \
 Nous vous recommandons de prendre toutes les mesures nécessaires pour
-rentrer rapidement en France tant que des liaisons aériennes sont en
-place. Pour vous y aider, le ministère chargé des Transports a demandé
+rentrer rapidement en France si des liaisons aériennes sont encore en
+place. Pour vous y aider, le ministère chargé des transports a demandé
 aux compagnies aériennes de maintenir au maximum leurs lignes ouvertes
 vers la France et de modérer leurs prix.\
 \
-Le ministère de l’Europe et des Affaires étrangères est mobilisé pour
-obtenir l’autorisation de liaisons aériennes spéciales et pour qu’elles
-puissent être assurées par des vols commerciaux. \
+Suite à la fermeture de nombreuses frontières, le ministère de l’Europe
+et des Affaires étrangères s’est mobilisé pour obtenir l’autorisation de
+l'organisation de liaisons aériennes spéciales, principalement assurées
+par des vols commerciaux.\
 \
-Plusieurs mesures d’accompagnement ont été mises en place afin d’aider
-et de faciliter les démarches des ressortissants français. Ainsi, un
-dispositif exceptionnel a permis d’engager une coopération
-opérationnelle avec le groupe Air France, et ses compagnies Air France
-et Transavia, et d’autres compagnies aériennes françaises et étrangères,
-notamment Qatar Airways. Cette coopération articulée avec les ambassades
-et consulats permet d’abord de recenser, pays par pays, les besoins puis
-de mettre en œuvre un plan de transport adapté en fonction des priorités
-et des urgences locales. Au 7 avril 2020 plus de 151.000 Français de
-passage à l’étranger ont ainsi pu regagner la France. \
+Un dispositif exceptionnel a permis à plus de 150 000 Français de
+passage à l’étranger de regagner la France grâce à une coopération, en
+fonction des priorités et des urgences locales, avec des compagnies
+aériennes, notamment Air France, et parfois en liaison avec l’Union
+européenne.\
 \
-Il est nécessaire de consulter régulièrement les sites des ambassades et
-des compagnies aériennes, notamment d’Air France.\
+Si des vols commerciaux spéciaux sont encore prévus dans les jours à
+venir, ainsi que des vols affrétés par la France et des vols vers
+l’Europe organisés par l’Union européenne dans le cadre du mécanisme de
+protection civile de l’Union (MPCU), les opérations d'aide au retour des
+Français de passage bloqués à l'étranger touchent à leur fin.\
 \
-Les Français non-résidents sont invités à s’inscrire sur Ariane, afin de
-recevoir des informations actualisées. Lorsque vous serez rentré en
-France, pensez à vous connecter sur votre compte Ariane afin
-d’actualiser vos données de voyage en indiquant votre date de retour.\
+Si vous n'avez pas pu bénéficier de ce dispositif d’assistance :\
 \
-Les ambassades et les consulats sont mobilisés 24 heures sur 24, auprès
-des Français se trouvant à l’étranger, pour apporter toute l’aide
-possible
+- les ambassades et les consulats de France restent mobilisés, pour
+apporter toute l'aide possible aux Français de passage. Vous trouverez
+des informations utiles ainsi que les coordonnées des ambassades et
+consulats sur les [Conseils aux
+voyageurs](https://www.diplomatie.gouv.fr/fr/conseils-aux-voyageurs/conseils-par-pays-destination/),
+notamment si vous souhaitez signaler un cas particulier présentant un
+caractère d’urgence ;\
+- pour obtenir des informations sur la situation du pays dans lequel
+vous vous trouvez, vous êtes invités à consulter la rubrique [Dernières
+minutes](https://www.diplomatie.gouv.fr/fr/conseils-aux-voyageurs/dernieres-minutes/)
+des [Conseils aux
+voyageurs](https://www.diplomatie.gouv.fr/fr/conseils-aux-voyageurs/conseils-par-pays-destination/);\
+- nous vous recommandons, si vous ne l'avez pas déjà fait, de vous
+inscrire sur
+[Ariane](https://pastel.diplomatie.gouv.fr/fildariane/dyn/public/login.html),
+afin de recevoir éventuellement des alertes et/ou des informations ;\
+- les compagnies de transports et notamment aériennes sont également
+susceptibles de vous renseigner et de vous apporter des informations sur
+les liaisons encore opérationnelles.
 
- 
 Pour plus d’informations, consultez la page dédiée du [ministère de
-l’Europe et des Affaires
-étrangères](https://www.diplomatie.gouv.fr/fr/le-ministere-et-son-reseau/actualites-du-ministere/informations-coronavirus-covid-19/coronavirus-les-reponses-a-vos-questions/).
-
-
-
-
-
-#### Le retour en France est-il permis pour les étrangers ? {#le-retour-en-france-est-il-permis-pour-les-étrangers .item-question}
-
-
-
-Les citoyens européens et les ressortissants britanniques, islandais,
-liechtensteinois, norvégiens, andorrans, monégasques et suisses, leurs
-conjoints et leurs enfants sont admis à rentrer en France, de même que
-les citoyens du Saint Siège et de San Marin, leurs conjoints et leurs
-enfants, s’ils résident en France ou s’ils transitent par la France pour
-rejoindre leur résidence.\
-\
-Les étrangers titulaires d’un titre de séjour en cours de validité, y
-compris visa de long séjour valant titre de séjour, sont autorisés à
-entrer en France.\
-\
-Dans des cas limités (transport de marchandises notamment), des
-étrangers titulaires d’un visa de court séjour seront autorisés à entrer
-en France.\
-\
-Si vous êtes Français, vous pouvez bien sûr, avec votre conjoint et vos
-enfants, continuer d’entrer sur le territoire national et rejoindre
-votre domicile.\
- 
-Pour plus d’informations, consultez [la page dédiée du Ministère de
 l’Europe et des Affaires
 étrangères](https://www.diplomatie.gouv.fr/fr/le-ministere-et-son-reseau/actualites-du-ministere/informations-coronavirus-covid-19/coronavirus-les-reponses-a-vos-questions/).
 
@@ -1811,6 +1808,33 @@ Français bloqués à l’étranger en situation de difficultés et des
 Français établis hors de France se portant volontaires pour les
 accueillir. Vous pouvez vous connecter à l’adresse
 [www.sosuntoit.fr.](https://www.sosuntoit.fr)
+
+
+
+
+
+#### Le retour en France est-il permis pour les étrangers ? {#le-retour-en-france-est-il-permis-pour-les-étrangers .item-question}
+
+
+
+-   les citoyens européens et les ressortissants britanniques,
+    islandais, liechtensteinois, norvégiens, andorrans, monégasques et
+    suisses, leurs conjoints et leurs enfants sont admis à rentrer en
+    France, de même que les citoyens du Saint-Siège et de San Marin,
+    leurs conjoints et leurs enfants, s’ils résident en France ou s’ils
+    transitent par la France pour rejoindre leur résidence ;
+-   les étrangers titulaires d’un titre de séjour en cours de validité,
+    y compris visa de long séjour valant titre de séjour, sont autorisés
+    à entrer en France ;
+-   des étrangers titulaires d’un visa de court séjour seront autorisés
+    à entrer en France, dans des cas limités (transport de marchandises
+    notamment) ; si vous êtes français, vous pouvez bien sûr, avec votre
+    conjoint et vos enfants, continuer d’entrer sur le territoire
+    national et rejoindre votre domicile.
+
+Pour plus d’informations, consultez [la page dédiée du Ministère de
+l’Europe et des Affaires
+étrangères](https://www.diplomatie.gouv.fr/fr/le-ministere-et-son-reseau/actualites-du-ministere/informations-coronavirus-covid-19/coronavirus-les-reponses-a-vos-questions/).
 
 
 
