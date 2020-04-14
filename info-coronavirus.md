@@ -295,7 +295,7 @@ réanimation et au décès.
 
 
 Le délai d’incubation est la période entre la contamination et
-l’apparition des premiers symptômes.  Le délai d’incubation du
+l’apparition des premiers symptômes. Le délai d’incubation du
 coronavirus COVID-19 est de 3 à 5 jours en général, il peut toutefois
 s’étendre jusqu’à 14 jours. Pendant cette période, le sujet peut être
 contagieux : il peut être porteur du virus avant l’apparition des
@@ -313,7 +313,7 @@ Le virus touche toutes les classes d'âges, y compris les plus jeunes,
 chez qui on constate aussi des complications ou des formes graves. La
 médiane des personnes hospitalisées en réanimation est de 58 ans (ce qui
 signifie que la moitié des patients hospitalisés en réanimation ont
-moins de 58 ans et que l'autre moitié a plus de 58 ans).\
+moins de 58 ans).\
 \
 L'infection à COViD-19 entraine des décès surtout chez les personnes
 âgées et les plus fragiles.\
@@ -321,55 +321,6 @@ L'infection à COViD-19 entraine des décès surtout chez les personnes
 - Les + de 60 ans représentent environ 90% des décès.\
 - Les + de 70 ans représentent environ 80% des décès.\
 - Les + de 80 ans représentent environ 60% des décès.
-
-
-
-
-
-#### Le virus a-t-il muté ? {#le-virus-a-t-il-muté .item-question}
-
-
-
-À ce jour il n’existe pas d’arguments scientifiques suffisamment
-robustes en faveur de la circulation de plusieurs souches réellement
-différentes. Les travaux de recherche se poursuivent aujourd’hui pour
-mieux connaître le virus.\
-\
-Il convient de rappeler que la grande majorité des mutations des virus
-sont neutres, et le reste plus souvent bénéfiques pour l’Homme que
-l’inverse. En effet, dans la majorité des épidémies, les virus évoluent
-vers moins de dangerosité mais plus de diffusion.
-
-
-
-
-
-#### Y aura t-il une seconde vague de virus qui touchera les plus jeunes ? {#y-aura-t-il-une-seconde-vague-de-virus-qui-touchera-les-plus-jeunes .item-question}
-
-
-
-La notion de seconde vague évoquée par le Président de la République se
-fonde sur les observations scientifiques montrant que les sujets jeunes,
-au début de leur contamination, présentent des symptômes peu graves,
-mais qu’après environ une semaine d’évolution, certains présentent des
-atteintes plus sévères, nécessitant de possibles hospitalisations.
-
-
-
-
-
-#### Après avoir guéri du coronavirus, est-on immunisé ou est-il possible de tomber malade une deuxième fois ? {#après-avoir-guéri-du-coronavirus-est-on-immunisé-ou-est-il-possible-de-tomber-malade-une-deuxième-fois .item-question}
-
-
-
-Après avoir rencontré un virus, notre organisme développe des défenses
-immunitaires appelées anticorps, lui permettant de se défendre contre ce
-virus. Après l’infection au coronavirus, nous ne savons pas encore bien
-si ces anticorps sont efficaces et pour combien de temps. Bien que nous
-soyons encore à un stade précoce pour se prononcer sur cette question,
-de l’avis des scientifiques les premières données semblent rassurantes,
-car ce jour, aucun cas réellement confirmé de re-contamination ne semble
-avoir eu lieu.
 
 
 
@@ -427,6 +378,55 @@ Pharmacovigilance).
 
 
 
+#### Le virus a-t-il muté ? {#le-virus-a-t-il-muté .item-question}
+
+
+
+À ce jour il n’existe pas d’arguments scientifiques suffisamment
+robustes en faveur de la circulation de plusieurs souches réellement
+différentes. Les travaux de recherche se poursuivent aujourd’hui pour
+mieux connaître le virus.\
+\
+Il convient de rappeler que la grande majorité des mutations des virus
+sont neutres. Dans la majorité des épidémies, ces mutations sont
+bénéfiques à l’Homme car les virus évoluent vers moins de dangerosité.
+Mais ils se diffusent aussi davantage.
+
+
+
+
+
+#### Y aura t-il une seconde vague de virus qui touchera les plus jeunes ? {#y-aura-t-il-une-seconde-vague-de-virus-qui-touchera-les-plus-jeunes .item-question}
+
+
+
+La notion de seconde vague évoquée par le Président de la République se
+fonde sur les observations scientifiques montrant que les sujets jeunes,
+au début de leur contamination, présentent des symptômes peu graves,
+mais qu’après environ une semaine d’évolution, certains présentent des
+atteintes plus sévères, nécessitant de possibles hospitalisations.
+
+
+
+
+
+#### Après avoir guéri du coronavirus, est-on immunisé ou est-il possible de tomber malade une deuxième fois ? {#après-avoir-guéri-du-coronavirus-est-on-immunisé-ou-est-il-possible-de-tomber-malade-une-deuxième-fois .item-question}
+
+
+
+Après avoir rencontré un virus, notre organisme développe des défenses
+immunitaires appelées anticorps, lui permettant de se défendre contre ce
+virus. Après l’infection au coronavirus, nous ne savons pas encore bien
+si ces anticorps sont efficaces et pour combien de temps. Bien que nous
+soyons encore à un stade précoce pour se prononcer sur cette question,
+de l’avis des scientifiques les premières données semblent rassurantes,
+car ce jour, aucun cas réellement confirmé de re-contamination ne semble
+avoir eu lieu.
+
+
+
+
+
 
 
 ### Transmission {#transmission .item-paragraphe-titre .c-onglet data-picto=""}
@@ -439,12 +439,12 @@ Pharmacovigilance).
 
 
 
-La maladie se transmet par les gouttelettes (sécrétions projetées
-invisibles lors d’une discussion, d’éternuements ou de la toux). On
-considère donc qu’un contact étroit avec une personne malade est
-nécessaire pour transmettre la maladie : même lieu de vie, contact
-direct à moins d’un mètre lors d’une discussion, d’une toux, d’un
-éternuement ou en l’absence de mesures de protection.\
+La maladie se transmet par les gouttelettes (sécrétions invisibles,
+projetées lors d’une discussion, d’éternuements ou de la toux). On
+considère qu’un contact étroit avec une personne malade est nécessaire
+pour transmettre la maladie : même lieu de vie, contact direct à moins
+d’un mètre lors d’une discussion, d’une toux, d’un éternuement ou en
+l’absence de mesures de protection.\
 \
 Un des autres vecteurs privilégiés de la transmission du virus est le
 contact des mains non lavées ou de surfaces souillées par des
@@ -457,7 +457,7 @@ sociale sont indispensables pour se protéger de la maladie.
 
 
 
-#### Peut-on être en contact d’un malade sans être contaminé ? {#peut-on-être-en-contact-dun-malade-sans-être-contaminé .item-question}
+#### Peut-on être en contact avec un malade sans être contaminé ? {#peut-on-être-en-contact-avec-un-malade-sans-être-contaminé .item-question}
 
 
 
@@ -538,8 +538,8 @@ efficacement du virus.
 
 
 Non il n’existe aucune preuve de transmission du virus à travers les
-moustiques, ou tout autre animal d’ailleurs. Le coronavirus COVID-19 se
-transmet entre humains, via les gouttelettes respiratoires. 
+moustiques, ou tout autre animal d’ailleurs. Le COVID-19 se transmet
+entre humains, via les gouttelettes respiratoires. 
 
 
 
@@ -565,8 +565,8 @@ animale.
 
 Le coronavirus est un virus très récent dont on connaît encore mal le
 comportement. \
-Nous ne savons donc pas si la hausse des températures avec la venue des
-beaux jours aura une incidence sur le virus. \
+Nous ne savons pas si la hausse des températures avec la venue des beaux
+jours aura une incidence sur le virus. \
 Toutefois, la chaleur tue effectivement le virus quand on veut
 décontaminer le linge. Il est recommandé de laver le linge contaminé à
 60° pendant 30 minutes.  \
@@ -585,7 +585,9 @@ transmettent pas le virus COVID-19. Ce virus se transmet d'homme à
 homme. Le virus peut cependant vivre quelques heures sur le pelage d'un
 animal.\
 \
-Pour éviter toute contamination et comme recommandé par l'ANSES : \
+Pour éviter toute contamination et comme recommandé par l'Agence
+nationale de sécurité sanitaire de l'alimentation, de l'environnement et
+du travail (ANSES) : \
 \
 - Séparez les animaux des personnes malades ou présumées malades ;\
 - Ne laissez pas l'animal vous lécher le visage ;\
@@ -594,13 +596,12 @@ Pour éviter toute contamination et comme recommandé par l'ANSES : \
 inadaptés !\
 \
 Il n'est pas utile de laver un animal qui sort en promenade.\
-\
-De plus, tout produit qui n'est pas un produit adapté à l'animal
-(shampooing vétérinaire) ne doit en aucun cas être utilisé. Il peut
-nuire à votre animal comme à vous et votre entourage. L'usage de
-produits inadaptés (eau de javel...) voire agressifs pour l'animal, peut
-être assimilé à une véritable maltraitance et surtout ferait souffrir
-votre animal sans aucun bénéfice pour vous comme pour lui.
+De plus, tout produit qui n'est pas adapté à l'animal ne doit en aucun
+cas être utilisé. Il peut nuire à votre animal comme à vous et votre
+entourage. L'usage de produits inadaptés (eau de javel...) voire
+agressifs pour l'animal, peut être assimilé à une véritable maltraitance
+et surtout ferait souffrir votre animal sans aucun bénéfice ni pour vous
+ni pour lui.
 
 
 
@@ -610,11 +611,10 @@ votre animal sans aucun bénéfice pour vous comme pour lui.
 
 
 
-Au vu des informations disponibles, le passage du coronavirus COVID-19
-de l’être humain vers une autre espèce animale semble actuellement peu
-probable, et la possible contamination des denrées alimentaires
-d’origine animale (DAOA) à partir d’un animal infecté par le COVID-19
-est exclue.
+Au vu des informations disponibles, le passage du coronavirus de l’être
+humain vers une autre espèce animale semble actuellement peu probable,
+et la possible contamination des denrées alimentaires d’origine animale
+à partir d’un animal infecté par le COVID-19 est exclue.
 
 Les aliments crus ou peu cuits ne présentent pas de risques de
 transmission d’infection particuliers, dès lors que les bonnes règles
@@ -629,7 +629,7 @@ préparation des denrées alimentaires.
 
 
 
-Oui, bien que ce soit peu probable si on respecte les gestes barrières.
+Oui, bien que ce soit peu probable si on respecte les gestes barrières.\
 Les caddies, comme toutes les surfaces, peuvent servir de support au
 virus, s’ils sont souillés par des gouttelettes respiratoires d’un sujet
 contaminé. Le virus peut rester quelques heures sur une surface comme un
@@ -649,13 +649,13 @@ Les sorties pour acheter du pain ou des produits alimentaires ne
 présentent pas de risque si les gestes barrières et les règles de
 distanciation sociale sont bien respectés. En restant à plus d’un mètre
 des autres clients, et en se lavant les mains lors du retour à domicile,
-il n’y a donc aucun risque à acheter du pain.
+il n’y a donc pas de risque à acheter du pain.
 
 
 
 
 
-#### Puis-je continuer de recevoir et envoyer du courrier, notamment à destination des personnes fragiles (EHPAD…) ? Existe-t’il un risque de contamination ? {#puis-je-continuer-de-recevoir-et-envoyer-du-courrier-notamment-à-destination-des-personnes-fragiles-ehpad-existe-til-un-risque-de-contamination .item-question}
+#### Puis-je continuer de recevoir et envoyer du courrier, notamment à destination des personnes fragiles (EHPAD…) ? Existe-t-il un risque de contamination ? {#puis-je-continuer-de-recevoir-et-envoyer-du-courrier-notamment-à-destination-des-personnes-fragiles-ehpad-existe-t-il-un-risque-de-contamination .item-question}
 
 
 
@@ -715,29 +715,6 @@ votre animal sans aucun bénéfice pour vous comme pour lui.
 
 
 
-
-
-
-
-
-#### Les hôpitaux connaissent-ils une pénurie de médicaments ? Cela pourrait-il arriver ? {#les-hôpitaux-connaissent-ils-une-pénurie-de-médicaments-cela-pourrait-il-arriver .item-question}
-
-
-
-Les hôpitaux du monde entier se retrouvent confrontés à des besoins
-croissants en matière de médicaments utilisés en réanimation. Nous
-pourrions avoir dans les semaines qui viennent des tensions
-d’approvisionnement sur certains produits.. Lorsqu’elles sont
-localisées, ces tensions sont maîtrisées en assurant la coordination et
-la circulation des produits sur l’ensemble du territoire, notamment à
-partir du stock national. Nous encourageons également l’augmentation de
-la production nationale, lorsque c’est possible, et l’augmentation de la
-production mondiale. Des initiatives mondiales sont en train d'être
-prises par les acteurs économiques et les industriels pour augmenter les
-capacités de production et faire face à la demande croissante. En outre,
-nous mobilisons actuellement tous les moyens de l’Etat pour acheter ces
-produits en quantité importante.\
- 
 
 
 
@@ -978,7 +955,7 @@ d'ibuprofène et d'aspirine est suspendue.
 
 
 
-#### Les hôpitaux connaissent-ils une pénurie de médicaments ? Cela pourrait-il arriver ? {#les-hôpitaux-connaissent-ils-une-pénurie-de-médicaments-cela-pourrait-il-arriver-1 .item-question}
+#### Les hôpitaux connaissent-ils une pénurie de médicaments ? Cela pourrait-il arriver ? {#les-hôpitaux-connaissent-ils-une-pénurie-de-médicaments-cela-pourrait-il-arriver .item-question}
 
 
 
@@ -1249,7 +1226,7 @@ Les réflexes à adopter
 
 -   ![](https://www.gouvernement.fr/sites/default/files/cimages/gestes_barrieres_mains_0.png)
 
-    Saluez sans se serrer la main, évitez les embrassades
+    Saluez sans se serrer  la main, évitez les embrassades
 
 
 
