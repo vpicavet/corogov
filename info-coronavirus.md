@@ -122,7 +122,7 @@ COVID-19
 
 
 
-Mis à jour le dimanche 12 avril 2020, à 19h00
+Mis à jour le lundi 13 avril 2020, à 19h45
 
 
 -   [Francais](/info-coronavirus){.active}
@@ -145,15 +145,9 @@ Point de situation
 
 
 
-Après une première prolongation de deux semaines annoncée par le Premier
-ministre le 27 mars 2020, le confinement sera à nouveau prolongé au-delà
-du mercredi 15 avril. Les mêmes règles que celles actuellement en
-vigueur continueront à s’appliquer. Cette période de confinement pourra
-être prolongée si la situation sanitaire l’exige.\
-\
-En application de l’état d’urgence sanitaire, les déplacements sont
-interdits sauf dans les cas suivants et uniquement à condition d'être
-munis d'une attestation pour :
+En application de l’état d’urgence sanitaire, jusqu’au 11 mai, les
+déplacements sont interdits sauf dans les cas suivants et uniquement à
+condition d'être munis d'une attestation pour :
 
 -   **Déplacements entre le domicile et le lieu d’exercice de l’activité
     professionnelle**, lorsqu’ils sont indispensables à l’exercice
@@ -1190,7 +1184,7 @@ partager le maximum de données.
 ### Point de situation en France {#point-de-situation-en-france .item-paragraphe-titre .c-onglet data-picto=""}
 
 
-**Le 12avril 2020, à 19h00**\
+**Le 13 avril 2020, à 19h30**\
  
 
 Les autorités sanitaires tiennent [un point presse
@@ -1203,10 +1197,10 @@ Les informations du jour :
     plusieurs zones de regroupement de cas (clusters). Nous sommes
     actuellement au stade 3 du plan d’actions du Gouvernement qui a pour
     objectif de prévenir et limiter la circulation du virus. 
--   Depuis le 24 janvier 2020, la France compte 95 403 cas confirmés de
+-   Depuis le 24 janvier 2020, la France compte 98 076 cas confirmés de
     coronavirus COVID-19.
--   9 253 personnes sont décédées à l'hôpital,  depuis le 1er mars.
--   27 186 personnes sont sorties guéries de l'hôpital, depuis le 1er
+-   9 588 personnes sont décédées à l'hôpital,  depuis le 1er mars.
+-   27 718 personnes sont sorties guéries de l'hôpital, depuis le 1er
     mars.
 
 Retrouvez toutes les données sur [le tableau de bord COVID-19 de
@@ -1352,6 +1346,7 @@ sanitaires sont réservés aux soignants. De plus, le masque n’est pas la
 bonne réponse systématique pour le grand public car il ne peut être
 porté en permanence et n’a pas d’indication sans contact rapproché et
 prolongé avec un malade.\
+\
 Contre le coronavirus, ce sont les gestes barrières et les mesures de
 distanciation sociale qui sont efficaces.\
 \
@@ -1362,6 +1357,9 @@ de l’ANSES, deux nouvelles catégories de masques grand public ont ainsi
 situations professionnelles en complément des mesures barrières (voir la
 question « Existe-t-il d’autres masques que les FFP2 pour se protéger
 efficacement contre le COVID-19 ?).\
+\
+A partir du 11 mai, l'Etat, en lien avec les maires, permettra à chaque
+Français de se procurer un masque grand public.\
  
 
 
@@ -1675,9 +1673,8 @@ distanciation sociale qui sont efficaces.
 
 
 
-Le Président a annoncé la fermeture, à partir du 17 mars à midi et pour
-30 jours, des frontières extérieures de l’espace européen, c’est-à-dire
-de l’Union européenne, de l’Espace Schengen et du Royaume-Uni.
+Les frontières avec les pays extérieurs à l’espace Schengen sont fermées
+depuis le 17 mars et le resteront jusqu’à nouvel ordre.
 
 
 
