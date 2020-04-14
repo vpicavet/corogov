@@ -2110,7 +2110,8 @@ Je suis un ressortissant français à l’étranger
 
 
 Afin de ralentir la propagation du COVID-19, plusieurs catégories
-d'établissement ne peuvent plus accueillir de public : 
+d'établissement ne peuvent plus accueillir de public, et ce, au moins
+jusqu'au 15 avril 2020 : 
 
 -   Salles d'auditions, de conférences, de réunions, de spectacles ou à
     usage multiple (par exemple, les cinémas) ;
@@ -2249,12 +2250,13 @@ Les animaleries restent également ouvertes.\
 
 Les professionnels et établissements de santé ont été informés
 rapidement de la situation et des recommandations sur la prise en charge
-d’éventuels cas en France leur ont été délivrées, afin que l’ensemble du
-système de santé Français soit prêt pour faire face à la maladie.
+d’éventuels cas en France afin que l’ensemble du système de santé
+Français soit prêt pour faire face à la maladie.
 
 Le 13 février, il a été demandé à chaque Agence régionale de santé
-d’activer le plan [ORSAN
-REB](https://solidarites-sante.gouv.fr/IMG/pdf/guide_situation_sanitaire_exceptionnelle.pdf)
+d’activer le plan d’organisation de la réponse du système de santé
+(dénommé [ORSAN
+REB](https://solidarites-sante.gouv.fr/IMG/pdf/guide_situation_sanitaire_exceptionnelle.pdf))
 dans sa région. L’objectif de ce plan est d’organiser la mobilisation du
 système de santé pour se préparer à une éventuelle circulation active du
 Coronavirus COVID-19 sur le territoire français.
@@ -2266,63 +2268,58 @@ l’OMS.\
 Des mesures de protection sont prises dans les établissements de santé
 pour les personnes et pour freiner la propagation du virus :
 
--   Les visites dans les structures accueillant des enfants et des
-    adultes sont suspendues, excepté dans certaines situations
-    particulières pour lesquelles l’absence de lien avec un aidant
-    référent serait particulièrement préjudiciable (risque de
-    décompensation, troubles du comportement…), appréciées par un
-    médecin. Ces visites autorisées à titre exceptionnel devront
-    néanmoins être organisées dans le respect strict des recommandations
-    formulées.
--   Dans le même objectif, les sorties le week-end sont suspendues pour
-    à la fois protéger les personnes et limiter les risques d’une
-    diffusion du virus dans le collectif de la structure. Les sorties
-    sont envisageables à titre exceptionnel sous réserve d’un avis
-    médical.
--   Tous les efforts seront faits pour organiser les transmissions et
-    mettre en place des moyens de communication quotidien avec les
-    familles, afin qu’elles soient tenues informées de la santé de leur
-    proche.
+-   les visites dans les structures accueillant des enfants et des
+    adultes sont suspendues, sauf situations particulières pour
+    lesquelles l’absence de lien avec un aidant référent serait
+    particulièrement préjudiciable (risque de décompensation, troubles
+    du comportement…), appréciées par un médecin. Ces visites autorisées
+    à titre exceptionnel doivent être organisées dans le respect strict
+    des recommandations ;
+-   les sorties le week-end sont suspendues pour protéger les personnes
+    et limiter les risques d’une diffusion du virus dans le collectif de
+    la structure. Les sorties sont envisageables à titre exceptionnel
+    sous réserve d’un avis médical ;
+-   tous les efforts seront faits pour organiser les transmissions et
+    mettre en place des moyens de communication quotidiens avec les
+    familles.
 
-**En cas de doute dès l’apparition des premiers symptômes, les services
-de soins, de ville, d’urgence et hospitaliers, sont mobilisés pour
-prendre en charge les personnes en situation de handicap.** Les
-professionnels médico-sociaux devront être en appui pour accompagner les
-personnes hospitalisées, notamment polyhandicapées, et les
-professionnels de santé.\
+En cas de doute dès l’apparition des premiers symptômes, les services de
+soins, de ville, d’urgence et hospitaliers, sont mobilisés pour prendre
+en charge les personnes en situation de handicap**.** Les professionnels
+médico-sociaux devront être en appui pour accompagner les personnes
+hospitalisées, notamment polyhandicapées, et les professionnels de
+santé.\
  
-
-**Les professionnels médico-sociaux sont soutenus au vu de l’importance
-de leur mission. Ils comptent parmi les personnels prioritaires pour la
-mobilisation de systèmes de gardes d’enfants** organisés par l’Education
-nationale et ses partenaires. L’Etat mobilise également les taxis et les
-hôtels pour les accompagner dans leurs missions. \
+Les professionnels médico-sociaux sont soutenus au vu de l’importance de
+leur mission. Ils comptent parmi les personnels prioritaires pour la
+mobilisation de systèmes de gardes d’enfant**s** organisés par
+l’Education nationale et ses partenaires. L’Etat mobilise également les
+taxis et les hôtels pour les accompagner dans leurs missions. \
  
 
 L’armée est pleinement mobilisée avec ses cinq hôpitaux d’instruction
-militaire, l’installation d’un hôpital de campagne à Mulhouse mais aussi
+militaire, l’installation d’un hôpital de campagne à Mulhouse ainsi que
 des opérations de transport sanitaire maritime et aérien grâce au
 porte-hélicoptère Tonnerre et l’équipement MORPHEE (Module de
 Réanimation pour Patient à Haute Élongation d'Évacuation) dans un A330
 de l’armée de l’Air pour transporter des patients atteints de COVID-19.\
- 
-
-Le 25 mars, le président de la République a annoncé le lancement de
-l’opération militaire “Résilience”, distincte de l’opération
-“Sentinelle” pour apporter aide et soutien à la population mais aussi
-aux services publics en terme sanitaire, logistique et de protection en
-métropole et dans les Outre-mer. Prochainement les porte-hélicoptères
-Mistral et Dixmud seront déployés respectivement au sud de l’Océan
-Indien (Réunion, Mayotte) et dans la région Antilles-Guyane.\
 \
-Par ailleurs, le ministre des Solidarités et de la Santé a annoncé, le 9
-avril 2020, la mise en place d’une plateforme nationale d’appui
-médico-psychologique pour tous les professionnels de santé, qu’ils
-exercent en milieu hospitalier, médico-social ou libéral ou qu’ils
-soient étudiants en santé et internes. Accessible par le 0800 73 09 58
-(n° vert), elle prend la forme d’une cellule d’écoute ouverte 7 jours /
-7 de 8h00 à minuit grâce à l’engagement de psychologues hospitaliers
-volontaires et bénévoles.\
+Le 25 mars, le président de la République a annoncé le lancement de
+l’opération militaire “Résilience”, pour apporter aide et soutien à la
+population mais aussi aux services publics en termes sanitaire,
+logistique et de protection en métropole et dans les Outre-mer.
+Prochainement les porte-hélicoptères Mistral et Dixmud seront déployés
+respectivement au sud de l’Océan Indien (Réunion, Mayotte) et dans la
+région Antilles-Guyane.\
+\
+Le ministre des Solidarités et de la Santé a annoncé, le 9 avril 2020,
+la mise en place d’une plateforme nationale d’appui médico-psychologique
+pour tous les professionnels de santé, qu’ils exercent en milieu
+hospitalier, médico-social ou libéral ou qu’ils soient étudiants en
+santé et internes. Accessible par le 0800 73 09 58 (n° vert), elle prend
+la forme d’une cellule d’écoute ouverte 7 jours / 7 de 8h00 à minuit
+grâce à l’engagement de psychologues hospitaliers volontaires et
+bénévoles.\
 \
 Le confinement de la population sera levé le 11 mai à part pour les
 personnes âgées, fragiles ou malade. A partir de cette date, les tests
@@ -2338,52 +2335,59 @@ des symptômes et le port du masque grand public sera généralisé.\
 ### Pour votre sécurité {#pour-votre-sécurité .item-paragraphe-titre .c-onglet data-picto=""}
 
 
-Le 14 mars 2020, le Premier ministre a décidé, à la suite du passage en
-stade 3 du plan de lutte contre l’épidémie et jusqu’à nouvel ordre, de
+À la suite du passage en stade 3 du plan de lutte contre l’épidémie et
+jusqu’à nouvel ordre, le Premier ministre a décidé le 14 mars 2020 de
 fermer tous les lieux recevant du public qui ne sont pas indispensables
-à la vie du pays. Il s’agit notamment des restaurants, cafés, cinémas,
-discothèques. Les lieux de culte resteront ouverts, mais les
-rassemblements et les cérémonies devront être reportés.\
+à la vie du pays.\
 \
-Le 16 mars 2020, le Président de la République a décidé de prendre des
+Il s’agit notamment des restaurants, cafés, cinémas, discothèques.\
+\
+Le 16 mars 2020, le président de la République a décidé de prendre des
 mesures supplémentaires pour réduire à leur plus strict minimum les
 contacts et les déplacements. Un dispositif de confinement est mis en
-place sur l’ensemble du territoire depuis le 17 mars.\
+place sur l’ensemble du territoire à compter du mardi 17 mars à 12h00,
+pour quinze jours minimum.\
 \
-Les déplacements sont interdits jusqu'au 11 mai, sauf dans les cas
-suivants et uniquement à condition d'être munis d'une attestation pour :
-
--   **Déplacements entre le domicile et le lieu d’exercice de l’activité
+Après une première prolongation de deux semaines, annoncée par le
+Premier ministre le 27 mars 2020, le confinement est à nouveau prolongé
+au-delà du mercredi 15 avril. Les mêmes règles que celles actuellement
+en vigueur continuent à s’appliquer.\
+\
+Cette période de confinement pourra être prolongée si la situation
+sanitaire l’exige.\
+\
+Les déplacements sont interdits sauf dans les cas suivants et uniquement
+à condition d'être munis d'une attestation pour :\
+ 
+-   **déplacements entre le domicile et le lieu d’exercice de l’activité
     professionnelle**, lorsqu’ils sont indispensables à l’exercice
     d’activités ne pouvant être organisées sous forme de télétravail ou
-    déplacements professionnels ne pouvant être différés.
--   **Déplacements pour effectuer des achats de fournitures nécessaires
-    à l’activité professionnelle et des achats de première nécessité,**
+    déplacements professionnels ne pouvant être différés ;
+-   **déplacements pour effectuer des achats de fournitures nécessaires
+    à l’activité professionnelle et des achats de première nécessité**,
     y compris les acquisitions à titre gratuit (distribution de denrées
     alimentaires…) et les déplacements liés à la perception de
     prestations sociales et au retrait d’espèces, dans des
-    établissements dont les activités demeurent autorisées.
--   **Consultations et soins** ne pouvant être assurés à distance et ne
-    pouvant être différés  ; soin des patients atteints d'une affection
-    de longue durée.
--   **Déplacements pour motif familial impérieux**, pour l’assistance
-    aux personnes vulnérables ou la garde d’enfants.
--   **Déplacements brefs, dans la limite d'une heure quotidienne et dans
+    établissements dont les activités demeurent autorisées ;
+-   **consultations et soins** ne pouvant être assurés à distance et ne
+    pouvant être différés ; soin des patients atteints d'une affection
+    de longue durée ;
+-   **déplacements pour motif familial impérieux**, pour l’assistance
+    aux personnes vulnérables ou la garde d’enfants ;
+-   **déplacements brefs, dans la limite d'une heure quotidienne et dans
     un rayon maximal d'un kilomètre autour du domicile**, liés soit à
     l'activité physique individuelle des personnes, à l'exclusion de
     toute pratique sportive collective et de toute proximité avec
     d'autres personnes, soit à la promenade avec les seules personnes
     regroupées dans un même domicile, soit aux besoins des animaux de
-    compagnie.
--   **Convocation judiciaire ou administrative**.
--   **Participation à des missions d’intérêt général** sur demande de
+    compagnie ;
+-   **convocation judiciaire ou administrative** ;
+-   **participation à des missions d’intérêt général** sur demande de
     l’autorité administrative.
 
-\
 La plupart des établissements accueillant du public (restaurants, bars,
 cinémas, musées…) resteront fermés au-delà du 11 mai et jusqu’à nouvel
-ordre.\
- 
+ordre.
 
 
 
@@ -2393,19 +2397,18 @@ ordre.\
 ### Pour vos voyages {#pour-vos-voyages .item-paragraphe-titre .c-onglet data-picto=""}
 
 
-Le ministère de l’Europe et des Affaires étrangères a mis jour [ses
-conseils aux
+Le ministère de l’Europe et des Affaires étrangères a mis jour ses
+[conseils aux
 voyageurs](https://www.diplomatie.gouv.fr/fr/le-ministere-et-son-reseau/actualites-du-ministere/informations-coronavirus-covid-19/)
-dans les pays touchés par le Coronavirus COVID-19. Les conseils aux
-voyageurs sont réévalués en fonction de l’évolution de la situation
-épidémiologique internationale et des recommandations de l’OMS.\
+dans les pays touchés par le COVID-19, réévalués en fonction de
+l’évolution de la situation épidémiologique internationale et des
+recommandations de l’OMS.\
 \
-Dans le contexte de l’état d’urgence sanitaire en France, des
-restrictions d’accès à la France métropolitaine et aux collectivités
-d’Outre-Mer ont été mises en place. Depuis le 8 avril 2020 à 0h00, tout
-voyageur est tenu de compléter et d’avoir sur soi une attestation
-correspondant à sa situation, parmi les trois cas suivants :
-
+Des **restrictions d’accès** à la France métropolitaine et aux
+collectivités d’Outre-Mer ont été mises en place. Depuis le 8 avril 2020
+à minuit, tout voyageur est tenu de compléter et d’avoir sur lui une
+attestation correspondant à sa situation, parmi les trois suivantes :\
+ 
 -   [pour un déplacement dérogatoire de la France métropolitaine vers
     l'Outre-mer](https://www.interieur.gouv.fr/content/download/121920/978794/file/Attestation-om-depuis-la-metropole.pdf)
 -   [pour une voyage international depuis l'étranger vers la France
@@ -2416,31 +2419,27 @@ correspondant à sa situation, parmi les trois cas suivants :
 
 Le document doit indiquer le motif du déplacement. Il doit être présenté
 aux transporteurs avant l’embarquement ainsi que lors des contrôles
-d’arrivée.\
-Les documents sont téléchargeables sur le site du ministère de
-l'Intérieur :
-<https://www.interieur.gouv.fr/Actualites/L-actu-du-Ministere/Attestation-de-deplacement-et-de-voyage>\
+d’arrivée. Il est téléchargeable sur le site du ministère de l'Intérieur
+:
+https://www.interieur.gouv.fr/Actualites/L-actu-du-Ministere/Attestation-de-deplacement-et-de-voyage\
 \
-Le ministère a aussi mis en place quatre opérations de rapatriement en
+Le ministère a aussi mis en place **4 opérations de rapatriement** en
 activant le mécanisme européen de solidarité pour les ressortissants
 français et européens qui habitaient dans la province de Hubei en Chine,
 épicentre de l’épidémie. Des règles sanitaires strictes ont été
 appliquées à l’ensemble de l’opération, qui prévoit notamment une
 période de confinement de 14 jours à l’arrivée pour l’ensemble des
-Français bénéficiant de l’opération. 
-
-Enfin, comme annoncé par le Président de la République, pour manifester
+Français bénéficiant de l’opération.\
+\
+Enfin, comme annoncé par le président de la République, pour manifester
 sa solidarité avec le peuple chinois, un avion affrété par la France a
 décollé le 19 février transportant des équipements médicaux dédiés à la
-lutte contre le Coronavirus COVID-19.\
- 
-
-Ce fret de solidarité de 17 tonnes comprenait notamment des combinaisons
-médicales de protection, des masques, des gants et des produits
-désinfectants.\
-Cette opération a été coordonnée par le Centre de crise et de soutien du
-ministère de l’Europe et des affaires étrangères, en lien étroit avec
-l’Ambassade de France à Pékin et le consulat général de France à Wuhan.
+lutte contre le COVID-19. Ce fret de solidarité de 17 tonnes comprenait
+notamment des combinaisons médicales de protection, des masques, des
+gants et des produits désinfectants. Cette opération a été coordonnée
+par le Centre de crise et de soutien du ministère de l’Europe et des
+affaires étrangères, en lien étroit avec l’Ambassade de France à Pékin
+et le consulat général de France à Wuhan.
 
 
 
@@ -2452,21 +2451,22 @@ l’Ambassade de France à Pékin et le consulat général de France à Wuhan.
 
 **Fermeture de tous les établissements scolaires**\
 \
-Le Président de la République a annoncé, le 12 mars 2020, la fermeture
-de l’ensemble des crèches, écoles, collèges, lycées et université.  Les
+Le président de la République a annoncé, le 12 mars 2020, la fermeture
+de l’ensemble des crèches, écoles, collèges, lycées et universités. Les
 crèches, écoles, collèges et lycées rouvriront progressivement à partir
-du 11 mai. Les universités ne rouvriront pas avant l'été.\
+du 11 mai. Les universités ne rouvriront pas avant l’été.\
 \
 Cette mesure, prise sur recommandations des scientifiques au vu de
 l’accélération de l’épidémie, vise à la fois à protéger les plus jeunes
 et à réduire la dissémination du virus à travers notre territoire.\
 \
 Cela implique la continuité pédagogique et administrative, avec
-notamment les plateformes « ma classe à la maison » du CNED, ainsi que
-les classes virtuelles, pour que chaque élève conserve le lien avec son
-professeur et dispose de ressources et d’exercices. Pour les 5% de
-famille qui ne sont pas équipées en matériel informatique, des solutions
-seront déployées avec les collectivités locales.\
+notamment les plateformes « ma classe à la maison » du Centre national
+d'enseignement à distance (CNED), ainsi que les classes virtuelles, pour
+que chaque élève conserve le lien avec son professeur et dispose de
+ressources et d’exercices. Pour les 5% de famille qui ne sont pas
+équipées en matériel informatique, des solutions sont déployées avec les
+collectivités locales.\
 \
 Les départements et régions d’outre-mer (Réunion, Mayotte, Guyane,
 Guadeloupe, Martinique) sont concernés par cette mesure. Pour
@@ -2477,7 +2477,7 @@ A ce stade, Saint-Pierre-et-Miquelon, et Wallis-et-Futuna ne sont pas
 concernés par cette mesure.\
 \
 **Adaptation des modalités de passage des examens nationaux (Brevet,
-CAP, BEP, Bac, BTS)**\
+CAP, BEP, Bac, BTS, Diplôme de Comptabilité et Gestion)**\
 \
 Au regard des incertitudes sur les évolutions de la situation sanitaire,
 la perturbation dans l’apprentissage des élèves et la complexité
@@ -2503,10 +2503,11 @@ l’épreuve orale du baccalauréat de français qui est maintenue.\
 Toutes les informations pratiques sur ce sujet sont à retrouver sur la
 page du Ministère de l’Education nationale et de la Jeunesse dédiée.\
 \
-Concernant les examens nationaux des diplômes de BTS et DCG, le ministre
-de l’Éducation nationale et de la Jeunesse et la ministre de
-l’Enseignement supérieur, de la Recherche et de l’Innovation ont décidé
-d’un aménagement en prenant en compte plusieurs objectifs : 
+Concernant les examens nationaux des diplômes de BTS et DCG (Diplôme de
+Comptabilité et Gestion), le ministre de l’Éducation nationale et de la
+Jeunesse et la ministre de l’Enseignement supérieur, de la Recherche et
+de l’Innovation ont décidé d’un aménagement en prenant en compte
+plusieurs objectifs : 
 
 -   assurer l’égalité de traitement entre des candidats qui auront subi
     des périodes de confinement et des modalités de continuité
@@ -2534,12 +2535,12 @@ candidats inscrits.\
 \
 **Service de garde**\
 \
-Le Président de la République a également annoncé la mise en place d’un
+Le président de la République a également annoncé la mise en place d’un
 service de garde pour les personnels qui sont indispensables à la
 gestion de la crise sanitaire. Pour assurer l’accueil des enfants âgés
 de moins de 16 ans de ces personnes, lorsqu’elles ne disposent pas
 d’autre solution de garde à domicile, les personnels relevant du
-ministère de l’éducation nationale et ceux relevant des collectivités
+ministère de l’Éducation nationale et ceux relevant des collectivités
 territoriales (ATSEM et ALSH) seront mobilisés dès le lundi 16 mars
 2020. Les groupes d’élèves ne devront pas dépasser 8 à 10 élèves par
 classe. 
@@ -2566,28 +2567,30 @@ Sont concernés par ce dispositif :
     régionales de santé (ARS) des préfectures et ceux affectés à
     l’équipe nationale de gestion de la crise.
 
-\
 Par ailleurs, le secrétaire d’Etat auprès du ministre des Solidarités et
 de la Santé et la Caisse nationale d’allocations familiales (CNAF) ont
 annoncé, le 9 avril 2020, un plan d’actions pour aider les parents
 pendant la période de confinement, regroupant les dispositifs et
-services à destination des parents : 
-1.  Un accueil de loisirs à la maison avec des activités différentes
-    chaque jour pour apprendre en famille tout en s’amusant :
-    [monenfant.fr](http://monenfant.fr/).
-2.  La mobilisation d’un fonds exceptionnel de 500 000 euros pour
-    soutenir les projets associatifs et initiatives d’envergure
-    nationale à destination des parents.
-3.  De nouvelles initiatives et des offres de service à disposition des
-    parents plus faciles d’accès ; afin de centraliser l’ensemble de ces
-    initiatives et d’en faciliter l’accès aux parents, différents
-    vecteurs seront mobilisés : 
-4.  Le numéro vert COVID19 « 0800130000 ».
-5.  Le sites [www.monenfant.fr](http://monenfant.fr/). 
-6.  Un soutien renforcé des Caf et de leurs partenaires aux familles en
-    situation de fragilité.
-7.  Une fiche récapitulative dans chaque département à l’attention des
-    parents.
+services à leur destination :\
+\
+\
+1. Un accueil de loisirs à la maison avec des activités différentes
+chaque jour pour apprendre en famille tout en s’amusant :
+[monenfant.fr](http://monenfant.fr/).\
+2. La mobilisation d’un fonds exceptionnel de 500 000 euros pour
+soutenir les projets associatifs et initiatives d’envergure nationale à
+destination des parents.\
+3. De nouvelles initiatives et des offres de service à disposition des
+parents plus faciles d’accès ; afin de centraliser l’ensemble de ces
+initiatives et d’en faciliter l’accès aux parents, différents outils
+seront mobilisés :
+-   le numéro vert COVID19 « 0800130000 ».
+-   le site [www.monenfant.fr](http://monenfant.fr/). 
+
+4\. Un soutien renforcé des Caisses d'alocations familiales (CAF) et de
+leurs partenaires aux familles en situation de fragilité.\
+5. Une fiche récapitulative dans chaque département à l’attention des
+parents.
 
 
 
@@ -2597,40 +2600,39 @@ services à destination des parents : 
 ### Pour l'économie {#pour-léconomie .item-paragraphe-titre .c-onglet data-picto=""}
 
 
-Une cellule de continuité économique a été activé le 3 mars au ministère
-de l’Economie. Cette cellule va permettre d'obtenir toutes les
-informations nécessaires sur la situation économique du pays en temps
-réel, de mieux gérer l'impact de cette crise sanitaire sur notre
-économie en prenant des décisions quotidiennes qui pourraient s'avérer
-nécessaires.\
+Une cellule de continuité économique a été activée au ministère de
+l’Economie. Son objectif : obtenir toutes les informations nécessaires
+sur la situation économique du pays en temps réel, pour mieux gérer
+l'impact de cette crise sanitaire sur notre économie et prendre des
+décisions quotidiennes.\
 \
 Pour les entreprises, le Gouvernement a annoncé les mesures suivantes :
 
--   Des **délais de paiement d’échéances sociales et/ou fiscales**
+-   des **délais de paiement d’échéances sociales et/ou fiscales**
     (URSSAF, impôts) ;
--   Si à la fin du confinement, des entreprises sont menacées de
+-   si à la fin du confinement, des entreprises sont menacées de
     disparaître, des **annulations de charges pourront être envisagées**
     au cas par cas ;
--   Dans les situations les plus difficiles, des **remises d’impôts
+-   dans les situations les plus difficiles, des **remises d’impôts
     directs** pouvant être décidées dans le cadre d'un examen
     individualisé des demandes ;
--   La suspension **des loyers, des factures d'eau, de gaz et
+-   la suspension **des loyers, des factures d'eau, de gaz et
     d’électricité** pour les PME en difficulté ;
--   **L’aide de 1 500 euros** pour les petites entreprises, les
+-   **l’aide de 1 500 euros** pour les petites entreprises, les
     indépendants, et les microentreprises les plus impactés grâce au
     fonds de solidarité ;
--   La mobilisation de l’État à hauteur de 300 milliards d’euros pour la
+-   la mobilisation de l’État à hauteur de 300 milliards d’euros pour la
     mise en place de [prêts bancaires garantis par
     l’État](https://www.economie.gouv.fr/files/files/PDF/2020/dp-covid-pret-garanti.pdf)
     ;
--   Un soutien de l’Etat et de la Banque de France (médiation du crédit)
+-   un soutien de l’Etat et de la Banque de France (médiation du crédit)
     pour négocier avec sa banque **un rééchelonnement des crédits
     bancaires** ;
--   Le maintien de l'emploi dans les entreprises par le dispositif de
+-   le maintien de l'emploi dans les entreprises par le dispositif de
     **chômage partiel simplifié et renforcé** ;
--   **L’appui au traitement d’un conflit** avec des clients ou
+-   **l’appui au traitement d’un conflit** avec des clients ou
     fournisseurs par le Médiateur des entreprises ;
--   La reconnaissance par l’État et les collectivités locales du
+-   la reconnaissance par l’État et les collectivités locales du
     coronavirus comme **un cas de force majeure** pour leurs marchés
     publics. En conséquence, pour tous les marchés publics d’État et des
     collectivités locales, les pénalités de retards ne seront pas
@@ -2640,86 +2642,64 @@ Pour connaître les modalités d’accès aux différentes aides [télécharger
 la
 brochure](https://www.economie.gouv.fr/coronavirus-soutien-entreprises).\
 \
-Le 27 mars, le ministre de l’Économie et des Finances a annoncé que
-toutes les grandes entreprises qui auraient bénéficié de reports de
-charges sociales et fiscales, et qui versent en même temps des
-dividendes à leurs actionnaires devront rembourser cette avance de
-trésorerie de l’État avec des pénalités.\
+A noter :\
+ 
+-   les grandes entreprises qui auraient bénéficié de reports de charges
+    sociales et fiscales, et qui versent en même temps des dividendes à
+    leurs actionnaires, devront rembourser cette avance de trésorerie de
+    l’État avec des pénalités ;
+-   les grandes entreprises qui verseront des dividendes ne pourront pas
+    bénéficier de la garantie d’État de 300 milliards d’euros sur les
+    prêts de trésorerie ;
+-   les possibilités de report des cotisations sociales et impôts
+    directs des entreprises sont prolongées pour le mois d’avril ;
+-   un plan d’urgence de soutien dédié aux start-up, de près de 4
+    milliards d’euros.
+
+Pour plus d’informations sur les aides aux entreprises et start-up dans
+votre région, contactez le 0 800 130 000.\
 \
-Le 3 avril, le ministre de l’Action et des Comptes publics a annoncé un
-prolongement des possibilités de report des cotisations sociales et
-impôts directs des entreprises pour le mois d’avril.\
+Par ailleurs :\
 \
-De la même manière, toutes les grandes entreprises qui verseront des
-dividendes ne pourront pas bénéficier de la garantie d’État de 300
-milliards d’euros sur les prêts de trésorerie.
+Un dispositif de **réassurance publique** des risques d’assurance-crédit
+des entreprises, va permettre aux entreprises ayant souscrit une telle
+couverture de continuer à être couvertes, même si elles se voyaient
+notifier des réductions ou des refus de garanties sur certains clients
+du fait de la dégradation de la conjoncture économique.\
 \
-Le Gouvernement a également annoncé un plan d’urgence de soutien dédié
-aux start-up, de près de 4 milliards d’euros. Ce plan spécifique vise à
-compléter les mesures globales de soutien aux entreprises déjà annoncées
-par Bruno Le Maire, ministre de l'Economie et des Finances, Gérald
-Darmanin, ministre de l’Action et des Comptes publics et Muriel
-Pénicaud, ministre du Travail. Il a pour objectif de répondre aux
-problématiques particulières des start-up. Ces dernières sont bien
-évidemment également éligibles aux dispositifs d’urgence proposés à
-l’ensemble des entreprises.\
-\
-Pour plus d’informations dans votre région, contactez le 0 800 130 000.\
-\
-\
-Le 9 avril 2020, le ministre de l’Economie et des Finances et le
-ministre de l’Action et des Comptes publics ont annoncé le renforcement
-du plan d’urgence de soutien à l’économie : de 45 milliards d'euros, il
-passe à 100 milliards d'euros. Cette hausse exceptionnelle s’applique
-pour toutes les mesures mises en place comme le dispositif de chômage
-partiel et le fonds de solidarité.\
-\
-Le 10 avril 2020, le ministre de l'Economie et des Finances a annoncé le
-lancement du dispositif de réassurance publique des risques
-d’assurance-crédit des entreprises, permettant aux entreprises ayant
-souscrit une telle couverture, et qui se verraient notifier des
-réductions ou des refus de garanties sur certains clients du fait de la
-dégradation de la conjoncture économique, de continuer à être
-couvertes.\
-\
-Par ailleurs, le Conseil de la protection sociale des travailleurs
-indépendants a annoncé la création d’une aide exceptionnelle à
-destination de tous les artisans et commerçants. L’aide correspondra au
-montant des cotisations de retraite complémentaire versées par les
-artisans et commerçants sur la base de leurs revenus de 2018 et pourra
-aller jusqu’à 1 250 euros. Cette aide sera versée de façon automatique
-par les Urssaf et ne nécessitera aucune démarche des travailleurs
-indépendants concernés.\
+Une **aide exceptionnelle aux artisans et commerçants** est débloquée.
+L’aide correspondra au montant des cotisations de retraite
+complémentaire versées par les artisans et commerçants sur la base de
+leurs revenus de 2018 et pourra aller jusqu’à 1 250 euros. Cette aide
+sera versée de façon automatique par les Urssaf et ne nécessitera aucune
+démarche des travailleurs indépendants concernés.\
 \
 Certaines entreprises, appartenant aux secteurs essentiels pour les
-citoyens dans cette période, ont besoin de renfort en main d’œuvre pour
-assurer leurs activités et la continuité économique du pays. Pour y
+citoyens dans cette période, ont besoin de **renfort en main d’œuvre**
+pour assurer leurs activités et la continuité économique du pays. Pour y
 répondre, la plateforme
-[mobilisationemploi.gouv.fr](https://mobilisationemploi.gouv.fr/#/accueil)
-est accessible depuis le jeudi 2 avril aux demandeurs d’emploi inscrits
-ou non à Pôle emploi et aux salariés en activité partielle. \
+[**mobilisationemploi.gouv.fr**](http://mobilisationemploi.gouv.fr)
+permet aux demandeurs d’emploi inscrits ou non à Pôle emploi et aux
+salariés en activité partielle de se porter candidat dans les secteurs
+prioritaires suivants : Médico-Social, Agriculture, Agroalimentaire,
+Transports, Logistique, Aide à Domicile, Energie, Télécoms.\
 \
-Elle a été créée pour faciliter la mobilisation exceptionnelle pour
-l’emploi et permettre aux travailleurs qui le souhaitent de se porter
-candidat dans les secteurs prioritaires suivants : Médico-Social,
-Agriculture, Agroalimentaire, Transports, Logistique, Aide à Domicile,
-Energie, Télécoms.\
-\
-Une autre solution pour certaines entreprises peut être la “**mise à
-disposition temporaire**”. Avec l’accord à chaque fois du salarié
-concerné et des deux entreprises, des salariés inoccupés qui le
-souhaitent peuvent travailler provisoirement dans une entreprise
+Avec **la “mise à disposition temporaire”**, des salariés inoccupés qui
+le souhaitent peuvent travailler provisoirement dans une entreprise
 confrontée à un manque de personnel. Le salarié conserve alors son
 contrat de travail et 100% de son salaire habituel, versé par son
 employeur d’origine. L’entreprise qui l’accueille temporairement
-rembourse ce salaire à l’entreprise d’origine. \
+rembourse ce salaire à l’entreprise d’origine. Ce dispositif nécessite
+l’accord, à chaque fois, du salarié concerné et des deux entreprises.
+Des modèles simplifiés de convention de mise à disposition entre
+entreprises et d’avenant au contrat de travail du salarié sont
+disponibles sur le[site du ministère du
+Travail](https://travail-emploi.gouv.fr/actualites/l-actualite-du-ministere/article/mise-a-disposition-temporaire-de-salaries-volontaires-entre-deux-entreprises?var_mode=calcul).\
 \
-Pour faciliter au maximum les démarches des entreprises et des salariés
-qui souhaitent s’engager dans ce dispositif, le ministère du Travail
-propose des modèles simplifiés de convention de mise à disposition entre
-entreprises et d’avenant au contrat de travail du salarié. Ces modèles
-de convention sont disponibles sur le [site du ministère du
-Travail](https://travail-emploi.gouv.fr/actualites/l-actualite-du-ministere/article/mise-a-disposition-temporaire-de-salaries-volontaires-entre-deux-entreprises?var_mode=calcul). 
+Le plan d’urgence de soutien à l’économie est passé à 100 milliards
+d'euros, contre 45 milliards d'euros initialement. Cette hausse
+exceptionnelle s’applique à toutes les mesures mises en place comme le
+dispositif de chômage partiel et le fonds de solidarité.
 
 
 
@@ -2730,182 +2710,198 @@ Travail](https://travail-emploi.gouv.fr/actualites/l-actualite-du-ministere/arti
 
 **Vous êtes chef d’une entreprise de 10 salariés ou moins et vous êtes
 concerné par la fermeture par arrêté de votre entreprise :**\
-\
-- Vos salariés ont le droit au chômage partiel : ils toucheront entre
-100% et 84% de leur salaire net selon leur niveau de salaire, remboursés
-intégralement par l’État à l’entreprise jusqu’à 4.5 SMIC.\
-- Vous pouvez suspendre le paiement de vos cotisations sociales et
-impôts directs, de votre loyer et de vos factures d’eau, d’électricité
-et de gaz.\
-- Vous pouvez solliciter une aide allant jusqu’à 1500 euros sur le site
-impots.gouv.fr. 2000 euros supplémentaires seront accordés par les
-régions si vous employez des salariés et que vous risquez de vous
-trouver en cessation de paiement.\
-- Vous pouvez solliciter auprès de votre banque un [prêt garanti par
-l’État](https://www.economie.gouv.fr/files/files/PDF/2020/dp-covid-pret-garanti.pdf)
-pour soutenir votre trésorerie.\
+ 
+-   vos salariés ont le droit au chômage partiel : ils toucheront entre
+    100% et 84% de leur salaire net selon leur niveau de salaire,
+    remboursés intégralement par l’État à l’entreprise jusqu’à 4.5 SMIC.
+-   vous pouvez suspendre le paiement de vos cotisations sociales et
+    impôts directs, de votre loyer et de vos factures d’eau,
+    d’électricité et de gaz.
+-   vous pouvez solliciter une aide allant jusqu’à 1500 euros sur le
+    site impots.gouv.fr. 2000 euros supplémentaires seront accordés par
+    les régions si vous employez des salariés et que vous risquez de
+    vous trouver en cessation de paiement.
+-   vous pouvez solliciter auprès de votre banque un [prêt garanti par
+    l’État](https://www.economie.gouv.fr/files/files/PDF/2020/dp-covid-pret-garanti.pdf)
+    pour soutenir votre trésorerie.
+
 \
 **Vous êtes micro-entrepreneur ou indépendant (artisan, commerçante,
 plombier, architecte...) et vous n’avez plus d’activité suite au
 confinement :**\
-\
-- Vous pouvez suspendre le paiement de vos cotisations sociales et
-impôts directs, de votre loyer et de vos factures d’eau, d’électricité
-et de gaz\
-- Vous pouvez solliciter une aide allant jusqu’à 1500 euros sur le site
-impots.gouv.fr.\
-- Vous pouvez solliciter auprès de votre banque un [prêt garanti par
-l’État](https://www.economie.gouv.fr/files/files/PDF/2020/dp-covid-pret-garanti.pdf)
-pour soutenir votre trésorerie.\
+ 
+-   vous pouvez suspendre le paiement de vos cotisations sociales et
+    impôts directs, de votre loyer et de vos factures d’eau,
+    d’électricité et de gaz
+-   vous pouvez solliciter une aide allant jusqu’à 1500 euros sur le
+    site impots.gouv.fr.
+-   vous pouvez solliciter auprès de votre banque un [prêt garanti par
+    l’État](https://www.economie.gouv.fr/files/files/PDF/2020/dp-covid-pret-garanti.pdf)
+    pour soutenir votre trésorerie.
+
 \
 **Vous pratiquez une profession libérale (avocate, comptable,
 traducteur, psychologue...) et vous n’avez plus d’activité suite au
-confinement :**\
-\
-- Vos salariés ont le droit au chômage partiel : ils toucheront entre
-100% et 84% de leur salaire net selon leur niveau de salaire, remboursés
-intégralement par l’État à l’entreprise jusqu’à 4.5 SMIC.\
-- Vous pouvez suspendre le paiement de vos cotisations sociales et
-impôts directs, de votre loyer et de vos factures d’eau, d’électricité
-et de gaz.\
-- Vous pouvez solliciter une aide allant jusqu’à 1500 euros sur le site
-impots.gouv.fr. 2000 euros supplémentaires seront accordés par les
-régions si vous employez des salariés et que vous risquez de vous
-trouver en cessation de paiement.\
-- Vous pouvez solliciter auprès de votre banque un [prêt garanti par
-l’État](https://www.economie.gouv.fr/files/files/PDF/2020/dp-covid-pret-garanti.pdf)
-pour soutenir votre trésorerie\
+confinement :**
+-   vos salariés ont le droit au chômage partiel : ils toucheront entre
+    100% et 84% de leur salaire net selon leur niveau de salaire,
+    remboursés intégralement par l’État à l’entreprise jusqu’à 4.5 SMIC.
+-   vous pouvez suspendre le paiement de vos cotisations sociales et
+    impôts directs, de votre loyer et de vos factures d’eau,
+    d’électricité et de gaz.
+-   vous pouvez solliciter une aide allant jusqu’à 1500 euros sur le
+    site impots.gouv.fr. 2000 euros supplémentaires seront accordés par
+    les régions si vous employez des salariés et que vous risquez de
+    vous trouver en cessation de paiement.
+-   vous pouvez solliciter auprès de votre banque un [prêt garanti par
+    l’État](https://www.economie.gouv.fr/files/files/PDF/2020/dp-covid-pret-garanti.pdf)
+    pour soutenir votre trésorerie
+
 \
 **Vous dirigez une PME et votre entreprise rencontre une baisse
 d’activité :**\
+ 
+-   vos salariés ont le droit au chômage partiel : ils toucheront entre
+    100% et 84% de leur salaire net selon leur niveau de salaire,
+    remboursés intégralement par l’État à l’entreprise jusqu’à 4.5 SMIC.
+-   vous pouvez suspendre si besoin le paiement de vos cotisations
+    sociales et impôts directs.;
+-   vous pouvez solliciter auprès de votre banque un prêt garanti par
+    l’État pour soutenir votre trésorerie.
+
 \
-- Vos salariés ont le droit au chômage partiel : ils toucheront entre
-100% et 84% de leur salaire net selon leur niveau de salaire, remboursés
-intégralement par l’État à l’entreprise jusqu’à 4.5 SMIC.\
-- Vous pouvez suspendre si besoin le paiement de vos cotisations
-sociales et impôts directs.;\
-- Vous pouvez solliciter auprès de votre banque un prêt garanti par
-l’État pour soutenir votre trésorerie.\
-\
-Vous avez moins de 11 salariés et votre chiffre d’affaires a baissé d’au
-moins 50% ?\
-\
-- Vous pouvez suspendre automatiquement votre loyer, votre facture
-d’eau, d’électricité et de gaz. Dans les autres cas, vous pouvez
-solliciter votre bailleur ou votre fournisseur pour obtenir cette
-suspension au cas par cas.\
-- Vous pouvez solliciter une aide allant jusqu’à 1500 euros sur le site
-impots.gouv.fr. 2000 euros supplémentaires seront accordés par les
-régions si vous employez des salariés et que vous risquez de vous
-trouver en cessation de paiement.\
+**Vous avez moins de 11 salariés et votre chiffre d’affaires a baissé
+d’au moins 50% ?**\
+ 
+-   vous pouvez suspendre automatiquement votre loyer, votre facture
+    d’eau, d’électricité et de gaz. Dans les autres cas, vous pouvez
+    solliciter votre bailleur ou votre fournisseur pour obtenir cette
+    suspension au cas par cas.
+-   vous pouvez solliciter une aide allant jusqu’à 1500 euros sur le
+    site impots.gouv.fr. 2000 euros supplémentaires seront accordés par
+    les régions si vous employez des salariés et que vous risquez de
+    vous trouver en cessation de paiement.
+
 \
 **Vous êtes chef d’entreprise et vous ne pouvez pas mettre en place les
 mesures de protection nécessaires à la santé de vos salariés :**\
+ 
+-   vos salariés ont le droit au chômage partiel : ils toucheront entre
+    100% et 84% de leur salaire net selon leur niveau de salaire,
+    remboursés intégralement par l’État à l’entreprise jusqu’à 4.5 SMIC.
+-   vous pouvez solliciter auprès de votre banque un prêt garanti par
+    l’État pour soutenir votre trésorerie.
+
 \
-- Vos salariés ont le droit au chômage partiel : ils toucheront entre
-100% et 84% de leur salaire net selon leur niveau de salaire, remboursés
-intégralement par l’État à l’entreprise jusqu’à 4.5 SMIC.\
-- Vous pouvez solliciter auprès de votre banque un prêt garanti par
-l’État pour soutenir votre trésorerie.\
-\
-Vous avez moins de 11 salariés et votre chiffre d’affaires a baissé d’au
-moins 50% ?\
-\
-- Vous pouvez suspendre automatiquement votre loyer, votre facture
-d’eau, d’électricité et de gaz. Dans les autres cas, vous pouvez
-solliciter votre bailleur ou votre fournisseur pour obtenir cette
-suspension au cas par cas.\
-- Vous pouvez solliciter une aide allant jusqu’à 1500 euros sur le site
-impots.gouv.fr. 2000 euros supplémentaires seront accordés par les
-régions si vous employez des salariés et que vous risquez de vous
-trouver en cessation de paiement.\
+**Vous avez moins de 11 salariés et votre chiffre d’affaires a baissé
+d’au moins 50% ?**\
+ 
+-   vous pouvez suspendre automatiquement votre loyer, votre facture
+    d’eau, d’électricité et de gaz. Dans les autres cas, vous pouvez
+    solliciter votre bailleur ou votre fournisseur pour obtenir cette
+    suspension au cas par cas.
+-   vous pouvez solliciter une aide allant jusqu’à 1500 euros sur le
+    site impots.gouv.fr. 2000 euros supplémentaires seront accordés par
+    les régions si vous employez des salariés et que vous risquez de
+    vous trouver en cessation de paiement.
+
 \
 **Vous êtes chef d’entreprise et vous souhaitez utiliser la période de
 chômage partiel pour former vos salariés :**\
-\
-- Vos salariés ont le droit au chômage partiel : ils toucheront entre
-100% et 84% de leur salaire net selon leur niveau de salaire, remboursés
-intégralement par l’État à l’entreprise jusqu’à 4.5 SMIC.\
-- Les frais pédagogiques seront également pris en charge par l’État.\
+ 
+-   vos salariés ont le droit au chômage partiel : ils toucheront entre
+    100% et 84% de leur salaire net selon leur niveau de salaire,
+    remboursés intégralement par l’État à l’entreprise jusqu’à 4.5 SMIC.
+-   les frais pédagogiques seront également pris en charge par l’État.
+
 \
 **Vous devez faire garder vos enfants et vous êtes salarié, salarié
 agricole, marin, clerc, employé de notaire, travailleur indépendant
 (hors professions libérales), travailleurs non salarié agricole ou agent
 contractuel de la fonction publique :**\
-\
-- Vous bénéficiez d’un arrêt de travail de 1 à 21 jours renouvelable
-sans jour de carence et sans condition d’ancienneté.\
+ 
+-   vous bénéficiez d’un arrêt de travail de 1 à 21 jours renouvelable
+    sans jour de carence et sans condition d’ancienneté.
+
 \
 **Vous êtes demandeur d’emploi et vos droits au chômage s’arrêtent en
-mars :  **\
-\
-- Vous aurez droit au maintien exceptionnel de votre indemnisation
-pendant la durée du confinement.\
+mars :**\
+ 
+-   vous aurez droit au maintien exceptionnel de votre indemnisation
+    pendant la durée du confinement.
+
 \
 **Vous avez démissionné avant le début du confinement pour changer
 d’emploi, et vous vous retrouvez désormais sans emploi :**\
 \
-le ministère du Travail a annoncé, le 9 avril 2020, le droit à
+Le ministère du Travail a annoncé, le 9 avril 2020, le droit à
 l’indemnisation chômage de manière temporaire, aux personnes qui ont
 démissionné avant le 17 mars pour reprendre un CDI ou un CDD de plus de
 trois mois, et qui se trouvent dans un des cas suivants :\
-\
-- le nouvel employeur a mis fin au contrat dans un délai de 65 jours à
-compter du 1er mars OU l’embauche effective n’a pas pu avoir lieu, mais
-la personne dispose\
-- d’une promesse d’embauche ou, à défaut, d’une attestation de son
-employeur justifiant le report de l’embauche.\
-avoir travaillé 6 mois sur les 24 derniers mois.\
+ 
+-   le nouvel employeur a mis fin au contrat dans un délai de 65 jours à
+    compter du 1er mars OU l’embauche effective n’a pas pu avoir lieu,
+    mais la personne dispose d’une promesse d’embauche ou, à défaut,
+    d’une attestation de son employeur justifiant le report de
+    l’embauche.
+-   vous avez travaillé 6 mois sur les 24 derniers mois.
+
 \
 **Vous êtes saisonnier et la station où vous travaillez a été fermée le
 15 mars alors que votre contrat allait jusqu’au 15 avril :**\
+ 
+-   votre entreprise peut vous mettre en chômage partiel sans coût pour
+    elle et vous aurez droit au maintien de 100% de votre salaire net si
+    vous êtes au SMIC et à 84% si vous êtes au-delà du SMIC, et ce
+    jusqu’à la fin prévue de votre contrat\
+    **.**
+
 \
-- Votre entreprise peut vous mettre en chômage partiel sans coût pour
-elle et vous aurez droit au maintien de 100% de votre salaire net si
-vous êtes au SMIC et à 84% si vous êtes au-delà du SMIC, et ce jusqu’à
-la fin prévue de votre contrat**.\
-\
-Vous êtes intermittent du spectacle et vous n’avez pas pu faire vos 507
-heures de travail :**\
-\
-- Votre « date anniversaire » qui acte l’ouverture à vos droits a été
-repoussée et vous continuerez en attendant à toucher vos indemnités.\
+**Vous êtes intermittent du spectacle et vous n’avez pas pu faire vos
+507 heures de travail :**\
+ 
+-   votre « date anniversaire » qui acte l’ouverture à vos droits a été
+    repoussée et vous continuerez en attendant à toucher vos indemnités.
+
 \
 **Vous êtes agriculteur et vous êtes concerné par une baisse d’activité
 à cause de l’épidémie du COVID-19 :**\
+ 
+-   vos salariés ont le droit au chômage partiel : ils toucheront entre
+    100% et 84% de leur salaire net selon leur niveau de salaire,
+    remboursés intégralement par l’État à l’entreprise jusqu’à 4.5 SMIC.
+-   vous pouvez suspendre si besoin vos cotisations sociales et impôts
+    directs.
+-   vous pouvez solliciter auprès de votre banque un [prêt garanti par
+    l’État](https://www.economie.gouv.fr/files/files/PDF/2020/dp-covid-pret-garanti.pdf)
+    pour soutenir votre trésorerie.
+
 \
-- Vos salariés ont le droit au chômage partiel : ils toucheront entre
-100% et 84% de leur salaire net selon leur niveau de salaire, remboursés
-intégralement par l’État à l’entreprise jusqu’à 4.5 SMIC.\
-- Vous pouvez suspendre si besoin vos cotisations sociales et impôts
-directs.\
- Vous pouvez solliciter auprès de votre banque un [prêt garanti par
-l’État](https://www.economie.gouv.fr/files/files/PDF/2020/dp-covid-pret-garanti.pdf)
-pour soutenir votre trésorerie.\
-\
-Si vous avez moins de 11 salariés et vous avez connu une baisse de
-chiffre d’affaires de plus de 50 % : \
-\
-- Vous pouvez suspendre votre loyer et vos factures d’eau,
-d’électricités et de gaz.\
-- Vous pouvez solliciter une aide allant jusqu’à 1500 euros sur le site
-impots.gouv.fr. 2000 euros supplémentaires seront accordés par les
-régions si vous employez des salariés et que vous risquez de vous
-trouver en cessation de paiement. \
+**Si vous avez moins de 11 salariés et vous avez connu une baisse de
+chiffre d’affaires de plus de 50 % : **\
+ 
+-   vous pouvez suspendre votre loyer et vos factures d’eau,
+    d’électricités et de gaz.
+-   vous pouvez solliciter une aide allant jusqu’à 1500 euros sur le
+    site impots.gouv.fr. 2000 euros supplémentaires seront accordés par
+    les régions si vous employez des salariés et que vous risquez de
+    vous trouver en cessation de paiement. 
+
 \
 **Vous êtes soignant et êtes fortement mobilisé durant cette épidémie du
 COVID-19 :**\
-\
-- Vos heures supplémentaires effectuées seront majorées\
-- Vous toucherez une prime exceptionnelle\
+ 
+-   vos heures supplémentaires effectuées seront majorées
+-   vous toucherez une prime exceptionnelle
+
 \
 **Vous travaillez dans un service à la personne et vous ne pouvez plus
 exercer votre activité durant le confinement :**\
-\
-- Un dispositif d’indemnisation est mis en place : votre employeur vous
-versera 80% du montant net des heures non réalisées. Ce montant lui sera
-intégralement remboursé, directement sur son compte en banque.\
  
+-   un dispositif d’indemnisation est mis en place : votre employeur
+    vous versera 80% du montant net des heures non réalisées. Ce montant
+    lui sera intégralement remboursé, directement sur son compte en
+    banque.
 
 
 
@@ -2919,26 +2915,26 @@ intégralement remboursé, directement sur son compte en banque.\
 
 
 
-Le prêt garanti par l’Etat (PGE) est un prêt qu’octroie à une entreprise
-ou un professionnel sa banque habituelle, en dépit de la forte
-incertitude économique actuelle, grâce à la garantie qu’apporte l’Etat
-sur une partie très significative du prêt.\
+Le Prêt garanti par l’Etat (PGE) est un prêt qu’octroie à une entreprise
+ou un professionnel sa banque habituelle, malgré la forte incertitude
+économique actuelle, grâce à la garantie qu’apporte l’Etat sur une
+partie très significative du prêt.\
 \
-Le PGE est un prêt d’une banque à une entreprise : ce n’est pas un prêt
-de l’Etat.\
+Le Prêt garanti par l’Etat (PGE) est un prêt d’une banque à une
+entreprise : ce n’est pas un prêt de l’Etat.\
 \
-[Ce recours total aux réseaux bancaires pour l’octroi des PGE a été
-voulu pour que le dispositif puisse rapidement et très largement
-apporter la trésorerie nécessaire aux entreprises et aux professionnels,
-quelle que soit leur taille, leur activité et leur statut juridique
-(PME, ETI, agriculteurs, artisans, commerçants, professions libérales,
-entreprise innovante, micro-entrepreneur, association, fondation,...)
-partout sur le territoire, pour les aider à surmonter le stress
-économique majeur que nous connaissons et les accompagner dans la phase
-de reprise. Les SCI, établissements de crédits et sociétés de
-financement sont exclus. Toutes les modalités du prêt garanti par l’Etat
-sont à retrouver sur cette
-page.](http://www.economie.gouv.fr/files/files/PDF/2020/faq-pret-garanti.pdf)
+Ce recours total aux réseaux bancaires pour l’octroi des Prêts garantis
+par l’Etat (PGE) a été voulu pour que le dispositif puisse rapidement et
+très largement apporter la trésorerie nécessaire aux entreprises et aux
+professionnels, quelle que soit leur taille, leur activité et leur
+statut juridique (PME, ETI, agriculteurs, artisans, commerçants,
+professions libérales, entreprise innovante, micro-entrepreneur,
+association, fondation,...) partout sur le territoire, pour les aider à
+surmonter le stress économique majeur que nous connaissons et les
+accompagner dans la phase de reprise. Les sociétés civiles immobilières
+(SCI), établissements de crédits et sociétés de financement sont exclus.
+Toutes les modalités du prêt garanti par l’Etat sont à retrouver sur
+cette page.
 
 
 
@@ -2949,22 +2945,21 @@ page.](http://www.economie.gouv.fr/files/files/PDF/2020/faq-pret-garanti.pdf)
 ### Pour les plus vulnérables {#pour-les-plus-vulnérables .item-paragraphe-titre .c-onglet data-picto=""}
 
 
-La durée de perception des allocations chômage sera prolongée pour les
+La durée de perception des allocations chômage est prolongée pour les
 demandeurs d’emploi qui ont épuisé leurs droits à compter du 12 mars
 2020.\
 \
 Pour l’année 2020, la fin de la trêve hivernale est repoussée au 31
 mai.\
 \
-A été acté le report du 31 mars au 31 mai 2020 de la fin de la période
-durant laquelle les fournisseurs d'électricité, de chaleur, de gaz ne
-peuvent procéder, dans une résidence principale, à l'interruption, y
-compris par résiliation de contrat, pour non-paiement des factures, de
-la fourniture d'électricité, de chaleur ou de gaz aux personnes ou
-familles.\
+La fin de la période durant laquelle les fournisseurs d'électricité, de
+chaleur, de gaz ne peuvent procéder, dans une résidence principale, à
+l'interruption, y compris par résiliation de contrat, pour non-paiement
+des factures, de la fourniture d'électricité, de chaleur ou de gaz aux
+personnes ou familles, est reportée au 31 mai 2020.\
 \
-La rémunération des travailleurs accueillis en établissement et service
-d’aide par le travail (ESAT) sera maintenue en cas de réduction de
+La rémunération des travailleurs accueillis en Établissement et service
+d’aide par le travail (ESAT) est maintenue en cas de réduction de
 l’activité ou de fermeture de l’établissement.\
 \
 Le délai de carence est supprimé pour tous les malades pendant l’état
@@ -2972,7 +2967,8 @@ d’urgence sanitaire.\
 \
 Afin de soutenir les étudiants, 10 millions d'euros supplémentaires
 seront attribués pour le financement des aides spécifiques d'urgence
-attribuées par les Centres régionaux des œuvres universitaires (Crous).
+attribuées par les Centres régionaux des œuvres universitaires et
+scolaires (CROUS).
 
 
 
@@ -2982,328 +2978,294 @@ attribuées par les Centres régionaux des œuvres universitaires (Crous).
 ### Chronologie {#chronologie .item-paragraphe-titre .c-onglet data-picto=""}
 
 
-**2 janvier :** Début de veiller au Centre opérationnel de réception et
-de régulation des urgences sanitaires et sociales (CORRUSS).\
-\
-**10 janvier :** Envoi aux Agences Régionales de Santé - ARS, aux
-sociétés savantes (urgentistes, SAMU, infectiologues) de fiches de
-conduites à tenir et de définition de cas par le ministère des
-Solidarités et de la Santé.\
-\
-**14 janvier :** Sensibilisation des établissements hospitaliers,
+**2 janvier** : début de veille au Centre opérationnel de réception et
+de régulation des urgences sanitaires et sociales (CORRUSS)\
+**10 janvier** : envoi aux Agences régionales de Santé, aux sociétés
+savantes (urgentistes, SAMU, infectiologues) de fiches de conduites à
+tenir et de définition de cas par le ministère des Solidarités et de la
+Santé.\
+**14 janvier** : sensibilisation des établissements hospitaliers,
 médico-sociaux et des professionnels de santé libéraux, à la situation
-et aux recommandations sanitaires. \
-\
-**22 janvier :** Activation de CORRUSS en niveau 2 de mobilisation
+et aux recommandations sanitaires.\
+**22 janvier** : activation de CORRUSS en niveau 2 de mobilisation
 renforcé.\
-\
-**23 janvier :** Mise en place d’un dispositif de suivi et de réponse
+**23 janvier** : mise en place d’un dispositif de suivi et de réponse
 aux préoccupations des Français présents en Chine par le Centre de crise
 et de soutien du ministère de l’Europe et des Affaires étrangères, en
 coordination avec l’Ambassade de France à Pékin et l’ensemble des
 consulats généraux en Chine.\
-\
-**24 janvier :**
--   Confirmation des premiers cas confirmés de coronavirus COVID-19 par
-    Agnès Buzyn, ministre des solidarités et de la Santé.
--   Déploiement de flyers et d’affiches d’information en français,
+**24 janvier** :
+-   confirmation des premiers cas confirmés de COVID-19 par Agnès Buzyn,
+    ministre des solidarités et de la Santé ;
+-   déploiement de flyers et d’affiches d’information en français,
     anglais et mandarin dans les aéroports.
 
-**25 janvier :**
--   Mise en place d’une procédure d’identification et de suivi des cas
-    contacts personnalisée et quotidienne a été mise en place via les
-    ARS.
--   Mise en place d’un accueil spécifique des voyageurs en provenance de
+**25 janvier** :
+-   mise en place d’une procédure d’identification et de suivi des cas
+    contacts personnalisée et quotidienne via les ARS ;
+-   mise en place d’un accueil spécifique des voyageurs en provenance de
     Chine, Hong-Kong et Macao à Paris Charles de Gaulle et Saint-Denis
-    de la Réunion assuré par des personnels d’associations agréées de
-    sécurité civile en lien avec le service médical de l’aéroport,
+    de la Réunion, assuré par des personnels d’associations agréées de
+    sécurité civile en lien avec le service médical de l’aéroport, et
     renforcé de professionnels de santé médicaux et paramédicaux issus
     de la réserve sanitaire du ministère des Solidarités et de la Santé.
 
-**26 janvier 2020 :** Première Réunion interministérielle présidée par
-le Premier ministre\
-\
-**27 janvier :**
--   Activation du Centre de Crise Sanitaire
--   Développement d’un test diagnostic rapide par l’institut Pasteur
+**26 janvier** : première Réunion interministérielle présidée par le
+Premier Ministre\
+**27 janvier** :
+-   activation du Centre de Crise Sanitaire ;
+-   développement d’un test diagnostique rapide par l’institut Pasteur
     permettant de donner un résultat en quelques heures.
 
-**31 janvier :** Première opération de retour des ressortissants
-français vivant dans la province de Hubei, par vol direct depuis Wuhan
-accompagné d’une équipe médicale et confinement des passagers pendant 14
-jours à Carry-le-Rouet.\
-\
-**2 février :** Deuxième opération de retour des ressortissants français
+**31 janvier** :
+-   première opération de retour des ressortissants français vivant dans
+    la province de Hubei, par vol direct depuis Wuhan accompagné d’une
+    équipe médicale.
+-   confinement des passagers pendant 14 jours à Carry-le-Rouet.
+
+**2 février** : deuxième opération de retour des ressortissants français
 de Hubei et confinement des passagers à Aix-en-Provence.\
 \
-**8 février :** Apparition d’un cluster (regroupement de plusieurs cas
-autour d’un cas initial) en Haute-Savoie. Les cinq cas confirmés de
-coronavirus COVID-19, quatre adultes et un enfant, ont été hospitalisés
-ainsi que six autres contacts proches. Une cellule de crise est mise en
-place par l’Agence Régionale de Santé d’Auvergne-Rhône-Alpes pour suivre
-la situation et retrouver l’ensemble des cas contacts. Les trois
+**8 février** : apparition d’un cluster (regroupement de plusieurs cas
+autour d’un cas initial) en Haute-Savoie. Les 5 cas confirmés de
+COVID-19, 4 adultes et un enfant, ont été hospitalisés ainsi que 6
+autres contacts proches. Une cellule de crise est mise en place par
+l’Agence régionale de Santé d’Auvergne-Rhône-Alpes pour suivre la
+situation et retrouver l’ensemble des cas contacts. Les trois
 établissements scolaires fréquentés par l’enfant malade ont été fermés
 pendant deux semaines par mesure de précaution et pour mener les
-investigations nécessaires (test diagnostic). L’opération de recherche
+investigations nécessaires (test diagnostique). L’opération de recherche
 et de tests auprès des cas contacts est engagée immédiatement.\
-\
-**9 février :**
--   Un centre de consultation exceptionnel est installé dans la salle
+**9 février** :
+-   un centre de consultation exceptionnel est installé dans la salle
     d’animation de la commune de Contamines-Montjoie afin de dépister
-    les enfants de l’école où était scolarisé l’enfant malade.
--   Troisième opération de retour de ressortissants français de Hubei
+    les enfants de l’école où était scolarisé l’enfant malade ;
+-   troisième opération de retour de ressortissants français de Hubei
     sur un vol britannique.
 
-**13 février :** Activation du plan ORSAN qui vise à organiser la
-mobilisation du système de santé pour se préparer à une éventuelle
-circulation active du coronavirus COVID-19 sur le territoire français.\
-\
-**14 février :**
--   Levée des mesures de confinement pour les passagers du premier vol
+**13 février** : activation du plan d’organisation de la réponse du
+système de santé (ORSAN) qui vise à organiser la mobilisation du système
+de santé pour se préparer à une éventuelle circulation active du
+COVID-19 sur le territoire français.\
+**14 février** :
+-   levée des mesures de confinement pour les passagers du premier vol
     de retour des Français de Wuhan suite à la fin de la période
     d’incubation de 14 jours et la réalisation de tests de diagnostic
-    revenus négatifs.
--   Premier décès en France d’un patient âgé de 80 ans hospitalisé en
-    France des suites du Coronavirus COVID-19.
+    revenus négatifs ;
+-   premier décès en France d’un patient âgé de 80 ans hospitalisé en
+    France des suites du COVID-19.
 
-**16 février :** Levée des mesures de confinement pour les passagers du
+**16 février** : levée des mesures de confinement pour les passagers du
 deuxième vol de retour.\
-\
-**17 février :** Envoi d’un guide pratique aux professionnels de santé
-par le ministère des solidarités et de la santé.\
-\
-**18 février :** Confirmation de trois passagers Français atteints de
-coronavirus COVID-19 à bord du paquebot de croisière Diamond Princess en
-confinement au large du Japon.\
-\
-**19 février:** Envoi de fret médical en solidarité avec la Chine à
+**17 février** : envoi d’un guide pratique aux professionnels de santé
+par le ministère des Solidarités et de la santé.\
+**18 février** : confirmation de trois passagers français atteints de
+COVID-19 à bord du paquebot de croisière Diamond Princess en confinement
+au large du Japon.\
+**19 février** : envoi de fret médical en solidarité avec la Chine à
 destination des structures hospitalières de Wuhan et de la province du
 Hubei.\
-\
-**21 février :**
--   Quatrième opération de retour de Français, Européens et
+**21 février** :
+-   quatrième opération de retour de Français, Européens et
     ayants-droit.
--   Rencontre de M. Bruno Le Maire et Mme Agnès Pannier-Runacher avec
+-   rencontre de M. Bruno Le Maire et Mme Agnès Pannier-Runacher avec
     les acteurs économiques nationaux sur les conséquences de l’épidémie
-    de coronavirus COVID-19.
+    de COVID-19.
 
-**23 février :** Levée des mesures de confinement pour les passagers du
+**23 février** : levée des mesures de confinement pour les passagers du
 troisième vol de retour.\
-\
-**24 février :**
--   Activation de 70 établissements de santé siège d’un SAMU. 107
+**24 février** :
+-   activation de 70 établissements de santé siège d’un SAMU. 107
     établissements de santé sont donc en capacité d’accueillir des
-    patients atteints de coronavirus COVID-19 soit au moins un par
-    département métropolitain et d’Outre-mer.
--   Augmentation des capacités de diagnostic biologique et commande de
+    patients atteints de COVID-19 soit au moins un par département
+    métropolitain et d’Outre-mer ;
+-   augmentation des capacités de diagnostic biologique et commande de
     plusieurs millions de masques FFP2 supplémentaires pour les
     professionnels de santé.
 
-**25 février :** Déploiement d’affiches d’information sur le Coronavirus
-COVID-19 dans les gares.\
-\
-**27 février :** Sommet Italie-France à Naples (Italie)\
-\
-**28 février :**
--   Déclaration du coronavirus COVID-19 comme “cas de force majeure”
-    pour les entreprises.
--   Diffusion de spot radio et télévision de prévention.
+**25 février** : déploiement d’affiches d’information sur le COVID-19
+dans les gares.\
+**27 février** : sommet Italie-France à Naples (Italie).\
+**28 février** :
+-   déclaration du COVID-19 comme “cas de force majeure” pour les
+    entreprises ;
+-   diffusion de spots de prévention en radio et télévision.
 
-**29 février :**
--   Conseil restreint de défense et de sécurité (Élysée)
--   Tenus d’un conseil de défense et d’un conseil des ministres
+**29 février** :
+-   conseil restreint de défense et de sécurité (Élysée) ;
+-   tenue d’un conseil de défense et d’un conseil des ministres
     exceptionnels sous l’autorité du président de la République,
-    consacré au coronavirus. Officialisation du passage du stade 1 au
-    stade 2 du plan de prévention et de gestion de la crise sanitaire
-    impliquant de prendre de nouvelles mesures afin de limiter la
-    diffusion du virus.
--   Interdiction des rassemblements de plus de 5000 personnes en espace
+    consacré au coronavirus.
+-   officialisation du passage du stade 1 au stade 2 du plan de
+    prévention et de gestion de la crise sanitaire impliquant de prendre
+    de nouvelles mesures afin de limiter la diffusion du virus ;
+-   interdiction des rassemblements de plus de 5000 personnes en espace
     clos.
 
-**2 mars :** Bpifrance est désormais garante des prêts demandés par les
+**2 mars** : Bpifrance est désormais garante des prêts demandés par les
 PME afin de les accompagner dans la gestion de la situation.\
-\
-**3 mars:** Mise en place d’une cellule de continuité économique au
+**3 mars**: mise en place d’une cellule de continuité économique au
 ministère de l’Economie et des Finances.\
-\
-**4 mars :** Conseil restreint de défense et de sécurité consacré au
-COVID-19 (Élysée).\
-\
-**5 mars :** Réunion de travail avec des acteurs de la recherche
-publique et privée engagés dans la lutte contre le COVID-19\
-\
-**6 mars :**
--   Réunion des ministres de la Santé de l'Union Européenne à Bruxelles
--   Activation du plan blanc dans les hôpitaux et du plan bleu dans les
-    EHPAD.
--   Publication du décret encadrant les prix de vente du gel
-    hydro-alcoolique.
+**4 mars** : conseil restreint de défense consacré au COVID-19
+(Élysée).\
+**5 mars** : réunion de travail avec des acteurs de la recherche
+publique et privée engagés dans la lutte contre le COVID-19.\
+**6 mars** :
+-   réunion des ministres de la Santé de l'Union Européenne à Bruxelles
+    ;
+-   activation du plan blanc dans les hôpitaux et du plan bleu dans les
+    EHPAD ;
+-   publication du décret encadrant les prix de vente du gel
+    hydroalcoolique.
 
-**8 mars :**
--   Conseil de défense consacré au suivi de la crise du coronavirus
-    COVID-19
--   Interdiction des rassemblements de plus de 1000 personnes non
+**8 mars** :
+-   conseil de défense consacré au suivi de la crise du COVID-19 ;
+-   interdiction des rassemblements de plus de 1000 personnes non
     indispensables à la continuité de la vie de la Nation.
 
-**9 mars :** Diffusion d’une circulaire du ministre de l’Intérieur pour
+**9 mars** : diffusion d’une circulaire du ministre de l’Intérieur pour
 garantir la sécurité et la sincérité des opérations de vote ainsi que
 des mesures de précautions sanitaires avant les élections municipales et
 communautaires des 15 et 22 mars.\
-\
-**10 mars :** Visioconférence de coordination européenne sur le
-Coronavirus COVID-19.\
-\
-**11 mars :** Conseil restreint de défense et de sécurité nationale
-(Élysée)\
-\
-**12 mars :**
--   Réunion sur le COVID-19 du Premier ministre avec les présidents des
+**10 mars** : visioconférence de coordination européenne sur le
+COVID-19.\
+**11 mars** : conseil restreint de défense et de sécurité nationale
+(Élysée).\
+**12 mars** :
+-   réunion sur le COVID-19 du Premier ministre avec les présidents des
     Assemblées, les présidents des groupes parlementaires, les chefs de
-    partis et les présidents des associations d'élus
--   Allocution du Président de la République
--   Fermeture des crèches, écoles, collèges, lycées et universités
+    partis et les présidents des associations d'élus ;
+-   allocution du président de la République ;
+-   fermeture des crèches, écoles, collèges, lycées et universités
     jusqu’à nouvel ordre, et mise en place d’un service de garde, région
     par région, pour les personnels qui sont indispensables à la gestion
-    de la crise sanitaire.
--   Mobilisation des médecins, des soignants, mais aussi d’étudiants et
+    de la crise sanitaire ;
+-   mobilisation des médecins, des soignants, mais aussi d’étudiants et
     de jeunes retraités, et report des soins non essentiels et
-    opérations non urgentes à l’hôpital.
--   Prolongement de deux mois de la trêve hivernale.
--   Mise en oeuvre d’un mécanisme exceptionnel et massif de chômage
+    opérations non urgentes à l’hôpital ;
+-   prolongement de deux mois de la trêve hivernale ;
+-   mise en oeuvre d’un mécanisme exceptionnel et massif de chômage
     partiel, avec prise en charge par l’Etat de l'indemnisation des
-    salariés contraints à rester chez eux.
--   Possibilité de reporter le paiement des cotisations et impôts dus en
+    salariés contraints à rester chez eux ;
+-   possibilité de reporter le paiement des cotisations et impôts dus en
     mars pour toutes les entreprises qui le souhaitent sans
     justification, ni pénalité.
--   Conseil de défense consacré au suivi de la crise du coronavirus
-    COVID-19
 
-**13 mars :**
--   Réunion interministerielle sur la recherche et la coordination
-    sanitaire.
--   Réunion interministerielle pour la mobilisation économique.
--   Annonce de l’Interdiction des rassemblements de plus de 100
+**13 mars** :
+-   réunion interministerielle sur la recherche et la coordination
+    sanitaire ;
+-   réunion interministerielle pour la mobilisation économique ;
+-   annonce de l’interdiction des rassemblements de plus de 100
     personnes le Premier ministre.
 
-**14 mars :** Annonce du passage en stade 3 par le Premier ministre\
-\
-**16 mars :**
--   Réunion du Premier ministre avec Bruno Le Maire, Muriel Pénicaud,
+**14 mars** : annonce du passage en stade 3 par le Premier ministre.\
+**16** **mars** :
+-   réunion du Premier ministre avec Bruno Le Maire, Muriel Pénicaud,
     Didier Guillaume, Jean-Baptiste Lemoyne et Agnès Pannier-Runacher,
-    et les différents acteurs économiques nationaux
--   Conférence téléphonique du président de la République avec la
+    et les différents acteurs économiques nationaux ;
+-   conférence téléphonique du président de la République avec la
     Chancelière de la République fédérale d’Allemagne, Mme Angela
     Merkel, le Président du Conseil européen, M. Charles Michel, et la
-    Présidente de la Commission européenne, Mme Ursula Von der Leyen
--   Allocution du Président de la République.
--   Conseil de défense consacré au suivi de la crise du coronavirus
-    COVID-19.
+    Présidente de la Commission européenne, Mme Ursula Von der Leyen ;
+-   allocution du Président de la République.
 
-**17 mars :**
--   Conseil européen extraordinaire par visioconférence
--   Restriction des déplacements au strict minimum.
--   Fermeture des frontières de l’espace Schengen.
--   Activation de la cellule interministérielle de crise par le Premier
+**17 mars** :
+-   conseil européen extraordinaire par visioconférence ;
+-   restriction des déplacements au strict minimum ;
+-   fermeture des frontières de l’espace Schengen ;
+-   activation de la cellule interministérielle de crise par le Premier
     ministre.
 
-**18 mars :** 1re mission entre Mulhouse et Toulon d’un A330 de l’armée
+**18 mars** : 1re mission entre Mulhouse et Toulon d’un A330 de l’armée
 de l’air équipé du kit MORPHEE (Module de Réanimation pour Patient à
 Haute Élongation d'Évacuation) pour le transfert de 6 patients vers les
 hôpitaux de Laveran et de Sainte Anne.\
-\
-**20 mars :**
--   Conseil de défense consacré au suivi de la crise du coronavirus
-    COVID-19
--   Mobilisation du porte-hélicoptère amphibie “Tonnerre” de la Marine
+**20 mars**:
+-   conseil de défense consacré au suivi de la crise du COVID-19 ;
+-   mobilisation du porte-hélicoptère amphibie “Tonnerre” de la Marine
     nationale pour l’évacuation des patients en réanimation en Corse
     vers des établissements de santé du continent.
 
-**21 mars :**
--   Le ministre des Solidarités et de la Santé Olivier Véran annonce que
+**21 mars** :
+-   le ministre des Solidarités et de la Santé Olivier Véran annonce que
     des commandes de plus de 250 millions de masques ont été signées et
-    seront livrées progressivement.
--   2ème mission MORPHEE entre Mulhouse et Bordeaux pour le transfert
-    par A330 de l’armée de l’air de 6 patients vers l’hôpital Pellegrin.
+    seront livrées progressivement ;
+-   2ème mission MORPHEE (Module de Réanimation pour Patient à Haute
+    Élongation d'Évacuation) entre Mulhouse et Bordeaux pour le
+    transfert par A330 de l’armée de l’air de 6 patients vers l’hôpital
+    Pellegrin.
 
-**22 mars :**
+**22 mars** :
 -   12 patients atteints du coronavirus ont été évacués de Corse à bord
     du “Tonnerre” pour être admis dans plusieurs hôpitaux des
-    Bouches-du-Rhône.
+    Bouches-du-Rhône ;
 -   22 patients hospitalisés dans le Grand Est et placés sous assistance
     respiratoire seront accueillis dans des hôpitaux situés dans trois
     pays frontaliers de la France : en Allemagne, en Suisse et au
     Luxembourg.
 
-**23 mars :** Réunion par audioconférence du président de la République
-avec les autorités morales et religieuses.\
-\
-**24 mars :** 3ème mission MORPHEE entre Mulhouse et Brest pour le
-transfert par A330 de l’armée de l’air de 6 patients.\
-\
-**23 mars :** Installation d’un hôpital de campagne militaire à
-Mulhouse.\
-\
-**25 mars :**
--   Affrètement d’un TGV médicalisé entre Mulhouse et les Pays de la
-    Loire
--   Conseil de défense consacré au suivi de la crise du coronavirus
-    COVID-19
--   Adoption de 25 ordonnances dans le cadre de l’état d’urgence
-    sanitaire en conseil des ministres
+**23 mars** :
+-   réunion par audioconférence du président de la République avec les
+    autorités morales et religieuses
+-   installation d’un hôpital de campagne militaire à Mulhouse.
 
-**26 mars :**
--   Publication du décret encadrant l’utilisation de la chloroquine.
--   Annonce par le G20 de l’injection de 5 000 milliards de dollars dans
+**24 mars** : 3ème mission MORPHEE (Module de Réanimation pour Patient à
+Haute Élongation d'Évacuation) entre Mulhouse et Brest pour le transfert
+par A330 de l’armée de l’air de 6 patients.\
+**25 mars** :
+-   affrètement d’un TGV médicalisé entre Mulhouse et les Pays de la
+    Loire ;
+-   conseil de défense consacré au suivi de la crise du COVID-19 ;
+-   adoption de 25 ordonnances dans le cadre de l’état d’urgence
+    sanitaire en conseil des ministres.
+
+**26 mars** :
+-   publication du décret encadrant l’utilisation de la chloroquine ;
+-   annonce par le G20 de l’injection de 5 000 milliards de dollars dans
     l’économie mondiale.
 
-**27 mars :** Annonce par le Premier ministre du renouvellement de la
+**27 mars** : annonce par le Premier ministre du renouvellement de la
 période de confinement jusqu’au mercredi 15 avril 2020.\
-\
-**28 mars :** Annonce de la commande de plus d’un milliard de masques,
+**28 mars** : annonce de la commande de plus d’un milliard de masques,
 de l’augmentation de la capacité du nombre de lits en réanimation qui
 sera portée à 14 000 lits et de la massification de la politique de
 tests.\
-\
-**30 mars :** Échange entre le Premier ministre et les acteurs
-économiques.\
-\
+**30 mars** : échange entre le Premier ministre et les acteurs
+économiques\
 **31 mars** :
--   Intervention du Président de la République depuis une usine
-    française de masques à Saint-Barthélémy-d'Anjou sur la stratégie
+-   intervention du Président de la République depuis une usine
+    française de masques à Saint-Barthélemy-d'Anjou sur la stratégie
     d’importation et de production en France de masques, respirateurs et
     gel hydroalcoolique ; 4 milliards d’euros seront alloués à Santé
-    publique France pour commander des médicaments et du matériel. 
--   La période de déclaration de l’impôts sur le revenu sera décalée de
-    quelques semaines et débutera le 20 avril
+    publique France pour commander des médicaments et du matériel ;
+-   la période de déclaration de l’impôts sur le revenu sera décalée de
+    quelques semaines et débutera le 20 avril ;
 -   10 millions d'euros supplémentaires seront attribués pour le
     financement des aides spécifiques d'urgence attribuées par les
-    Centres régionaux des œuvres universitaires (Crous).
+    Centres régionaux des œuvres universitaires et scolaires (CROUS).
 
-**1er avril : **
--   Conseil de défense consacré au suivi de la crise du coronavirus
-    COVID-19.
--   Adoption de 7 ordonnances dans le cadre de l’état d’urgence
+**1er avril** :
+-   conseil de défense consacré au suivi de la crise du COVID-19 ;
+-   adoption de 7 ordonnances dans le cadre de l’état d’urgence
     sanitaire en conseil des ministres.
 
-  **2 avril :** Visioconférence du Premier ministre avec les chefs de
-partis et de groupes parlementaires.\
-\
-**4 avril :** Financement d’un projet de test de dépistage du COVID-19
-par le ministère des Armées, à hauteur de 1 million d’euros.\
-\
-**6 avril :** Lancement d’une vaste opération de dépistage des personnes
-les plus vulnérables, en mettant la priorité sur les personnes âgées,
-les personnes handicapées les plus fragiles et les professionnels qui
-les accompagnent en établissement.\
-\
-**7 avril :** Financement d’une nouvelle technologie de détection rapide
-du COVID-19 par le ministère des Armées, à hauteur de 1,8 million
-d’euros.\
-\
+**2 avril** :\
+visioconférence du Premier ministre avec les chefs de partis et de
+groupes parlementaires.\
+**4 avril** :\
+financement d’un projet de test de dépistage du COVID-19 par le
+ministère des Armées, à hauteur de 1 million d’euros.\
+**6 avril** :\
+lancement d’une vaste opération de dépistage des personnes les plus
+vulnérables, en mettant la priorité sur les personnes âgées, les
+personnes handicapées les plus fragiles et les professionnels qui les
+accompagnent en établissement.\
+**7 avril** :\
+financement d’une nouvelle technologie de détection rapide du COVID-19
+par le ministère des Armées, à hauteur de 1,8 million d’euros.\
 **9 avril** : renforcement du plan d’urgence de soutien à l’économie :
 de 45 milliards d'euros, il est passé à 100 milliards d'euros.\
-\
-**13 avril** : Annonce de la prolongation du confinement de la
+**13 avril** : annonce de la prolongation du confinement de la
 population jusqu’au 11 mai par le président de la République.
 
 
