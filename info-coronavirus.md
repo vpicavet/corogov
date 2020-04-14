@@ -122,7 +122,7 @@ COVID-19
 
 
 
-Mis à jour le lundi 13 avril 2020, à 19h45
+Mis à jour le mardi 14 avril 2020, à 19h30
 
 
 -   [Francais](/info-coronavirus){.active}
@@ -864,11 +864,7 @@ médicale entre patients testés ou non restent identiques.
 
 Il n’existe pas de vaccin contre le coronavirus COVID-19 pour le moment.
 De nombreux laboratoires travaillent sur l’élaboration de vaccins, mais
-ceux-ci ne devraient pas être disponibles avant plusieurs mois. 
-
-Concernant les traitements, plusieurs sont en cours d’évaluation en
-France, en lien avec l’OMS pour être utilisés contre le coronavirus
-COVID-19.
+ceux-ci ne devraient pas être disponibles avant plusieurs mois.
 
 
 
@@ -878,17 +874,21 @@ COVID-19.
 
 
 
-\
 Les patients infectés par le coronavirus bénéficient aujourd’hui de
 traitements symptomatiques, c’est-à-dire visant à améliorer les
-symptômes. Il n’existe pas encore de traitement visant spécifiquement le
-virus. Un grand essai clinique a démarré au niveau européen pour évaluer
-plusieurs traitements contre le coronavirus. Cet essai, dénommé
-DISCOVERY, a pour but d’évaluer l’efficacité et la sécurité de quatre
+symptômes.\
+Il n’existe pas encore de traitement visant spécifiquement le virus.\
+\
+*En savoir plus*\
+\
+**Plusieurs traitements sont en cours d’évaluation en France, en lien
+avec l’OMS**, pour être utilisés contre le COVID-19.\
+**Un grand essai clinique a démarré au niveau européen nommé
+DISCOVERY**. Son but :évaluer l’efficacité et la sécurité de quatre
 stratégies thérapeutiques expérimentales qui pourraient avoir un effet
 contre le COVID-19. Les molécules testées sont le Remdesivir,
 l’association Lopinavir + Ritonavir, l’association Lopinavir + Ritonavir
-+ interféron beta et enfin l’hydroxychloroquine. L’essai compte inclure
++ interféron bêta et enfin l’hydroxychloroquine. L’essai compte inclure
 notamment 800 patients en France. Il y a donc de nombreuses pistes
 thérapeutiques potentielles, mais dont l’efficacité et l’innocuité
 doivent être démontrées. Pour le moment aucune n’est favorisée ; aucun
@@ -898,19 +898,63 @@ traitement spécifique n’est donc validé.
 
 
 
+#### Qu’est-ce qu’un essai clinique ? {#quest-ce-quun-essai-clinique .item-question}
+
+
+
+C’est une étude scientifique réalisée pour évaluer l’efficacité et la
+sécurité d’une méthode diagnostique ou d’un traitement. Le plus souvent,
+on compare deux groupes de malades au profil similaire. Dans un groupe,
+on donne le nouveau traitement, et dans un autre groupe, on donne un
+comparateur (placebo ou traitement normalement utilisé). A l’issue de
+l’essai, on évalue si le nouveau traitement est plus efficace ou pas, et
+on évalue s’il présente trop de risques pour les malades. C’est donc une
+étape indispensable pour obtenir la preuve de l’efficacité d’un
+traitement, et ne pas exposer les malades à des risques liés au
+médicament.
+
+
+
+
+
 #### La prise d'anti-inflammatoire (ibuprofène) pourrait être un facteur d'aggravation de l'infection ? {#la-prise-danti-inflammatoire-ibuprofène-pourrait-être-un-facteur-daggravation-de-linfection .item-question}
 
 
 
-De manière générale, l’auto-médication par anti-inflammatoires doit être
-proscrite. De plus, il semblerait que les anti-inflammatoires non
-stéroïdiens pourraient être un facteur d’aggravation de l'infection.
+De manière générale, l’automédication par anti-inflammatoires doit être
+proscrite.\
+\
+Il semblerait que les anti-inflammatoires non stéroïdiens puissent être
+un facteur d’aggravation de l'infection.\
+\
+Aussi, dans le cas d’une infection au COVID-19, le paracétamol est
+recommandé. Si vous êtes déjà sous anti-inflammatoires ou en cas de
+doute, demandez conseil à votre médecin ou consultez le site
+<https://www.covid19-medicaments.com>.
 
-Ainsi, dans le cas d’une infection au coronavirus COVID-19, le
-paracétamol est recommandé. Si vous êtes déjà sous anti-inflammatoires
-ou en cas de doute, demandez conseil à votre médecin ou consultez le
-site <https://www.covid19-medicaments.com> (réalisé avec le Réseau
-Français des Centres Régionaux de Pharmacovigilance).
+
+
+
+
+#### Les hôpitaux connaissent-ils ou vont-ils une pénurie de médicaments ? {#les-hôpitaux-connaissent-ils-ou-vont-ils-une-pénurie-de-médicaments .item-question}
+
+
+
+Les hôpitaux du monde entier sont confrontés à des besoins croissants en
+médicaments utilisés en réanimation.\
+\
+Nous pourrions avoir dans les semaines qui viennent des tensions
+d’approvisionnement sur certains produits. Lorsqu’elles sont localisées,
+ces tensions sont maîtrisées :
+-   en assurant la coordination et la circulation des produits sur
+    l’ensemble du territoire, notamment à partir du stock national ;
+-   en encourageant l’augmentation de la production nationale, lorsque
+    c’est possible ;
+-   en encourageant l’augmentation de la production mondiale : les
+    acteurs économiques et industriels augmentent leurs capacités de
+    production.
+-   en mobilisant tous les moyens de l’Etat pour acheter ces produits en
+    quantité importante.
 
 
 
@@ -920,20 +964,17 @@ Français des Centres Régionaux de Pharmacovigilance).
 
 
 
+Non, il n’y a pas de risque de pénurie.\
 \
-Il n'y a pas de problème de production en oxygène, ni
-d'approvisionnement du vrac ou de livraison. Concernant les
-bouteilles en elles-mêmes (contenants en métal)  il existe des tensions
-liées aux délais de production.\
-\
-Il n’y a cependant pas de risque de pénurie, mais il est demandé aux
-hôpitaux :\
-\
-- de restituer le plus vite possible les bouteilles vides afin de
-pouvoir les décontaminer (48 heures sont nécessaires), les remplir et
-les livrer ;\
-- d'utiliser en premier lieu le vrac (citernes des hôpitaux), plutôt que
-les bouteilles.
+S’il existe des tensions concernant les délais de production des
+bouteilles d’oxygène, la production et la livraison en oxygène tout
+comme l’approvisionnement du vrac, se poursuivent. Par sécurité il est
+demandé aux hôpitaux :
+-   de restituer le plus vite possible les bouteilles vides afin de
+    pouvoir les décontaminer (48 heures sont nécessaires), les remplir
+    et les livrer ;
+-   d'utiliser en premier lieu le vrac (citernes des hôpitaux), plutôt
+    que les bouteilles.
 
 
 
@@ -943,36 +984,14 @@ les bouteilles.
 
 
 
-Non, néanmoins l’Agence nationale de sécurité du médicament (ANSM) a
-décidé, afin de garantir leur disponibilité, qu’à partir du 18 mars
-2020, les pharmaciens pourront délivrer sans ordonnance une seule boite
-de paracétamol (500 mg ou 1g) par patient ne présentant aucun symptôme,
-ou deux boites (500 mg ou 1g) en cas de symptômes (douleurs et/ou
-fièvre). La vente sur Internet des médicaments à base de paracétamol,
+Non.\
+Néanmoins l’Agence nationale de sécurité du médicament (ANSM) a décidé,
+afin de garantir leur disponibilité, qu’à partir du 18 mars 2020, les
+pharmaciens ne puissentdélivrer sans ordonnance qu’une seule boite de
+paracétamol (500 mg ou 1g) par patient ne présentant aucun symptôme, ou
+deux boites (500 mg ou 1g) en cas de symptômes (douleurs et/ou fièvre).
+La vente sur Internet des médicaments à base de paracétamol,
 d'ibuprofène et d'aspirine est suspendue.
-
-
-
-
-
-#### Les hôpitaux connaissent-ils une pénurie de médicaments ? Cela pourrait-il arriver ? {#les-hôpitaux-connaissent-ils-une-pénurie-de-médicaments-cela-pourrait-il-arriver .item-question}
-
-
-
-Les hôpitaux du monde entier se retrouvent confrontés à des besoins
-croissants en matière de médicaments utilisés en réanimation. Nous
-pourrions avoir dans les semaines qui viennent des tensions
-d’approvisionnement sur certains produits.. Lorsqu’elles sont
-localisées, ces tensions sont maîtrisées en assurant la coordination et
-la circulation des produits sur l’ensemble du territoire, notamment à
-partir du stock national. Nous encourageons également l’augmentation de
-la production nationale, lorsque c’est possible, et l’augmentation de la
-production mondiale. Des initiatives mondiales sont en train d'être
-prises par les acteurs économiques et les industriels pour augmenter les
-capacités de production et faire face à la demande croissante. En outre,
-nous mobilisons actuellement tous les moyens de l’Etat pour acheter ces
-produits en quantité importante.\
- 
 
 
 
@@ -983,31 +1002,33 @@ produits en quantité importante.\
 
 
 Il existe une tension sur les marchés mondiaux en matière
+d'approvisionnement. Tous les moyens sont mis en œuvre pour garantir
+l’accès au curare aux patients qui le nécessitent :
+-   actions auprès des industriels pour augmenter l’approvisionnement de
+    la France ;
+-   meilleure régulation des stocks des établissements de santé sur le
+    territoire en lien avec les Agences régionales de Santé ;
+-   priorisation des indications en lien avec les sociétés savantes et
+    optimisation des protocoles, y compris dans les autres indications
+    nécessitant des curares ;
+-   objectif de réduction de 20% de la consommation de curare sans
+    risque pour le patient.
+
+*En savoir plus*\
+\
+Il existe une tension sur les marchés mondiaux en matière
 d'approvisionnement en médicaments spécifiquement liés au service de
-réanimation car aucun système sanitaire n'a été pensé pour faire face à
+réanimation, car aucun système sanitaire n'a été pensé pour faire face à
 une telle vague épidémique et car tous les systèmes de santé du monde
 sont confrontés à cette vague en même temps.\
 \
 La situation du curare, comme pour les autres médicaments, a été
-anticipée. Il faut noter  que les curares ne sont pas indispensables
-dans la prise en charge des détresses respiratoires, mais
-essentiellement indiqués dans les formes les plus sévères.\
+anticipée. Il faut noter que les curares ne sont pas indispensables dans
+la prise en charge des détresses respiratoires, mais essentiellement
+indiqués dans les formes les plus sévères.\
 \
 Ce risque spécifique d’une pénurie de curare a fait l’objet de groupes
-de travail avec les professionnels.\
-\
-Tous les moyens sont actuellement mis en œuvre pour permettre de
-garantir l’accès au curare aux patients qui le nécessitent :\
-\
-- actions auprès des industriels pour augmenter l’approvisionnement de
-la France ;\
-- meilleure régulation des stocks détenus dans les établissements de
-santé sur le territoire en lien avec les ARS ; \
-- priorisation des indications en lien avec les sociétés savantes et
-optimisation des protocoles, y compris dans les autres indications
-nécessitant des curares ;\
-- objectif de réduction de 20% de la consommation de curare sans risque
-pour le patient avec déploiement du monitorage de la curarisation.
+de travail avec les professionnels.
 
 
 
@@ -1018,15 +1039,18 @@ pour le patient avec déploiement du monitorage de la curarisation.
 
 
 À ce stade, l’efficacité de la chloroquine dans le traitement de
-l’infection à COVID-19 n’a pas été scientifiquement démontrée. Le
-Haut-Conseil de Santé Publique recommande de ne pas utiliser ce
+l’infection à COVID-19 n’a pas été scientifiquement démontrée.\
+\
+*En savoir plus*\
+\
+Le Haut-Conseil de Santé Publique recommande de ne pas utiliser ce
 traitement en l’absence de recommandation à l’exception des cas graves à
 l’hôpital, sur décision collégiale des médecins, et sous surveillance
 stricte.\
 \
 Le Haut Conseil exclut toute prescription dans la population générale et
-pour des formes non sévères en l’absence de toutes données probantes
-pour le moment.\
+pour des formes non sévères en l’absence de toute donnée probante pour
+le moment.\
 \
 Le ministre des Solidarités et de la Santé prendra prochainement un
 arrêté pour encadrer l’utilisation du médicament, qui sera accessible
@@ -1042,58 +1066,17 @@ les traitements les plus efficaces.
 
 
 
-#### Pourquoi transférer les personnes infectées dans d’autres hôpitaux plutôt que de réquisitionner des gymnases et les soigner sur place ? {#pourquoi-transférer-les-personnes-infectées-dans-dautres-hôpitaux-plutôt-que-de-réquisitionner-des-gymnases-et-les-soigner-sur-place .item-question}
+#### Pourquoi transférer les personnes infectées dans d’autres hôpitaux plutôt que de réquisitionner des gymnases pour les soigner sur place ? {#pourquoi-transférer-les-personnes-infectées-dans-dautres-hôpitaux-plutôt-que-de-réquisitionner-des-gymnases-pour-les-soigner-sur-place .item-question}
 
 
 
-Les personnes transférées lors des évacuations sanitaires (EVASAN) sont
-des patients avec des formes graves, nécessitant un lit de réanimation.
-La mise en place d’un lit de réanimation nécessite une équipe formée et
-du matériel lourd (respirateur, matériel de surveillance continue).\
+Les personnes transférées lors des évacuations sanitaires sont des
+patients avec des formes graves, nécessitant un lit de réanimation. La
+mise en place d’un lit de réanimation nécessite une équipe formée et du
+matériel lourd (respirateur, matériel de surveillance continue).\
 \
 Il n’est donc pas possible de les soigner dans des gymnases
-réquisitionnés car ce ne sont pas des lieux appropriés pour une telle
-prise en charge.
-
-
-
-
-
-#### Quelles pistes en cours pour un traitement contre le COVID-19 ? {#quelles-pistes-en-cours-pour-un-traitement-contre-le-covid-19 .item-question}
-
-
-
-Les patients infectés par le coronavirus bénéficient aujourd’hui de
-traitements symptomatiques. Un grand essai clinique a démarré au niveau
-européen pour évaluer plusieurs traitements. Cet essai, dénommé
-DISCOVERY, a pour but d’évaluer l’efficacité et la sécurité de quatre
-stratégies thérapeutiques expérimentales qui pourraient avoir un effet
-contre le COVID-19. Les molécules testées sont le Remdesivir,
-l’association Lopinavir + Ritonavir, l’association Lopinavir + Ritonavir
-+ interféron beta et enfin l’hydroxychloroquine. L’essai compte inclure
-notamment 800 patients en France. Il y a donc de nombreuses pistes
-thérapeutiques potentielles, mais dont l’efficacité et l’innocuité
-doivent être démontrées. Pour le moment aucune n’est favorisée et, aucun
-traitement spécifique n’est validé.
-
-
-
-
-
-#### Qu’est-ce qu’un essai clinique ? {#quest-ce-quun-essai-clinique .item-question}
-
-
-
-Un essai clinique est une étude scientifique réalisée pour évaluer
-l’efficacité et la sécurité d’une méthode diagnostique ou d’un
-traitement. Le plus souvent, on compare deux groupes de malades au
-profil similaire. Dans un groupe, on donne le nouveau traitement, et
-dans un autre groupe, on donne un comparateur (placebo ou traitement
-normalement utilisé). A l’issue de l’essai, on évalue si le nouveau
-traitement est plus efficace ou pas, et on évalue s’il présente trop de
-risques pour les malades. C’est donc une étape indispensable pour
-obtenir la preuve de l’efficacité d’un traitement, et ne pas exposer les
-malades à des risques liés au médicament.
+réquisitionnés car ce ne sont pas des lieux appropriés.
 
 
 
@@ -1103,10 +1086,40 @@ malades à des risques liés au médicament.
 
 
 
+Le monde de la recherche est mobilisé d’une manière inédite :\
+ 
+-   La France est le seul pays européen à avoir initié un programme de
+    recherche clinique sur le COVID-19 dès le 22 mars. Des équipes
+    travaillent sur plusieurs pistes de traitement à Paris, Marseille ou
+    encore Lyon ; les protocoles ont commencé. C'est la première fois
+    que la communauté scientifique française mène un effort de recherche
+    d’une telle ampleur, en temps réel, au cours d'une épidémie.
+-   De nombreux programmes français et européens et des essais
+    cliniques, sont en cours afin d’améliorer le diagnostic, la
+    compréhension et la prise en charge de cette maladie.
+-   La France participe activement aux initiatives mondiales de
+    recherches. Tous les travaux sont mis en ligne en open source et en
+    open access pour partager le maximum de données.
+
+Afin de soutenir l’effort de recherche :\
+ 
+-   Les ministères des Solidarités et de la Santé, de l’Enseignement
+    supérieur, de la Recherche et de l’Innovation, l’Agence Nationale de
+    la Recherche, l’INSERM… sont mobilisés ;.
+-   8 millions d’euros ont été débloqués par les ministères en soutien
+    et à la coordination de la réponse scientifique à la propagation du
+    virus.
+-   Un fonds d’urgence de 50 millions d’euros pour lutter contre
+    l’épidémie ainsi que le réinvestissement de 5 milliards d’euros
+    supplémentaires dans la recherche sur les dix prochaines années a
+    été annoncé par le Président de la République.
+
+*Pour en savoir plus*\
+\
 Le Président de la République a fait un point avec des médecins, des
 scientifiques des responsables de laboratoires mobilisés pour la
 recherche contre le coronavirus et les responsables du consortium
-REACTing, coordonné par l'INSERM et placé sous l’égide d’Aviesan,
+REACTing, coordonné par l’INSERM et placé sous l’égide d’Aviesan,
 l’alliance de recherche en sciences du vivant et santé, et mandaté par
 le gouvernement pour coordonner l’effort de recherche. Le monde de la
 recherche est totalement mobilisé. Afin de soutenir l’effort de
@@ -1124,8 +1137,8 @@ les protocoles ont commencé. Des équipes sont également à pied d'œuvre
 pour inventer un vaccin, qui pourrait voir le jour dans les prochains
 mois.\
 \
-Par ailleurs, le président de la République a annoncé le 19 mars la mise
-en place d’un fonds d’urgence de 50 millions d’euros pour lutter contre
+De plus, le président de la République a annoncé le 19 mars la mise en
+place d’un fonds d’urgence de 50 millions d’euros pour lutter contre
 l’épidémie ainsi que le réinvestissement de 5 milliards d’euros
 supplémentaires dans la recherche sur les dix prochaines années.\
 \
@@ -1142,11 +1155,7 @@ Dans le cadre d’une procédure d’évaluation accélérée, le ministère des
 Solidarités et de la Santé a également financé 11 projets de recherche
 clinique consacrés au COVID, dont Discovery. C'est la première fois que
 la communauté scientifique française mène un effort de recherche d’une
-telle ampleur, en temps réel, au cours d'une épidémie.\
-\
-La France participe activement aux initiatives mondiales de recherches :
-tous les travaux sont mis en ligne en open source et en open access pour
-partager le maximum de données.
+telle ampleur, en temps réel, au cours d'une épidémie.
 
 
 
@@ -1161,7 +1170,7 @@ partager le maximum de données.
 ### Point de situation en France {#point-de-situation-en-france .item-paragraphe-titre .c-onglet data-picto=""}
 
 
-**Le 13 avril 2020, à 19h30**\
+**Le 14 avril 2020, à 19h30**\
  
 
 Les autorités sanitaires tiennent [un point presse
@@ -1174,10 +1183,10 @@ Les informations du jour :
     plusieurs zones de regroupement de cas (clusters). Nous sommes
     actuellement au stade 3 du plan d’actions du Gouvernement qui a pour
     objectif de prévenir et limiter la circulation du virus. 
--   Depuis le 24 janvier 2020, la France compte 98 076 cas confirmés de
-    coronavirus COVID-19.
--   9 588 personnes sont décédées à l'hôpital,  depuis le 1er mars.
--   27 718 personnes sont sorties guéries de l'hôpital, depuis le 1er
+-   Depuis le 24 janvier 2020, la France compte 103 573 cas confirmés
+    par test PCR (prélévements dans le nez) de coronavirus.
+-   10 129 personnes sont décédées à l'hôpital,  depuis le 1er mars.
+-   28 805 personnes sont sorties guéries de l'hôpital, depuis le 1er
     mars.
 
 Retrouvez toutes les données sur [le tableau de bord COVID-19 de
@@ -1192,6 +1201,24 @@ En Polynésie française et en Nouvelle-Calédonie, où les gouvernements
 sont compétents en matière de santé publique comme de gestion de crise,
 l'État réaffirme son soutien plein et entier aux collectivités pour les
 accompagner dans la lutte contre ce virus.
+
+
+
+
+#### L’organisation et le suivi de la maladie sur le territoire {#lorganisation-et-le-suivi-de-la-maladie-sur-le-territoire .item-question}
+
+
+
+Un hôpital de référence a été désigné dans chacun des départements et
+régions d'outre-mer. La prise en charge par les autorités sanitaires de
+cette maladie est identique sur l’ensemble du territoire national, dans
+les territoires d'outre-mer comme dans l'hexagone.\
+\
+En Polynésie française et en Nouvelle-Calédonie, où les gouvernements
+sont compétents en matière de santé publique comme de gestion de crise,
+l'État réaffirme son soutien plein et entier aux collectivités pour les
+accompagner dans la lutte contre ce virus
+
 
 
 
