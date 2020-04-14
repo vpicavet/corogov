@@ -2082,8 +2082,7 @@ Je suis un ressortissant français à l’étranger
 
 
 Afin de ralentir la propagation du COVID-19, plusieurs catégories
-d'établissement ne peuvent plus accueillir de public, et ce, jusqu’au 15
-avril 2020 : 
+d'établissement ne peuvent plus accueillir de public : 
 
 -   Salles d'auditions, de conférences, de réunions, de spectacles ou à
     usage multiple (par exemple, les cinémas) ;
@@ -2096,12 +2095,17 @@ avril 2020 : 
 -   Etablissements sportifs couverts ;
 -   Musées.
 
+\
 Les restaurants et bars d’hôtels, à l’exception du “room service”, sont
 considérés comme relevant de la catégorie “restaurants et débits de
 boissons”, et ne peuvent donc pas accueillir de public. Les commerces
 qui ne peuvent plus accueillir de clients peuvent maintenir leurs
-activités de livraison et de retrait de commandes.
-
+activités de livraison et de retrait de commandes.\
+\
+La pluplart des établissements accueillant du public resteront fermés au
+delà du 11 mai, date de la fin du confinement de la population. Les
+festivals ne pourront être organisés avant la mi-juillet.\
+\
 Par ailleurs, les navires de croisière et navires à passagers
 transportant plus de 100 passagers ont interdiction de faire escale en
 Corse, et ont interdiction de faire escale ou de mouiller dans les eaux
@@ -2109,10 +2113,7 @@ intérieures et territoriales des départements et régions d'outre-mer,
 ainsi que de Saint-Barthélemy et Saint-Martin, Saint-Pierre-et-Miquelon,
 et Wallis-et-Futuna, sauf dérogation accordée par le représentant de
 l'Etat compétent pour ces mêmes collectivités.\
-\
-Après une première prolongation de deux semaines annoncée par le Premier
-ministre le 27 mars 2020, le confinement sera à nouveau prolongé au-delà
-du mercredi 15 avril.
+ 
 
 
 
@@ -2293,7 +2294,13 @@ exercent en milieu hospitalier, médico-social ou libéral ou qu’ils
 soient étudiants en santé et internes. Accessible par le 0800 73 09 58
 (n° vert), elle prend la forme d’une cellule d’écoute ouverte 7 jours /
 7 de 8h00 à minuit grâce à l’engagement de psychologues hospitaliers
-volontaires et bénévoles.
+volontaires et bénévoles.\
+\
+Le confinement de la population sera levé le 11 mai à part pour les
+personnes âgées, fragiles ou malade. A partir de cette date, les tests
+de dépistage seront disponibles pour l’ensemble des personnes présentant
+des symptômes et le port du masque grand public sera généralisé.\
+ 
 
 
 
@@ -2308,18 +2315,15 @@ stade 3 du plan de lutte contre l’épidémie et jusqu’à nouvel ordre, de
 fermer tous les lieux recevant du public qui ne sont pas indispensables
 à la vie du pays. Il s’agit notamment des restaurants, cafés, cinémas,
 discothèques. Les lieux de culte resteront ouverts, mais les
-rassemblements et les cérémonies devront être reportés. 
-
+rassemblements et les cérémonies devront être reportés.\
+\
 Le 16 mars 2020, le Président de la République a décidé de prendre des
 mesures supplémentaires pour réduire à leur plus strict minimum les
 contacts et les déplacements. Un dispositif de confinement est mis en
-place sur l’ensemble du territoire à compter du mardi 17 mars à 12h00,
-pour quinze jours minimum. Après une première prolongation de deux
-semaines annoncée par le Premier ministre le 27 mars 2020, le
-confinement sera à nouveau prolongé au-delà du mercredi 15 avril.\
+place sur l’ensemble du territoire depuis le 17 mars.\
 \
-Les déplacements sont interdits sauf dans les cas suivants et uniquement
-à condition d'être munis d'une attestation pour :
+Les déplacements sont interdits jusqu'au 11 mai, sauf dans les cas
+suivants et uniquement à condition d'être munis d'une attestation pour :
 
 -   **Déplacements entre le domicile et le lieu d’exercice de l’activité
     professionnelle**, lorsqu’ils sont indispensables à l’exercice
@@ -2346,6 +2350,12 @@ Les déplacements sont interdits sauf dans les cas suivants et uniquement
 -   **Convocation judiciaire ou administrative**.
 -   **Participation à des missions d’intérêt général** sur demande de
     l’autorité administrative.
+
+\
+La plupart des établissements accueillant du public (restaurants, bars,
+cinémas, musées…) resteront fermés au-delà du 11 mai et jusqu’à nouvel
+ordre.\
+ 
 
 
 
@@ -2412,11 +2422,12 @@ l’Ambassade de France à Pékin et le consulat général de France à Wuhan.
 ### Pour la scolarité {#pour-la-scolarité .item-paragraphe-titre .c-onglet data-picto=""}
 
 
-**Fermeture de tous les établissements scolaires**
-
+**Fermeture de tous les établissements scolaires**\
+\
 Le Président de la République a annoncé, le 12 mars 2020, la fermeture
-de l’ensemble des crèches, écoles, collèges, lycées et universités à
-partir du lundi 16 mars 2020.\
+de l’ensemble des crèches, écoles, collèges, lycées et université.  Les
+crèches, écoles, collèges et lycées rouvriront progressivement à partir
+du 11 mai. Les universités ne rouvriront pas avant l'été.\
 \
 Cette mesure, prise sur recommandations des scientifiques au vu de
 l’accélération de l’épidémie, vise à la fois à protéger les plus jeunes
@@ -2493,8 +2504,8 @@ Concernant le Diplôme de Comptabilité et de Gestion (DGC), il a été
 décidé du report des épreuves en juillet pour les plus de 20 000
 candidats inscrits.\
 \
-**Service de garde**
-
+**Service de garde**\
+\
 Le Président de la République a également annoncé la mise en place d’un
 service de garde pour les personnels qui sont indispensables à la
 gestion de la crise sanitaire. Pour assurer l’accueil des enfants âgés
@@ -3257,14 +3268,15 @@ les plus vulnérables, en mettant la priorité sur les personnes âgées,
 les personnes handicapées les plus fragiles et les professionnels qui
 les accompagnent en établissement.\
 \
-\
 **7 avril :** Financement d’une nouvelle technologie de détection rapide
 du COVID-19 par le ministère des Armées, à hauteur de 1,8 million
 d’euros.\
 \
-\
 **9 avril** : renforcement du plan d’urgence de soutien à l’économie :
-de 45 milliards d'euros, il est passé à 100 milliards d'euros.
+de 45 milliards d'euros, il est passé à 100 milliards d'euros.\
+\
+**13 avril** : Annonce de la prolongation du confinement de la
+population jusqu’au 11 mai par le président de la République.
 
 
 
@@ -7294,6 +7306,24 @@ et distance barrières.\
 
 
 
+#### Combien de temps va durer le confinement ? {#combien-de-temps-va-durer-le-confinement .item-question}
+
+
+
+Le confinement de la population est prévu jusqu’au 11 mai 2020 où les
+sorties seront de nouveau autorisées à part pour les personnes âgées,
+fragiles ou malade.\
+\
+Les commerces, industries et services rouvriront mais les établissements
+accueillant du public resteront fermés jusqu’à nouvel ordre.\
+\
+Les crèches, écoles, collèges et lycées rouvriront progressivement mais
+les universités ne rouvriront pas leurs portes avant l’été.
+
+
+
+
+
 #### Que se passe-t-il si je ne respecte pas les mesures de confinement ? {#que-se-passe-t-il-si-je-ne-respecte-pas-les-mesures-de-confinement .item-question}
 
 
@@ -8303,22 +8333,22 @@ accéder au tableau de bord complet de suivi de l’épidémie.
 
 
 
-#### Quelle stratégie pour lutter contre le coronavirus ? {#quelle-stratégie-pour-lutter-contre-le-coronavirus .item-question}
+#### Quelle stratégie pour lutter contre le COVID-19 ? {#quelle-stratégie-pour-lutter-contre-le-covid-19 .item-question}
 
 
 
-Notre stratégie pour lutter contre le virus est double : 
--   Freiner sa progression pour diminuer le nombre cas graves et donc le
+Notre stratégie pour lutter contre le virus est double :
+1.  Freiner sa progression pour diminuer le nombre cas graves et donc le
     nombre de personnes en réanimation, grâce au respect du confinement
     et des gestes barrières.
--   Augmenter la capacité d’admission dans les services de réanimation
+2.  Augmenter la capacité d’admission dans les services de réanimation
     grâce à une mobilisation massive des moyens de l’Etat.
 
 
 
 
 
-#### Comment le renforcement de la capacité d’accueil de nos hôpitaux se met-il en place ? {#comment-le-renforcement-de-la-capacité-daccueil-de-nos-hôpitaux-se-met-il-en-place .item-question}
+#### Comment la capacité d’accueil des hôpitaux est-elle renforcée ? {#comment-la-capacité-daccueil-des-hôpitaux-est-elle-renforcée .item-question}
 
 
 
