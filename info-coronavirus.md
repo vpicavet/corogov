@@ -122,7 +122,7 @@ COVID-19
 
 
 
-Mis à jour le mardi 14 avril 2020, à 19h30
+Mis à jour le mardi 15 avril 2020, à 19h30
 
 
 -   [Francais](/info-coronavirus){.active}
@@ -1183,10 +1183,10 @@ Les informations du jour :
     plusieurs zones de regroupement de cas (clusters). Nous sommes
     actuellement au stade 3 du plan d’actions du Gouvernement qui a pour
     objectif de prévenir et limiter la circulation du virus. 
--   Depuis le 24 janvier 2020, la France compte 103 573 cas confirmés
+-   Depuis le 24 janvier 2020, la France compte 106 206 cas confirmés
     par test PCR (prélévements dans le nez) de coronavirus.
--   10 129 personnes sont décédées à l'hôpital,  depuis le 1er mars.
--   28 805 personnes sont sorties guéries de l'hôpital, depuis le 1er
+-   10 643 personnes sont décédées à l'hôpital,  depuis le 1er mars.
+-   30 955 personnes sont sorties guéries de l'hôpital, depuis le 1er
     mars.
 
 Retrouvez toutes les données sur [le tableau de bord COVID-19 de
