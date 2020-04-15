@@ -2170,8 +2170,6 @@ Les hôtels sont assimilés à des domiciles privés et restent donc
 ouverts, et leurs “room service” restent disponibles. Cependant, les
 restaurants et bars d’hôtels ne peuvent pas accueillir de public.\
 \
-Les animaleries restent également ouvertes.\
-\
 **Par dérogation, restent également ouverts :**
 
 -   Entretien, réparation et contrôle technique de véhicules
