@@ -6056,7 +6056,7 @@ confinement pour les déposer dans les points de collecte.\
 
 
 []{#s742}
-### Santé {#santé-1 .item-paragraphe-titre .c-onglet data-section="s742" data-picto=""}
+### Santé {#santé-1 .item-paragraphe-titre .c-onglet data-section="s742" data-picto="https://www.gouvernement.fr/sites/default/files/cimages/qr_sante.svg"}
 
 
 
@@ -9056,34 +9056,45 @@ Notre stratégie pour lutter contre le virus est double :
 
 
 L'ensemble du système de santé est mobilisé et mis à l'épreuve dans
-cette épidémie.\
+cette épidémie. En particulier, les hôpitaux font d'immenses efforts
+pour augmenter leurs capacités d'accueil.\
 \
-En particulier, les hôpitaux font d'immenses efforts pour augmenter
-leurs capacités d'accueil.\
-Le nombre de lits en réanimation est passé de 5000 au début de la crise,
-à 10 000 aujourd’hui. L’objectif est d’atteindre de 14 000 à 14 500
-lits.\
+De nombreux services ont changé d’activité et ont pu accueillir des
+patients atteints de COVID-19. Le nombre de lits en réanimation a
+considérablement augmenté. \
 \
 Le renforcement de l’accueil des hôpitaux implique des moyens matériels
-et humains supplémentaires :\
+et humains supplémentaires : \
  
--   la France a passé une commande de plus de 1 000 respirateurs
-    nécessaires aux patients hospitalisés en réanimation. 1 000
-    respirateurs supplémentaires seront produits par un consortium
-    industriel français d’ici mi-mai ; 250 respirateurs produits par ce
-    consortium seront livrés dans les prochains jours.
--   les capacités de production de gel hydroalcoolique ont aussi été
-    plus que décuplées, passant de 40 000 litres par jour avant la crise
-    à 500 000 litres par jour actuellement ;
--   afin de répondre plus largement aux besoins, le président de la
-    République a annoncé qu’une dotation spécifique de 4 milliards
-    d’euros sera allouée à Santé publique France, pour effectuer des
-    commandes de médicaments et matériels ;
+-   la France a passé une commande de plusieurs milliers de
+    respirateurs, nécessaires aux patients hospitalisés en réanimation. 
+-   les capacités de production de gel hydroalcoolique, de surblouses et
+    de masques ont aussi été fortement multipliées. Certains industriels
+    ont changé leurs activités pour participer à une production
+    nationale de ces équipements. 
 -   la réserve sanitaire est également amenée à être mobilisée ;
 -   enfin, quand cela est nécessaire, des transferts de malades sont
     effectués d’une région à une autre. Ils peuvent avoir lieu par avion
     ou bateau militaire, hélicoptère, ambulance ou encore TGV
     médicalisé.
+
+
+
+
+[]{#s808-q1298}
+
+#### Pourquoi transférer les personnes infectées dans d’autres hôpitaux plutôt que de réquisitionner des gymnases et les soigner sur place ? {#pourquoi-transférer-les-personnes-infectées-dans-dautres-hôpitaux-plutôt-que-de-réquisitionner-des-gymnases-et-les-soigner-sur-place .item-question}
+
+
+
+Les personnes transférées lors des évacuations sanitaires (EVASAN) sont
+des patients avec des formes graves, nécessitant un lit de réanimation.
+La mise en place d’un lit de réanimation nécessite une équipe formée et
+du matériel lourd (respirateur, matériel de surveillance continue).\
+\
+Il n’est donc pas possible de les soigner dans des gymnases
+réquisitionnés car ce ne sont pas des lieux appropriés pour une telle
+prise en charge.
 
 
 
