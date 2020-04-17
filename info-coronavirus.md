@@ -1791,7 +1791,7 @@ l’Europe et des Affaires
 
 []{#s657-q654}
 
-#### Je suis Français, je suis à l’étranger, comment va être organisé le retour des Français ? {#je-suis-français-je-suis-à-létranger-comment-va-être-organisé-le-retour-des-français .item-question}
+#### Je suis Français, je suis à l’étranger, comment va être organisé mon retour ? {#je-suis-français-je-suis-à-létranger-comment-va-être-organisé-mon-retour .item-question}
 
 
 
@@ -1842,31 +1842,33 @@ l’Europe organisés par l’Union européenne dans le cadre du mécanisme de
 protection civile de l’Union (MPCU), les opérations d'aide au retour des
 Français de passage bloqués à l'étranger touchent à leur fin.\
 \
-Si vous n'avez pas pu bénéficier de ce dispositif d’assistance :\
-\
-- les ambassades et les consulats de France restent mobilisés, pour
-apporter toute l'aide possible aux Français de passage. Vous trouverez
-des informations utiles ainsi que les coordonnées des ambassades et
-consulats sur les [Conseils aux
-voyageurs](https://www.diplomatie.gouv.fr/fr/conseils-aux-voyageurs/conseils-par-pays-destination/),
-notamment si vous souhaitez signaler un cas particulier présentant un
-caractère d’urgence ;\
-- pour obtenir des informations sur la situation du pays dans lequel
-vous vous trouvez, vous êtes invités à consulter la rubrique [Dernières
-minutes](https://www.diplomatie.gouv.fr/fr/conseils-aux-voyageurs/dernieres-minutes/)
-des [Conseils aux
-voyageurs](https://www.diplomatie.gouv.fr/fr/conseils-aux-voyageurs/conseils-par-pays-destination/);\
-- nous vous recommandons, si vous ne l'avez pas déjà fait, de vous
-inscrire sur
-[Ariane](https://pastel.diplomatie.gouv.fr/fildariane/dyn/public/login.html),
-afin de recevoir éventuellement des alertes et/ou des informations ;\
-- les compagnies de transports et notamment aériennes sont également
-susceptibles de vous renseigner et de vous apporter des informations sur
-les liaisons encore opérationnelles.
+Si vous n'avez pas pu bénéficier de ce dispositif d’assistance :
+
+-   les ambassades et les consulats de France restent mobilisés, pour
+    apporter toute l'aide possible aux Français de passage. Vous
+    trouverez des informations utiles ainsi que les coordonnées des
+    ambassades et consulats sur les[Conseils aux
+    voyageurs](https://www.diplomatie.gouv.fr/fr/conseils-aux-voyageurs/conseils-par-pays-destination/),
+    notamment si vous souhaitez signaler un cas particulier présentant
+    un caractère d’urgence ;
+-   pour obtenir des informations sur la situation du pays dans lequel
+    vous vous trouvez, vous êtes invités à consulter la rubrique
+    [Dernières
+    minutes](https://www.diplomatie.gouv.fr/fr/conseils-aux-voyageurs/dernieres-minutes/)
+    des [Conseils aux
+    voyageurs](https://www.diplomatie.gouv.fr/fr/conseils-aux-voyageurs/conseils-par-pays-destination/)
+    ;
+-   nous vous recommandons, si vous ne l'avez pas déjà fait, de vous
+    inscrire sur
+    [Ariane](https://pastel.diplomatie.gouv.fr/fildariane/dyn/public/login.html),
+    afin de recevoir éventuellement des alertes et/ou des informations ;
+-   les compagnies de transports et notamment aériennes sont également
+    susceptibles de vous renseigner et de vous apporter des informations
+    sur les liaisons encore opérationnelles.
 
 Pour plus d’informations, consultez la page dédiée du [ministère de
 l’Europe et des Affaires
-étrangères](https://www.diplomatie.gouv.fr/fr/le-ministere-et-son-reseau/actualites-du-ministere/informations-coronavirus-covid-19/coronavirus-les-reponses-a-vos-questions/).
+étrangères](https://www.diplomatie.gouv.fr/fr/le-ministere-et-son-reseau/actualites-du-ministere/informations-coronavirus-covid-19/coronavirus-les-reponses-a-vos-questions/)
 
 
 
