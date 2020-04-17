@@ -2782,7 +2782,7 @@ Pour les entreprises :
 Pour en savoir plus sur ces mesures, les modalités d’accès et les
 contacts, consulter l’espace dédié « Mesures de soutien aux entreprises
 » sur [economie.gouv.fr](http://economie.gouv.fr/) (lien vers
-<https://www.economie.gouv.fr/coronavirus-soutien-entreprises>)\
+<https://info-entreprises-covid19.economie.gouv.fr/kb>)\
 \
 A noter :\
  
@@ -9928,6 +9928,9 @@ Ko]{}](https://www.gouvernement.fr/sites/default/files/cfiles/clauses-types_pour
     l’emploi](https://mobilisationemploi.gouv.fr/#/accueil)
 -   [Nouvelles règles de remboursement dans le secteur du
     Tourisme](https://www.economie.gouv.fr/dgccrf/nouvelles-regles-de-remboursement-dans-le-secteur-du-tourisme-voir-la-faq)
+-   [Site de l’assurance Maladie](https://www.ameli.fr/assure)
+-   [Modalités pour les demandeurs
+    d’emploi](https://www.pole-emploi.fr/actualites/information-covid-19.html)
 
 
 
