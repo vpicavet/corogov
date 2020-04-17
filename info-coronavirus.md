@@ -122,7 +122,7 @@ COVID-19
 
 
 
-Mis à jour le jeudi 16 avril 2020, à 19h30
+Mis à jour le jeudi 16 avril 2020, à 23h00
 
 
 -   [Francais](/info-coronavirus){.active}
@@ -847,13 +847,17 @@ des symptômes ou non conduirait à saturer la filière de dépistage alors
 que pour les cas graves, le personnel soignant et les structures
 collectives de personnes fragiles, le dépistage permet toujours de
 prendre des mesures immédiates (par exemple pour prévenir la diffusion
-du virus au sein d’un hôpital lorsqu’un patient est hospitalisé). Le
-décompte des cas ne se fonde plus uniquement sur les cas diagnostiqués
-biologiquement, mais sur des estimations épidémiologiques, comme cela se
-fait pour la grippe tous les ans (nombre de consultations, nombre de cas
-graves ou de décès…). Ces modifications reflètent donc une volonté
-d’adapter la réponse en fonction de l’évolution de la propagation du
-coronavirus dans les différents territoires.
+du virus au sein d’un hôpital lorsqu’un patient est hospitalisé).\
+\
+Le décompte des cas ne se fonde plus uniquement sur les cas
+diagnostiqués biologiquement, mais sur des estimations épidémiologiques,
+comme cela se fait pour la grippe tous les ans (nombre de consultations,
+nombre de cas graves ou de décès…). Ces modifications reflètent donc une
+volonté d’adapter la réponse en fonction de l’évolution de la
+propagation du coronavirus dans les différents territoires.\
+\
+A partir du 11 mai,  les tests de dépistage seront disponibles pour
+l’ensemble des personnes présentant des symptômes.
 
 
 
