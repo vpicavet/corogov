@@ -6056,7 +6056,7 @@ confinement pour les déposer dans les points de collecte.\
 
 
 []{#s742}
-### Santé {#santé-1 .item-paragraphe-titre .c-onglet data-section="s742" data-picto="https://www.gouvernement.fr/sites/default/files/cimages/qr_sante.svg"}
+### Santé {#santé-1 .item-paragraphe-titre .c-onglet data-section="s742" data-picto=""}
 
 
 
@@ -6277,14 +6277,17 @@ malades.\
 
 
 
-**Il est primordial d’aller donner son sang en ce moment.**\
+Il est primordial d’aller donner son sang en ce moment.  Les conditions
+sanitaires et d’hygiène sont entièrement assurées pour protéger donneurs
+et personnels de l’EFS.\
+Si vous avez été atteint par le COVID-19, il est possible de donner son
+sang 28 jours après disparition de symptômes lié au coronavirus. En cas
+de doute sur votre infection, demandez conseil à votre médecin.\
 \
 Trouvez le point EFS le plus proche de chez vous :
 <https://dondesang.efs.sante.fr/trouver-une-collecte>.\
 \
-En cas de doute sur votre infection, demandez à votre médecin : il est
-possible de donner son sang uniquement lorsque vos symptômes auront
-disparu et votre médecin aura validé les critères de guérison.\
+\
  
 
 
@@ -6335,14 +6338,16 @@ Vous avez un doute ? Appelez votre médecin traitant.\
 
 
 
-On ne sait pas encore.\
-\
-Les données scientifiques sont rassurantes, car il n’existe pour le
-moment aucun cas de seconde infection. Mais, on ne peut pas encore
-affirmer avec certitude qu’il existe une immunité chez les personnes
-guéries du COVID-19.   \
-\
- 
+Il ne faut pas confondre guérison et immunité. Dans certaines
+infections, il est possible d’être guéri sans être immunisé.\
+On ne connaît pas encore précisément les modalités d’immunisation après
+une infection COVID-19. Il semblerait que celle-ci soit variable entre
+les personnes et les formes de la maladie. Habituellement les infections
+à coronavirus sont immunisantes, mais des études complémentaires sont
+nécessaires sur la COVID-19.\
+ \
+Les données scientifiques sont néanmoins rassurantes, car il n’existe
+pour le moment aucun cas de seconde infection.
 
 
 
@@ -6748,6 +6753,43 @@ des recommandations de vérification des élastiques.
 
 
 
+[]{#s742-q1288}
+
+#### Pendant combien de temps les personnes asymptomatiques sont-elles contagieuses ? {#pendant-combien-de-temps-les-personnes-asymptomatiques-sont-elles-contagieuses .item-question}
+
+
+
+Il n’existe pas d’étude permettant de savoir combien de temps une
+personne asymptomatique est véritablement contagieuse, et pour combien
+de temps. Pour rappel, chez les personnes asymptomatiques, la
+contagiosité serait vraisemblablement faible car la transmission du
+virus se fait par les gouttelettes respiratoires expulsées. Les
+personnes asymptomatiques ne présentant pas de toux, la transmission se
+fait alors essentiellement par les mains souillées portées à la bouche
+ou les embrassades. C’est pourquoi le respect des gestes barrières et
+des règles de distanciation sociale restent indispensables afin de se
+protéger et protéger les autres.
+
+
+
+
+[]{#s742-q1289}
+
+#### Pourquoi la distance de distanciation sociale diffère en fonction des pays ? {#pourquoi-la-distance-de-distanciation-sociale-diffère-en-fonction-des-pays .item-question}
+
+
+
+La distanciation sociale est un des principaux outils de lutte contre le
+COVID-19. La quasi-totalité des pays au niveau mondial demandent de
+respecter une distance minimum entre les individus, pour freiner la
+diffusion du virus. Cette distance peut légèrement varier en fonction
+des pays, en fonction des études retenues ou des unités de mesure. En
+France, la distance de 1 mètre est recommandée. Elle est facile à mettre
+en place et permet de bien se protéger : respectons là !
+
+
+
+
 []{#s742-q956}
 
 #### Que penser de l’utilisation des masques Decathlon par les professionnels de santé ? {#que-penser-de-lutilisation-des-masques-decathlon-par-les-professionnels-de-santé .item-question}
@@ -6758,6 +6800,31 @@ Aucune recommandation ni données scientifiques ne sont disponibles ce
 jour concernant l’usage de tels dispositifs, non médicaux, pour la
 protection des professionnels de santé. Il n’est donc pas recommandé de
 faire usage de ce type de masques.
+
+
+
+
+[]{#s742-q1143}
+
+#### Le prix des masques sera-t-il encadré ? {#le-prix-des-masques-sera-t-il-encadré .item-question}
+
+
+
+Pas pour l’instant.
+-   Les masques chirurgicaux et FFP2, à usage sanitaire, restent
+    réquisitionnés par l’Etat et sont destinés aux professionnels de
+    santé ;
+-   concernant les nouveaux masques grand public leur prix n’est pas
+    encadré à ce jour ;
+-   les entreprises mobilisées pour la fabrication des nouveaux masques
+    sont volontaires pour répondre au besoin national et n’ont pas pour
+    objectif de réaliser des marges.
+
+\
+Le Gouvernement restera toutefois vigilant à la question de l’accès aux
+protections.\
+\
+ 
 
 
 
@@ -7028,31 +7095,6 @@ Pour rappel, aujourd’hui, les prélèvements sont soit réalisés à
 l’hôpital, soit à domicile par des professionnels de santé en lien avec
 un laboratoire en ville. Les tests PCR sont réalisés dans des
 laboratoires de type P2, hospitaliers ou privés.\
- 
-
-
-
-
-[]{#s742-q1143}
-
-#### Le prix des masques sera-t-il encadré ? {#le-prix-des-masques-sera-t-il-encadré .item-question}
-
-
-
-Pas pour l’instant.
--   Les masques chirurgicaux et FFP2, à usage sanitaire, restent
-    réquisitionnés par l’Etat et sont destinés aux professionnels de
-    santé ;
--   concernant les nouveaux masques grand public leur prix n’est pas
-    encadré à ce jour ;
--   les entreprises mobilisées pour la fabrication des nouveaux masques
-    sont volontaires pour répondre au besoin national et n’ont pas pour
-    objectif de réaliser des marges.
-
-\
-Le Gouvernement restera toutefois vigilant à la question de l’accès aux
-protections.\
-\
  
 
 
@@ -7507,19 +7549,21 @@ missions.
 
 
 
--   172 000 places d’hébergement sont disponibles pour les personnes
-    sans-abri qui ne sont pas malades. 5 500 chambres d’hôtels
-    supplémentaires ont déjà été mobilisées. De nouvelles solutions
-    d’hébergement sont en train d’être identifiées ;
--   73 centres d’hébergement médicalisés ont ouvert pour accueillir des
-    personnes sans-abris atteintes par le COVID-19, mais ne nécessitant
-    pas d’hospitalisation. D’autres établissements ouvriront bientôt, à
-    raison d’au moins un par région ; les maraudes sont maintenues, la
-    période hivernale prolongée de deux mois et un dispositif
-    exceptionnel de distribution de chèques-services permet aux
-    personnes sans domicile d’acheter des produits d’alimentation et
-    d’hygiène pendant la crise sanitaire. L’Etat débloque au total une
-    enveloppe d’urgence de 65 millions d’euros.
+Les services de l’Etat s’organisent pour mettre à l’abri les plus
+démunis avec les associations : 174.700 places sont ouvertes ce soir
+pour héberger des personnes sans-domicile.\
+\
+9.500 places d’hôtels supplémentaires sont désormais mobilisables dans
+toute la France depuis le début de la crise sanitaire, en plus des
+places pérennes financées par l’Etat toute l’année.\
+\
+88 sites spécialisés sont par ailleurs ouverts, dédiés aux SDF malades
+du Covid-19 mais ne relevant pas d’une hospitalisation, soit plus de
+3200 places ouvertes. Un dispositif exceptionnel de distribution de
+chèques services permet aux personnes sans domicile d’acheter des
+produits d’alimentation et d’hygiène pendant la crise sanitaire. L’Etat
+débloque au total une enveloppe d’urgence de 65 millions d’euros.\
+ 
 
 
 
@@ -7580,6 +7624,134 @@ proposer une mission ou offrir votre aide.
 
 Dans ce cadre, les propriétaires sont autorisés à sortir pour remettre
 les clés du logement au bénéficiaire.
+
+
+
+
+[]{#s758-q1290}
+
+#### Des distributions de vivres et produits d’hygiène (y compris gel et masques) sont-elles prévues ? {#des-distributions-de-vivres-et-produits-dhygiène-y-compris-gel-et-masques-sont-elles-prévues .item-question}
+
+
+
+Un dispositif exceptionnel de distribution de chèques services a été
+lancé le 1er avril par le ministère chargé de la Ville et du Logement
+pour permettre aux personnes sans domicile d’acheter des produits
+d’alimentation et d’hygiène pendant la crise sanitaire. Ce dispositif
+vient en complément des actions des collectivités locales et des
+associations, maraudes et distributions alimentaires, qui restent
+indispensables. Il bénéficiera à 60 000 personnes sans domicile, pour un
+budget de 15 millions d’euros. D’un montant de 7€ par jour, ces chèques
+seront distribués par des associations et les préfectures seront
+chargées de l’organisation et la coordination du dispositif.
+
+
+
+
+[]{#s758-q1291}
+
+#### Comment la continuité du service des associations est-elle assurée ? {#comment-la-continuité-du-service-des-associations-est-elle-assurée .item-question}
+
+
+
+L’État accompagne les associations pour mettre en place des dispositifs
+assurant la continuité de l’activité. Les équipes ont parfois été
+réorganisées et mutualisées. L’enjeu est notamment de concentrer le
+personnel disponible sur les fonctions essentielles de l’hébergement :
+gîte, couvert et hygiène.\
+\
+Par ailleurs, l’État a lancé une plateforme de « réserve civique » pour
+que tous les Français souhaitant se porter bénévoles pour aider puissent
+être mis en contact avec les associations :
+[www.jeveuxaider.gouv.fr](http://www.jeveuxaider.gouv.fr)\
+\
+Enfin, le ministère chargé de la Ville et du Logement a lancé une
+plateforme avec Airbnb, baptisée [Appart
+Solidaire](https://www.airbnb.fr/d/solidarite-medicale), ouverte aux
+travailleurs et bénévoles des centres d’hébergement d’urgence. Les
+Français peuvent y proposer gratuitement leur logement à des soignants
+ou travailleurs sociaux pour leur permettre de se rapprocher de leur
+lieu de travail. D’autres initiatives similaires existent, comme celle
+du site[pap.fr](https://www.pap.fr/), de [la fondation
+L’Adresse](https://www.fondationdefrance.org/fr/fondation/fondation-ladresse)ou
+celle lancée par un collectif de bénévoles [Les Logements
+solidaires](https://www.les-logements-solidaires.com/users/sign_in).
+
+
+
+
+[]{#s758-q1292}
+
+#### Les travailleurs sociaux et bénévoles des associations disposent-ils d’autorisation de circuler ? {#les-travailleurs-sociaux-et-bénévoles-des-associations-disposent-ils-dautorisation-de-circuler .item-question}
+
+
+
+Les salariés des associations utilisent le justificatif permanent de
+déplacement fourni par leur employeur.\
+Les bénévoles utilisent l’attestation de déplacement dérogatoire avec
+comme motif d’autorisation « l’assistance aux personnes vulnérables ».
+Cela concerne toute personne bénévole d’une association se rendant dans
+un centre d’accueil ou d’hébergement afin d’en assurer le
+fonctionnement, ou en maraude.
+
+
+
+
+[]{#s758-q1293}
+
+#### Est-il possible de se rapprocher d’une association pour aider ? {#est-il-possible-de-se-rapprocher-dune-association-pour-aider .item-question}
+
+
+
+L’État a lancé une plateforme de « réserve civique » pour que tous les
+Français souhaitant se porter bénévoles pour aider puissent être mis en
+contact avec les associations :
+[www.jeveuxaider.gouv.fr](http://www.jeveuxaider.gouv.fr)\
+\
+Si vous êtes propriétaire d’un logement vacant, vous pouvez également
+mettre gracieusement votre logement à disposition pour permettre à un
+travailleur ou bénévole d’un centre d’hébergement de pouvoir se
+rapprocher du centre dans lequel il travaille. Le ministère chargé de la
+Ville et du Logement vient de lancer une plateforme avec Airbnb :
+[Appart Solidaire](https://www.airbnb.fr/d/solidarite-medicale), ouverte
+aux travailleurs et bénévoles des centres d’hébergement d’urgence. Les
+Français peuvent y proposer gratuitement leur logement à des soignants
+ou travailleurs sociaux pour leur permettre de se rapprocher de leur
+lieu de travail. D’autres initiatives similaires existent, comme celle
+du site [pap.fr](https://www.pap.fr/), de la [fondation
+L’Adresse](https://www.fondationdefrance.org/fr/fondation/fondation-ladresse)
+ou celle lancée par un collectif de bénévoles[Les Logements
+solidaires](https://www.les-logements-solidaires.com/users/sign_in).
+
+
+
+
+[]{#s758-q1294}
+
+#### Peut-on adopter un animal dans un refuge de la Société Protectrice des Animaux? {#peut-on-adopter-un-animal-dans-un-refuge-de-la-société-protectrice-des-animaux .item-question}
+
+
+
+Face à l’impossibilité pour les adoptants de venir chercher leurs
+animaux lors de la période de confinement, les refuges de la SPA
+pourraient être débordés et devoir refuser les animaux recueillis par
+les fourrière.\
+\
+Le Gouvernement a décidé qu’une tolérance sera accordée concernant les
+déplacements pour l’adoption d’animaux en refuge.\
+ \
+Afin de limiter les risques, des règles strictes devront être respectées
+: \
+ 
+-   l’animal devra être choisi en amont sur le site internet de la SPA
+    ; 
+-   un rendez-vous précis sera fixé et le refuge de la SPA concerné
+    émettra une attestation dématérialisée comportant l’horaire du
+    rendez-vous ; 
+-   en se rendant au rendez-vous, le candidat à l’adoption devra se
+    déplacer seul et être muni, en plus de l’attestation délivrée par la
+    SPA, d’une attestation de déplacement dérogatoire pour « motif
+    familial impérieux ».
 
 
 
