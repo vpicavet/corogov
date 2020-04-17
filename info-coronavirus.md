@@ -2543,8 +2543,12 @@ et le consulat général de France à Wuhan.
 \
 Le président de la République a annoncé, le 12 mars 2020, la fermeture
 de l’ensemble des crèches, écoles, collèges, lycées et universités. Les
-crèches, écoles, collèges et lycées rouvriront progressivement à partir
-du 11 mai. Les universités ne rouvriront pas avant l’été.\
+crèches, cantines, écoles, collèges et lycées rouvriront progressivement
+à partir du 11 mai. Le retour des élèves, des enseignants et des
+personnels administratifs et techniques se fera dans les écoles dans le
+respect impératif des règles de sécurité sanitaire. Jusqu'au 11 mai, les
+établissements scolaires continueront d'accueillir les enfants de
+professionnels de santé. Les universités ne rouvriront pas avant l’été.\
 \
 Cette mesure, prise sur recommandations des scientifiques au vu de
 l’accélération de l’épidémie, vise à la fois à protéger les plus jeunes
@@ -2697,8 +2701,56 @@ sur la situation économique du pays en temps réel, pour mieux gérer
 l'impact de cette crise sanitaire sur notre économie et prendre des
 décisions quotidiennes.\
 \
-Pour les entreprises, le Gouvernement a annoncé les mesures suivantes :
+Pour soutenir l’économie, le Gouvernement a mis en place un plan
+d’urgence de soutien de 110 milliards d'euros avec les mesures suivantes
+:\
+ \
+Pour les personnels soignants :
 
+-   Tous les agents travaillant à l’hôpital dans la trentaine de
+    départements les plus touchés par l’épidémie recevront une prime de
+    1500€, versée quel que soit le statut ou le métier considéré.
+    Internes, agents de service, infirmiers, médecins : tous ont formé
+    un collectif dont l’effort doit être reconnu et valorisé.
+-   Dans les autres départements, les agents ayant travaillé dans les
+    services COVID+ des 108 hôpitaux de référence percevront également
+    la prime de 1500€. Les agents des autres services percevront une
+    prime de 500€.
+-   Une prime sera également versée aux personnels sein des EHPAD et des
+    services à domicile du secteur médico-social. Ces mesures sont en
+    discussion avec les départements
+
+Pour les foyers les plus modestes :\
+\
+Les foyers allocataires du revenu de solidarité active (RSA) ou de
+l’allocation de solidarité spécifique (ASS) percevront une aide de 150
+€, à laquelle s’ajoute 100 € supplémentaires par enfant à charge.\
+\
+Par ailleurs, toutes les familles bénéficiaires des aides personnalisées
+au logement (APL) qui ne touchent pas le RSA ou l’ASS bénéficieront
+d’une aide de 100 € par enfant à charge.\
+\
+Ces aides s’ajouteront aux aides sociales versées mensuellement toute au
+long de l’année, et sera versée automatiquement aux personnes qui y ont
+droit.\
+\
+Pour les agents de la fonction publique d’Etat :
+-   Les agents publics sont fortement engagés dans la lutte contre
+    l’épidémie de Coronavirus. Conformément aux engagements du Président
+    de la République, le Gouvernement versera une prime aux agents de la
+    fonction publique d’Etat ayant dû faire face à un surcroît
+    d’activité pendant la période d’état d’urgence sanitaire, en
+    présentiel ou en télétravail.
+-   La prime exceptionnelle pourra aller jusqu’à 1000 euros et sera
+    exonérée d’impôts et de cotisations sociales.
+-   De la même manière, les employeurs territoriaux pourront décider le
+    versement d’une prime allant jusqu’à 1000 euros pour les agents
+    publics de la fonction publique territoriale. Elle concernera les
+    agents de leurs collectivités ayant fait face à un surcroît
+    d’activité. Là aussi, la prime exceptionnelle pourra aller jusqu’à
+    1000 euros et sera exonérée d’impôts et de cotisations sociales.
+
+Pour les entreprises :
 -   des **délais de paiement d’échéances sociales et/ou fiscales**
     (URSSAF, impôts) ;
 -   si à la fin du confinement, des entreprises sont menacées de
@@ -2712,26 +2764,25 @@ Pour les entreprises, le Gouvernement a annoncé les mesures suivantes :
 -   **l’aide de 1 500 euros** pour les petites entreprises, les
     indépendants, et les microentreprises les plus impactés grâce au
     fonds de solidarité ;
--   la mobilisation de l’État à hauteur de 300 milliards d’euros pour la
-    mise en place de [prêts bancaires garantis par
-    l’État](https://www.economie.gouv.fr/files/files/PDF/2020/dp-covid-pret-garanti.pdf)
-    ;
--   un soutien de l’Etat et de la Banque de France (médiation du crédit)
+-    la mobilisation de l’État à hauteur de 300 milliards d’euros pour
+    la mise en place de prêts bancaires garantis par l’État ;
+-   un soutien de l’État et de la Banque de France (médiation du crédit)
     pour négocier avec sa banque **un rééchelonnement des crédits
     bancaires** ;
 -   le maintien de l'emploi dans les entreprises par le dispositif de
-    **chômage partiel simplifié et renforcé** ;
--   **l’appui au traitement d’un conflit** avec des clients ou
-    fournisseurs par le Médiateur des entreprises ;
+    chômage partiel simplifié et renforcé ;
+-   l’appui au traitement d’un conflit avec des clients ou fournisseurs
+    par le Médiateur des entreprises ;
 -   la reconnaissance par l’État et les collectivités locales du
-    coronavirus comme **un cas de force majeure** pour leurs marchés
-    publics. En conséquence, pour tous les marchés publics d’État et des
+    COVID-19 comme un cas de force majeure pour leurs marchés publics.
+    En conséquence, pour tous les marchés publics d’État et des
     collectivités locales, les pénalités de retards ne seront pas
     appliquées.
 
-Pour connaître les modalités d’accès aux différentes aides [télécharger
-la
-brochure](https://www.economie.gouv.fr/coronavirus-soutien-entreprises).\
+Pour en savoir plus sur ces mesures, les modalités d’accès et les
+contacts, consulter l’espace dédié « Mesures de soutien aux entreprises
+» sur [economie.gouv.fr](http://economie.gouv.fr/) (lien vers
+<https://www.economie.gouv.fr/coronavirus-soutien-entreprises>)\
 \
 A noter :\
  
@@ -2743,9 +2794,10 @@ A noter :\
     bénéficier de la garantie d’État de 300 milliards d’euros sur les
     prêts de trésorerie ;
 -   les possibilités de report des cotisations sociales et impôts
-    directs des entreprises sont prolongées pour le mois d’avril ;
--   un plan d’urgence de soutien dédié aux start-up, de près de 4
-    milliards d’euros.
+    directs des entreprises sont prolongées pour le mois d’avril.
+-   un [plan d’urgence de soutien dédié aux
+    start-up](https://www.economie.gouv.fr/coronavirus-startup-mesures-de-soutien-economique),
+    de près de 4 milliards d’euros.
 
 Pour plus d’informations sur les aides aux entreprises et start-up dans
 votre région, contactez le 0 800 130 000.\
@@ -2754,7 +2806,7 @@ Par ailleurs :\
 \
 Un dispositif de **réassurance publique** des risques d’assurance-crédit
 des entreprises, va permettre aux entreprises ayant souscrit une telle
-couverture de continuer à être couvertes, même si elles se voyaient
+couverture de continuer à être couvertes, même si elles se voyaient 
 notifier des réductions ou des refus de garanties sur certains clients
 du fait de la dégradation de la conjoncture économique.\
 \
@@ -2768,12 +2820,12 @@ démarche des travailleurs indépendants concernés.\
 Certaines entreprises, appartenant aux secteurs essentiels pour les
 citoyens dans cette période, ont besoin de **renfort en main d’œuvre**
 pour assurer leurs activités et la continuité économique du pays. Pour y
-répondre, la plateforme
-[**mobilisationemploi.gouv.fr**](http://mobilisationemploi.gouv.fr)
-permet aux demandeurs d’emploi inscrits ou non à Pôle emploi et aux
-salariés en activité partielle de se porter candidat dans les secteurs
-prioritaires suivants : Médico-Social, Agriculture, Agroalimentaire,
-Transports, Logistique, Aide à Domicile, Energie, Télécoms.\
+répondre, la
+plateforme[**mobilisationemploi.gouv.fr**](https://mobilisationemploi.gouv.fr/#/accueil)permet
+aux demandeurs d’emploi inscrits ou non à Pôle emploi et aux salariés en
+activité partielle de se porter candidat dans les secteurs prioritaires
+suivants : Médico-Social, Agriculture, Agroalimentaire, Transports,
+Logistique, Aide à Domicile, Energie, Télécoms.\
 \
 Avec **la “mise à disposition temporaire”**, des salariés inoccupés qui
 le souhaitent peuvent travailler provisoirement dans une entreprise
@@ -2784,10 +2836,10 @@ rembourse ce salaire à l’entreprise d’origine. Ce dispositif nécessite
 l’accord, à chaque fois, du salarié concerné et des deux entreprises.
 Des modèles simplifiés de convention de mise à disposition entre
 entreprises et d’avenant au contrat de travail du salarié sont
-disponibles sur le[site du ministère du
+disponibles sur le [site du ministère du
 Travail](https://travail-emploi.gouv.fr/actualites/l-actualite-du-ministere/article/mise-a-disposition-temporaire-de-salaries-volontaires-entre-deux-entreprises?var_mode=calcul).\
 \
-Le plan d’urgence de soutien à l’économie est passé à 100 milliards
+Le plan d’urgence de soutien à l’économie est passé à 110 milliards
 d'euros, contre 45 milliards d'euros initialement. Cette hausse
 exceptionnelle s’applique à toutes les mesures mises en place comme le
 dispositif de chômage partiel et le fonds de solidarité.
@@ -2862,8 +2914,8 @@ d’activité :**\
     l’État pour soutenir votre trésorerie.
 
 \
-**Vous avez moins de 11 salariés et votre chiffre d’affaires a baissé
-d’au moins 50% ?**\
+Vous avez moins de 11 salariés et votre chiffre d’affaires a baissé d’au
+moins 50% ?\
  
 -   vous pouvez suspendre automatiquement votre loyer, votre facture
     d’eau, d’électricité et de gaz. Dans les autres cas, vous pouvez
@@ -2885,8 +2937,8 @@ mesures de protection nécessaires à la santé de vos salariés :**\
     l’État pour soutenir votre trésorerie.
 
 \
-**Vous avez moins de 11 salariés et votre chiffre d’affaires a baissé
-d’au moins 50% ?**\
+Vous avez moins de 11 salariés et votre chiffre d’affaires a baissé d’au
+moins 50% ?\
  
 -   vous pouvez suspendre automatiquement votre loyer, votre facture
     d’eau, d’électricité et de gaz. Dans les autres cas, vous pouvez
@@ -2907,6 +2959,16 @@ chômage partiel pour former vos salariés :**\
 -   les frais pédagogiques seront également pris en charge par l’État.
 
 \
+**Vous êtes chef d’entreprise et vous souhaitez utiliser la période de
+chômage partiel pour former vos salariés :**\
+ 
+-   vos salariés ont le droit au chômage partiel : ils toucheront entre
+    100% et 84% de leur salaire net selon leur niveau de salaire,
+    remboursés intégralement par l’État à l’entreprise jusqu’à 4,5 SMIC
+    ;
+-   les frais pédagogiques seront également pris en charge par l’État.
+
+\
 **Vous devez faire garder vos enfants et vous êtes salarié, salarié
 agricole, marin, clerc, employé de notaire, travailleur indépendant
 (hors professions libérales), travailleurs non salarié agricole ou agent
@@ -2915,29 +2977,54 @@ contractuel de la fonction publique :**\
 -   vous bénéficiez d’un arrêt de travail de 1 à 21 jours renouvelable
     sans jour de carence et sans condition d’ancienneté.
 
-\
 **Vous êtes demandeur d’emploi et vos droits au chômage s’arrêtent en
 mars :**\
  
 -   vous aurez droit au maintien exceptionnel de votre indemnisation
     pendant la durée du confinement.
 
+**Votre nouvel employeur a mis fin à votre contrat après l’expiration
+d’un délai de 65 jours travaillés :**\
+\
+Vous serez, dans tous les cas, considéré comme étant en situation de
+chômage involontaire et pourrez ouvrir droit à l’allocation d’aide au
+retour à l’emploi.\
 \
 **Vous avez démissionné avant le début du confinement pour changer
 d’emploi, et vous vous retrouvez désormais sans emploi :**\
 \
-Le ministère du Travail a annoncé, le 9 avril 2020, le droit à
-l’indemnisation chômage de manière temporaire, aux personnes qui ont
-démissionné avant le 17 mars pour reprendre un CDI ou un CDD de plus de
-trois mois, et qui se trouvent dans un des cas suivants :\
- 
--   le nouvel employeur a mis fin au contrat dans un délai de 65 jours à
-    compter du 1er mars OU l’embauche effective n’a pas pu avoir lieu,
-    mais la personne dispose d’une promesse d’embauche ou, à défaut,
-    d’une attestation de son employeur justifiant le report de
-    l’embauche.
--   vous avez travaillé 6 mois sur les 24 derniers mois.
-
+En principe votre démission n’est considérée comme légitime et n’ouvre
+droit à l’allocation d’aide au retour à l’emploi que lorsque le contrat
+auquel l’employeur met fin est un CDI et à la condition de totaliser,
+avant la démission, trois années d’affiliation continue au régime
+d’assurance chômage.\
+\
+Toutefois, compte-tenu des circonstances actuelles, ces conditions
+seront temporairement écartées. La démission sera ainsi considérée comme
+légitime et ouvrira droit à indemnisation que le contrat auquel
+l’employeur met fin soit un CDI ou un CDD (à condition alors qu’il soit
+prévu pour une durée initiale au moins égale à 3 mois ou 455 heures) et
+que vous totalisiez ou non trois années d’affiliation continue au régime
+d’assurance chômage.\
+\
+Pour bénéficier de cet assouplissement, il est toutefois nécessaire que
+votre démission soit intervenue avant le début de la période de
+confinement (17 mars 2020) et que votre nouvel employeur ait mis fin à
+votre contrat après le 1er mars 2020.\
+\
+Ces dérogations seront applicables jusqu’au 31 mai 2020 et seront
+repoussées en cas de report du confinement.\
+\
+Toutes les réponses à vos questions sur l’assurance-chômage sont à
+retrouver sur cette
+[page](https://travail-emploi.gouv.fr/IMG/pdf/covid19-faq-indemnisation-chomage.pdf).\
+\
+**Votre nouvel employeur a mis fin à votre contrat après l’expiration
+d’un délai de 65 jours travaillés :**\
+\
+Vous serez, dans tous les cas, considéré comme étant en situation de
+chômage involontaireet pourrez ouvrir droit à l’allocation d’aide au
+retour à l’emploi.\
 \
 **Vous êtes saisonnier et la station où vous travaillez a été fermée le
 15 mars alors que votre contrat allait jusqu’au 15 avril :**\
@@ -2945,10 +3032,8 @@ trois mois, et qui se trouvent dans un des cas suivants :\
 -   votre entreprise peut vous mettre en chômage partiel sans coût pour
     elle et vous aurez droit au maintien de 100% de votre salaire net si
     vous êtes au SMIC et à 84% si vous êtes au-delà du SMIC, et ce
-    jusqu’à la fin prévue de votre contrat\
-    **.**
+    jusqu’à la fin prévue de votre contrat**.**
 
-\
 **Vous êtes intermittent du spectacle et vous n’avez pas pu faire vos
 507 heures de travail :**\
  
@@ -2969,8 +3054,8 @@ trois mois, et qui se trouvent dans un des cas suivants :\
     pour soutenir votre trésorerie.
 
 \
-**Si vous avez moins de 11 salariés et vous avez connu une baisse de
-chiffre d’affaires de plus de 50 % : **\
+Si vous avez moins de 11 salariés et vous avez connu une baisse de
+chiffre d’affaires de plus de 50 % : \
  
 -   vous pouvez suspendre votre loyer et vos factures d’eau,
     d’électricités et de gaz.
@@ -2983,8 +3068,17 @@ chiffre d’affaires de plus de 50 % : **\
 **Vous êtes soignant et êtes fortement mobilisé durant cette épidémie du
 COVID-19 :**\
  
--   vos heures supplémentaires effectuées seront majorées
--   vous toucherez une prime exceptionnelle
+-   Une prime exceptionnelle et défiscalisée de 1 500 € sera accordés
+    aux personnels soignants des services de santé dans les départements
+    les plus touchés par l'épidémie et à ceux des services ayant
+    accueilli des patients COVID-19 dans les départements les moins
+    touchés. Les personnels de santé ne bénéficiant pas du taux maximum
+    recevront une prime de 500 € ;
+-   Tous les professionnels soignants auront une majoration de 50% de
+    leurs heures supplémentaires. Cette majoration sera défiscalisée.
+-   Une prime sera également versée aux personnels sein des EHPAD et des
+    services à domicile du secteur médico-social. Ces mesures sont en
+    discussion avec les départements.
 
 \
 **Vous travaillez dans un service à la personne et vous ne pouvez plus
@@ -2993,7 +3087,7 @@ exercer votre activité durant le confinement :**\
 -   un dispositif d’indemnisation est mis en place : votre employeur
     vous versera 80% du montant net des heures non réalisées. Ce montant
     lui sera intégralement remboursé, directement sur son compte en
-    banque.
+    banque
 
 
 
@@ -3029,6 +3123,34 @@ accompagner dans la phase de reprise. Les sociétés civiles immobilières
 (SCI), établissements de crédits et sociétés de financement sont exclus.
 Toutes les modalités du prêt garanti par l’Etat sont à retrouver sur
 cette page.
+
+
+
+
+[]{#s670-q1286}
+
+#### Quelle aide peut-on attendre des assureurs ? {#quelle-aide-peut-on-attendre-des-assureurs .item-question}
+
+
+
+Face aux conséquences économiques de la crise du coronavirus, chacun
+doit faire preuve de solidarité et de responsabilité. Le Gouvernement a
+demandé aux assureurs d’augmenter leur effort pour aider les entreprises
+dans le besoin et les assurés les plus vulnérables au COVID-19. Après
+avoir rencontré le Premier ministre et le ministre de l’économie et des
+finances, les assureurs ont pris des engagements significatifs qui
+consistent à :
+-   Apporter 400 millions d’euros au Fonds de solidarité (contre 200
+    initialement envisagés) ;
+-   Augmenter de 500 millions d’euros les reprises commerciales faites à
+    leurs clients, notamment via des diminutions de prime d’assurance ;
+-   Investir 1,5 milliard d’euros pour les PME et ETI, notamment dans le
+    secteur de la santé, dans le cadre de fonds hébergé par la Caisse
+    des dépôts et consignations ;
+
+Le Gouvernement veillera au respect des contrats. A ce titre, les
+entreprises ayant conclu un contrat d’assurance dans lequel figure la
+perte d’exploitation, sont indemnisables.
 
 
 
@@ -3509,7 +3631,7 @@ sur le [site de la Direccte de votre région.](http://direccte.gouv.fr/)\
 
 
 
-**Non mais l’employeur doit mettre en place des mesures définies par le
+**Non mais l’employeur doit mettre en place des mesures rappelées par le
 ministère du Travail** : l[es obligations des employeurs en matière de
 protection de la santé des
 travailleurs.](https://travail-emploi.gouv.fr/IMG/pdf/covid19_obligations_employeur.pdf)\
@@ -3597,6 +3719,10 @@ remplir notamment les conditions suivantes :
     perdu votre emploi dans le cadre d’une rupture conventionnelle ou
     d’une rupture d’un commun accord.
 
+Toutes les réponses à vos questions sur l’assurance-chômage sont à
+retrouver sur cette
+[page](https://travail-emploi.gouv.fr/IMG/pdf/covid19-faq-indemnisation-chomage.pdf).
+
 
 
 
@@ -3635,12 +3761,20 @@ Pour toute info sur les modalités consultez :\
 
 
 
-Votre indemnisation sera automatiquement prolongée jusqu’à la fin de
-cette période de confinement.\
+Le Gouvernement a pris la décision de prolonger automatiquement les
+droits aux allocations chômage de tous les demandeurs d’emploi qui sont
+arrivés en fins de droit depuis le 1er mars 2020, ou qui y arriveront
+durant la période de crise sanitaire.\
 \
-Il s’agit d’une décision du Gouvernement en raison des difficultés de
-recherche et reprise d’emploi en cette période.\
- 
+Cette mesure exceptionnelle garantit aux demandeurs d’emploi concernés
+le versement a minima de leur allocation jusqu’à la fin du mois civil au
+cours duquel intervient la fin du confinement, soit à ce stade jusqu’au
+31 mai 2020 ; cette date sera prorogée en cas de nouvelle prolongation
+de la mesure de confinement.\
+\
+Toutes les réponses à vos questions sur l’assurance-chômage sont à
+retrouver sur cette
+[page](https://travail-emploi.gouv.fr/IMG/pdf/covid19-faq-indemnisation-chomage.pdf)
 
 
 
@@ -3716,10 +3850,11 @@ Des prolongements d’aides à noter :
 
 
 Oui, les personnels de santé à risques élevés, comme le reste de la
-population, peuvent bénéficier d’un arrêt de travail. Ils seront pris en
+population, peuvent bénéficier d’un arrêt de travail.Ils seront pris en
 charge par l’Assurance Maladie, alignés sur les modalités des salariés
-en termes de délais de carence. Cette disposition s’applique également
-aux personnels de santé libéraux.
+en termes de délais de carence. \
+\
+Cette disposition s’applique également aux personnels de santé libéraux.
 
 
 
@@ -3771,8 +3906,7 @@ Non il n’en a pas le droit, ni sur place, ni à distance.\
 \
 A noter : lorsqu’un employeur demande à un salarié de “télétravailler”
 alors que ce dernier est placé en activité partielle, c’est une fraude
-et c’est assimilé à du [travail
-illégal](https://travail-emploi.gouv.fr/actualites/presse/communiques-de-presse/article/covid-19-sanctions-contre-les-fraudes-au-chomage-partiel).
+sévèrement sanctionnée.
 
 
 
@@ -3902,19 +4036,51 @@ Modalités :
 
 []{#s681-q1066}
 
-#### Je suis professionnel de santé considéré comme personne fragile (femme enceinte...). Puis-je bénéficier d’un arrêt de travail ? {#je-suis-professionnel-de-santé-considéré-comme-personne-fragile-femme-enceinte....-puis-je-bénéficier-dun-arrêt-de-travail .item-question}
+#### Les personnels de santé considérés comme personnes fragiles peuvent-ils bénéficier d’un arrêt de travail ? {#les-personnels-de-santé-considérés-comme-personnes-fragiles-peuvent-ils-bénéficier-dun-arrêt-de-travail-1 .item-question}
 
 
 
-Essayez d'abord d’aménager votre poste de travail, avec l’aide des
-Services de Santé au Travail. Vous devrez porter un masque,
-rigoureusement respecter les gestes barrières et les mesures de
-distanciation sociale.\
-\
-Si les aménagements sont irréalisables, il vous est possible de
-bénéficier d’un arrêt de travail.\
+Oui, les personnels de santé à risques élevés, comme le reste de la
+population, peuvent bénéficier d’un arrêt de travail. Ils seront pris en
+charge par l’Assurance Maladie, alignés sur les modalités des salariés
+en termes de délais de carence. Cette disposition s’applique également
+aux personnels de santé libéraux.\
 \
  
+
+
+
+
+[]{#s681-q1287}
+
+#### Qu’en est-il des prestations sociales ? {#quen-est-il-des-prestations-sociales .item-question}
+
+
+
+Si vous pouvez continuer vos déclarations trimestrielles de ressources
+par Internet, faites-le.\
+\
+Vous ne pouvez pas le faire par Internet : **vos prestations seront
+automatiquement renouvelées pour permettre la continuité des droits**. \
+\
+Prestations concernées par ce maintien :\
+ 
+-   le revenu de solidarité active (RSA) ; 
+-   le revenu de solidarité dans les outremers (RSO) ; 
+-   l’allocation adulte handicapés (AAH), l’allocation d’éducation de
+    l’enfant handicapé (AEEH) 
+-   les aides au logement ;
+-   et l’ensemble des aides sociales versées sous condition de ressource
+    par les CAF. 
+
+Des prolongements d’aides à noter :\
+ 
+-   les droits à l’allocation adulte handicapé (AAH) et à l’allocation
+    d’éducation de l’enfant handicapé (AEEH) qui arriveraient à échéance
+    seront automatiquement prolongés de six mois ;
+-   si, dans les prochains mois, vos droits à la complémentaire santé
+    solidaire et à l’aide au paiement d’une assurance complémentaire de
+    santé devaient expirer, ils  seront prolongés de 3 mois.
 
 
 
@@ -4987,7 +5153,13 @@ dérogatoire de déplacement.
 
 
 
-Oui, la conduite accompagnée reste autorisée.
+La conduite accompagnée ne fait pas partie des motifs qui permettent de
+déroger à la règle de confinement. Toutefois, les trajets en voiture qui
+restent autorisés dans le cadre des dérogations prévues peuvent se faire
+en conduite accompagnée si les deux personnes présentes à bord du
+véhicule à cette occasion partagent le même lieu de confinement. Le
+délai pour effectuer les 3 000 kilomètres avant de pouvoir se présenter
+à l’épreuve reste inchangé.
 
 
 
@@ -5320,8 +5492,9 @@ ouverts se trouve dans la rubrique “Les établissements fermés”.\
 **Important** : seuls les déménagements qui ne peuvent pas être reportés
 sont autorisés.\
 \
-Vous pouvez reporter votre déménagement  :
--   Entrez en contact avec votre bailleur afin de lui demander de
+Si vous pouvez reporter votre déménagement  :\
+ 
+-   entrez en contact avec votre bailleur afin de lui demander de
     continuer à occuper le logement que vous deviez quitter ;
 -   il est alors possible de signer une [convention d'occupation
     temporaire](https://www.anil.org/fileadmin/ANIL/modeles_courriers/Location/Convention_occupation_temporaire.docx).
@@ -5329,7 +5502,7 @@ Vous pouvez reporter votre déménagement  :
 -   à partir du moment où vous restez plus longtemps que prévu, vous
     devez continuer à payer votre loyer et les charges pour toute la
     période pendant laquelle vous occupez effectivement le logement.
--   Vous ne pouvez pas reporter votre déménagement. Vos obligations : 
+-   vous ne pouvez pas reporter votre déménagement. Vos obligations : 
     veillez à respecter les gestes barrières ;
 -   contactez la police ou la gendarmerie pour signaler votre
     déménagement et vous renseigner pour savoir s'il existe des
@@ -5339,6 +5512,18 @@ Vous pouvez reporter votre déménagement  :
     non reportable, dont vous précisez la date et les deux adresses de
     départ et de destination.
 
+Si vous ne pouvez pas reporter votre déménagement :\
+ 
+-   vos obligations :  veillez à respecter les gestes barrières ;
+-   contactez la police ou la gendarmerie pour signaler votre
+    déménagement et vous renseigner pour savoir s'il existe des
+    restrictions locales spécifiques ;
+-   munissez-vous d'une attestation sur l'honneur, que vous rédigez,
+    expliquant que vous vous déplacez pour le motif d'un déménagement
+    non reportable, dont vous précisez la date et les deux adresses de
+    départ et de destination.
+
+\
 Vous êtes un propriétaire. Pour l’échange des clés  :
 -   munissez-vous de l'attestation de déplacement dérogatoire, en
     cochant le déplacement pour motif familial impérieux ;
@@ -5447,18 +5632,14 @@ vous occupez le logement.
 
 Oui, selon la loi le locataire doit respecter le contrat de location
 qu’il a signé et donc payer le loyer.\
-\
 S’il vous est impossible d’emménager dans votre nouveau logement, vous
 pouvez vous mettre d’accord avec le propriétaire pour reporter la date
 de début de location.\
-\
 Si vous n'arrivez pas à trouver un accord, vous pouvez vous tourner vers
-l'Agence nationale pour l'Information sur le Logement (ANIL) avec [les
-conseillers juristes des Agences départementales
-(ADIL)](https://www.anil.org/lanil-et-les-adil/votre-adil/) conseillers
-juristes des Agences départementales (ADIL), qui vous accompagneront et
-vous aideront à trouver des solutions.\
- 
+l'Agence nationale pour l'Information sur le Logement (ANIL) avec [les
+conseillers
+juristes](https://www.anil.org/lanil-et-les-adil/votre-adil/) des ANIL,
+qui vous accompagneront et vous aideront à trouver des solutions.
 
 
 
@@ -5843,7 +6024,7 @@ de l’économie circulaire !
 Si votre déchetterie est fermée, nous vous invitons à stocker vos
 encombrants chez vous en attendant sa réouverture.\
 \
-Si votre déchetterie reste ouverte, vous pouvez vous y rendre, muni de
+Si votre déchèterie reste ouverte, vous pouvez vous y rendre, muni de
 votre attestation de déplacement dérogatoire en cochant la case «
 déplacement pour effectuer des achats de première nécessité ».\
 \
