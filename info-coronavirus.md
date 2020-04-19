@@ -122,7 +122,7 @@ COVID-19
 
 
 
-Mis à jour le samedi 18 avril 2020, à 19h30
+Mis à jour le dimanche 19 avril 2020, à 20h00
 
 
 -   [Francais](/info-coronavirus){.active}
@@ -1225,7 +1225,7 @@ telle ampleur, en temps réel, au cours d'une épidémie.
 ### Point de situation en France {#point-de-situation-en-france .item-paragraphe-titre .c-onglet data-section="s641" data-picto=""}
 
 
-**Le 18 avril 2020, à 19h30**\
+**Le 19 avril 2020, à 17h30**\
  
 
 Les autorités sanitaires tiennent [un point presse
@@ -1238,11 +1238,13 @@ Les informations du jour :
     plusieurs zones de regroupement de cas (clusters). Nous sommes
     actuellement au stade 3 du plan d’actions du Gouvernement qui a pour
     objectif de prévenir et limiter la circulation du virus. 
--   Depuis le 24 janvier 2020, la France compte 111 821 cas confirmés
-    par test PCR (prélévements dans le nez) de coronavirus.
--   11 862 personnes sont décédées à l'hôpital,  depuis le 1er mars.
--   35 983 personnes sont sorties guéries de l'hôpital, depuis le 1er
-    mars.
+-   En France, 112 606 cas seraient confirmés selon les estimations de
+    Santé publique France. 
+-   Depuis le 1er mars, nous déplorons 19 718 décès liés au COVID-19 :
+    12 069 décès dans les hôpitaux et 7 649 décès dans les
+    établissements sociaux et médico-sociaux.
+-   Depuis le début de l’épidémie, 36 578 personnes sont sorties guéries
+    de l’hôpital.
 
 Retrouvez toutes les données sur [le tableau de bord COVID-19 de
 gouvernement.fr](/info-coronavirus/carte-et-donnees), et [le point
