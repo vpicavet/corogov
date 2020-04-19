@@ -2396,8 +2396,8 @@ de l’armée de l’Air pour transporter des patients atteints de COVID-19.\
 Le 25 mars, le président de la République a annoncé le lancement de
 l’opération militaire “Résilience”, pour apporter aide et soutien à la
 population mais aussi aux services publics en termes sanitaire,
-logistique et de protection en métropole et dans les Outre-mer.
-Prochainement les porte-hélicoptères Mistral et Dixmud seront déployés
+logistique et de protection en métropole et dans les Outre-mer. Depuis,
+les porte-hélicoptères Mistral et Dixmude ont été déployés
 respectivement au sud de l’Océan Indien (Réunion, Mayotte) et dans la
 région Antilles-Guyane.\
 \
@@ -4105,13 +4105,11 @@ Des prolongements d’aides à noter :\
 
 
 Vous ne pouvez pas vous rendre dans les écoles, collèges, lycées ou
-universités : ils sont fermés au moins jusqu'à la fin des vacances de
-printemps, ce qui concerne plus de 12 millions d'élèves et 2,6 millions
-d'étudiants.\
+universités : ils sont fermés jusqu'au lundi 11 mai 2020, ce qui
+concerne plus de 12 millions d'élèves et 2,6 millions d'étudiants.\
 \
 En revanche, trois à quatre heures de cours en ligne doivent être
-proposées par les établissements. Les examens et les concours de
-recrutement sont reportés\
+proposées par les établissements.\
 \
 Etudiants : vous pouvez retrouver plus d’informations sur le [site
 dédié](https://www.etudiant.gouv.fr/pid33626-cid150278/covid-19-%7C-faq-crous-etudes-concours-services.html).
@@ -5362,18 +5360,6 @@ résidence de location ne fait pas partie des déplacements autorisés.
 
 
 
-[]{#s690-q711}
-
-#### Les vacanciers en station de ski peuvent-ils rentrer chez eux ou doivent-ils rester sur place ? {#les-vacanciers-en-station-de-ski-peuvent-ils-rentrer-chez-eux-ou-doivent-ils-rester-sur-place .item-question}
-
-
-
-Oui, ils peuvent rentrer chez eux en invoquant le motif impérieux sur
-l'attestation dérogatoire de déplacement.
-
-
-
-
 []{#s690-q712}
 
 #### Si je suis actuellement confiné dans un lieu qui n'est pas ma résidence principale, ai-je le droit de rentrer chez moi ? {#si-je-suis-actuellement-confiné-dans-un-lieu-qui-nest-pas-ma-résidence-principale-ai-je-le-droit-de-rentrer-chez-moi .item-question}
@@ -6073,10 +6059,10 @@ Les cabinets de médecine restent ouverts mais privilégiez les
 téléconsultations.\
 \
 Attention :
--   vous ressentez des symptômes légers (fièvre et toux) de cCoronavirus
-    : restez chez vous, appelez votre médecin, il vous conseillera. Ne
-    vous rendez pas à son cabinet. Vous pouvez aussi opter pour la
-    téléconsultation.
+-   si vous ressentez des symptômes légers (fièvre et toux) de
+    cCoronavirus : restez chez vous, appelez votre médecin, il vous
+    conseillera. Ne vous rendez pas à son cabinet. Vous pouvez aussi
+    opter pour la téléconsultation.
 -   si les symptômes s’aggravent au bout de quelques jours, comme avec
     l'apparition de difficultés respiratoires, appelez le 15.
 
@@ -6230,16 +6216,18 @@ Appelez votre médecin traitant ou votre spécialiste pour en parler.
 
 Nous pourrons sortir du confinement à deux conditions :
 -   la circulation du virus ne sera plus fortement active sur le
-    territoire
--   et que la situation pourra être contrôlée par des mesures plus
-    ciblées.
+    territoire ;
+-   et la situation pourra être contrôlée par des mesures plus ciblées.
+
+Une stratégie de tests adaptée sera mise en œuvre pour cette phase
+post-épidémique.
 
 
 
 
 []{#s742-q1141}
 
-#### Les tests de dépistage rapide sont-ils fiables ? {#les-tests-de-dépistage-rapide-sont-ils-fiables .item-question}
+#### Les tests de dépistage rapides sont-ils fiables ? {#les-tests-de-dépistage-rapides-sont-ils-fiables .item-question}
 
 
 
@@ -6689,7 +6677,7 @@ fortement invitées à continuer à donner leur sang, malgré le
 confinement.\
 \
 Pour répondre plus précisément à la question, on a retrouvé du
-coronavirus dans le sang des personnes contaminées, ill existe donc un
+coronavirus dans le sang des personnes contaminées, il existe donc un
 possible risque de transmission par le sang. Mais, à ce jour, il
 n’existe aucun cas confirmé.\
  
@@ -6787,7 +6775,7 @@ respecter une distance minimum entre les individus, pour freiner la
 diffusion du virus. Cette distance peut légèrement varier en fonction
 des pays, en fonction des études retenues ou des unités de mesure. En
 France, la distance de 1 mètre est recommandée. Elle est facile à mettre
-en place et permet de bien se protéger : respectons là !
+en place et permet de bien se protéger : respectons-la !
 
 
 
@@ -7054,13 +7042,13 @@ immunité contre le virus.\
 \
 *En savoir plus* : le ministère des Armées finance plusieurs projets.\
 \
-Par ailleurs, le ministère des Armées a annoncé, Le 4 avril 2020, le
-ministère a annoncé le financement d’un projet de test de dépistage du
-COVID-19 porté par la société NG Biotech. Cette commande, financée à
-hauteur de 1 million d’euros par un contrat de la Direction générale de
-l’armement, permettra à la PME de lancer rapidement la production de
-nouveaux kits de dépistage (kits immunologiques de dépistage sanguin
-rapide de l’infection au coronavirus). La commande inclut également le
+Par ailleurs, le ministère des Armées a annoncé, le 4 avril 2020, le
+financement d’un projet de test de dépistage du COVID-19 porté par la
+société NG Biotech. Cette commande, financée à hauteur de 1 million
+d’euros par un contrat de la Direction générale de l’armement, permettra
+à la PME de lancer rapidement la production de nouveaux kits de
+dépistage (kits immunologiques de dépistage sanguin rapide de
+l’infection au coronavirus). La commande inclut également le
 développement d’un second type de kit de détection directe du virus,
 dans la salive ou par échantillon nasal, et la sécurisation d’une
 filière de réactifs de base nationale.\
@@ -7170,9 +7158,7 @@ Vous ne pouvez pas pratiquer des activités aquatiques et nautiques
 (sorties en bateau, aviron, voile, plongée sous-marine, pêche…), ni
 sports aériens (parapente, saut en parachute, montgolfière…), ni sports
 mécaniques (moto, karting...), ni activités de montagne (escalade,
-spéléologie, randonnée…) ni sports urbains (skateboard, roller…). Elles
-sont interdites car pour être pratiquées elles doivent être encadrées,
-ce qui n’est pas possible actuellement.\
+spéléologie, randonnée…) ni sports urbains (skateboard, roller…).\
 \
 Enfin, dans les lieux où auraient été constatés des comportements
 manifestement abusifs entraînant des regroupements de personnes, les
@@ -7203,7 +7189,7 @@ Non. Tous les établissements d’activités physiques et sportives doivent
 
 []{#s1093-q1084}
 
-#### Est-ce que la période d’activité de Les clubs et associations sportives qui sont habituellement fermés l’été vont-ils être ouverts pour compenser les semaines d’inactivités ? {#est-ce-que-la-période-dactivité-de-les-clubs-et-associations-sportives-qui-sont-habituellement-fermés-lété-vont-ils-être-ouverts-pour-compenser-les-semaines-dinactivités .item-question}
+#### Les clubs et associations sportives qui sont habituellement fermés l’été vont-ils être ouverts pour compenser les semaines d’inactivités ? {#les-clubs-et-associations-sportives-qui-sont-habituellement-fermés-lété-vont-ils-être-ouverts-pour-compenser-les-semaines-dinactivités .item-question}
 
 
 
@@ -8370,19 +8356,6 @@ lecture à une distance conforme aux gestes barrière.
 
 
 Oui.
-
-
-
-
-[]{#s782-q1138}
-
-#### Pourquoi ne pas avoir conçu une application pour smartphone ? {#pourquoi-ne-pas-avoir-conçu-une-application-pour-smartphone .item-question}
-
-
-
-Le formulaire en ligne est plus simple à utiliser pour le plus grand
-nombre et permet de faciliter les éventuelles mises à jour au cas où
-l’attestation viendrait à évoluer
 
 
 
@@ -9870,6 +9843,12 @@ Ko]{}](https://www.gouvernement.fr/sites/default/files/cfiles/justificatif-depla
 
 
 ### Documents {#documents .c-onglet}
+
+
+[Téléchargez la présentation de la conférence de presse du 19 mars 2020
+sur le COVID-19[ PDF - 1.97
+Mo]{}](https://www.gouvernement.fr/sites/default/files/cfiles/presentation_-_conference_de_presse_sur_le_covid19_-_19.04.2020.pdf "presentation_-_conference_de_presse_sur_le_covid19_-_19.04.2020.pdf"){.download-link}
+
 
 
 [Téléchargez la présentation du point de situation du 28 mars 2020 sur
