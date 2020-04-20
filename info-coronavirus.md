@@ -787,9 +787,8 @@ Conformément aux recommandations de l’OMS qui incite dorénavant à tester
 massivement la population et au regard de l’évolution de l’épidémie, la
 stratégie de test en France va évoluer dans les prochains mois.\
 \
-Au 28 mars 2020, 12 000 tests par PCR sont réalisés chaque jour, et
-d’ici la fin du mois d’avril ce sont 50 000 tests classiques qui seront
-réalisables.\
+Au 19 avril 2020, plus de 25 000 tests par PCR sont réalisés chaque
+jour.\
 \
 En parallèle, des tests rapides sont dorénavant disponibles et la France
 en a commandé 5 millions. La capacité des tests rapides sera portée à 30
