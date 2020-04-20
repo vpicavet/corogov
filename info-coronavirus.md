@@ -6190,10 +6190,11 @@ Attention :
 
 \
 **Important** : ne reportez pas les consultations nécessaires au suivi
-et à la prévention, surtout en cas de maladie chronique. Appelez les
-spécialistes qui vous suivent et demandez-leur conseil. Enfin les
-pharmacies et les commerces de matériel médical restent ouverts : vous
-pouvez donc vous rendre chez l’opticien par exemple.\
+médical, (surtout en cas de maladie chronique)  et à la prévention :
+dépistages, vaccins pour les enfants. Appelez les spécialistes qui vous
+suivent et demandez-leur conseil. Enfin les pharmacies et les commerces
+de matériel médical restent ouverts : vous pouvez donc vous rendre chez
+l’opticien par exemple.\
  
 
 
@@ -7303,7 +7304,7 @@ Les établissements d’activités physiques et sportives sont fermés.
 
 
 Non. Tous les établissements d’activités physiques et sportives doivent
-être fermés au moins jusqu’au 15 avril.\
+être fermés au moins jusqu’au 11 mai.\
  
 
 
@@ -7528,15 +7529,20 @@ attention encore renforcée aux gestes barrières.
 Pour protéger les personnes âgées, public fragile et vulnérable face au
 virus, il a été décidé de prendre plusieurs mesures au fil de
 l’aggravation de l’épidémie  :
--   Renforcement des gestes barrières (lavage des mains réguliers) pour
+-   renforcement des gestes barrières (lavage des mains réguliers) pour
     ralentir la progression de l’épidémie ;détection très rapide de tout
     cas suspects et isolement de la personne en attendant confirmation ;
--    suspension des visites extérieures en EHPAD et en unité de soins de
-    longue durée, visites déconseillées dans les résidences autonomes.
-    Des exceptions pourront être décidées par le directeur pour des
-    situations exceptionnelles ;
+-   à partir du lundi 20 avril, les visites sont de nouveau possibles
+    dans les EHPAD, dans des conditions cependant extrêmement limitées :
+    elles sont organisées à la demande du résident, et placées sous la
+    responsabilité de la direction de l’établissement ; pas plus de deux
+    personnes de la famille sont autorisées, les gestes barrières
+    doivent être strictement respectés et tout contact physique est
+    interdit ;
 -   tests systématiques en cas de cas avérés en EHPAD et tests des
-    personnels soignants renforcés.
+    personnels soignants renforcés : la semaine du 13 avril, 50 000
+    tests ont été programmés dans les EHPAD et pris en charge par
+    l’Assurance maladie.
 
 \
 Retour sur la chronologie des mesures :\
@@ -7580,7 +7586,17 @@ les laboratoires, la réserve sanitaire et les conseils départementaux.\
 \
 Par ailleurs, un accent est mis sur les renforts humains (réserve
 sanitaire, intervention des professionnels de ville, ressources locales)
-dans ces établissements.
+dans ces établissements.\
+\
+**Le 19 avril 2020**, le ministre des Solidarités et de la Santé a
+annoncé, suite à une consultation avec les sociétés savantes et les
+responsables des établissements, qu’à partir du lundi 20 avril, des
+droits de visites peuvent être accordés dans les EHPAD. Ces visites
+seront organisées à la demande des résidents et sous la responsabilité
+des directions des établissements, dans des conditions extrêmement
+limitées : pas plus de deux personnes de la famille peuvent rendre
+visite à un résident en même temps, les mesures barrières doivent être
+strictement appliquées et les contacts physiques sont interdits.
 
 
 
@@ -7660,8 +7676,8 @@ missions.
 
 
 Les services de l’Etat s’organisent pour mettre à l’abri les plus
-démunis avec les associations : 174.700 places sont ouvertes ce soir
-pour héberger des personnes sans-domicile.\
+démunis avec les associations : 174.700 places sont ouvertes pour
+héberger des personnes sans-domicile.\
 \
 9.500 places d’hôtels supplémentaires sont désormais mobilisables dans
 toute la France depuis le début de la crise sanitaire, en plus des
@@ -9158,22 +9174,31 @@ pour augmenter leurs capacités d'accueil.\
 \
 De nombreux services ont changé d’activité et ont pu accueillir des
 patients atteints de COVID-19. Le nombre de lits en réanimation a
-considérablement augmenté. \
+considérablement augmenté, grâce à une réorganisation importante des
+sites hospitaliers, passant de 5 000 avant le début de l’épidémie à 10
+500 au 19 avril.\
+\
 \
 Le renforcement de l’accueil des hôpitaux implique des moyens matériels
 et humains supplémentaires : \
  
 -   la France a passé une commande de plusieurs milliers de
-    respirateurs, nécessaires aux patients hospitalisés en réanimation. 
+    respirateurs, nécessaires aux patients hospitalisés en réanimation :
+    à la fin du mois de juin, la France disposera ainsi de 15 000
+    respirateurs de réanimation et de 15 000 respirateurs
+    supplémentaires dits “de transports”, soit une capacité supérieure
+    aux besoins exprimés et anticipés.
 -   les capacités de production de gel hydroalcoolique, de surblouses et
     de masques ont aussi été fortement multipliées. Certains industriels
     ont changé leurs activités pour participer à une production
     nationale de ces équipements. 
--   la réserve sanitaire est également amenée à être mobilisée ;
+-   la réserve sanitaire est également mobilisée ;
 -   enfin, quand cela est nécessaire, des transferts de malades sont
     effectués d’une région à une autre. Ils peuvent avoir lieu par avion
     ou bateau militaire, hélicoptère, ambulance ou encore TGV
-    médicalisé.
+    médicalisé. Au total depuis le début de la crise, 644 transferts de
+    malades ont été effectués, dont 180 vers des pays européens
+    (Allemagne, Suisse, Luxembourg, Autriche).
 
 
 
@@ -9476,15 +9501,10 @@ d’Outre-mer a été prise rapidement :\
 
 En parallèle de ces mesures, l**es capacités de réanimation sont
 renforcées et du matériel médical et de protection est envoyé
-(respirateurs, masques, tests)** :\
- 
--   Les Antilles passent de 81 lits de réanimation en temps normal à 169
-    lits, notamment grâce à l’envoi de 32 respirateurs depuis la
-    métropole ;
--   Mayotte passe de 16 à 50 lits ;
--   La Guyane passe de 29 à 40 lits ;
--   La Réunion passe de 111 à 161 lits.
-
+(respirateurs, masques, tests)**. **Le nombre de lits de réanimation a
+aussi pu être augmenté, passant de 171 au total sur l’ensemble des
+territoires d’Outre-mer à 310 au 19 avril.**\
+\
 Enfin, l’Etat organise avec l’Armée des capacités sanitaires de
 délestage pour permettre aux établissements hospitaliers de faire face
 aux malades du COVID-19.
