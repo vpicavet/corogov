@@ -1433,7 +1433,7 @@ Français de se procurer un masque grand public.\
 
 []{#s642-q645}
 
-#### Y a-t-il suffisamment de masques en France ? {#y-a-t-il-suffisamment-de-masques-en-france .item-question}
+#### Y a-t-il suffisamment de masques pour le personnel soignant en France ? {#y-a-t-il-suffisamment-de-masques-pour-le-personnel-soignant-en-france .item-question}
 
 
 
@@ -1444,33 +1444,37 @@ les livraisons.\
 \
 *En savoir plus*\
 \
-Le 21 mars, le ministre des Solidarités et de la Santé, Olivier Véran, a
-réaffirmé la stratégie sanitaire : fournir en priorité des masques aux
-professionnels de santé amenés à prendre en charge des patients COVID-19
-en ville, à l’hôpital et dans les structures médico-sociales accueillant
-des personnes fragiles, ainsi qu’aux services d’aide à domicile, pour
-garantir la continuité de l’accompagnement à domicile des personnes
-âgées et en situation de handicap.\
+Depuis le début de la crise, la stratégie sanitaire a eu pour objectif
+de fournir en priorité des masques aux professionnels de santé amenés à
+prendre en charge des patients COVID-19 en ville, à l’hôpital et dans
+les structures médico-sociales accueillant des personnes fragiles, ainsi
+qu’aux services d’aide à domicile, pour garantir la continuité de
+l’accompagnement à domicile des personnes âgées et en situation de
+handicap.\
 \
-Au 28 mars 2020, le stock d'État est de 117 millions de masques
+Au mois de janvier, le stock d'État est de 117 millions de masques
 chirurgicaux.\
 \
-A ce jour, 40 millions de masques de protection sont consommés chaque
-semaine en France.\
+Les besoins des établissements hospitaliers en masques en temps normal
+sont de 5 millions par semaine. La production nationale de masques
+s’élevait alors à 4 millions par semaine.\
 \
-La France est en mesure de fabriquer 8 millions de masques
-supplémentaires chaque semaine ; dans les prochaines semaines, cette
-capacité de production nationale passera à 10 millions de masques par
-semaine.\
+Avec la crise, les besoins minimaux des professionnels de santé en
+masques sont passés à environ 45 millions par semaine.\
 \
-À cela s’ajoutent des commandes de plus de 250 millions de masques, qui
-sont livrés progressivement depuis le 24 mars.\
+Les capacités de production de masques par les entreprises françaises
+ont pu être augmentées : la France produit à présent 8 millions de
+masques par semaine, et les efforts se poursuivent pour augmenter encore
+ces capacités.\
 \
-Le samedi 28 mars 2020, le Premier ministre et le ministre des
-Solidarités et de la Santé annoncent avoir passé commande pour plus d’un
-milliard de masques, progressivement livrés depuis la Chine via un pont
-aérien. Les collectivités territoriales et certaines entreprises
-contribuent également à cet effort d’approvisionnement.
+À cela s’ajoutent des importations depuis le mois de mars,
+progressivement livrées depuis la Chine via un pont aérien. La semaine
+du 14 avril, ce sont ainsi près de 81 millions de masques qui ont été
+importés, soit bien plus que les besoins des établissements hospitaliers
+pour une semaine.\
+\
+Les collectivités territoriales et certaines entreprises contribuent
+également à cet effort d’approvisionnement.
 
 
 
@@ -1612,30 +1616,28 @@ d’activité, d’augmenter la protection des salariés par des masques en
 complément des gestes barrières et des mesures de distanciation
 sociale.\
 \
-Pour contribuer à y répondre, le Gouvernement a mobilisé les industriels
-français du textile afin de proposer de nouveaux types de masques
-anti-projections, avec des performances adaptées au domaine non médical.
-L’une de ces catégories sera dédiée aux personnes en contact fréquent
-avec le public. L’Etat notamment les utilisera, pour certaines
-catégories de ses agents publics.\
+Pour contribuer à y répondre et dès le début du bois de mars, le
+Gouvernement a mobilisé les industriels français du textile afin de
+proposer de nouveaux types de masques anti-projections, avec des
+performances adaptées au domaine non médical. Ces masques répondent à
+des normes établies par les autorités sanitaires. Ils doivent être
+respirables et filtrer les gouttelettes qui contiennent du virus, pour
+ne pas qu’elles rentrent ni qu’elles sortent. Ils seront lavables pour
+la grande majorité et réutilisables plusieurs fois (certains modèles 20
+ou 30 fois). \
+\
+La semaine du 13 avril, ce sont 8 millions de masques grand public qui
+ont été produits en France ; l’objectif est de parvenir à une production
+de 17 millions de masques par semaine d’ici au 11 mai, grâce à la
+mobilisation de plus d’une centaine d’entreprises. Cette production
+nationale est complétée par des importations : plusieurs dizaines de
+millions de masques ont été commandés. \
+\
+L’objectif est ainsi de permettre l’accès aux masques grand public pour
+tous les Français qui le souhaitent à partir du 11 mai.\
 \
 Il s’agit d’un outil complémentaire pour contribuer à la prévention du
 COVID-19 dans le milieu professionnel.\
-\
-Les premiers résultats sont au rendez-vous : le mardi 7 avril 2020, le
-ministère de l’Economie et des Finances a annoncé que l’engagement de la
-filière Textile-Habillement a déjà permis la production de 3,9 millions
-de masques grand public à usage professionnel non sanitaire (produits
-entre le 30 mars et le 5 avril). Cette production devrait monter
-rapidement en cadence pour atteindre 6,6 millions d’unités au cours de
-la même semaine.\
-\
-Ce sont désormais 76 entreprises dont les prototypes de masques grand
-public ont été testés et qualifiés pour leur propriétés filtrantes.
-Parmi les 146 modèles qualifiés à ce jour, 12 ont d’ores et déjà été
-certifiés lavables au moins 5 fois, pour une capacité de production
-quotidienne à court terme de 456 000 masques (soit l’équivalent d’une
-production de 3,5 millions de masques à usage unique par jour).\
 \
 Ces masques sont qualifiés pour des environnements de travail :\
  
@@ -1831,11 +1833,12 @@ et des Affaires étrangères s’est mobilisé pour obtenir l’autorisation de
 l'organisation de liaisons aériennes spéciales, principalement assurées
 par des vols commerciaux.\
 \
-Un dispositif exceptionnel a permis à plus de 150 000 Français de
-passage à l’étranger de regagner la France grâce à une coopération, en
-fonction des priorités et des urgences locales, avec des compagnies
-aériennes, notamment Air France, et parfois en liaison avec l’Union
-européenne.\
+Un dispositif exceptionnel a permis à 160 000 Français qui se trouvaient
+à l’étranger au début de confinement de regagner la France grâce à une
+coopération, en fonction des priorités et des urgences locales, avec des
+compagnies aériennes, notamment Air France, et parfois en liaison avec
+l’Union européenne. Ce sont près de 1 600 vols qui ont été réalisés pour
+permettre ces rapatriements.\
 \
 Si des vols commerciaux spéciaux sont encore prévus dans les jours à
 venir, ainsi que des vols affrétés par la France et des vols vers
@@ -2199,7 +2202,7 @@ Je suis un ressortissant français à l’étranger
 
 Afin de ralentir la propagation du COVID-19, plusieurs catégories
 d'établissement ne peuvent plus accueillir de public, et ce, au moins
-jusqu'au 15 avril 2020 : 
+jusqu'au 11 mai 2020 : 
 
 -   Salles d'auditions, de conférences, de réunions, de spectacles ou à
     usage multiple (par exemple, les cinémas) ;
@@ -2229,8 +2232,7 @@ Corse, et ont interdiction de faire escale ou de mouiller dans les eaux
 intérieures et territoriales des départements et régions d'outre-mer,
 ainsi que de Saint-Barthélemy et Saint-Martin, Saint-Pierre-et-Miquelon,
 et Wallis-et-Futuna, sauf dérogation accordée par le représentant de
-l'Etat compétent pour ces mêmes collectivités.\
- 
+l'Etat compétent pour ces mêmes collectivités.
 
 
 
@@ -2329,6 +2331,18 @@ restaurants et bars d’hôtels ne peuvent pas accueillir de public.\
 
 
 
+[]{#s665-q1313}
+
+#### Les accueils collectifs (centres de vacances, colonies de vacances, centres de loisirs, centres aérés ou accueils de scoutisme) peuvent-ils encore recevoir des mineurs ? {#les-accueils-collectifs-centres-de-vacances-colonies-de-vacances-centres-de-loisirs-centres-aérés-ou-accueils-de-scoutisme-peuvent-ils-encore-recevoir-des-mineurs .item-question}
+
+
+
+Non. Une exception est faite pour les accueils qui recevraient les
+enfants des personnels indispensables à la crise sanitaire.
+
+
+
+
 
 
 
@@ -2414,6 +2428,47 @@ personnes âgées, fragiles ou malade. A partir de cette date, les tests
 de dépistage seront disponibles pour l’ensemble des personnes présentant
 des symptômes et le port du masque grand public sera généralisé.\
  
+
+
+
+[]{#s666-q1314}
+
+#### Que se passera-t-il après le 11 mai ? {#que-se-passera-t-il-après-le-11-mai .item-question}
+
+
+
+Le confinement a été mis en place pour préserver la santé de tous les
+Français. Cet objectif sera maintenu après le 11 mai.\
+\
+A cette date, si la propagation du virus a effectivement ralenti et si
+la capacité d’accueil des hôpitaux est rétablie, un déconfinement
+progressif pourra être engagé.\
+\
+Il ne s’agira pas d’un retour à la situation que nous connaissions avant
+le confinement, mais du début d’une nouvelle phase dans le combat contre
+le COVID-19. \
+\
+En effet, alors que la population française n’est pas immunisée, et en
+l’absence de traitement efficace reconnu à ce stade ou de vaccin, notre
+capacité à préserver la santé de tous reposera sur l’application
+rigoureuse de mesures de prévention :\
+ 
+-   Les gestes barrières et les mesures de distanciation physique (plus
+    d’un mètre entre chaque personne) devront être rigoureusement
+    appliqués ; les masques grand public seront un complément à ces
+    gestes barrières. 
+-   Il sera primordial de tester rapidement les personnes qui présentent
+    des symptômes et toutes les personnes qui auront été en contact avec
+    elles (“cas contacts”).
+-   Enfin, les personnes porteuses du virus COVID-19 devront être
+    isolées. Elles pourront, au choix, être isolées chez elles (auquel
+    cas toute personne qui partagerait le même logement serait
+    contrainte de rester isolée également) soit dans un autre lieu
+    (hôtel) mis à disposition. 
+
+Un plan de déconfinement sera présenté par le Gouvernement à la fin du
+mois d’avril.
+
 
 
 
@@ -2623,10 +2678,36 @@ livret scolaire. Deux cas de figure différents sont pris en compte :
     traduisent pas par la délivrance d’un livret scolaire ou de
     formation, la session est reportée au mois de septembre.
 
+Plus d’information à retrouver sur cette
+[page](https://www.etudiant.gouv.fr/cid150278/covid-19-%7C-faq-crous-etudes-concours-services.html#9).\
 \
 Concernant le Diplôme de Comptabilité et de Gestion (DGC), il a été
 décidé du report des épreuves en juillet pour les plus de 20 000
 candidats inscrits.\
+\
+**Est-ce que les concours d’entrée aux grandes écoles sont repoussés
+?**\
+\
+Oui. Après consultation des parties prenantes, et au regard de la
+situation exceptionnelle que connaît notre pays, la session 2020 des
+concours d'entrée dans les grandes écoles s'inscrira dans le cadre
+suivant, et sous réserve des mesures sanitaires qui seront en vigueur à
+cette période :\
+\
+1) Les épreuves des concours d'entrée dans les grandes écoles seront
+organisées du 20 juin au 7 août.\
+\
+2) Les épreuves écrites seront organisées dans l'ordre défini dans le
+cadre du comité de pilotage et de façon à garantir la sécurité des
+candidats, dans le respect le plus strict des consignes sanitaires en
+vigueur. Les écoles, notamment militaires, ayant des contraintes
+particulières de recrutement pourront prévoir des épreuves
+additionnelles, dans le respect de ce calendrier.\
+\
+3) Les candidats auront accès à leur classement par école au plus tard
+le 8 août, pour un début des procédures d'appel à partir du 12 août au
+plus tard, afin de permettre le maintien des dates de la rentrée de
+septembre.\
 \
 **Service de garde**\
 \
@@ -2763,15 +2844,19 @@ Pour les entreprises :
 -   la suspension **des loyers, des factures d'eau, de gaz et
     d’électricité** pour les PME en difficulté ;
 -   **l’aide de 1 500 euros** pour les petites entreprises, les
-    indépendants, et les microentreprises les plus impactés grâce au
-    fonds de solidarité ;
+    indépendants, et les entreprises  de moins de 10 salariés ; ce fonds
+    représente un budget de 7 milliards d’euros, financé par l’Etat, les
+    assureurs à hauteur de 400 millions d’euros et les régions à hauteur
+    de 500 millions d’euros ;
 -    la mobilisation de l’État à hauteur de 300 milliards d’euros pour
     la mise en place de prêts bancaires garantis par l’État ;
 -   un soutien de l’État et de la Banque de France (médiation du crédit)
     pour négocier avec sa banque **un rééchelonnement des crédits
     bancaires** ;
 -   le maintien de l'emploi dans les entreprises par le dispositif de
-    chômage partiel simplifié et renforcé ;
+    chômage partiel simplifié et renforcé , dont bénéficient au 19 avril
+    9 millions de salariés qui travaillent dans plus de 700 000
+    entreprises (près de la moitié des entreprises du pays) ;
 -   l’appui au traitement d’un conflit avec des clients ou fournisseurs
     par le Médiateur des entreprises ;
 -   la reconnaissance par l’État et les collectivités locales du
@@ -3152,6 +3237,35 @@ consistent à :
 Le Gouvernement veillera au respect des contrats. A ce titre, les
 entreprises ayant conclu un contrat d’assurance dans lequel figure la
 perte d’exploitation, sont indemnisables.
+
+
+
+
+[]{#s670-q1316}
+
+#### Quelles sont les aides pour soutenir les transports routiers pendant cette période ? {#quelles-sont-les-aides-pour-soutenir-les-transports-routiers-pendant-cette-période .item-question}
+
+
+
+Afin de faciliter la poursuite de cette activité économique prioritaire,
+deux nouvelles mesures spécifiques viennent s'ajouter aux mesures déjà
+applicables à l'ensemble des entreprises du secteur du transport
+routier.\
+\
+D'une part, la taxe intérieure de consommation sur les produits
+énergétiques (TICPE), actuellement remboursée aux opérateurs du
+transport routier de marchandises chaque semestre, sera
+exceptionnellement remboursée tous les trimestres. Cette mesure
+bénéficiera à l'ensemble des entreprises du secteur, et prioritairement
+à celles qui déposent leurs demandes de remboursement de façon
+dématérialisée. Cette première mesure permettra un gain de trésorerie
+immédiat de près de 300 millions d'euros pour l'ensemble de la filière.\
+\
+D'autre part, la prochaine échéance de la taxe sur les véhicules
+routiers (TSVR) 2020, qui doit être payée au plus tard le 1er septembre,
+sera reportée de trois mois : les entreprises du secteur auront jusqu’au
+au 1er décembre 2020 pour la payer. Ce report soulagera la trésorerie
+des entreprises du secteur de 90 millions d’euros au total.
 
 
 
@@ -3758,7 +3872,7 @@ Pour toute info sur les modalités consultez :\
 
 []{#s681-q677}
 
-#### Je suis en fin de droits de chômage, que faire {#je-suis-en-fin-de-droits-de-chômage-que-faire .item-question}
+#### Je suis en fin de droits de chômage, que faire ? {#je-suis-en-fin-de-droits-de-chômage-que-faire .item-question}
 
 
 
@@ -3812,34 +3926,62 @@ période.
 
 
 
-[]{#s681-q680}
+[]{#s681-q1287}
 
-#### Je dois faire ma déclaration trimestrielle de ressources auprès des Caisses d’Allocations Familiales (CAF), comment faire ? {#je-dois-faire-ma-déclaration-trimestrielle-de-ressources-auprès-des-caisses-dallocations-familiales-caf-comment-faire .item-question}
+#### Qu’en est-il des prestations sociales ? {#quen-est-il-des-prestations-sociales .item-question}
 
 
 
-Vous pouvez le faire par Internet : faites-le.\
+Si vous pouvez continuer vos déclarations trimestrielles de ressources
+par Internet, faites-le.\
 \
 Vous ne pouvez pas le faire par Internet : **vos prestations seront
-automatiquement renouvelées pour permettre la continuité des droits.**\
+automatiquement renouvelées pour permettre la continuité des droits**. \
 \
-Prestations concernées par ce maintien :
--   le revenu de solidarité active (RSA) ;
--   le revenu de solidarité dans les outremers (RSO) ;
+Prestations concernées par ce maintien :\
+ 
+-   le revenu de solidarité active (RSA) ; 
+-   le revenu de solidarité dans les outremers (RSO) ; 
 -   l’allocation adulte handicapés (AAH), l’allocation d’éducation de
-    l’enfant handicapé (AEEH)
+    l’enfant handicapé (AEEH) 
 -   les aides au logement ;
 -   et l’ensemble des aides sociales versées sous condition de ressource
-    par les CAF.
+    par les CAF. 
 
-\
-Des prolongements d’aides à noter :
+Des prolongements d’aides à noter :\
+ 
 -   les droits à l’allocation adulte handicapé (AAH) et à l’allocation
     d’éducation de l’enfant handicapé (AEEH) qui arriveraient à échéance
     seront automatiquement prolongés de six mois ;
 -   si, dans les prochains mois, vos droits à la complémentaire santé
     solidaire et à l’aide au paiement d’une assurance complémentaire de
     santé devaient expirer, ils  seront prolongés de 3 mois.
+
+
+
+
+[]{#s681-q1317}
+
+#### Quelles sont les mesures de soutien aux familles des départements et régions d’Outre-mer? {#quelles-sont-les-mesures-de-soutien-aux-familles-des-départements-et-régions-doutre-mer .item-question}
+
+
+
+Pendant toute la période de la crise sanitaire et tant que les
+établissements scolaires resteront fermés, la prestation d’aide à la
+restauration scolaire versée par les Caisses d’allocations familiales
+(CAF) aux établissements pour contribuer aux frais de cantines sera
+versée directement aux familles ultramarines éligibles à l'allocation de
+rentrée scolaire, soit sous forme d’une aide financière, soit sous la
+forme d’une aide alimentaire directe. Les CAF de Guadeloupe, Guyane, La
+Réunion, Martinique et Mayotte auront en charge la mise en place de
+cette aide directe qui sera versée dans les prochains jours.\
+\
+Chaque mois, la prestation d’aide à la restauration scolaire vient aider
+les familles des départements et régions d’outre-mer les plus en
+difficulté à accéder à la cantine pour leurs enfants à hauteur de 10
+millions d’euros. Cette aide concerne 349 000 enfants et jeunes
+ultramarins scolarisés en école maternelle et primaire, collège et
+lycée.
 
 
 
@@ -4035,47 +4177,28 @@ Modalités :
 
 
 
-[]{#s681-q1066}
+[]{#s681-q680}
 
-#### Les personnels de santé considérés comme personnes fragiles peuvent-ils bénéficier d’un arrêt de travail ? {#les-personnels-de-santé-considérés-comme-personnes-fragiles-peuvent-ils-bénéficier-dun-arrêt-de-travail-1 .item-question}
-
-
-
-Oui, les personnels de santé à risques élevés, comme le reste de la
-population, peuvent bénéficier d’un arrêt de travail. Ils seront pris en
-charge par l’Assurance Maladie, alignés sur les modalités des salariés
-en termes de délais de carence. Cette disposition s’applique également
-aux personnels de santé libéraux.\
-\
- 
+#### Je dois faire ma déclaration trimestrielle de ressources auprès des Caisses d’Allocations Familiales (CAF), comment faire ? {#je-dois-faire-ma-déclaration-trimestrielle-de-ressources-auprès-des-caisses-dallocations-familiales-caf-comment-faire .item-question}
 
 
 
-
-[]{#s681-q1287}
-
-#### Qu’en est-il des prestations sociales ? {#quen-est-il-des-prestations-sociales .item-question}
-
-
-
-Si vous pouvez continuer vos déclarations trimestrielles de ressources
-par Internet, faites-le.\
+Vous pouvez le faire par Internet : faites-le.\
 \
 Vous ne pouvez pas le faire par Internet : **vos prestations seront
-automatiquement renouvelées pour permettre la continuité des droits**. \
+automatiquement renouvelées pour permettre la continuité des droits.**\
 \
-Prestations concernées par ce maintien :\
- 
--   le revenu de solidarité active (RSA) ; 
--   le revenu de solidarité dans les outremers (RSO) ; 
+Prestations concernées par ce maintien :
+-   le revenu de solidarité active (RSA) ;
+-   le revenu de solidarité dans les outremers (RSO) ;
 -   l’allocation adulte handicapés (AAH), l’allocation d’éducation de
-    l’enfant handicapé (AEEH) 
+    l’enfant handicapé (AEEH)
 -   les aides au logement ;
 -   et l’ensemble des aides sociales versées sous condition de ressource
-    par les CAF. 
+    par les CAF.
 
-Des prolongements d’aides à noter :\
- 
+\
+Des prolongements d’aides à noter :
 -   les droits à l’allocation adulte handicapé (AAH) et à l’allocation
     d’éducation de l’enfant handicapé (AEEH) qui arriveraient à échéance
     seront automatiquement prolongés de six mois ;
@@ -5501,7 +5624,7 @@ Si vous pouvez reporter votre déménagement  :\
 
 Si vous ne pouvez pas reporter votre déménagement :\
  
--   vos obligations :  veillez à respecter les gestes barrières ;
+-   veillez à respecter les gestes barrières ;
 -   contactez la police ou la gendarmerie pour signaler votre
     déménagement et vous renseigner pour savoir s'il existe des
     restrictions locales spécifiques ;
