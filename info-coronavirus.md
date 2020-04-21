@@ -1616,7 +1616,7 @@ d’activité, d’augmenter la protection des salariés par des masques en
 complément des gestes barrières et des mesures de distanciation
 sociale.\
 \
-Pour contribuer à y répondre et dès le début du bois de mars, le
+Pour contribuer à y répondre et dès le début du mois de mars, le
 Gouvernement a mobilisé les industriels français du textile afin de
 proposer de nouveaux types de masques anti-projections, avec des
 performances adaptées au domaine non médical. Ces masques répondent à
@@ -4173,38 +4173,6 @@ Modalités :
 
 \
  
-
-
-
-
-[]{#s681-q680}
-
-#### Je dois faire ma déclaration trimestrielle de ressources auprès des Caisses d’Allocations Familiales (CAF), comment faire ? {#je-dois-faire-ma-déclaration-trimestrielle-de-ressources-auprès-des-caisses-dallocations-familiales-caf-comment-faire .item-question}
-
-
-
-Vous pouvez le faire par Internet : faites-le.\
-\
-Vous ne pouvez pas le faire par Internet : **vos prestations seront
-automatiquement renouvelées pour permettre la continuité des droits.**\
-\
-Prestations concernées par ce maintien :
--   le revenu de solidarité active (RSA) ;
--   le revenu de solidarité dans les outremers (RSO) ;
--   l’allocation adulte handicapés (AAH), l’allocation d’éducation de
-    l’enfant handicapé (AEEH)
--   les aides au logement ;
--   et l’ensemble des aides sociales versées sous condition de ressource
-    par les CAF.
-
-\
-Des prolongements d’aides à noter :
--   les droits à l’allocation adulte handicapé (AAH) et à l’allocation
-    d’éducation de l’enfant handicapé (AEEH) qui arriveraient à échéance
-    seront automatiquement prolongés de six mois ;
--   si, dans les prochains mois, vos droits à la complémentaire santé
-    solidaire et à l’aide au paiement d’une assurance complémentaire de
-    santé devaient expirer, ils  seront prolongés de 3 mois.
 
 
 
