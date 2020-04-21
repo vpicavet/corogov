@@ -1964,6 +1964,18 @@ suivant les comptes du gouvernement:**
 
 
 
+data-apple-banner-cta="Une question sur le COVID-19 ? Notre chatbot vous aide à trouver la réponse !"
+data-apple-banner-context="Des informations, des liens utiles et les réponses aux questions fréquentes."
+data-apple-banner-icon-background-color="rgb(178,178,178)"
+data-apple-banner-icon-color="rgba(255,255,254,1)"
+data-apple-business-intent-id="alc:prod2:949:7:1371"
+data-apple-banner-scale="1" data-apple-banner-orientation="vertical"
+data-apple-banner-rounded-corners="false"
+data-apple-business-body="Envoyer ce message pour commencer"
+data-apple-business-id="c89f57a6-4a1c-460e-a164-9c79fd47064d"
+style="max-width:400px;margin: 0 auto;">
+
+
 
 
 ### Confinement
@@ -10226,6 +10238,10 @@ Liens secondaires {#liens-secondaires .element-invisible}
 
 
 class="block block-pmv6-schema-org block-even">
+
+
+
+
 
 
 
