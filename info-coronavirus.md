@@ -1636,9 +1636,6 @@ millions de masques ont été commandés. \
 L’objectif est ainsi de permettre l’accès aux masques grand public pour
 tous les Français qui le souhaitent à partir du 11 mai.\
 \
-Il s’agit d’un outil complémentaire pour contribuer à la prévention du
-COVID-19 dans le milieu professionnel.\
-\
 Ces masques sont qualifiés pour des environnements de travail :\
  
 -   masques grand public de catégorie 1 : l’usage de ces masques est
@@ -2805,16 +2802,18 @@ Pour les personnels soignants :
 Pour les foyers les plus modestes :\
 \
 Les foyers allocataires du revenu de solidarité active (RSA) ou de
-l’allocation de solidarité spécifique (ASS) percevront une aide de 150
-€, à laquelle s’ajoute 100 € supplémentaires par enfant à charge.\
+l’allocation de solidarité spécifique (ASS) percevront une aide
+exceptionnelle de 150 €, à laquelle s’ajoute 100 € supplémentaires par
+enfant à charge.\
 \
 Par ailleurs, toutes les familles bénéficiaires des aides personnalisées
 au logement (APL) qui ne touchent pas le RSA ou l’ASS bénéficieront
 d’une aide de 100 € par enfant à charge.\
 \
-Ces aides s’ajouteront aux aides sociales versées mensuellement toute au
-long de l’année, et sera versée automatiquement aux personnes qui y ont
-droit.\
+Cette aide exceptionnelle de solidarité s’ajoute aux aides sociales
+versées mensuellement toute au long de l’année, et sera versée
+automatiquement aux 4 millions de foyers qui y ont droit le 15 mai
+2020.\
 \
 Pour les agents de la fonction publique d’Etat :
 -   Les agents publics sont fortement engagés dans la lutte contre
