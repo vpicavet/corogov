@@ -223,8 +223,8 @@ gouttelettes](https://www.gouvernement.fr/sites/default/files/cimages/transmissi
 
 
 
-[]{#s615-q608}
 
+[]{#s615-q608}
 #### Qu’est-ce que le coronavirus COVID-19 ? {#quest-ce-que-le-coronavirus-covid-19 .item-question}
 
 
@@ -244,8 +244,8 @@ de pandémie ; c’est-à-dire que l’épidémie est désormais mondiale.
 
 
 
-[]{#s615-q609}
 
+[]{#s615-q609}
 #### D’où vient le coronavirus COVID-19 ? {#doù-vient-le-coronavirus-covid-19 .item-question}
 
 
@@ -258,8 +258,8 @@ pas été confirmée.
 
 
 
-[]{#s615-q927}
 
+[]{#s615-q927}
 #### Quel est la dangerosité du coronavirus ? {#quel-est-la-dangerosité-du-coronavirus .item-question}
 
 
@@ -276,8 +276,8 @@ Le coronavirus est dangereux pour trois raisons :
 
 
 
-[]{#s615-q610}
 
+[]{#s615-q610}
 #### Quels sont les symptômes du coronavirus COVID-19 ? {#quels-sont-les-symptômes-du-coronavirus-covid-19 .item-question}
 
 
@@ -298,8 +298,8 @@ réanimation et au décès.
 
 
 
-[]{#s615-q611}
 
+[]{#s615-q611}
 #### Quel est le délai d’incubation de la maladie ? {#quel-est-le-délai-dincubation-de-la-maladie .item-question}
 
 
@@ -314,8 +314,8 @@ symptômes ou à l’apparition de signaux faibles.
 
 
 
-[]{#s615-q928}
 
+[]{#s615-q928}
 #### Quelles catégories de la population sont les plus touchées ? {#quelles-catégories-de-la-population-sont-les-plus-touchées .item-question}
 
 
@@ -336,8 +336,8 @@ L'infection à COViD-19 entraine des décès surtout chez les personnes
 
 
 
-[]{#s615-q1056}
 
+[]{#s615-q1056}
 #### Comment expliquer que certains meurent du virus quand d’autres sont contaminés mais n’ont aucun symptôme ? {#comment-expliquer-que-certains-meurent-du-virus-quand-dautres-sont-contaminés-mais-nont-aucun-symptôme .item-question}
 
 
@@ -351,8 +351,8 @@ recommandations spécifiques de prise en charge dans ces situations.
 
 
 
-[]{#s615-q1057}
 
+[]{#s615-q1057}
 #### L'allergie est-elle un facteur de risque ? Comment différencier ses symptômes de ceux du COVID-19 ? {#lallergie-est-elle-un-facteur-de-risque-comment-différencier-ses-symptômes-de-ceux-du-covid-19 .item-question}
 
 
@@ -374,8 +374,8 @@ longue durée. En cas de doute sur vos symptômes, consultez un médecin
 
 
 
-[]{#s615-q1058}
 
+[]{#s615-q1058}
 #### Je suis allergique aux pollens, dois-je prendre mes traitements habituels (inhalateur et comprimés) ? {#je-suis-allergique-aux-pollens-dois-je-prendre-mes-traitements-habituels-inhalateur-et-comprimés .item-question}
 
 
@@ -391,8 +391,8 @@ Pharmacovigilance).
 
 
 
-[]{#s615-q612}
 
+[]{#s615-q612}
 #### Le virus a-t-il muté ? {#le-virus-a-t-il-muté .item-question}
 
 
@@ -410,8 +410,8 @@ Mais ils se diffusent aussi davantage.
 
 
 
-[]{#s615-q613}
 
+[]{#s615-q613}
 #### Y aura t-il une seconde vague de virus qui touchera les plus jeunes ? {#y-aura-t-il-une-seconde-vague-de-virus-qui-touchera-les-plus-jeunes .item-question}
 
 
@@ -425,8 +425,8 @@ atteintes plus sévères, nécessitant de possibles hospitalisations.
 
 
 
-[]{#s615-q614}
 
+[]{#s615-q614}
 #### Après avoir guéri du coronavirus, est-on immunisé ou est-il possible de tomber malade une deuxième fois ? {#après-avoir-guéri-du-coronavirus-est-on-immunisé-ou-est-il-possible-de-tomber-malade-une-deuxième-fois .item-question}
 
 
@@ -452,8 +452,8 @@ avoir eu lieu.
 
 
 
-[]{#s622-q616}
 
+[]{#s622-q616}
 #### Comment se transmet le coronavirus COVID-19 ? {#comment-se-transmet-le-coronavirus-covid-19 .item-question}
 
 
@@ -475,8 +475,8 @@ sociale sont indispensables pour se protéger de la maladie.
 
 
 
-[]{#s622-q617}
 
+[]{#s622-q617}
 #### Peut-on être en contact avec un malade sans être contaminé ? {#peut-on-être-en-contact-avec-un-malade-sans-être-contaminé .item-question}
 
 
@@ -493,8 +493,8 @@ Santé.
 
 
 
-[]{#s622-q618}
 
+[]{#s622-q618}
 #### Le virus circule-t-il dans l’air ? {#le-virus-circule-t-il-dans-lair .item-question}
 
 
@@ -513,8 +513,8 @@ mesures de distanciation sociale.
 
 
 
-[]{#s622-q1059}
 
+[]{#s622-q1059}
 #### Quel est le risque de contamination par les surfaces ? Faut-il tout nettoyer ? {#quel-est-le-risque-de-contamination-par-les-surfaces-faut-il-tout-nettoyer .item-question}
 
 
@@ -554,8 +554,8 @@ efficacement du virus.
 
 
 
-[]{#s622-q620}
 
+[]{#s622-q620}
 #### Les moustiques peuvent-ils transmettre le virus ? {#les-moustiques-peuvent-ils-transmettre-le-virus .item-question}
 
 
@@ -567,8 +567,8 @@ entre humains, via les gouttelettes respiratoires. 
 
 
 
-[]{#s622-q621}
 
+[]{#s622-q621}
 #### Peut-on attraper la maladie par l’eau ? {#peut-on-attraper-la-maladie-par-leau .item-question}
 
 
@@ -582,8 +582,8 @@ animale.
 
 
 
-[]{#s622-q1001}
 
+[]{#s622-q1001}
 #### La chaleur peut-elle tuer le virus ? {#la-chaleur-peut-elle-tuer-le-virus .item-question}
 
 
@@ -600,8 +600,8 @@ décontaminer le linge. Il est recommandé de laver le linge contaminé à
 
 
 
-[]{#s622-q1003}
 
+[]{#s622-q1003}
 #### Quel comportement adopter avec vos animaux de compagnie ? {#quel-comportement-adopter-avec-vos-animaux-de-compagnie .item-question}
 
 
@@ -632,8 +632,8 @@ ni pour lui.
 
 
 
-[]{#s622-q624}
 
+[]{#s622-q624}
 #### Existe-t-il des risques liés aux aliments ? {#existe-t-il-des-risques-liés-aux-aliments .item-question}
 
 
@@ -651,8 +651,8 @@ préparation des denrées alimentaires.
 
 
 
-[]{#s622-q625}
 
+[]{#s622-q625}
 #### Peut-on être contaminé en touchant un caddie de supermarché ? {#peut-on-être-contaminé-en-touchant-un-caddie-de-supermarché .item-question}
 
 
@@ -668,8 +668,8 @@ le risque devient négligeable.
 
 
 
-[]{#s622-q1004}
 
+[]{#s622-q1004}
 #### Y a-t-il un risque concernant l’achat de pain à la boulangerie ? {#y-a-t-il-un-risque-concernant-lachat-de-pain-à-la-boulangerie .item-question}
 
 
@@ -683,8 +683,8 @@ il n’y a donc pas de risque à acheter du pain.
 
 
 
-[]{#s622-q626}
 
+[]{#s622-q626}
 #### Puis-je continuer de recevoir et envoyer du courrier, notamment à destination des personnes fragiles (EHPAD…) ? Existe-t-il un risque de contamination ? {#puis-je-continuer-de-recevoir-et-envoyer-du-courrier-notamment-à-destination-des-personnes-fragiles-ehpad-existe-t-il-un-risque-de-contamination .item-question}
 
 
@@ -696,8 +696,8 @@ pendant l’épidémie.
 
 
 
-[]{#s622-q627}
 
+[]{#s622-q627}
 #### Pourquoi le confinement n’entraîne-t-il pas plus rapidement des effets sur la propagation du virus et sur le nombre de nouveaux cas quotidiens, Quels sont les autres indicateurs qui permettront de dire si ce confinement a bien un impact sanitaire positif? {#pourquoi-le-confinement-nentraîne-t-il-pas-plus-rapidement-des-effets-sur-la-propagation-du-virus-et-sur-le-nombre-de-nouveaux-cas-quotidiens-quels-sont-les-autres-indicateurs-qui-permettront-de-dire-si-ce-confinement-a-bien-un-impact-sanitaire-positif .item-question}
 
 
@@ -718,8 +718,8 @@ temps afin d’être consolidées.
 
 
 
-[]{#s622-q1002}
 
+[]{#s622-q1002}
 
 
 Au vu des connaissances actuelles, les animaux de compagnie ne
@@ -747,8 +747,8 @@ votre animal sans aucun bénéfice pour vous comme pour lui.
 
 
 
-[]{#s622-q1060}
 
+[]{#s622-q1060}
 
 
 
@@ -761,8 +761,8 @@ votre animal sans aucun bénéfice pour vous comme pour lui.
 
 
 
-[]{#s631-q628}
 
+[]{#s631-q628}
 #### Quelle est la stratégie des autorités sanitaires pour les tests ? Cette stratégie peut-elle évoluer ? {#quelle-est-la-stratégie-des-autorités-sanitaires-pour-les-tests-cette-stratégie-peut-elle-évoluer .item-question}
 
 
@@ -834,8 +834,8 @@ sanitaire et les conseils départementaux.
 
 
 
-[]{#s631-q629}
 
+[]{#s631-q629}
 #### Pourquoi ne plus tester tous les patients avec symptômes ? {#pourquoi-ne-plus-tester-tous-les-patients-avec-symptômes .item-question}
 
 
@@ -861,8 +861,8 @@ l’ensemble des personnes présentant des symptômes.
 
 
 
-[]{#s631-q630}
 
+[]{#s631-q630}
 #### Comment se passent les tests ? {#comment-se-passent-les-tests .item-question}
 
 
@@ -898,8 +898,8 @@ médicale entre patients testés ou non restent identiques.
 
 
 
-[]{#s638-q632}
 
+[]{#s638-q632}
 #### Existe-t-il un vaccin ? {#existe-t-il-un-vaccin .item-question}
 
 
@@ -911,8 +911,8 @@ ceux-ci ne devraient pas être disponibles avant plusieurs mois.
 
 
 
-[]{#s638-q1188}
 
+[]{#s638-q1188}
 #### Existe-t-il un traitement ? {#existe-t-il-un-traitement .item-question}
 
 
@@ -940,8 +940,8 @@ traitement spécifique n’est donc validé.
 
 
 
-[]{#s638-q639}
 
+[]{#s638-q639}
 #### Qu’est-ce qu’un essai clinique ? {#quest-ce-quun-essai-clinique .item-question}
 
 
@@ -960,8 +960,8 @@ médicament.
 
 
 
-[]{#s638-q633}
 
+[]{#s638-q633}
 #### La prise d'anti-inflammatoire (ibuprofène) pourrait être un facteur d'aggravation de l'infection ? {#la-prise-danti-inflammatoire-ibuprofène-pourrait-être-un-facteur-daggravation-de-linfection .item-question}
 
 
@@ -980,8 +980,8 @@ doute, demandez conseil à votre médecin ou consultez le site
 
 
 
-[]{#s638-q1062}
 
+[]{#s638-q1062}
 #### Les hôpitaux connaissent-ils ou vont-ils une pénurie de médicaments ? {#les-hôpitaux-connaissent-ils-ou-vont-ils-une-pénurie-de-médicaments .item-question}
 
 
@@ -1005,8 +1005,8 @@ ces tensions sont maîtrisées :
 
 
 
-[]{#s638-q1005}
 
+[]{#s638-q1005}
 #### Risque-t-on une pénurie de bouteilles d’oxygène ? {#risque-t-on-une-pénurie-de-bouteilles-doxygène .item-question}
 
 
@@ -1026,8 +1026,8 @@ demandé aux hôpitaux :
 
 
 
-[]{#s638-q635}
 
+[]{#s638-q635}
 #### La vente de paracétamol est-elle limitée ? {#la-vente-de-paracétamol-est-elle-limitée .item-question}
 
 
@@ -1044,8 +1044,8 @@ d'ibuprofène et d'aspirine est suspendue.
 
 
 
-[]{#s638-q1006}
 
+[]{#s638-q1006}
 #### Y a-t-il un risque de pénurie de curare ? {#y-a-t-il-un-risque-de-pénurie-de-curare .item-question}
 
 
@@ -1082,8 +1082,8 @@ de travail avec les professionnels.
 
 
 
-[]{#s638-q636}
 
+[]{#s638-q636}
 #### La chloroquine est-elle vraiment un remède miracle contre le coronavirus ? {#la-chloroquine-est-elle-vraiment-un-remède-miracle-contre-le-coronavirus .item-question}
 
 
@@ -1115,8 +1115,8 @@ les traitements les plus efficaces.
 
 
 
-[]{#s638-q1007}
 
+[]{#s638-q1007}
 #### Pourquoi transférer les personnes infectées dans d’autres hôpitaux plutôt que de réquisitionner des gymnases pour les soigner sur place ? {#pourquoi-transférer-les-personnes-infectées-dans-dautres-hôpitaux-plutôt-que-de-réquisitionner-des-gymnases-pour-les-soigner-sur-place .item-question}
 
 
@@ -1132,8 +1132,8 @@ réquisitionnés car ce ne sont pas des lieux appropriés.
 
 
 
-[]{#s638-q640}
 
+[]{#s638-q640}
 #### Comment s’organise la recherche autour du virus en France ? {#comment-sorganise-la-recherche-autour-du-virus-en-france .item-question}
 
 
@@ -1212,8 +1212,8 @@ telle ampleur, en temps réel, au cours d'une épidémie.
 
 
 
-[]{#s638-q984}
 
+[]{#s638-q984}
 
 
 
@@ -1260,8 +1260,8 @@ accompagner dans la lutte contre ce virus.
 
 
 
-[]{#s641-q1284}
 
+[]{#s641-q1284}
 #### L’organisation et le suivi de la maladie sur le territoire {#lorganisation-et-le-suivi-de-la-maladie-sur-le-territoire .item-question}
 
 
@@ -1346,8 +1346,8 @@ j’appelle le SAMU- Centre 15.**
 
 
 
-[]{#s642-q643}
 
+[]{#s642-q643}
 #### Quels sont les gestes barrières ? {#quels-sont-les-gestes-barrières .item-question}
 
 
@@ -1366,8 +1366,8 @@ les appelle les gestes barrières :
 
 
 
-[]{#s642-q921}
 
+[]{#s642-q921}
 #### Qui est considéré comme une personne « à risque » ? {#qui-est-considéré-comme-une-personne-à-risque .item-question}
 
 
@@ -1399,8 +1399,8 @@ les appelle les gestes barrières :
 
 
 
-[]{#s642-q644}
 
+[]{#s642-q644}
 #### Dois-je porter un masque ? {#dois-je-porter-un-masque .item-question}
 
 
@@ -1431,8 +1431,8 @@ Français de se procurer un masque grand public.\
 
 
 
-[]{#s642-q645}
 
+[]{#s642-q645}
 #### Y a-t-il suffisamment de masques pour le personnel soignant en France ? {#y-a-t-il-suffisamment-de-masques-pour-le-personnel-soignant-en-france .item-question}
 
 
@@ -1479,8 +1479,8 @@ Les collectivités territoriales et certaines entreprises contribuent
 
 
 
-[]{#s642-q646}
 
+[]{#s642-q646}
 #### Comment les masques sont-ils distribués ? {#comment-les-masques-sont-ils-distribués .item-question}
 
 
@@ -1538,8 +1538,8 @@ pouvoir dans la durée assurer les soins urgents à la population.
 
 
 
-[]{#s642-q1063}
 
+[]{#s642-q1063}
 #### Les aidants pour personnes âgées dépendantes peuvent-ils obtenir des masques ? {#les-aidants-pour-personnes-âgées-dépendantes-peuvent-ils-obtenir-des-masques .item-question}
 
 
@@ -1554,8 +1554,8 @@ titre, ils pourront en être équipés.
 
 
 
-[]{#s642-q647}
 
+[]{#s642-q647}
 #### La réquisition des masques concerne-t-elle toute la production française et les stocks des ministères ? {#la-réquisition-des-masques-concerne-t-elle-toute-la-production-française-et-les-stocks-des-ministères .item-question}
 
 
@@ -1568,8 +1568,8 @@ soignants) ainsi que les masques chirurgicaux produits jusqu’au 31 mai
 
 
 
-[]{#s642-q648}
 
+[]{#s642-q648}
 #### À défaut d’un masque, est-il utile que je me protège le visage avec un foulard ou une écharpe lorsque je vais faire mes courses ou que je sors dans la rue ? {#à-défaut-dun-masque-est-il-utile-que-je-me-protège-le-visage-avec-un-foulard-ou-une-écharpe-lorsque-je-vais-faire-mes-courses-ou-que-je-sors-dans-la-rue .item-question}
 
 
@@ -1583,8 +1583,8 @@ mains.
 
 
 
-[]{#s642-q1064}
 
+[]{#s642-q1064}
 #### Quels sont les différents types de masques pour se protéger efficacement contre le COVID-19 ? {#quels-sont-les-différents-types-de-masques-pour-se-protéger-efficacement-contre-le-covid-19 .item-question}
 
 
@@ -1661,8 +1661,8 @@ transmission COVID-19.
 
 
 
-[]{#s642-q1285}
 
+[]{#s642-q1285}
 #### Pour les entreprises qui souhaitent acquérir des masques {#pour-les-entreprises-qui-souhaitent-acquérir-des-masques .item-question}
 
 
@@ -1702,8 +1702,8 @@ l’acquisition ou de la fabrication de ces matériels.
 
 
 
-[]{#s642-q650}
 
+[]{#s642-q650}
 #### Combien coûte le gel hydro-alcoolique ? {#combien-coûte-le-gel-hydro-alcoolique .item-question}
 
 
@@ -1728,8 +1728,8 @@ disponible.
 
 
 
-[]{#s642-q651}
 
+[]{#s642-q651}
 #### Les gants sont-ils utiles ? {#les-gants-sont-ils-utiles .item-question}
 
 
@@ -1759,8 +1759,8 @@ utilisation) et les mesures de distanciation sociale qui sont efficaces.
 
 
 
-[]{#s657-q653}
 
+[]{#s657-q653}
 #### Puis-je partir en vacances à l’étranger ? {#puis-je-partir-en-vacances-à-létranger .item-question}
 
 
@@ -1771,8 +1771,8 @@ depuis le 17 mars et le resteront jusqu’à nouvel ordre.
 
 
 
-[]{#s657-q924}
 
+[]{#s657-q924}
 #### Je suis un ressortissant français actuellement en déplacement temporaire à l’étranger. Dois-je rentrer immédiatement en France ? {#je-suis-un-ressortissant-français-actuellement-en-déplacement-temporaire-à-létranger.-dois-je-rentrer-immédiatement-en-france .item-question}
 
 
@@ -1789,8 +1789,8 @@ l’Europe et des Affaires
 
 
 
-[]{#s657-q654}
 
+[]{#s657-q654}
 #### Je suis Français, je suis à l’étranger, comment va être organisé mon retour ? {#je-suis-français-je-suis-à-létranger-comment-va-être-organisé-mon-retour .item-question}
 
 
@@ -1874,8 +1874,8 @@ l’Europe et des Affaires
 
 
 
-[]{#s657-q655}
 
+[]{#s657-q655}
 #### Je suis actuellement en déplacement temporaire à l’étranger et je suis en attente d’un vol, mais ne dispose pas d’hébergement et suis en difficulté, un service d’urgence peut-il me venir en aide ? {#je-suis-actuellement-en-déplacement-temporaire-à-létranger-et-je-suis-en-attente-dun-vol-mais-ne-dispose-pas-dhébergement-et-suis-en-difficulté-un-service-durgence-peut-il-me-venir-en-aide .item-question}
 
 
@@ -1889,8 +1889,8 @@ accueillir. Vous pouvez vous connecter à l’adresse
 
 
 
-[]{#s657-q922}
 
+[]{#s657-q922}
 #### Le retour en France est-il permis pour les étrangers ? {#le-retour-en-france-est-il-permis-pour-les-étrangers .item-question}
 
 
@@ -1917,8 +1917,8 @@ l’Europe et des Affaires
 
 
 
-[]{#s657-q656}
 
+[]{#s657-q656}
 #### Quelles sont les consignes si je reviens en France ? {#quelles-sont-les-consignes-si-je-reviens-en-france .item-question}
 
 
@@ -1970,8 +1970,8 @@ suivant les comptes du gouvernement:**
 
 
 
-[]{#s-q1095}
 
+[]{#s-q1095}
 #### Je n’ai pas de symptôme {#je-nai-pas-de-symptôme .item-question}
 
 
@@ -1998,8 +1998,8 @@ suivant les comptes du gouvernement:**
 
 
 
-[]{#s-q1096}
 
+[]{#s-q1096}
 #### J’ai des symptômes (toux, fièvre) {#jai-des-symptômes-toux-fièvre .item-question}
 
 
@@ -2017,8 +2017,8 @@ un malaise**
 
 
 
-[]{#s-q658}
 
+[]{#s-q658}
 #### Travail {#travail .item-question}
 
 
@@ -2046,8 +2046,8 @@ En revanche :
 
 
 
-[]{#s-q659}
 
+[]{#s-q659}
 #### Vie quotidienne {#vie-quotidienne .item-question}
 
 
@@ -2088,8 +2088,8 @@ En revanche :
 
 
 
-[]{#s-q660}
 
+[]{#s-q660}
 #### Santé {#santé .item-question}
 
 
@@ -2124,8 +2124,8 @@ Je dois respecter les règles
 
 
 
-[]{#s-q661}
 
+[]{#s-q661}
 #### Lien social {#lien-social .item-question}
 
 
@@ -2154,8 +2154,8 @@ Je prends des nouvelles de mes proches
 
 
 
-[]{#s-q662}
 
+[]{#s-q662}
 #### Voyage {#voyage .item-question}
 
 
@@ -2191,8 +2191,8 @@ Je suis un ressortissant français à l’étranger
 
 
 
-[]{#s665-q663}
 
+[]{#s665-q663}
 #### Quels sont les établissements soumis à l'obligation de fermeture ? {#quels-sont-les-établissements-soumis-à-lobligation-de-fermeture .item-question}
 
 
@@ -2234,8 +2234,8 @@ l'Etat compétent pour ces mêmes collectivités.
 
 
 
-[]{#s665-q664}
 
+[]{#s665-q664}
 #### Quels sont les établissements autorisés à recevoir du public ? {#quels-sont-les-établissements-autorisés-à-recevoir-du-public .item-question}
 
 
@@ -2328,8 +2328,8 @@ restaurants et bars d’hôtels ne peuvent pas accueillir de public.\
 
 
 
-[]{#s665-q1313}
 
+[]{#s665-q1313}
 #### Les accueils collectifs (centres de vacances, colonies de vacances, centres de loisirs, centres aérés ou accueils de scoutisme) peuvent-ils encore recevoir des mineurs ? {#les-accueils-collectifs-centres-de-vacances-colonies-de-vacances-centres-de-loisirs-centres-aérés-ou-accueils-de-scoutisme-peuvent-ils-encore-recevoir-des-mineurs .item-question}
 
 
@@ -2428,8 +2428,8 @@ des symptômes et le port du masque grand public sera généralisé.\
 
 
 
-[]{#s666-q1314}
 
+[]{#s666-q1314}
 #### Que se passera-t-il après le 11 mai ? {#que-se-passera-t-il-après-le-11-mai .item-question}
 
 
@@ -2931,8 +2931,8 @@ dispositif de chômage partiel et le fonds de solidarité.
 
 
 
-[]{#s670-q1009}
 
+[]{#s670-q1009}
 #### Quels sont les effets de ces mesures sur votre situation personnelle ? {#quels-sont-les-effets-de-ces-mesures-sur-votre-situation-personnelle .item-question}
 
 
@@ -3177,13 +3177,13 @@ exercer votre activité durant le confinement :**\
 
 
 
+
 []{#s670-q1010}
 
 
 
 
 []{#s670-q1098}
-
 #### Qu'est-ce que le prêt garanti par l'Etat ? {#quest-ce-que-le-prêt-garanti-par-letat .item-question}
 
 
@@ -3212,8 +3212,8 @@ cette page.
 
 
 
-[]{#s670-q1286}
 
+[]{#s670-q1286}
 #### Quelle aide peut-on attendre des assureurs ? {#quelle-aide-peut-on-attendre-des-assureurs .item-question}
 
 
@@ -3240,8 +3240,8 @@ perte d’exploitation, sont indemnisables.
 
 
 
-[]{#s670-q1316}
 
+[]{#s670-q1316}
 #### Quelles sont les aides pour soutenir les transports routiers pendant cette période ? {#quelles-sont-les-aides-pour-soutenir-les-transports-routiers-pendant-cette-période .item-question}
 
 
@@ -3630,8 +3630,8 @@ Questions / Réponses
 
 
 
-[]{#s681-q673}
 
+[]{#s681-q673}
 #### Puis-je aller travailler ? {#puis-je-aller-travailler .item-question}
 
 
@@ -3652,8 +3652,8 @@ employeur et ayez votre carte d’identité sur vous.\
 
 
 
-[]{#s681-q674}
 
+[]{#s681-q674}
 #### Si le télétravail n’est pas possible, le travail est-il possible pour tous ? {#si-le-télétravail-nest-pas-possible-le-travail-est-il-possible-pour-tous .item-question}
 
 
@@ -3688,8 +3688,8 @@ déplacements.\
 
 
 
-[]{#s681-q815}
 
+[]{#s681-q815}
 #### Le respect des gestes barrière est compliqué dans le cadre de mon travail et je ne peux pas télétravailler. Que faire ? {#le-respect-des-gestes-barrière-est-compliqué-dans-le-cadre-de-mon-travail-et-je-ne-peux-pas-télétravailler.-que-faire .item-question}
 
 
@@ -3715,8 +3715,8 @@ sur le [site de la Direccte de votre région.](http://direccte.gouv.fr/)\
 
 
 
-[]{#s681-q816}
 
+[]{#s681-q816}
 #### Puis-je travailler en usine malgré le confinement ? {#puis-je-travailler-en-usine-malgré-le-confinement .item-question}
 
 
@@ -3739,8 +3739,8 @@ sur le [site de la Direccte de votre région.](http://direccte.gouv.fr/)\
 
 
 
-[]{#s681-q817}
 
+[]{#s681-q817}
 #### L’entreprise doit-elle fermer s’il y a eu des cas confirmés ? {#lentreprise-doit-elle-fermer-sil-y-a-eu-des-cas-confirmés .item-question}
 
 
@@ -3769,8 +3769,8 @@ travailleurs.](https://travail-emploi.gouv.fr/IMG/pdf/covid19_obligations_employ
 
 
 
-[]{#s681-q818}
 
+[]{#s681-q818}
 #### Je ne peux pas effectuer les démarches administratives indispensables pour mon activité professionnelle, par exemple, une visite médicale ou le renouvellement de mon permis poids lourds. Que dois-je faire ? {#je-ne-peux-pas-effectuer-les-démarches-administratives-indispensables-pour-mon-activité-professionnelle-par-exemple-une-visite-médicale-ou-le-renouvellement-de-mon-permis-poids-lourds.-que-dois-je-faire .item-question}
 
 
@@ -3785,8 +3785,8 @@ la France.
 
 
 
-[]{#s681-q675}
 
+[]{#s681-q675}
 #### Je suis en formation professionnelle, que faire ? {#je-suis-en-formation-professionnelle-que-faire .item-question}
 
 
@@ -3814,8 +3814,8 @@ parcours et maintenir un lien avec chaque stagiaire.
 
 
 
-[]{#s681-q676}
 
+[]{#s681-q676}
 #### Mon contrat de travail s’arrête pendant la période de confinement. Puis-je prétendre aux allocations chômage ? {#mon-contrat-de-travail-sarrête-pendant-la-période-de-confinement.-puis-je-prétendre-aux-allocations-chômage .item-question}
 
 
@@ -3840,8 +3840,8 @@ retrouver sur cette
 
 
 
-[]{#s681-q985}
 
+[]{#s681-q985}
 #### Les indemnités chômage seront-elles versées à la date habituelle ? {#les-indemnités-chômage-seront-elles-versées-à-la-date-habituelle .item-question}
 
 
@@ -3851,8 +3851,8 @@ Oui.
 
 
 
-[]{#s681-q1219}
 
+[]{#s681-q1219}
 #### Les démissions sont-elles autorisées pendant le confinement ? {#les-démissions-sont-elles-autorisées-pendant-le-confinement .item-question}
 
 
@@ -3869,8 +3869,8 @@ Pour toute info sur les modalités consultez :\
 
 
 
-[]{#s681-q677}
 
+[]{#s681-q677}
 #### Je suis en fin de droits de chômage, que faire ? {#je-suis-en-fin-de-droits-de-chômage-que-faire .item-question}
 
 
@@ -3893,8 +3893,8 @@ retrouver sur cette
 
 
 
-[]{#s681-q678}
 
+[]{#s681-q678}
 #### Dois-je me rendre à mon entretien Pôle Emploi prévu pendant la période de confinement ? {#dois-je-me-rendre-à-mon-entretien-pôle-emploi-prévu-pendant-la-période-de-confinement .item-question}
 
 
@@ -3910,8 +3910,8 @@ e-mail.\
 
 
 
-[]{#s681-q679}
 
+[]{#s681-q679}
 #### Est-ce que je peux être contrôlé par Pôle emploi pendant la période de confinement ? {#est-ce-que-je-peux-être-contrôlé-par-pôle-emploi-pendant-la-période-de-confinement .item-question}
 
 
@@ -3925,8 +3925,8 @@ période.
 
 
 
-[]{#s681-q1287}
 
+[]{#s681-q1287}
 #### Qu’en est-il des prestations sociales ? {#quen-est-il-des-prestations-sociales .item-question}
 
 
@@ -3959,8 +3959,8 @@ Des prolongements d’aides à noter :\
 
 
 
-[]{#s681-q1317}
 
+[]{#s681-q1317}
 #### Quelles sont les mesures de soutien aux familles des départements et régions d’Outre-mer? {#quelles-sont-les-mesures-de-soutien-aux-familles-des-départements-et-régions-doutre-mer .item-question}
 
 
@@ -3985,8 +3985,8 @@ lycée.
 
 
 
-[]{#s681-q683}
 
+[]{#s681-q683}
 #### Les personnels de santé considérés comme personnes fragiles peuvent-ils bénéficier d’un arrêt de travail ? {#les-personnels-de-santé-considérés-comme-personnes-fragiles-peuvent-ils-bénéficier-dun-arrêt-de-travail .item-question}
 
 
@@ -4001,8 +4001,8 @@ Cette disposition s’applique également aux personnels de santé libéraux.
 
 
 
-[]{#s681-q932}
 
+[]{#s681-q932}
 #### Je suis un chef d’entreprise et j’ai besoin de solution hydro-alcoolique pour mes salariés. Où puis-je en commander ? {#je-suis-un-chef-dentreprise-et-jai-besoin-de-solution-hydro-alcoolique-pour-mes-salariés.-où-puis-je-en-commander .item-question}
 
 
@@ -4023,8 +4023,8 @@ soignant reste prioritaire.\
 
 
 
-[]{#s681-q1012}
 
+[]{#s681-q1012}
 #### Je peux télétravailler mais mon employeur refuse. A-t-il le droit ? {#je-peux-télétravailler-mais-mon-employeur-refuse.-a-t-il-le-droit .item-question}
 
 
@@ -4038,8 +4038,8 @@ numérique.](https://code.travail.gouv.fr/themes/615-teletravail)
 
 
 
-[]{#s681-q1013}
 
+[]{#s681-q1013}
 #### Mon employeur peut-il me contraindre à travailler quelques jours par semaine si je suis au chômage technique ? {#mon-employeur-peut-il-me-contraindre-à-travailler-quelques-jours-par-semaine-si-je-suis-au-chômage-technique .item-question}
 
 
@@ -4053,8 +4053,8 @@ sévèrement sanctionnée.
 
 
 
-[]{#s681-q933}
 
+[]{#s681-q933}
 #### Je travaille dans le secteur alimentaire et mon employeur n’a plus de masques. Comment nous protéger et protéger les autres ? {#je-travaille-dans-le-secteur-alimentaire-et-mon-employeur-na-plus-de-masques.-comment-nous-protéger-et-protéger-les-autres .item-question}
 
 
@@ -4078,8 +4078,8 @@ COVID-19.\
 
 
 
-[]{#s681-q1065}
 
+[]{#s681-q1065}
 #### Je suis guéri, puis-je de nouveau me rendre au travail ? {#je-suis-guéri-puis-je-de-nouveau-me-rendre-au-travail .item-question}
 
 
@@ -4119,8 +4119,8 @@ votre poste de travail afin de limiter les risques.\
 
 
 
-[]{#s681-q1154}
 
+[]{#s681-q1154}
 #### Je souhaite retourner au travail, puis-je demander un dépistage ? {#je-souhaite-retourner-au-travail-puis-je-demander-un-dépistage .item-question}
 
 
@@ -4154,8 +4154,8 @@ par le Haut Conseil de la Santé Publique :
 
 
 
-[]{#s681-q986}
 
+[]{#s681-q986}
 #### Je suis un proche d’une personne fragile, puis-je avoir un arrêt de travail ? {#je-suis-un-proche-dune-personne-fragile-puis-je-avoir-un-arrêt-de-travail .item-question}
 
 
@@ -4187,8 +4187,8 @@ Modalités :
 
 
 
-[]{#s682-q684}
 
+[]{#s682-q684}
 #### Puis-je aller en cours ? {#puis-je-aller-en-cours .item-question}
 
 
@@ -4206,8 +4206,8 @@ dédié](https://www.etudiant.gouv.fr/pid33626-cid150278/covid-19-%7C-faq-crous-
 
 
 
-[]{#s682-q1220}
 
+[]{#s682-q1220}
 #### Je suis étudiant, puis-je proposer mon aide ? {#je-suis-étudiant-puis-je-proposer-mon-aide .item-question}
 
 
@@ -4220,8 +4220,8 @@ peuvent se signaler auprès de leur université.\
 
 
 
-[]{#s682-q1099}
 
+[]{#s682-q1099}
 #### Est -ce que mes examens sont maintenus (Brevet, CAP, BEP, BAC, BTS) ? {#est--ce-que-mes-examens-sont-maintenus-brevet-cap-bep-bac-bts .item-question}
 
 
@@ -4291,8 +4291,8 @@ candidats inscrits.\
 
 
 
-[]{#s682-q1100}
 
+[]{#s682-q1100}
 #### Je passe l’examen du baccalauréat en candidat individuel. Comment faire ? {#je-passe-lexamen-du-baccalauréat-en-candidat-individuel.-comment-faire .item-question}
 
 
@@ -4316,8 +4316,8 @@ de la procédure Parcoursup, jusqu’à la proclamation des résultats.\
 
 
 
-[]{#s682-q1101}
 
+[]{#s682-q1101}
 #### Parcoursup est-il toujours ouvert ? {#parcoursup-est-il-toujours-ouvert .item-question}
 
 
@@ -4356,8 +4356,8 @@ partir du 19 mai 2020.\
 
 
 
-[]{#s682-q685}
 
+[]{#s682-q685}
 #### L’école de mes enfants est fermée, comment faire pour les garder ? {#lécole-de-mes-enfants-est-fermée-comment-faire-pour-les-garder .item-question}
 
 
@@ -4372,8 +4372,8 @@ alors bénéficier d’un arrêt maladie indemnisé.\
 
 
 
-[]{#s682-q686}
 
+[]{#s682-q686}
 #### Quelle est la procédure pour bénéficier d’un arrêt de travail indemnisé pour garde d’enfant ? {#quelle-est-la-procédure-pour-bénéficier-dun-arrêt-de-travail-indemnisé-pour-garde-denfant .item-question}
 
 
@@ -4403,8 +4403,8 @@ dédié.
 
 
 
-[]{#s682-q1225}
 
+[]{#s682-q1225}
 #### L’arrêt de travail pour garde d’enfant peut-il être prolongé pour les vacances scolaires ? {#larrêt-de-travail-pour-garde-denfant-peut-il-être-prolongé-pour-les-vacances-scolaires .item-question}
 
 
@@ -4420,8 +4420,8 @@ présente de façon détaillée la démarche à effectuer : 
 
 
 
-[]{#s682-q687}
 
+[]{#s682-q687}
 #### Dois-je continuer de rémunérer mon assistante maternelle ? {#dois-je-continuer-de-rémunérer-mon-assistante-maternelle .item-question}
 
 
@@ -4434,8 +4434,8 @@ de lui payer 80% de son salaire qui vous sera remboursé ultérieurement.
 
 
 
-[]{#s682-q1224}
 
+[]{#s682-q1224}
 #### Quelles sont les consignes de sécurité pour les personnels de l'Éducation Nationale qui accueillent les enfants des personnels de crise ? {#quelles-sont-les-consignes-de-sécurité-pour-les-personnels-de-léducation-nationale-qui-accueillent-les-enfants-des-personnels-de-crise .item-question}
 
 
@@ -4466,8 +4466,8 @@ mieux.\
 
 
 
-[]{#s1079-q1072}
 
+[]{#s1079-q1072}
 #### Je suis séparé, est-ce que le droit de visite et d’hébergement des enfants s’applique comme d’habitude ? {#je-suis-séparé-est-ce-que-le-droit-de-visite-et-dhébergement-des-enfants-sapplique-comme-dhabitude .item-question}
 
 
@@ -4490,8 +4490,8 @@ alternance par quinzaine.
 
 
 
-[]{#s1079-q1073}
 
+[]{#s1079-q1073}
 #### Comment remplir l’attestation de déplacement ? {#comment-remplir-lattestation-de-déplacement .item-question}
 
 
@@ -4506,8 +4506,8 @@ personnes vulnérables ou la garde d’enfants ».
 
 
 
-[]{#s1079-q1074}
 
+[]{#s1079-q1074}
 #### Le droit de visite à la journée, chez un tiers ou dans un espace de rencontre est-il possible ? {#le-droit-de-visite-à-la-journée-chez-un-tiers-ou-dans-un-espace-de-rencontre-est-il-possible .item-question}
 
 
@@ -4523,8 +4523,8 @@ tiers.
 
 
 
-[]{#s1079-q1075}
 
+[]{#s1079-q1075}
 #### Peut-on refuser un droit de visite ou d’hébergement ? {#peut-on-refuser-un-droit-de-visite-ou-dhébergement .item-question}
 
 
@@ -4543,8 +4543,8 @@ sanitaires, par exemple :
 
 
 
-[]{#s1079-q1076}
 
+[]{#s1079-q1076}
 #### Le parent chez lequel vit l’enfant me refuse un droit de visite ou d’hébergement de manière injustifiée, que dois-je faire ? {#le-parent-chez-lequel-vit-lenfant-me-refuse-un-droit-de-visite-ou-dhébergement-de-manière-injustifiée-que-dois-je-faire .item-question}
 
 
@@ -4561,8 +4561,8 @@ après la période de confinement.
 
 
 
-[]{#s1079-q1077}
 
+[]{#s1079-q1077}
 #### L’autre parent met l’enfant en danger, et m’empêche de voir l’enfant, que dois-je faire ? {#lautre-parent-met-lenfant-en-danger-et-mempêche-de-voir-lenfant-que-dois-je-faire .item-question}
 
 
@@ -4575,8 +4575,8 @@ psychologique.
 
 
 
-[]{#s1079-q1078}
 
+[]{#s1079-q1078}
 #### Les pensions alimentaires doivent-elles être versées comme d’habitude ? {#les-pensions-alimentaires-doivent-elles-être-versées-comme-dhabitude .item-question}
 
 
@@ -4604,8 +4604,8 @@ prolongé de 4 mois.
 
 
 
-[]{#s1079-q1189}
 
+[]{#s1079-q1189}
 #### On m’a refusé l’entrée au supermarché, alors que j’étais accompagné de mon enfant en bas âge, que j’élève seul. Que faire ? {#on-ma-refusé-lentrée-au-supermarché-alors-que-jétais-accompagné-de-mon-enfant-en-bas-âge-que-jélève-seul.-que-faire .item-question}
 
 
@@ -4620,8 +4620,8 @@ inconnus.
 
 
 
-[]{#s1079-q1226}
 
+[]{#s1079-q1226}
 #### Les pensions alimentaires doivent-elles être versées comme d’habitude ? {#les-pensions-alimentaires-doivent-elles-être-versées-comme-dhabitude-1 .item-question}
 
 
@@ -4653,8 +4653,8 @@ exécutoire de pension alimentaire est prolongé de 4 mois.\
 
 
 
-[]{#s1079-q1227}
 
+[]{#s1079-q1227}
 #### On m’a refusé l’entrée au supermarché, alors que j’étais accompagné de mon enfant en bas âge, que j’élève seul. Que faire ? {#on-ma-refusé-lentrée-au-supermarché-alors-que-jétais-accompagné-de-mon-enfant-en-bas-âge-que-jélève-seul.-que-faire-1 .item-question}
 
 
@@ -4685,8 +4685,8 @@ faites-le, il sera sanctionné.\
 
 
 
-[]{#s690-q819}
 
+[]{#s690-q819}
 #### Puis-je changer de lieu de confinement ? {#puis-je-changer-de-lieu-de-confinement .item-question}
 
 
@@ -4703,8 +4703,8 @@ déplacement  ainsi que de votre pièce d'identité.\
 
 
 
-[]{#s690-q820}
 
+[]{#s690-q820}
 #### Je vis loin de ma compagne/mon compagnon, puis-je la rejoindre pour le confinement ? {#je-vis-loin-de-ma-compagnemon-compagnon-puis-je-la-rejoindre-pour-le-confinement .item-question}
 
 
@@ -4714,8 +4714,8 @@ Non, le lieu de confinement doit être choisi et déterminé.
 
 
 
-[]{#s690-q1228}
 
+[]{#s690-q1228}
 #### Je travaille encore mais j’ai un parent âgé, qui vit seul et se retrouve sans aide à domicile. Puis-je aller le voir malgré les consignes de vigilance ? {#je-travaille-encore-mais-jai-un-parent-âgé-qui-vit-seul-et-se-retrouve-sans-aide-à-domicile.-puis-je-aller-le-voir-malgré-les-consignes-de-vigilance .item-question}
 
 
@@ -4741,8 +4741,8 @@ Il est également possible de prendre contact avec les services sociaux.\
 
 
 
-[]{#s690-q688}
 
+[]{#s690-q688}
 #### Puis-je faire mes courses au supermarché ou à l'épicerie ? {#puis-je-faire-mes-courses-au-supermarché-ou-à-lépicerie .item-question}
 
 
@@ -4755,27 +4755,13 @@ dérogatoire.\
 \
 Et soyez attentif, dans la rue comme dans le magasin, à respecter une
 distance de 1 mètre avec les gens qui vous entourent, et à mettre en
-oeuvre en toute circonstance les gestes barrières.\
-\
-*Pour en savoir plus* :\
-\
-Les supermarchés et épiceries restent ouverts. Leur approvisionnement en
-produits alimentaires et de première nécessité est garantie dans les
-jours et les semaines à venir. Les règles du travail de nuit notamment,
-sont assouplies pour les magasins. Il n’y a donc aucun risque de
-rationnement et il faut éviter la surconsommation préventive. Les
-espaces culturels et les cafétérias de la grande distribution sont
-fermés.\
-\
-La liste des établissements qui bénéficient d’une dérogation pour rester
-ouverts se trouve dans la rubrique “Les établissements fermés”.\
- 
+oeuvre en toute circonstance les gestes barrières.
+
 
 
 
 
 []{#s690-q822}
-
 #### Puis-je aller au marché ? {#puis-je-aller-au-marché .item-question}
 
 
@@ -4799,8 +4785,8 @@ entre les personnes.\
 
 
 
-[]{#s690-q691}
 
+[]{#s690-q691}
 #### Y a-t-il une zone délimitée autour de mon domicile pour faire mes courses ? {#y-a-t-il-une-zone-délimitée-autour-de-mon-domicile-pour-faire-mes-courses .item-question}
 
 
@@ -4814,8 +4800,8 @@ déplacements pour éviter la propagation du virus.\
 
 
 
-[]{#s690-q692}
 
+[]{#s690-q692}
 #### Puis-je aller faire mes courses loin de chez moi ? {#puis-je-aller-faire-mes-courses-loin-de-chez-moi .item-question}
 
 
@@ -4830,8 +4816,8 @@ de première nécessité.
 
 
 
-[]{#s690-q693}
 
+[]{#s690-q693}
 #### Faut-il désinfecter les conserves et laver les fruits et légumes en rentrant des courses ? {#faut-il-désinfecter-les-conserves-et-laver-les-fruits-et-légumes-en-rentrant-des-courses .item-question}
 
 
@@ -4871,8 +4857,8 @@ manipulation de ces emballages.\
 
 
 
-[]{#s690-q694}
 
+[]{#s690-q694}
 #### Puis-je me faire livrer un repas ? {#puis-je-me-faire-livrer-un-repas .item-question}
 
 
@@ -4887,8 +4873,8 @@ et débits de boissons, avec la recommandation d'éviter tout contact.
 
 
 
-[]{#s690-q695}
 
+[]{#s690-q695}
 #### Le contrôle technique de ma voiture arrive à échéance pendant la période de confinement : que faire ? {#le-contrôle-technique-de-ma-voiture-arrive-à-échéance-pendant-la-période-de-confinement-que-faire .item-question}
 
 
@@ -4913,8 +4899,8 @@ discernement.\
 
 
 
-[]{#s690-q696}
 
+[]{#s690-q696}
 #### Puis-je aller à la banque ? {#puis-je-aller-à-la-banque .item-question}
 
 
@@ -4933,8 +4919,8 @@ comme nécessaires afin de pouvoir payer les activités essentielles
 
 
 
-[]{#s690-q697}
 
+[]{#s690-q697}
 #### Puis-je me rendre à la laverie ? {#puis-je-me-rendre-à-la-laverie .item-question}
 
 
@@ -4946,8 +4932,8 @@ convient de cocher sur l’attestation dérogatoire de déplacement la case
 
 
 
-[]{#s690-q698}
 
+[]{#s690-q698}
 #### Puis-je sortir avec mon chien ? {#puis-je-sortir-avec-mon-chien .item-question}
 
 
@@ -4958,8 +4944,8 @@ chez le vétérinaire.
 
 
 
-[]{#s690-q823}
 
+[]{#s690-q823}
 #### La visite annuelle chez le vétérinaire est-elle autorisée ? {#la-visite-annuelle-chez-le-vétérinaire-est-elle-autorisée .item-question}
 
 
@@ -4976,8 +4962,8 @@ propriétaire de l'animal.\
 
 
 
-[]{#s690-q699}
 
+[]{#s690-q699}
 #### Puis-je sortir prendre l’air ? {#puis-je-sortir-prendre-lair .item-question}
 
 
@@ -5006,8 +4992,8 @@ interdits.\
 
 
 
-[]{#s690-q857}
 
+[]{#s690-q857}
 #### Je souhaite me balader en famille. Une seule attestation est-elle suffisante ? {#je-souhaite-me-balader-en-famille.-une-seule-attestation-est-elle-suffisante .item-question}
 
 
@@ -5031,8 +5017,8 @@ particulières s'appliquent dans votre commune.\
 
 
 
-[]{#s690-q700}
 
+[]{#s690-q700}
 #### Quelles sont les règles concernant l'activité physique ? {#quelles-sont-les-règles-concernant-lactivité-physique .item-question}
 
 
@@ -5064,8 +5050,8 @@ particulières s'appliquent dans votre commune.\
 
 
 
-[]{#s690-q701}
 
+[]{#s690-q701}
 #### Comment faire du sport chez soi ? {#comment-faire-du-sport-chez-soi .item-question}
 
 
@@ -5091,8 +5077,8 @@ les différentes plateformes (mobile, tablette et ordinateur).\
 
 
 
-[]{#s690-q824}
 
+[]{#s690-q824}
 #### Puis-je continuer à pratiquer mon activité régulière comme la pêche, le cyclisme, le surf, le ski… ? {#puis-je-continuer-à-pratiquer-mon-activité-régulière-comme-la-pêche-le-cyclisme-le-surf-le-ski .item-question}
 
 
@@ -5107,8 +5093,8 @@ Vous devez vous munir de votre attestation de déplacement dérogatoire.\
 
 
 
-[]{#s690-q825}
 
+[]{#s690-q825}
 #### Ai-je le droit d’aller dans mon jardin pendant le confinement ? {#ai-je-le-droit-daller-dans-mon-jardin-pendant-le-confinement .item-question}
 
 
@@ -5127,8 +5113,8 @@ rendre dans un jardin d’agrément.\
 
 
 
-[]{#s690-q1190}
 
+[]{#s690-q1190}
 #### Puis-je me rendre dans les jardins familiaux ? {#puis-je-me-rendre-dans-les-jardins-familiaux .item-question}
 
 
@@ -5142,8 +5128,8 @@ la mairie.
 
 
 
-[]{#s690-q702}
 
+[]{#s690-q702}
 #### Puis-je aller à l’hôtel ? {#puis-je-aller-à-lhôtel .item-question}
 
 
@@ -5157,8 +5143,8 @@ uniquement en chambre.\
 
 
 
-[]{#s690-q703}
 
+[]{#s690-q703}
 #### Puis-je organiser une fête ? {#puis-je-organiser-une-fête .item-question}
 
 
@@ -5171,8 +5157,8 @@ membres de mon foyer.\
 
 
 
-[]{#s690-q826}
 
+[]{#s690-q826}
 #### Ma commission médicale obligatoire pour récupérer mon permis après suspension a été repoussée. Que faire ? {#ma-commission-médicale-obligatoire-pour-récupérer-mon-permis-après-suspension-a-été-repoussée.-que-faire .item-question}
 
 
@@ -5184,8 +5170,8 @@ conduire.]{style="color:black"}]{style="line-height:normal"}
 
 
 
-[]{#s690-q704}
 
+[]{#s690-q704}
 #### Combien de personnes sont autorisées dans un même véhicule ? {#combien-de-personnes-sont-autorisées-dans-un-même-véhicule .item-question}
 
 
@@ -5198,8 +5184,8 @@ justificatif de déplacement professionnel, en règle.\
 
 
 
-[]{#s690-q827}
 
+[]{#s690-q827}
 #### Puis-je rejoindre en voiture un autre pays européen pour rendre visite à de la famille ? {#puis-je-rejoindre-en-voiture-un-autre-pays-européen-pour-rendre-visite-à-de-la-famille .item-question}
 
 
@@ -5210,8 +5196,8 @@ Non, cela n'est pas possible sauf motif familial impérieux.\
 
 
 
-[]{#s690-q829}
 
+[]{#s690-q829}
 #### Je dois accompagner mon conjoint malade qui n’a pas de permis de conduire à l’hôpital, est ce permis ? {#je-dois-accompagner-mon-conjoint-malade-qui-na-pas-de-permis-de-conduire-à-lhôpital-est-ce-permis .item-question}
 
 
@@ -5223,8 +5209,8 @@ cocher sur l’attestation dérogatoire de déplacement.\
 
 
 
-[]{#s690-q830}
 
+[]{#s690-q830}
 #### Je travaille mais je n’ai pas de voiture, est ce qu’un parent peut m’accompagner ? {#je-travaille-mais-je-nai-pas-de-voiture-est-ce-quun-parent-peut-maccompagner .item-question}
 
 
@@ -5236,8 +5222,8 @@ dérogatoire de déplacement.
 
 
 
-[]{#s690-q1014}
 
+[]{#s690-q1014}
 #### La conduite accompagnée est-elle autorisée ? {#la-conduite-accompagnée-est-elle-autorisée .item-question}
 
 
@@ -5253,8 +5239,8 @@ délai pour effectuer les 3 000 kilomètres avant de pouvoir se présenter
 
 
 
-[]{#s690-q705}
 
+[]{#s690-q705}
 #### Les vols internes à la France sont-ils maintenus ? {#les-vols-internes-à-la-france-sont-ils-maintenus .item-question}
 
 
@@ -5267,8 +5253,8 @@ Il faut les limiter et être trèsattentifs (gestes barrières...)
 
 
 
-[]{#s690-q706}
 
+[]{#s690-q706}
 #### Pourquoi les trains continuent-ils de circuler ? {#pourquoi-les-trains-continuent-ils-de-circuler .item-question}
 
 
@@ -5281,8 +5267,8 @@ diminuent leur fréquence.\
 
 
 
-[]{#s690-q707}
 
+[]{#s690-q707}
 #### Ai-je le droit de prendre un train pour un déplacement professionnel ? {#ai-je-le-droit-de-prendre-un-train-pour-un-déplacement-professionnel .item-question}
 
 
@@ -5297,8 +5283,8 @@ et ne pouvant être différé.\
 
 
 
-[]{#s690-q708}
 
+[]{#s690-q708}
 #### Puis-je aller chercher des proches à la gare ? {#puis-je-aller-chercher-des-proches-à-la-gare .item-question}
 
 
@@ -5310,8 +5296,8 @@ pas  se déplacer seules (personne à mobilité réduite, enfants…).\
 
 
 
-[]{#s690-q709}
 
+[]{#s690-q709}
 #### Puis-je prendre les transports publics ? {#puis-je-prendre-les-transports-publics .item-question}
 
 
@@ -5326,8 +5312,8 @@ transport les horaires ou fréquences de passage.\
 
 
 
-[]{#s690-q1102}
 
+[]{#s690-q1102}
 #### Quelles sont les mesures prises dans les transports publics pour protéger les voyageurs et le personnel du coronavirus ? {#quelles-sont-les-mesures-prises-dans-les-transports-publics-pour-protéger-les-voyageurs-et-le-personnel-du-coronavirus .item-question}
 
 
@@ -5350,8 +5336,8 @@ transport les horaires ou fréquences de passage.\
 
 
 
-[]{#s690-q1103}
 
+[]{#s690-q1103}
 #### La pratique du vélo, de la trottinette (électrique ou non), du hoverboard et du monoroue est-elle autorisée ? {#la-pratique-du-vélo-de-la-trottinette-électrique-ou-non-du-hoverboard-et-du-monoroue-est-elle-autorisée .item-question}
 
 
@@ -5373,8 +5359,8 @@ recommandé de le désinfecter avant utilisation.\
 
 
 
-[]{#s690-q1104}
 
+[]{#s690-q1104}
 #### Les opérateurs d’engins en libre-service sans borne d’attache peuvent-ils continuer à exercer? {#les-opérateurs-dengins-en-libre-service-sans-borne-dattache-peuvent-ils-continuer-à-exercer .item-question}
 
 
@@ -5386,8 +5372,8 @@ mains après manipulation.
 
 
 
-[]{#s690-q1105}
 
+[]{#s690-q1105}
 #### Est-ce que les opérateurs de covoiturage peuvent continuer à exercer ? {#est-ce-que-les-opérateurs-de-covoiturage-peuvent-continuer-à-exercer .item-question}
 
 
@@ -5398,8 +5384,8 @@ respecter les motifs de déplacement autorisés.
 
 
 
-[]{#s690-q1106}
 
+[]{#s690-q1106}
 #### Est-ce que je peux faire du covoiturage pour aller travailler ? {#est-ce-que-je-peux-faire-du-covoiturage-pour-aller-travailler .item-question}
 
 
@@ -5418,8 +5404,8 @@ présentant des symptômes d'infection au COVID-19.
 
 
 
-[]{#s690-q831}
 
+[]{#s690-q831}
 #### Le métro reste-t-il ouvert ? {#le-métro-reste-t-il-ouvert .item-question}
 
 
@@ -5437,8 +5423,8 @@ familial impérieux).\
 
 
 
-[]{#s690-q710}
 
+[]{#s690-q710}
 #### Puis-je partir en vacances ? {#puis-je-partir-en-vacances .item-question}
 
 
@@ -5449,8 +5435,8 @@ résidence de location ne fait pas partie des déplacements autorisés.
 
 
 
-[]{#s690-q712}
 
+[]{#s690-q712}
 #### Si je suis actuellement confiné dans un lieu qui n'est pas ma résidence principale, ai-je le droit de rentrer chez moi ? {#si-je-suis-actuellement-confiné-dans-un-lieu-qui-nest-pas-ma-résidence-principale-ai-je-le-droit-de-rentrer-chez-moi .item-question}
 
 
@@ -5463,8 +5449,8 @@ principale.
 
 
 
-[]{#s690-q713}
 
+[]{#s690-q713}
 #### Combien de commissariats fermés par précaution ? {#combien-de-commissariats-fermés-par-précaution .item-question}
 
 
@@ -5478,8 +5464,8 @@ reporter votre déplacement soit d’effectuer des démarches en ligne. 
 
 
 
-[]{#s690-q934}
 
+[]{#s690-q934}
 #### Pourquoi les distances de sécurité sont-elles si importantes à respecter dans la rue et au supermarché avec les inconnus, puisqu’on nous dit qu’il faut un quart d’heure en face à face à moins d’un mètre pour avoir un risque de transmission ? {#pourquoi-les-distances-de-sécurité-sont-elles-si-importantes-à-respecter-dans-la-rue-et-au-supermarché-avec-les-inconnus-puisquon-nous-dit-quil-faut-un-quart-dheure-en-face-à-face-à-moins-dun-mètre-pour-avoir-un-risque-de-transmission .item-question}
 
 
@@ -5494,8 +5480,8 @@ les risques de contamination.\
 
 
 
-[]{#s690-q935}
 
+[]{#s690-q935}
 #### Pourquoi maintenir le confinement pour les personnes sans symptôme après la quatorzaine ? {#pourquoi-maintenir-le-confinement-pour-les-personnes-sans-symptôme-après-la-quatorzaine .item-question}
 
 
@@ -5514,8 +5500,8 @@ fragiles.
 
 
 
-[]{#s690-q1229}
 
+[]{#s690-q1229}
 #### Puis-je faire mes courses au supermarché ou à l'épicerie ? Oui, car il s’agit d’un déplacement pour effectuer des achats de première nécessité. Cochez la case correspondante sur votre Attestation de déplacement dérogatoire. Et soyez attentif, dans la {#puis-je-faire-mes-courses-au-supermarché-ou-à-lépicerie-oui-car-il-sagit-dun-déplacement-pour-effectuer-des-achats-de-première-nécessité.-cochez-la-case-correspondante-sur-votre-attestation-de-déplacement-dérogatoire.-et-soyez-attentif-dans-la .item-question}
 
 
@@ -5560,8 +5546,8 @@ ouverts se trouve dans la rubrique “Les établissements fermés”.\
 
 
 
-[]{#s727-q714}
 
+[]{#s727-q714}
 #### En tant que particulier, puis-je encore déménager malgré le confinement ? {#en-tant-que-particulier-puis-je-encore-déménager-malgré-le-confinement .item-question}
 
 
@@ -5612,8 +5598,8 @@ Vous êtes un propriétaire. Pour l’échange des clés  :
 
 
 
-[]{#s727-q715}
 
+[]{#s727-q715}
 #### Puis-je réaliser l'état des lieux d'entrée et de sortie ? {#puis-je-réaliser-létat-des-lieux-dentrée-et-de-sortie .item-question}
 
 
@@ -5636,8 +5622,8 @@ Il n’est pas possible de différer l’état des lieux :
 
 
 
-[]{#s727-q716}
 
+[]{#s727-q716}
 #### En tant que particulier, puis-je faire appel à une entreprise de déménagement ? {#en-tant-que-particulier-puis-je-faire-appel-à-une-entreprise-de-déménagement .item-question}
 
 
@@ -5649,8 +5635,8 @@ exceptionnelles et les déménagements qui ne peuvent pas être reportés.
 
 
 
-[]{#s727-q717}
 
+[]{#s727-q717}
 #### J’ai donné mon préavis et je dois quitter le logement, qu’est-ce qui se passe ? {#jai-donné-mon-préavis-et-je-dois-quitter-le-logement-quest-ce-qui-se-passe .item-question}
 
 
@@ -5689,8 +5675,8 @@ gratuit.
 
 
 
-[]{#s727-q1015}
 
+[]{#s727-q1015}
 #### Si je suis contraint de rester dans mon logement alors que mon préavis est arrivé à son terme, dois-je continuer à payer mon loyer ? {#si-je-suis-contraint-de-rester-dans-mon-logement-alors-que-mon-préavis-est-arrivé-à-son-terme-dois-je-continuer-à-payer-mon-loyer .item-question}
 
 
@@ -5701,8 +5687,8 @@ vous occupez le logement.
 
 
 
-[]{#s727-q718}
 
+[]{#s727-q718}
 #### Si je devais déménager mais que je reste finalement dans mon logement précédent, dois-je payer le loyer de mon nouvel appartement dans lequel je devais emménager ? {#si-je-devais-déménager-mais-que-je-reste-finalement-dans-mon-logement-précédent-dois-je-payer-le-loyer-de-mon-nouvel-appartement-dans-lequel-je-devais-emménager .item-question}
 
 
@@ -5721,8 +5707,8 @@ qui vous accompagneront et vous aideront à trouver des solutions.
 
 
 
-[]{#s727-q719}
 
+[]{#s727-q719}
 #### Si nous ne trouvons pas d'accord, mon propriétaire peut-il m'expulser ? {#si-nous-ne-trouvons-pas-daccord-mon-propriétaire-peut-il-mexpulser .item-question}
 
 
@@ -5748,8 +5734,8 @@ une décision de justice.\
 
 
 
-[]{#s727-q1016}
 
+[]{#s727-q1016}
 #### J’ai signé une promesse de vente avant le confinement, le processus d’achat continue-t-il ? {#jai-signé-une-promesse-de-vente-avant-le-confinement-le-processus-dachat-continue-t-il .item-question}
 
 
@@ -5767,8 +5753,8 @@ total cette période n’excède pas 18 mois.
 
 
 
-[]{#s727-q1017}
 
+[]{#s727-q1017}
 #### Suis-je autorisé à me déplacer pour remettre des clés dans le cadre de la plateforme Appart Solidaire d'Airbnb, de l'initiative Solidarité avec le personnel soignant de Particulier à Particulier (PAP) ou de toute autre initiative solidaire ? {#suis-je-autorisé-à-me-déplacer-pour-remettre-des-clés-dans-le-cadre-de-la-plateforme-appart-solidaire-dairbnb-de-linitiative-solidarité-avec-le-personnel-soignant-de-particulier-à-particulier-pap-ou-de-toute-autre-initiative-solidaire .item-question}
 
 
@@ -5788,8 +5774,8 @@ présentés sur smartphone).
 
 
 
-[]{#s727-q720}
 
+[]{#s727-q720}
 #### Je suis propriétaire et mon nouveau locataire ne peut pas emménager : vu l'incertitude concernant la fin de la période de confinement, puis-je proposer au locataire une rupture du contrat de location sans préavis ? {#je-suis-propriétaire-et-mon-nouveau-locataire-ne-peut-pas-emménager-vu-lincertitude-concernant-la-fin-de-la-période-de-confinement-puis-je-proposer-au-locataire-une-rupture-du-contrat-de-location-sans-préavis .item-question}
 
 
@@ -5799,8 +5785,8 @@ Non, à moins que votre locataire soit d’accord.
 
 
 
-[]{#s727-q721}
 
+[]{#s727-q721}
 #### Peut-on tenir des assemblées générales de copropriété à distance, notamment pour des réunions qui doivent se tenir urgemment, ou faut-il attendre la levée des mesures de restriction des déplacements pour convoquer une AG ? {#peut-on-tenir-des-assemblées-générales-de-copropriété-à-distance-notamment-pour-des-réunions-qui-doivent-se-tenir-urgemment-ou-faut-il-attendre-la-levée-des-mesures-de-restriction-des-déplacements-pour-convoquer-une-ag .item-question}
 
 
@@ -5818,8 +5804,8 @@ décembre 2020).\
 
 
 
-[]{#s727-q722}
 
+[]{#s727-q722}
 #### Les gardiens / concierges d'immeubles peuvent-ils continuer de travailler ? {#les-gardiens-concierges-dimmeubles-peuvent-ils-continuer-de-travailler .item-question}
 
 
@@ -5833,8 +5819,8 @@ et mesures de distances sanitaires avec les habitants de l’immeuble.\
 
 
 
-[]{#s727-q723}
 
+[]{#s727-q723}
 #### J'ai acheté un logement. La signature de l'acte authentique a lieu dans les prochains jours. La signature électronique est-elle valable ? {#jai-acheté-un-logement.-la-signature-de-lacte-authentique-a-lieu-dans-les-prochains-jours.-la-signature-électronique-est-elle-valable .item-question}
 
 
@@ -5848,8 +5834,8 @@ lesquelles c’est possible.\
 
 
 
-[]{#s727-q724}
 
+[]{#s727-q724}
 #### Si la signature électronique n'est pas possible, est-ce que le motif vaut autorisation de déplacement ? {#si-la-signature-électronique-nest-pas-possible-est-ce-que-le-motif-vaut-autorisation-de-déplacement .item-question}
 
 
@@ -5863,8 +5849,8 @@ signature.\
 
 
 
-[]{#s727-q1139}
 
+[]{#s727-q1139}
 #### Puis-je signer un acte devant notaire ? {#puis-je-signer-un-acte-devant-notaire .item-question}
 
 
@@ -5882,8 +5868,8 @@ de ventes en cours.\
 
 
 
-[]{#s727-q725}
 
+[]{#s727-q725}
 #### Le paiement des loyers des logements est-t-il suspendu, comme pour les petites entreprises en difficulté ? {#le-paiement-des-loyers-des-logements-est-t-il-suspendu-comme-pour-les-petites-entreprises-en-difficulté .item-question}
 
 
@@ -5893,8 +5879,8 @@ Non, les loyers d’habitation doivent continuer à être payés.
 
 
 
-[]{#s727-q726}
 
+[]{#s727-q726}
 #### Mes revenus vont baisser en mars et je serai en difficulté pour payer mon loyer : que puis-je faire ? {#mes-revenus-vont-baisser-en-mars-et-je-serai-en-difficulté-pour-payer-mon-loyer-que-puis-je-faire .item-question}
 
 
@@ -5914,8 +5900,8 @@ trouver une solution.\
 
 
 
-[]{#s727-q1140}
 
+[]{#s727-q1140}
 #### Puis-je faire intervenir un prestataire pour la désinfection de mon logement en cas de présence de punaises de lit ? Puis-je quitter mon logement si un traitement chimique est nécessaire ? {#puis-je-faire-intervenir-un-prestataire-pour-la-désinfection-de-mon-logement-en-cas-de-présence-de-punaises-de-lit-puis-je-quitter-mon-logement-si-un-traitement-chimique-est-nécessaire .item-question}
 
 
@@ -5936,8 +5922,8 @@ trouver une solution.\
 
 
 
-[]{#s727-q1191}
 
+[]{#s727-q1191}
 #### Comment mettre à disposition des locaux (par exemple, une salle de danse) pour les femmes victimes de violences conjugales ? {#comment-mettre-à-disposition-des-locaux-par-exemple-une-salle-de-danse-pour-les-femmes-victimes-de-violences-conjugales .item-question}
 
 
@@ -5962,8 +5948,8 @@ Vous pouvez contacter :
 
 
 
-[]{#s736-q728}
 
+[]{#s736-q728}
 #### Ai-je le droit d'aller au container de collecte sélective ou à une déchetterie ? {#ai-je-le-droit-daller-au-container-de-collecte-sélective-ou-à-une-déchetterie .item-question}
 
 
@@ -5984,8 +5970,8 @@ confiscation du véhicule).
 
 
 
-[]{#s736-q729}
 
+[]{#s736-q729}
 #### Mes emballages vont directement dans la « poubelle jaune » sans sac poubelle : y a-t-il des consignes spécifiques à suivre pour ces déchets tout au long de la crise sanitaire ? {#mes-emballages-vont-directement-dans-la-poubelle-jaune-sans-sac-poubelle-y-a-t-il-des-consignes-spécifiques-à-suivre-pour-ces-déchets-tout-au-long-de-la-crise-sanitaire .item-question}
 
 
@@ -5998,8 +5984,8 @@ dans la poubelle jaune, mais dans la poubelle à ordures ménagères.
 
 
 
-[]{#s736-q730}
 
+[]{#s736-q730}
 #### Où jeter mes mouchoirs, masques, gants et lingettes de nettoyage que j’utilise chez moi ? {#où-jeter-mes-mouchoirs-masques-gants-et-lingettes-de-nettoyage-que-jutilise-chez-moi .item-question}
 
 
@@ -6023,8 +6009,8 @@ Solidarités et de la Santé pour la gestion de vos déchets.
 
 
 
-[]{#s736-q731}
 
+[]{#s736-q731}
 #### Les déchets vont-ils continuer à être collectés normalement ? Les centres de tri fonctionnent-ils normalement malgré la crise ? {#les-déchets-vont-ils-continuer-à-être-collectés-normalement-les-centres-de-tri-fonctionnent-ils-normalement-malgré-la-crise .item-question}
 
 
@@ -6060,8 +6046,8 @@ commune ou de votre intercommunalité.
 
 
 
-[]{#s736-q732}
 
+[]{#s736-q732}
 #### Quelles sont les règles à respecter pour les agents qui collectent les déchets ? {#quelles-sont-les-règles-à-respecter-pour-les-agents-qui-collectent-les-déchets .item-question}
 
 
@@ -6078,8 +6064,8 @@ pour chaque métier au sein de la chaîne des déchets.
 
 
 
-[]{#s736-q733}
 
+[]{#s736-q733}
 #### Que faire de mes déchets verts ? {#que-faire-de-mes-déchets-verts .item-question}
 
 
@@ -6092,8 +6078,8 @@ de l’économie circulaire !
 
 
 
-[]{#s736-q734}
 
+[]{#s736-q734}
 #### Je profite de mon temps libre pour faire du tri dans mon garage. Que faire des encombrants si la déchetterie la plus proche de chez moi est fermée ? {#je-profite-de-mon-temps-libre-pour-faire-du-tri-dans-mon-garage.-que-faire-des-encombrants-si-la-déchetterie-la-plus-proche-de-chez-moi-est-fermée .item-question}
 
 
@@ -6114,8 +6100,8 @@ trottoir (sanction allant jusqu'à 1500€ et confiscation du véhicule).\
 
 
 
-[]{#s736-q735}
 
+[]{#s736-q735}
 #### Je fais du tri dans mes vêtements, puis-je continuer à les déposer dans des bornes type Relay ? {#je-fais-du-tri-dans-mes-vêtements-puis-je-continuer-à-les-déposer-dans-des-bornes-type-relay .item-question}
 
 
@@ -6138,8 +6124,8 @@ confinement pour les déposer dans les points de collecte.\
 
 
 
-[]{#s742-q737}
 
+[]{#s742-q737}
 #### Puis-je me rendre chez un professionnel de santé ? {#puis-je-me-rendre-chez-un-professionnel-de-santé .item-question}
 
 
@@ -6167,8 +6153,8 @@ l’opticien par exemple.\
 
 
 
-[]{#s742-q832}
 
+[]{#s742-q832}
 #### Je suis enceinte, vais-je devoir accoucher chez moi ? {#je-suis-enceinte-vais-je-devoir-accoucher-chez-moi .item-question}
 
 
@@ -6179,8 +6165,8 @@ la case "motif de santé" sur votre attestation dérogatoire.
 
 
 
-[]{#s742-q738}
 
+[]{#s742-q738}
 #### Je n’ai plus de pilule contraceptive, comment faire ? {#je-nai-plus-de-pilule-contraceptive-comment-faire .item-question}
 
 
@@ -6200,8 +6186,8 @@ ce sans renouvellement d’ordonnance.\
 
 
 
-[]{#s742-q739}
 
+[]{#s742-q739}
 #### Les centres d’interruption volontaire de grossesse (IVG) sont-ils ouverts ? {#les-centres-dinterruption-volontaire-de-grossesse-ivg-sont-ils-ouverts .item-question}
 
 
@@ -6223,8 +6209,8 @@ répondre à toute question.\
 
 
 
-[]{#s742-q1107}
 
+[]{#s742-q1107}
 #### L’interruption volontaire de grossesse (IVG) est-elle possible? {#linterruption-volontaire-de-grossesse-ivg-est-elle-possible .item-question}
 
 
@@ -6263,8 +6249,8 @@ pour répondre à toute question.\
 
 
 
-[]{#s742-q740}
 
+[]{#s742-q740}
 #### Puis-je donner mon sang même si le centre se trouve à plusieurs kilomètres de chez moi ? {#puis-je-donner-mon-sang-même-si-le-centre-se-trouve-à-plusieurs-kilomètres-de-chez-moi .item-question}
 
 
@@ -6278,8 +6264,8 @@ santé.\
 
 
 
-[]{#s742-q741}
 
+[]{#s742-q741}
 #### Puis- je me faire opérer ? {#puis--je-me-faire-opérer .item-question}
 
 
@@ -6298,8 +6284,8 @@ Appelez votre médecin traitant ou votre spécialiste pour en parler.
 
 
 
-[]{#s742-q937}
 
+[]{#s742-q937}
 #### Une grande campagne de dépistage à l’échelle nationale pourrait-elle être lancée ? {#une-grande-campagne-de-dépistage-à-léchelle-nationale-pourrait-elle-être-lancée .item-question}
 
 
@@ -6315,8 +6301,8 @@ post-épidémique.
 
 
 
-[]{#s742-q1141}
 
+[]{#s742-q1141}
 #### Les tests de dépistage rapides sont-ils fiables ? {#les-tests-de-dépistage-rapides-sont-ils-fiables .item-question}
 
 
@@ -6330,8 +6316,8 @@ Ils ne seront utilisés que lorsque leur fiabilité sera validée.\
 
 
 
-[]{#s742-q938}
 
+[]{#s742-q938}
 #### La transfusion sanguine pourrait-elle aider les malades à guérir ? {#la-transfusion-sanguine-pourrait-elle-aider-les-malades-à-guérir .item-question}
 
 
@@ -6351,8 +6337,8 @@ malades.\
 
 
 
-[]{#s742-q939}
 
+[]{#s742-q939}
 #### Peut-on donner son sang si on a eu des symptômes du COVID-19? {#peut-on-donner-son-sang-si-on-a-eu-des-symptômes-du-covid-19 .item-question}
 
 
@@ -6373,8 +6359,8 @@ Trouvez le point EFS le plus proche de chez vous :
 
 
 
-[]{#s742-q940}
 
+[]{#s742-q940}
 #### Si on a eu des symptômes (courbatures, douleurs poitrine, toux) du COVID-19 sans forme grave (pas de fièvre, pas d'essoufflement ni difficultés respiratoires) pendant les 7 premiers jours, peut-on développer une forme grave pendant les 7 jours suivants ? {#si-on-a-eu-des-symptômes-courbatures-douleurs-poitrine-toux-du-covid-19-sans-forme-grave-pas-de-fièvre-pas-dessoufflement-ni-difficultés-respiratoires-pendant-les-7-premiers-jours-peut-on-développer-une-forme-grave-pendant-les-7-jours-suivants .item-question}
 
 
@@ -6393,8 +6379,8 @@ Appelez le 15 si ces symptômes surviennent.\
 
 
 
-[]{#s742-q1192}
 
+[]{#s742-q1192}
 #### Les problèmes dermatologiques font-ils partie des symptômes du coronavirus ? {#les-problèmes-dermatologiques-font-ils-partie-des-symptômes-du-coronavirus .item-question}
 
 
@@ -6412,8 +6398,8 @@ Vous avez un doute ? Appelez votre médecin traitant.\
 
 
 
-[]{#s742-q941}
 
+[]{#s742-q941}
 #### Les porteurs qui guérissent sont-ils immunisés ? {#les-porteurs-qui-guérissent-sont-ils-immunisés .item-question}
 
 
@@ -6432,8 +6418,8 @@ pour le moment aucun cas de seconde infection.
 
 
 
-[]{#s742-q942}
 
+[]{#s742-q942}
 #### La consommation de produits surgelés présente-t-elle moins de risque ? {#la-consommation-de-produits-surgelés-présente-t-elle-moins-de-risque .item-question}
 
 
@@ -6451,8 +6437,8 @@ produits frais est nécessaire afin d’être en bonne santé.\
 
 
 
-[]{#s742-q943}
 
+[]{#s742-q943}
 #### Est-il possible de réquisitionner les cliniques privées ? {#est-il-possible-de-réquisitionner-les-cliniques-privées .item-question}
 
 
@@ -6469,8 +6455,8 @@ Les cliniques privées participent activement à la crise du COVID-19 :
 
 
 
-[]{#s742-q1155}
 
+[]{#s742-q1155}
 #### Quelle est la place de la Réserve sanitaire dans le dispositif actuel de renfort des hôpitaux ? {#quelle-est-la-place-de-la-réserve-sanitaire-dans-le-dispositif-actuel-de-renfort-des-hôpitaux .item-question}
 
 
@@ -6496,8 +6482,8 @@ dispositifs existants sont les suivants :
 
 
 
-[]{#s742-q1156}
 
+[]{#s742-q1156}
 #### Pour quelles missions la Réserve sanitaire est-elle mobilisée ? {#pour-quelles-missions-la-réserve-sanitaire-est-elle-mobilisée .item-question}
 
 
@@ -6526,8 +6512,8 @@ mobilisée pour :
 
 
 
-[]{#s742-q1165}
 
+[]{#s742-q1165}
 #### Qui peut devenir réserviste sanitaire ? {#qui-peut-devenir-réserviste-sanitaire .item-question}
 
 
@@ -6554,8 +6540,8 @@ et en pharmacie, peuvent aussi devenir réservistes sanitaires.\
 
 
 
-[]{#s742-q1157}
 
+[]{#s742-q1157}
 #### Puis-je devenir réserviste sanitaire ? {#puis-je-devenir-réserviste-sanitaire .item-question}
 
 
@@ -6608,8 +6594,8 @@ forme d’une aide individuelle exceptionnelle.\
 
 
 
-[]{#s742-q944}
 
+[]{#s742-q944}
 #### Peut-on effectuer un diagnostic en ligne via une application ? {#peut-on-effectuer-un-diagnostic-en-ligne-via-une-application .item-question}
 
 
@@ -6629,8 +6615,8 @@ l’utilisation de téléconsultations.\
 
 
 
-[]{#s742-q945}
 
+[]{#s742-q945}
 #### Le virus laisse-t-il des séquelles après guérison ? {#le-virus-laisse-t-il-des-séquelles-après-guérison .item-question}
 
 
@@ -6648,8 +6634,8 @@ l’utilisation de téléconsultations.\
 
 
 
-[]{#s742-q946}
 
+[]{#s742-q946}
 #### Le réchauffement climatique aurait-il un impact sur le virus ? {#le-réchauffement-climatique-aurait-il-un-impact-sur-le-virus .item-question}
 
 
@@ -6663,8 +6649,8 @@ aura un quelconque effet sur le virus.
 
 
 
-[]{#s742-q948}
 
+[]{#s742-q948}
 #### Le père de mon enfant pourrait-il m’accompagner et assister à mon accouchement ? {#le-père-de-mon-enfant-pourrait-il-maccompagner-et-assister-à-mon-accouchement .item-question}
 
 
@@ -6699,8 +6685,8 @@ de césarienne si celle-ci est nécessaire.\
 
 
 
-[]{#s742-q950}
 
+[]{#s742-q950}
 #### Pourquoi les rues ne sont-elles pas désinfectées en France ? {#pourquoi-les-rues-ne-sont-elles-pas-désinfectées-en-france .item-question}
 
 
@@ -6722,8 +6708,8 @@ notamment en Chine.\
 
 
 
-[]{#s742-q951}
 
+[]{#s742-q951}
 #### Si un vaccin est trouvé, sera-t-il rendu obligatoire ? {#si-un-vaccin-est-trouvé-sera-t-il-rendu-obligatoire .item-question}
 
 
@@ -6735,8 +6721,8 @@ des données épidémiologiques.\
 
 
 
-[]{#s742-q953}
 
+[]{#s742-q953}
 #### Le virus pourrait-il revenir chaque année ? {#le-virus-pourrait-il-revenir-chaque-année .item-question}
 
 
@@ -6754,8 +6740,8 @@ l’éventuelle saisonnalité de sa diffusion.\
 
 
 
-[]{#s742-q954}
 
+[]{#s742-q954}
 #### Le virus se transmet-il par le sang ? {#le-virus-se-transmet-il-par-le-sang .item-question}
 
 
@@ -6775,8 +6761,8 @@ n’existe aucun cas confirmé.\
 
 
 
-[]{#s742-q955}
 
+[]{#s742-q955}
 #### Pourquoi le Gouvernement affirme-t-il que le port des masques par tous n’est pas utile ? Puisqu’il y a des cas asymptomatiques, ne faudrait-il pas que chacun porte un masque ? {#pourquoi-le-gouvernement-affirme-t-il-que-le-port-des-masques-par-tous-nest-pas-utile-puisquil-y-a-des-cas-asymptomatiques-ne-faudrait-il-pas-que-chacun-porte-un-masque .item-question}
 
 
@@ -6809,8 +6795,8 @@ professionnelles en complément des mesures barrières.
 
 
 
-[]{#s742-q1158}
 
+[]{#s742-q1158}
 #### Pourquoi les masques périment-ils ? Quels sont les risques d’utiliser les masques périmés ? {#pourquoi-les-masques-périment-ils-quels-sont-les-risques-dutiliser-les-masques-périmés .item-question}
 
 
@@ -6833,8 +6819,8 @@ des recommandations de vérification des élastiques.
 
 
 
-[]{#s742-q1288}
 
+[]{#s742-q1288}
 #### Pendant combien de temps les personnes asymptomatiques sont-elles contagieuses ? {#pendant-combien-de-temps-les-personnes-asymptomatiques-sont-elles-contagieuses .item-question}
 
 
@@ -6853,8 +6839,8 @@ protéger et protéger les autres.
 
 
 
-[]{#s742-q1289}
 
+[]{#s742-q1289}
 #### Pourquoi la distance de distanciation sociale diffère en fonction des pays ? {#pourquoi-la-distance-de-distanciation-sociale-diffère-en-fonction-des-pays .item-question}
 
 
@@ -6870,8 +6856,8 @@ en place et permet de bien se protéger : respectons-la !
 
 
 
-[]{#s742-q956}
 
+[]{#s742-q956}
 #### Que penser de l’utilisation des masques Decathlon par les professionnels de santé ? {#que-penser-de-lutilisation-des-masques-decathlon-par-les-professionnels-de-santé .item-question}
 
 
@@ -6884,8 +6870,8 @@ faire usage de ce type de masques.
 
 
 
-[]{#s742-q1143}
 
+[]{#s742-q1143}
 #### Le prix des masques sera-t-il encadré ? {#le-prix-des-masques-sera-t-il-encadré .item-question}
 
 
@@ -6909,8 +6895,8 @@ protections.\
 
 
 
-[]{#s742-q1193}
 
+[]{#s742-q1193}
 #### Les personnes en surpoids sont-elles des personnes à risque ? {#les-personnes-en-surpoids-sont-elles-des-personnes-à-risque .item-question}
 
 
@@ -6937,8 +6923,8 @@ En savoir plus : le surpoids correspond à un indice de masse corporel
 
 
 
-[]{#s742-q957}
 
+[]{#s742-q957}
 #### Les fumeurs sont-ils plus touchés ? {#les-fumeurs-sont-ils-plus-touchés .item-question}
 
 
@@ -6953,8 +6939,8 @@ décès de +133% par rapport aux non-fumeurs.
 
 
 
-[]{#s742-q1194}
 
+[]{#s742-q1194}
 #### Le virus peut-il se transmettre par la fumée de cigarette ? {#le-virus-peut-il-se-transmettre-par-la-fumée-de-cigarette .item-question}
 
 
@@ -6980,8 +6966,8 @@ non-fumeurs.\
 
 
 
-[]{#s742-q958}
 
+[]{#s742-q958}
 #### Comment sera décidé le tri des patients admis en réanimation si les hôpitaux arrivent à saturation ? {#comment-sera-décidé-le-tri-des-patients-admis-en-réanimation-si-les-hôpitaux-arrivent-à-saturation .item-question}
 
 
@@ -7017,8 +7003,8 @@ vers d’autres territoires.\
 
 
 
-[]{#s742-q959}
 
+[]{#s742-q959}
 #### Pourquoi le COVID-19 a-t-il moins d’effets sur les jeunes ? {#pourquoi-le-covid-19-a-t-il-moins-deffets-sur-les-jeunes .item-question}
 
 
@@ -7053,8 +7039,8 @@ Elles sont plus fragiles pour plusieurs raisons.
 
 
 
-[]{#s742-q1068}
 
+[]{#s742-q1068}
 #### Quels produits utiliser pour lutter contre le COVID-19 ? {#quels-produits-utiliser-pour-lutter-contre-le-covid-19 .item-question}
 
 
@@ -7080,8 +7066,8 @@ Pour désinfecter les surfaces souillées :
 
 
 
-[]{#s742-q1018}
 
+[]{#s742-q1018}
 #### L'alcool modifié à 70 ou 90 degrés peut-il remplacer le gel hydroalcoolique ? {#lalcool-modifié-à-70-ou-90-degrés-peut-il-remplacer-le-gel-hydroalcoolique .item-question}
 
 
@@ -7097,8 +7083,8 @@ désinfection des surfaces.\
 
 
 
-[]{#s742-q961}
 
+[]{#s742-q961}
 #### Pourquoi ne pas tester l’ensemble de la population et lever le confinement pour les personnes immunisées et non atteintes ? Le dépistage massif n’est-il pas plus efficace que le confinement ? {#pourquoi-ne-pas-tester-lensemble-de-la-population-et-lever-le-confinement-pour-les-personnes-immunisées-et-non-atteintes-le-dépistage-massif-nest-il-pas-plus-efficace-que-le-confinement .item-question}
 
 
@@ -7154,8 +7140,8 @@ au coronavirus (en moins de 30 minutes).
 
 
 
-[]{#s742-q962}
 
+[]{#s742-q962}
 #### Un médecin souhaite mettre en place des tests dans son cabinet pour les patients. Quelles sont les modalités ? Qui contacter ? {#un-médecin-souhaite-mettre-en-place-des-tests-dans-son-cabinet-pour-les-patients.-quelles-sont-les-modalités-qui-contacter .item-question}
 
 
@@ -7191,8 +7177,8 @@ laboratoires de type P2, hospitaliers ou privés.\
 
 
 
-[]{#s1093-q1080}
 
+[]{#s1093-q1080}
 #### Pendant la période de confinement, puis-je tout de même faire un footing ? {#pendant-la-période-de-confinement-puis-je-tout-de-même-faire-un-footing .item-question}
 
 
@@ -7214,8 +7200,8 @@ particulières s'appliquent dans votre commune.\
 
 
 
-[]{#s1093-q1081}
 
+[]{#s1093-q1081}
 #### Puis-je continuer de faire une sortie en vélo ? {#puis-je-continuer-de-faire-une-sortie-en-vélo .item-question}
 
 
@@ -7234,8 +7220,8 @@ professionnels, de santé ou pour faire vos courses.\
 
 
 
-[]{#s1093-q1094}
 
+[]{#s1093-q1094}
 #### Puis-je pratiquer une activité sportive en nature, loin de toute population, dès lors que je suis seul ? {#puis-je-pratiquer-une-activité-sportive-en-nature-loin-de-toute-population-dès-lors-que-je-suis-seul .item-question}
 
 
@@ -7264,8 +7250,8 @@ Les établissements d’activités physiques et sportives sont fermés.
 
 
 
-[]{#s1093-q1082}
 
+[]{#s1093-q1082}
 #### Puis je continuer à me rendre dans ma salle de sport, dans une piscine publique ou dans un centre équestre ? {#puis-je-continuer-à-me-rendre-dans-ma-salle-de-sport-dans-une-piscine-publique-ou-dans-un-centre-équestre .item-question}
 
 
@@ -7277,8 +7263,8 @@ Non. Tous les établissements d’activités physiques et sportives doivent
 
 
 
-[]{#s1093-q1084}
 
+[]{#s1093-q1084}
 #### Les clubs et associations sportives qui sont habituellement fermés l’été vont-ils être ouverts pour compenser les semaines d’inactivités ? {#les-clubs-et-associations-sportives-qui-sont-habituellement-fermés-lété-vont-ils-être-ouverts-pour-compenser-les-semaines-dinactivités .item-question}
 
 
@@ -7290,8 +7276,8 @@ auprès d’elle.\
 
 
 
-[]{#s1093-q1085}
 
+[]{#s1093-q1085}
 #### Si je me blesse en faisant du sport, puis-je consulter un médecin ? {#si-je-me-blesse-en-faisant-du-sport-puis-je-consulter-un-médecin .item-question}
 
 
@@ -7304,8 +7290,8 @@ préalable, pour voir avec lui si une consultation physique est requise.\
 
 
 
-[]{#s1093-q1086}
 
+[]{#s1093-q1086}
 #### Les kinésithérapeutes peuvent-ils continuer à prodiguer des soins et des manipulations pendant cette période ? {#les-kinésithérapeutes-peuvent-ils-continuer-à-prodiguer-des-soins-et-des-manipulations-pendant-cette-période .item-question}
 
 
@@ -7316,8 +7302,8 @@ s’assurant de bien  mettre en œuvre les mesures barrières.
 
 
 
-[]{#s1093-q1087}
 
+[]{#s1093-q1087}
 #### Je présente des symptômes du coronavirus. Puis-je continuer malgré tout à pratiquer une activité physique ? {#je-présente-des-symptômes-du-coronavirus.-puis-je-continuer-malgré-tout-à-pratiquer-une-activité-physique .item-question}
 
 
@@ -7330,8 +7316,8 @@ efforts trop violents et ne dépassez pas une heure d’activité.
 
 
 
-[]{#s1093-q1088}
 
+[]{#s1093-q1088}
 #### Jusqu’à quand les rencontres, événements, entraînements sportifs sont-ils suspendus ? {#jusquà-quand-les-rencontres-événements-entraînements-sportifs-sont-ils-suspendus .item-question}
 
 
@@ -7347,8 +7333,8 @@ probable que cette période soit prolongée.
 
 
 
-[]{#s1093-q1089}
 
+[]{#s1093-q1089}
 #### Puis je continuer à faire du sport à domicile pendant cette période et si oui, comment ? {#puis-je-continuer-à-faire-du-sport-à-domicile-pendant-cette-période-et-si-oui-comment .item-question}
 
 
@@ -7368,8 +7354,8 @@ Pour en savoir plus :
 
 
 
-[]{#s1093-q1090}
 
+[]{#s1093-q1090}
 #### Quelles sont les activités physiques à domicile les plus recommandées pour les enfants ? {#quelles-sont-les-activités-physiques-à-domicile-les-plus-recommandées-pour-les-enfants .item-question}
 
 
@@ -7388,8 +7374,8 @@ perché, la marelle…
 
 
 
-[]{#s1093-q1091}
 
+[]{#s1093-q1091}
 #### Les sportifs en situation de handicap sont-ils plus vulnérables face au coronavirus ? {#les-sportifs-en-situation-de-handicap-sont-ils-plus-vulnérables-face-au-coronavirus .item-question}
 
 
@@ -7401,8 +7387,8 @@ traitements associés.\
 
 
 
-[]{#s1093-q1092}
 
+[]{#s1093-q1092}
 #### Puis-je inviter des amis chez moi pour regarder un match de football ou autre événement sportif ? {#puis-je-inviter-des-amis-chez-moi-pour-regarder-un-match-de-football-ou-autre-événement-sportif .item-question}
 
 
@@ -7426,8 +7412,8 @@ au maximum les contacts.\
 
 
 
-[]{#s747-q743}
 
+[]{#s747-q743}
 #### Puis-je rendre visite à une personne âgée ? {#puis-je-rendre-visite-à-une-personne-âgée .item-question}
 
 
@@ -7452,8 +7438,8 @@ donc une attention encore renforcée aux gestes barrières.\
 
 
 
-[]{#s747-q744}
 
+[]{#s747-q744}
 #### Puis-je aller auprès de parents dépendants ou de proches ? {#puis-je-aller-auprès-de-parents-dépendants-ou-de-proches .item-question}
 
 
@@ -7467,8 +7453,8 @@ attention encore renforcée aux gestes barrières.
 
 
 
-[]{#s747-q745}
 
+[]{#s747-q745}
 #### Je suis une personne âgée, quelles précautions dois-je prendre ? {#je-suis-une-personne-âgée-quelles-précautions-dois-je-prendre .item-question}
 
 
@@ -7487,8 +7473,8 @@ attention encore renforcée aux gestes barrières.
 
 
 
-[]{#s747-q746}
 
+[]{#s747-q746}
 #### Quels sont les dispositifs mis en place dans les EHPAD ? {#quels-sont-les-dispositifs-mis-en-place-dans-les-ehpad .item-question}
 
 
@@ -7568,6 +7554,7 @@ strictement appliquées et les contacts physiques sont interdits.
 
 
 
+
 []{#s747-q1195}
 
 
@@ -7582,15 +7569,14 @@ strictement appliquées et les contacts physiques sont interdits.
 
 
 
-
 []{#s758}
 ### Entraide {#entraide .item-paragraphe-titre .c-onglet data-section="s758" data-picto="https://www.gouvernement.fr/sites/default/files/cimages/qr_entraide.svg"}
 
 
 
 
-[]{#s758-q754}
 
+[]{#s758-q754}
 #### Comment s’organiser pendant le confinement ? {#comment-sorganiser-pendant-le-confinement .item-question}
 
 
@@ -7607,8 +7593,8 @@ Retrouvez l’ensemble de ces offres sur la plateforme dédiée :
 
 
 
-[]{#s758-q755}
 
+[]{#s758-q755}
 #### Je veux me rendre utile, comment faire ? {#je-veux-me-rendre-utile-comment-faire .item-question}
 
 
@@ -7636,8 +7622,8 @@ missions.
 
 
 
-[]{#s758-q757}
 
+[]{#s758-q757}
 #### Aidons-nous les personnes sans-abri ? {#aidons-nous-les-personnes-sans-abri .item-question}
 
 
@@ -7661,8 +7647,8 @@ débloque au total une enveloppe d’urgence de 65 millions d’euros.\
 
 
 
-[]{#s758-q1231}
 
+[]{#s758-q1231}
 #### Comment organiser mon télétravail ? {#comment-organiser-mon-télétravail .item-question}
 
 
@@ -7676,8 +7662,8 @@ accès à l’information et au divertissement- sur
 
 
 
-[]{#s758-q1232}
 
+[]{#s758-q1232}
 #### Je veux me rendre utile, comment faire ? {#je-veux-me-rendre-utile-comment-faire-1 .item-question}
 
 
@@ -7700,8 +7686,8 @@ proposer une mission ou offrir votre aide.
 
 
 
-[]{#s758-q1233}
 
+[]{#s758-q1233}
 #### Je suis soignant et je cherche à me loger à proximité de mon lieu de travail, que faire ? {#je-suis-soignant-et-je-cherche-à-me-loger-à-proximité-de-mon-lieu-de-travail-que-faire .item-question}
 
 
@@ -7721,8 +7707,8 @@ les clés du logement au bénéficiaire.
 
 
 
-[]{#s758-q1290}
 
+[]{#s758-q1290}
 #### Des distributions de vivres et produits d’hygiène (y compris gel et masques) sont-elles prévues ? {#des-distributions-de-vivres-et-produits-dhygiène-y-compris-gel-et-masques-sont-elles-prévues .item-question}
 
 
@@ -7741,8 +7727,8 @@ chargées de l’organisation et la coordination du dispositif.
 
 
 
-[]{#s758-q1291}
 
+[]{#s758-q1291}
 #### Comment la continuité du service des associations est-elle assurée ? {#comment-la-continuité-du-service-des-associations-est-elle-assurée .item-question}
 
 
@@ -7773,8 +7759,8 @@ solidaires](https://www.les-logements-solidaires.com/users/sign_in).
 
 
 
-[]{#s758-q1292}
 
+[]{#s758-q1292}
 #### Les travailleurs sociaux et bénévoles des associations disposent-ils d’autorisation de circuler ? {#les-travailleurs-sociaux-et-bénévoles-des-associations-disposent-ils-dautorisation-de-circuler .item-question}
 
 
@@ -7790,8 +7776,8 @@ fonctionnement, ou en maraude.
 
 
 
-[]{#s758-q1293}
 
+[]{#s758-q1293}
 #### Est-il possible de se rapprocher d’une association pour aider ? {#est-il-possible-de-se-rapprocher-dune-association-pour-aider .item-question}
 
 
@@ -7819,8 +7805,8 @@ solidaires](https://www.les-logements-solidaires.com/users/sign_in).
 
 
 
-[]{#s758-q1294}
 
+[]{#s758-q1294}
 #### Peut-on adopter un animal dans un refuge de la Société Protectrice des Animaux? {#peut-on-adopter-un-animal-dans-un-refuge-de-la-société-protectrice-des-animaux .item-question}
 
 
@@ -7860,8 +7846,8 @@ Afin de limiter les risques, des règles strictes devront être respectées
 
 
 
-[]{#s753-q748}
 
+[]{#s753-q748}
 #### A-t-on le droit de se marier ou de se pacser ? {#a-t-on-le-droit-de-se-marier-ou-de-se-pacser .item-question}
 
 
@@ -7878,8 +7864,8 @@ doivent d’abord solliciter le procureur de la République.\
 
 
 
-[]{#s753-q749}
 
+[]{#s753-q749}
 #### Qu'est ce qu'un déplacement "pour motif familial impérieux" ? {#quest-ce-quun-déplacement-pour-motif-familial-impérieux .item-question}
 
 
@@ -7894,8 +7880,8 @@ autonome, décès d’un membre de la famille proche.\
 
 
 
-[]{#s753-q750}
 
+[]{#s753-q750}
 #### A-t-on le droit d'aller à des obsèques ? {#a-t-on-le-droit-daller-à-des-obsèques .item-question}
 
 
@@ -7912,8 +7898,8 @@ dans une autre région que celle où vous êtes confiné.\
 
 
 
-[]{#s753-q1197}
 
+[]{#s753-q1197}
 #### Peut-on aller se recueillir sur la tombe d'un défunt ? {#peut-on-aller-se-recueillir-sur-la-tombe-dun-défunt .item-question}
 
 
@@ -7928,8 +7914,8 @@ case “Déplacements bref, dans la limite d’une heure quotidienne”.\
 
 
 
-[]{#s753-q1146}
 
+[]{#s753-q1146}
 #### Quelles sont les consignes à respecter pour l’inhumation et pour les effets personnels du défunt ? {#quelles-sont-les-consignes-à-respecter-pour-linhumation-et-pour-les-effets-personnels-du-défunt .item-question}
 
 
@@ -7946,8 +7932,8 @@ dans un sac plastique fermé pendant 10 jours.\
 
 
 
-[]{#s753-q1145}
 
+[]{#s753-q1145}
 #### L’incinération est-elle imposée pour les personnes décédées ? {#lincinération-est-elle-imposée-pour-les-personnes-décédées .item-question}
 
 
@@ -7961,8 +7947,8 @@ particulières.\
 
 
 
-[]{#s753-q1147}
 
+[]{#s753-q1147}
 #### Après le décès d’un proche : puis-je récupérer son alliance et son collier ? {#après-le-décès-dun-proche-puis-je-récupérer-son-alliance-et-son-collier .item-question}
 
 
@@ -7976,8 +7962,8 @@ désinfectant approprié ou de l’alcool à 70°.\
 
 
 
-[]{#s753-q1022}
 
+[]{#s753-q1022}
 #### Les donneurs d’organes décédés suite au COVID-19 sont-ils éligibles au don ? {#les-donneurs-dorganes-décédés-suite-au-covid-19-sont-ils-éligibles-au-don .item-question}
 
 
@@ -7987,8 +7973,8 @@ Non.
 
 
 
-[]{#s753-q1230}
 
+[]{#s753-q1230}
 #### J’ai été infecté par le COVID-19, puis-je faire un don d’organe ou de sang ? {#jai-été-infecté-par-le-covid-19-puis-je-faire-un-don-dorgane-ou-de-sang .item-question}
 
 
@@ -8003,8 +7989,8 @@ résiduelle du virus.\
 
 
 
-[]{#s753-q751}
 
+[]{#s753-q751}
 #### Les ministres des cultes peuvent-ils effectuer des visites à des personnes malades ou en fin de vie ? {#les-ministres-des-cultes-peuvent-ils-effectuer-des-visites-à-des-personnes-malades-ou-en-fin-de-vie .item-question}
 
 
@@ -8016,8 +8002,8 @@ Oui.\
 
 
 
-[]{#s753-q752}
 
+[]{#s753-q752}
 #### Puis-je me rendre dans mon lieu de culte ? {#puis-je-me-rendre-dans-mon-lieu-de-culte .item-question}
 
 
@@ -8043,8 +8029,8 @@ et distance barrières.\
 
 
 
-[]{#s782-q1253}
 
+[]{#s782-q1253}
 #### Combien de temps va durer le confinement ? {#combien-de-temps-va-durer-le-confinement .item-question}
 
 
@@ -8062,8 +8048,8 @@ les universités ne rouvriront pas leurs portes avant l’été.
 
 
 
-[]{#s782-q768}
 
+[]{#s782-q768}
 #### Que se passe-t-il si je ne respecte pas les mesures de confinement ? {#que-se-passe-t-il-si-je-ne-respecte-pas-les-mesures-de-confinement .item-question}
 
 
@@ -8091,8 +8077,8 @@ particulières s'appliquent dans votre commune.
 
 
 
-[]{#s782-q835}
 
+[]{#s782-q835}
 #### La police municipale peut-elle verbaliser ? {#la-police-municipale-peut-elle-verbaliser .item-question}
 
 
@@ -8103,8 +8089,8 @@ les agents de la Ville de Paris chargés d’un service de police.
 
 
 
-[]{#s782-q1237}
 
+[]{#s782-q1237}
 #### Suis-je passible d’une amende pour défaut d’attestation ou attestation non conforme ? {#suis-je-passible-dune-amende-pour-défaut-dattestation-ou-attestation-non-conforme .item-question}
 
 
@@ -8120,8 +8106,8 @@ Oui.
 
 
 
-[]{#s782-q1108}
 
+[]{#s782-q1108}
 #### Comment contester une amende pour défaut d’attestation ou attestation non conforme ? {#comment-contester-une-amende-pour-défaut-dattestation-ou-attestation-non-conforme .item-question}
 
 
@@ -8136,8 +8122,8 @@ Oui.
 
 
 
-[]{#s782-q836}
 
+[]{#s782-q836}
 #### Puis-je refuser un contrôle si l’agent de police ne respecte pas les gestes barrières ? {#puis-je-refuser-un-contrôle-si-lagent-de-police-ne-respecte-pas-les-gestes-barrières .item-question}
 
 
@@ -8148,8 +8134,8 @@ doivent respecter les gestes barrières.
 
 
 
-[]{#s782-q837}
 
+[]{#s782-q837}
 #### Mon titre de séjour devait être renouvelé en ce moment. La police fera-t-elle preuve de tolérance à l’issue du confinement ? {#mon-titre-de-séjour-devait-être-renouvelé-en-ce-moment.-la-police-fera-t-elle-preuve-de-tolérance-à-lissue-du-confinement .item-question}
 
 
@@ -8173,8 +8159,8 @@ Les catégories de titres concernées par cette mesure sont :
 
 
 
-[]{#s782-q1131}
 
+[]{#s782-q1131}
 #### Ne pas préciser l'heure de sortie sur son attestation peut-il faire l'objet d'une contravention ? {#ne-pas-préciser-lheure-de-sortie-sur-son-attestation-peut-il-faire-lobjet-dune-contravention .item-question}
 
 
@@ -8184,8 +8170,8 @@ Oui, car c’est une obligation légale.
 
 
 
-[]{#s782-q838}
 
+[]{#s782-q838}
 #### Que faire si je dépasse le temps indiqué sur mon attestation en raison du temps d’attente dans certains supermarchés ? {#que-faire-si-je-dépasse-le-temps-indiqué-sur-mon-attestation-en-raison-du-temps-dattente-dans-certains-supermarchés .item-question}
 
 
@@ -8203,8 +8189,8 @@ sorties pour qu'elles soient les plus brèves possibles.
 
 
 
-[]{#s782-q839}
 
+[]{#s782-q839}
 #### Puis-je être contrôlé dans les jardins de ma copropriété ? {#puis-je-être-contrôlé-dans-les-jardins-de-ma-copropriété .item-question}
 
 
@@ -8214,8 +8200,8 @@ Non, car les contrôles ne s'exercent que sur la voie publique.
 
 
 
-[]{#s782-q840}
 
+[]{#s782-q840}
 #### Les mineurs sont-ils autorisés à sortir seuls ? {#les-mineurs-sont-ils-autorisés-à-sortir-seuls .item-question}
 
 
@@ -8231,8 +8217,8 @@ dérogatoire
 
 
 
-[]{#s782-q1117}
 
+[]{#s782-q1117}
 #### Les locations de vacances sont-elles interdites ? {#les-locations-de-vacances-sont-elles-interdites .item-question}
 
 
@@ -8256,8 +8242,8 @@ santé en cas d’augmentations brutale de la population, etc
 
 
 
-[]{#s782-q1132}
 
+[]{#s782-q1132}
 #### Les locations de vacances sont-elles interdites ? {#les-locations-de-vacances-sont-elles-interdites-1 .item-question}
 
 
@@ -8267,8 +8253,8 @@ Oui.
 
 
 
-[]{#s782-q769}
 
+[]{#s782-q769}
 #### Des reconduites à domicile auront-elles lieu ? Comment seront organisés les contrôles ? {#des-reconduites-à-domicile-auront-elles-lieu-comment-seront-organisés-les-contrôles .item-question}
 
 
@@ -8279,8 +8265,8 @@ sera infligée et on demandera à la personne de retourner chez elle.
 
 
 
-[]{#s782-q770}
 
+[]{#s782-q770}
 #### Sera-t-on suivi par les forces de l’ordre pour vérifier qu'on fait bien ce qu'on a dit ? {#sera-t-on-suivi-par-les-forces-de-lordre-pour-vérifier-quon-fait-bien-ce-quon-a-dit .item-question}
 
 
@@ -8293,8 +8279,8 @@ approfondis au besoin.
 
 
 
-[]{#s782-q771}
 
+[]{#s782-q771}
 #### Doit-je déclarer le lieu où je suis confiné ? {#doit-je-déclarer-le-lieu-où-je-suis-confiné .item-question}
 
 
@@ -8305,8 +8291,8 @@ votre lieu de confinement s’il vous est demandé.
 
 
 
-[]{#s782-q773}
 
+[]{#s782-q773}
 #### Je n'ai pas d’imprimante chez moi, comment faire ? {#je-nai-pas-dimprimante-chez-moi-comment-faire .item-question}
 
 
@@ -8318,8 +8304,8 @@ votre lieu de confinement s’il vous est demandé.
 
 
 
-[]{#s782-q774}
 
+[]{#s782-q774}
 #### Dois-je recopier l’entièreté de l’attestation ou puis-je simplement inscrire le motif de ma sortie sur papier libre ? {#dois-je-recopier-lentièreté-de-lattestation-ou-puis-je-simplement-inscrire-le-motif-de-ma-sortie-sur-papier-libre .item-question}
 
 
@@ -8339,8 +8325,8 @@ Et de signer, dans tous les cas.
 
 
 
-[]{#s782-q1238}
 
+[]{#s782-q1238}
 #### Dois-je faire une nouvelle attestation pour chaque déplacement ? {#dois-je-faire-une-nouvelle-attestation-pour-chaque-déplacement .item-question}
 
 
@@ -8353,8 +8339,8 @@ Oui.
 
 
 
-[]{#s782-q777}
 
+[]{#s782-q777}
 #### Peut-on écrire au crayon à papier et gommer ? {#peut-on-écrire-au-crayon-à-papier-et-gommer .item-question}
 
 
@@ -8365,8 +8351,8 @@ Non, l’attestation de déplacement dérogatoire est à usage unique et doit
 
 
 
-[]{#s782-q778}
 
+[]{#s782-q778}
 #### Quand c'est la même activité réalisée plusieurs fois, elle doit être automatiquement indiquée à la date du jour sur le formulaire ? {#quand-cest-la-même-activité-réalisée-plusieurs-fois-elle-doit-être-automatiquement-indiquée-à-la-date-du-jour-sur-le-formulaire .item-question}
 
 
@@ -8378,8 +8364,8 @@ travail et une validité permanente.
 
 
 
-[]{#s782-q779}
 
+[]{#s782-q779}
 #### Peut-on cocher plusieurs cases et grouper ses sorties ? {#peut-on-cocher-plusieurs-cases-et-grouper-ses-sorties .item-question}
 
 
@@ -8391,8 +8377,8 @@ d’indiquer plusieurs motifs.
 
 
 
-[]{#s782-q1239}
 
+[]{#s782-q1239}
 #### L’attestation de déplacement dérogatoire peut-elle se faire en numérique, plutôt que sur papier ? {#lattestation-de-déplacement-dérogatoire-peut-elle-se-faire-en-numérique-plutôt-que-sur-papier .item-question}
 
 
@@ -8404,8 +8390,8 @@ ligne sur le site du ministère de l’Intérieur :
 
 
 
-[]{#s782-q1134}
 
+[]{#s782-q1134}
 #### Est-ce que les attestations papier restent valables ? {#est-ce-que-les-attestations-papier-restent-valables .item-question}
 
 
@@ -8415,8 +8401,8 @@ Oui.
 
 
 
-[]{#s782-q1135}
 
+[]{#s782-q1135}
 #### Comment le dispositif numérique fonctionne-t-il ? {#comment-le-dispositif-numérique-fonctionne-t-il .item-question}
 
 
@@ -8436,8 +8422,8 @@ grâce à votre smartphone ou votre tablette numérique.
 
 
 
-[]{#s782-q1136}
 
+[]{#s782-q1136}
 #### Quelles sont les garanties concernant les données personnelles ? {#quelles-sont-les-garanties-concernant-les-données-personnelles .item-question}
 
 
@@ -8454,8 +8440,8 @@ lecture à une distance conforme aux gestes barrière.
 
 
 
-[]{#s782-q1137}
 
+[]{#s782-q1137}
 #### Ce dispositif fonctionne-t-il sur tous les appareils ? {#ce-dispositif-fonctionne-t-il-sur-tous-les-appareils .item-question}
 
 
@@ -8465,8 +8451,8 @@ Oui.
 
 
 
-[]{#s782-q780}
 
+[]{#s782-q780}
 #### Dois-je toujours sortir avec une pièce d’identité ? {#dois-je-toujours-sortir-avec-une-pièce-didentité .item-question}
 
 
@@ -8476,8 +8462,8 @@ Oui, c’est obligatoire, comme en temps normal.
 
 
 
-[]{#s782-q860}
 
+[]{#s782-q860}
 #### Puis-je rendre visite à un proche qui sort de l’hôpital ? {#puis-je-rendre-visite-à-un-proche-qui-sort-de-lhôpital .item-question}
 
 
@@ -8488,8 +8474,8 @@ impératif d’assistance.
 
 
 
-[]{#s782-q781}
 
+[]{#s782-q781}
 #### J’ai des problèmes pour me déplacer. Puis-je bénéficier de la même attestation que mon accompagnateur ? {#jai-des-problèmes-pour-me-déplacer.-puis-je-bénéficier-de-la-même-attestation-que-mon-accompagnateur .item-question}
 
 
@@ -8501,8 +8487,8 @@ d’identité.
 
 
 
-[]{#s782-q783}
 
+[]{#s782-q783}
 #### Pour les enseignants qui accueillent les enfants de soignants, leur faut-il un justificatif en plus de l'attestation ? {#pour-les-enseignants-qui-accueillent-les-enfants-de-soignants-leur-faut-il-un-justificatif-en-plus-de-lattestation .item-question}
 
 
@@ -8513,8 +8499,8 @@ besoin de justificatif complémentaire.
 
 
 
-[]{#s782-q784}
 
+[]{#s782-q784}
 #### Comment font les personnes illettrées ? {#comment-font-les-personnes-illettrées .item-question}
 
 
@@ -8527,8 +8513,8 @@ la rédaction de leur attestation de déplacement dérogatoire.
 
 
 
-[]{#s782-q785}
 
+[]{#s782-q785}
 #### Certaines catégories de personnes sont-elles exemptées de cette attestation ? {#certaines-catégories-de-personnes-sont-elles-exemptées-de-cette-attestation .item-question}
 
 
@@ -8541,8 +8527,8 @@ journalistes peut être utilisée pour se rendre sur son lieu de travail.
 
 
 
-[]{#s782-q786}
 
+[]{#s782-q786}
 #### Pourquoi ce n'est pas à l'employeur de remplir l'attestation pour ses salariés ? {#pourquoi-ce-nest-pas-à-lemployeur-de-remplir-lattestation-pour-ses-salariés .item-question}
 
 
@@ -8558,8 +8544,8 @@ aux forces de l’ordre sur demande.
 
 
 
-[]{#s782-q843}
 
+[]{#s782-q843}
 #### Pour ceux qui travaillent au Chèque emploi service universel (CESU), qui doit faire l’attestation (employeurs, CESU ou employé) ? {#pour-ceux-qui-travaillent-au-chèque-emploi-service-universel-cesu-qui-doit-faire-lattestation-employeurs-cesu-ou-employé .item-question}
 
 
@@ -8571,8 +8557,8 @@ exercez.
 
 
 
-[]{#s782-q1166}
 
+[]{#s782-q1166}
 #### Y a-t-il des restrictions d'accès au territoire français ? {#y-a-t-il-des-restrictions-daccès-au-territoire-français .item-question}
 
 
@@ -8599,8 +8585,8 @@ l'Intérieur
 
 
 
-[]{#s782-q1240}
 
+[]{#s782-q1240}
 #### Est ce qu'il y a une notion de distance pour les trajets ? {#est-ce-quil-y-a-une-notion-de-distance-pour-les-trajets .item-question}
 
 
@@ -8616,8 +8602,8 @@ personnes.
 
 
 
-[]{#s782-q964}
 
+[]{#s782-q964}
 #### Quand pourra-t-on voir les effets du confinement ? {#quand-pourra-t-on-voir-les-effets-du-confinement .item-question}
 
 
@@ -8633,8 +8619,8 @@ personnes atteintes peuvent développer des formes graves
 
 
 
-[]{#s782-q965}
 
+[]{#s782-q965}
 #### Quel élément pourra déclencher la fin du confinement ? {#quel-élément-pourra-déclencher-la-fin-du-confinement .item-question}
 
 
@@ -8659,8 +8645,8 @@ post-épidémique.
 
 
 
-[]{#s794-q926}
 
+[]{#s794-q926}
 #### Je n’ai pas de symptômes ou je n’ai pas été exposé au COVID-19 à ma connaissance {#je-nai-pas-de-symptômes-ou-je-nai-pas-été-exposé-au-covid-19-à-ma-connaissance .item-question}
 
 
@@ -8679,8 +8665,8 @@ post-épidémique.
 
 
 
-[]{#s794-q787}
 
+[]{#s794-q787}
 #### J’ai des symptômes (toux, fièvre) qui me font penser au COVID-19 {#jai-des-symptômes-toux-fièvre-qui-me-font-penser-au-covid-19 .item-question}
 
 
@@ -8695,8 +8681,8 @@ post-épidémique.
 
 
 
-[]{#s794-q925}
 
+[]{#s794-q925}
 #### Je vis avec un cas confirmé de COVID-19 {#je-vis-avec-un-cas-confirmé-de-covid-19 .item-question}
 
 
@@ -8715,8 +8701,8 @@ malade :
 
 
 
-[]{#s794-q788}
 
+[]{#s794-q788}
 #### Je suis parent {#je-suis-parent .item-question}
 
 
@@ -8734,8 +8720,8 @@ permettre d’en bénéficier :
 
 
 
-[]{#s794-q789}
 
+[]{#s794-q789}
 #### Je suis médecin libéral {#je-suis-médecin-libéral .item-question}
 
 
@@ -8756,8 +8742,8 @@ sanitaires via le service DGS-Urgent.
 
 
 
-[]{#s794-q790}
 
+[]{#s794-q790}
 #### Je suis un élu local {#je-suis-un-élu-local .item-question}
 
 
@@ -8773,8 +8759,8 @@ ministère des Solidarités et de la Santé.
 
 
 
-[]{#s794-q791}
 
+[]{#s794-q791}
 #### Je suis un employeur {#je-suis-un-employeur .item-question}
 
 
@@ -8793,8 +8779,8 @@ Travail](https://travail-emploi.gouv.fr/actualites/l-actualite-du-ministere/arti
 
 
 
-[]{#s794-q792}
 
+[]{#s794-q792}
 #### Je suis un étudiant {#je-suis-un-étudiant .item-question}
 
 
@@ -8814,8 +8800,8 @@ appui aux centres 15 pour la gestion des appels téléphoniques).*
 
 
 
-[]{#s794-q793}
 
+[]{#s794-q793}
 #### Je suis une femme enceinte {#je-suis-une-femme-enceinte .item-question}
 
 
@@ -8836,8 +8822,8 @@ enfants de moins de 10 ans).
 
 
 
-[]{#s794-q795}
 
+[]{#s794-q795}
 #### Je suis une assistante maternelle {#je-suis-une-assistante-maternelle .item-question}
 
 
@@ -8866,8 +8852,8 @@ solidarité nationale.
 
 
 
-[]{#s808-q844}
 
+[]{#s808-q844}
 #### Qu’est-ce que l’état d’urgence sanitaire ? {#quest-ce-que-létat-durgence-sanitaire .item-question}
 
 
@@ -9026,8 +9012,8 @@ complémentaires ont été adoptées en conseil des ministres le 1er avril
 
 
 
-[]{#s808-q796}
 
+[]{#s808-q796}
 #### Quels sont les stades de gestion de l’épidémie de Coronavirus COVID-19 en France ? {#quels-sont-les-stades-de-gestion-de-lépidémie-de-coronavirus-covid-19-en-france .item-question}
 
 
@@ -9061,8 +9047,8 @@ impactées.\
 
 
 
-[]{#s808-q797}
 
+[]{#s808-q797}
 #### Qu’est-ce que le centre de crise du ministère de l’Intérieur ? Et la cellule interministérielle de crise ? {#quest-ce-que-le-centre-de-crise-du-ministère-de-lintérieur-et-la-cellule-interministérielle-de-crise .item-question}
 
 
@@ -9088,8 +9074,8 @@ permanente.
 
 
 
-[]{#s808-q966}
 
+[]{#s808-q966}
 #### Comment s’effectue le suivi de l’épidémie de COVID-19 en France ? {#comment-seffectue-le-suivi-de-lépidémie-de-covid-19-en-france .item-question}
 
 
@@ -9113,8 +9099,8 @@ accéder au tableau de bord complet de suivi de l’épidémie.
 
 
 
-[]{#s808-q967}
 
+[]{#s808-q967}
 #### Quelle stratégie pour lutter contre le COVID-19 ? {#quelle-stratégie-pour-lutter-contre-le-covid-19 .item-question}
 
 
@@ -9129,8 +9115,8 @@ Notre stratégie pour lutter contre le virus est double :
 
 
 
-[]{#s808-q968}
 
+[]{#s808-q968}
 #### Comment la capacité d’accueil des hôpitaux est-elle renforcée ? {#comment-la-capacité-daccueil-des-hôpitaux-est-elle-renforcée .item-question}
 
 
@@ -9170,8 +9156,8 @@ et humains supplémentaires : \
 
 
 
-[]{#s808-q1298}
 
+[]{#s808-q1298}
 #### Pourquoi transférer les personnes infectées dans d’autres hôpitaux plutôt que de réquisitionner des gymnases et les soigner sur place ? {#pourquoi-transférer-les-personnes-infectées-dans-dautres-hôpitaux-plutôt-que-de-réquisitionner-des-gymnases-et-les-soigner-sur-place .item-question}
 
 
@@ -9188,8 +9174,8 @@ prise en charge.
 
 
 
-[]{#s808-q845}
 
+[]{#s808-q845}
 #### Comment s’effectue la surveillance des décès en France ? {#comment-seffectue-la-surveillance-des-décès-en-france .item-question}
 
 
@@ -9234,8 +9220,8 @@ Voir les données épidémiologiques :
 
 
 
-[]{#s808-q799}
 
+[]{#s808-q799}
 #### Qu’est-ce que le plan blanc ? {#quest-ce-que-le-plan-blanc .item-question}
 
 
@@ -9257,8 +9243,8 @@ crise :\
 
 
 
-[]{#s808-q800}
 
+[]{#s808-q800}
 #### À quel niveau du plan blanc est-on ? {#à-quel-niveau-du-plan-blanc-est-on .item-question}
 
 
@@ -9288,8 +9274,8 @@ jeunes retraités.
 
 
 
-[]{#s808-q801}
 
+[]{#s808-q801}
 #### Qu’est-ce que le plan bleu ? {#quest-ce-que-le-plan-bleu .item-question}
 
 
@@ -9306,8 +9292,8 @@ Il est demandé dès sa mise en place un plan de continuité d’activité.
 
 
 
-[]{#s808-q802}
 
+[]{#s808-q802}
 #### Et pour les établissements de santé ? {#et-pour-les-établissements-de-santé .item-question}
 
 
@@ -9324,8 +9310,8 @@ compris dans les services de maternité.
 
 
 
-[]{#s808-q1241}
 
+[]{#s808-q1241}
 #### Comment fonctionne le remboursement d’une consultation en télémédecine ? {#comment-fonctionne-le-remboursement-dune-consultation-en-télémédecine .item-question}
 
 
@@ -9347,8 +9333,8 @@ connexion Internet…
 
 
 
-[]{#s808-q803}
 
+[]{#s808-q803}
 #### Quels sont les assouplissements de règles pour la télémédecine ? {#quels-sont-les-assouplissements-de-règles-pour-la-télémédecine .item-question}
 
 
@@ -9375,8 +9361,8 @@ connexion internet...\
 
 
 
-[]{#s808-q804}
 
+[]{#s808-q804}
 #### Pourquoi les heures supplémentaires des professionnels de santé sont-elles déplafonnées ? {#pourquoi-les-heures-supplémentaires-des-professionnels-de-santé-sont-elles-déplafonnées .item-question}
 
 
@@ -9387,8 +9373,8 @@ plus facilement la continuité des soins dans les services.
 
 
 
-[]{#s808-q805}
 
+[]{#s808-q805}
 #### L’Assistance Publique - Hôpitaux de Paris (AP-HP) rappelle certains retraités qui ont quitté un établissement récemment. Tous les hôpitaux vont-ils faire de même ? {#lassistance-publique---hôpitaux-de-paris-ap-hp-rappelle-certains-retraités-qui-ont-quitté-un-établissement-récemment.-tous-les-hôpitaux-vont-ils-faire-de-même .item-question}
 
 
@@ -9407,8 +9393,8 @@ ambulanciers. Ils peuvent être en activité, sans emploi, à la retraite,
 
 
 
-[]{#s808-q806}
 
+[]{#s808-q806}
 #### Quels sont les professionnels de santé et paramédicaux autorisés à exercer ? {#quels-sont-les-professionnels-de-santé-et-paramédicaux-autorisés-à-exercer .item-question}
 
 
@@ -9421,8 +9407,8 @@ risque pour les patients.
 
 
 
-[]{#s808-q807}
 
+[]{#s808-q807}
 #### Quels sont les dispositifs mis en place dans les établissements pénitentiaires ? {#quels-sont-les-dispositifs-mis-en-place-dans-les-établissements-pénitentiaires .item-question}
 
 
@@ -9446,8 +9432,8 @@ protéger les personnes détenues et les personnels pénitentiaires : 
 
 
 
-[]{#s808-q969}
 
+[]{#s808-q969}
 #### Quels dispositifs spécifiques pour les territoires d’Outre-mer ? {#quels-dispositifs-spécifiques-pour-les-territoires-doutre-mer .item-question}
 
 
@@ -9479,8 +9465,8 @@ aux malades du COVID-19.
 
 
 
-[]{#s808-q863}
 
+[]{#s808-q863}
 #### Que fait l’Europe ? {#que-fait-leurope .item-question}
 
 
@@ -9536,8 +9522,8 @@ COVID-19](https://www.diplomatie.gouv.fr/fr/politique-etrangere-de-la-france/eur
 
 
 
-[]{#s808-q971}
 
+[]{#s808-q971}
 #### Les personnes décédées dans les EHPAD sont-elles comptabilisées dans les chiffres de victimes du COVID-19 ? {#les-personnes-décédées-dans-les-ehpad-sont-elles-comptabilisées-dans-les-chiffres-de-victimes-du-covid-19 .item-question}
 
 
@@ -9580,8 +9566,8 @@ et en Langue des Signes Française (LSF).
 
 
 
-[]{#s1111-q1109}
 
+[]{#s1111-q1109}
 #### Quels sont les contentieux maintenus dans les tribunaux ? {#quels-sont-les-contentieux-maintenus-dans-les-tribunaux .item-question}
 
 
@@ -9624,8 +9610,8 @@ et dans le respect des délais de détention provisoire.
 
 
 
-[]{#s1111-q1110}
 
+[]{#s1111-q1110}
 #### Comment joindre mon tribunal ? {#comment-joindre-mon-tribunal .item-question}
 
 
@@ -9651,8 +9637,8 @@ contact avec votre tribunal pour savoir si votre audience est maintenue.
 
 
 
-[]{#s1162-q1159}
 
+[]{#s1162-q1159}
 #### Quelles dispositions doivent prendre les collectivités locales ? {#quelles-dispositions-doivent-prendre-les-collectivités-locales .item-question}
 
 
@@ -9713,8 +9699,8 @@ locales durant l’état d’urgence sanitaire. Elle prévoit notamment que :\
 
 
 
-[]{#s1162-q1160}
 
+[]{#s1162-q1160}
 #### Quelles sont les dispositions liées à la continuité des services publics locaux ? {#quelles-sont-les-dispositions-liées-à-la-continuité-des-services-publics-locaux .item-question}
 
 
@@ -9734,8 +9720,8 @@ l’évolution de la situation.
 
 
 
-[]{#s1162-q1161}
 
+[]{#s1162-q1161}
 #### Qu’en est-il des services funéraires ? {#quen-est-il-des-services-funéraires .item-question}
 
 
@@ -9755,8 +9741,8 @@ funéraire.
 
 
 
-[]{#s1162-q1163}
 
+[]{#s1162-q1163}
 #### Qu'en est-il de la vie de la collectivité territoriale ? {#quen-est-il-de-la-vie-de-la-collectivité-territoriale .item-question}
 
 
@@ -9809,8 +9795,8 @@ aux collectivités locales, dans le cadre de l’urgence sanitaire, sur : \
 
 
 
-[]{#s1162-q1164}
 
+[]{#s1162-q1164}
 #### Dans le cadre de la crise sanitaire, les conseils municipaux peuvent-ils être maintenus ? {#dans-le-cadre-de-la-crise-sanitaire-les-conseils-municipaux-peuvent-ils-être-maintenus .item-question}
 
 
@@ -10235,6 +10221,11 @@ Liens secondaires {#liens-secondaires .element-invisible}
 
 
 
+
+
+
+
+class="block block-pmv6-schema-org block-even">
 
 
 
