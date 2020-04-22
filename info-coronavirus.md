@@ -1955,13 +1955,11 @@ suivant les comptes du gouvernement:**
 
 
 
-
 [[Twitter]{.icone
 .icone-presence-twitter}](https://twitter.com/gouvernementfr "Retrouvez-nous sur Twitter - nouvelle fenêtre"){.presence
 .presence-twitter}[[Facebook]{.icone
 .icone-presence-facebook}](https://www.facebook.com/gouvernement.fr/ "Retrouvez-nous sur Facebook - nouvelle fenêtre"){.presence
 .presence-facebook}
-
 
 
 data-apple-banner-context="Des informations, des liens utiles et les réponses aux questions fréquentes."
@@ -1972,7 +1970,7 @@ data-apple-banner-orientation="vertical"
 data-apple-banner-rounded-corners="false" data-apple-banner-scale="1"
 data-apple-business-body="Envoyer ce message pour commencer"
 data-apple-business-id="c89f57a6-4a1c-460e-a164-9c79fd47064d"
-data-apple-business-intent-id="alc:prod2:949:7:1371"
+data-apple-business-intent-id="alc2_prod2_949_7_1371"
 style="max-width:400px;margin: 0 auto;">
 
  
