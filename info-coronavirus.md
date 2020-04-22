@@ -122,7 +122,7 @@ COVID-19
 
 
 
-Mis à jour le lundi 20 avril 2020, à 19h30
+Mis à jour le mardi 21 avril 2020, à 19h30
 
 
 -   [Francais](/info-coronavirus){.active}
@@ -1224,7 +1224,7 @@ telle ampleur, en temps réel, au cours d'une épidémie.
 ### Point de situation en France {#point-de-situation-en-france .item-paragraphe-titre .c-onglet data-section="s641" data-picto=""}
 
 
-**Le 20 avril 2020, à 19h30**\
+**Le 21 avril 2020, à 19h30**\
  
 
 Les autorités sanitaires tiennent [un point presse
@@ -1237,12 +1237,12 @@ Les informations du jour :
     plusieurs zones de regroupement de cas (clusters). Nous sommes
     actuellement au stade 3 du plan d’actions du Gouvernement qui a pour
     objectif de prévenir et limiter la circulation du virus. 
--   En France, 114 657 cas seraient confirmés selon les estimations de
+-   En France, 117 324 cas seraient confirmés selon les estimations de
     Santé publique France. 
--   Depuis le 1er mars, nous déplorons 20 265 décès liés au COVID-19 :
-    12 513 décès dans les hôpitaux et 7 752 décès dans les
+-   Depuis le 1er mars, nous déplorons 20 796 décès liés au COVID-19 :
+    12 900 décès dans les hôpitaux et 7 896 décès dans les
     établissements sociaux et médico-sociaux.
--   Depuis le début de l’épidémie, 37 409 personnes sont sorties guéries
+-   Depuis le début de l’épidémie, 39 181 personnes sont sorties guéries
     de l’hôpital.
 
 Retrouvez toutes les données sur [le tableau de bord COVID-19 de
@@ -1964,16 +1964,18 @@ suivant les comptes du gouvernement:**
 
 
 
-data-apple-banner-cta="Une question sur le COVID-19 ? Notre chatbot vous aide à trouver la réponse !"
 data-apple-banner-context="Des informations, des liens utiles et les réponses aux questions fréquentes."
+data-apple-banner-cta="Une question sur le COVID-19 ? Notre chatbot vous aide à trouver la réponse !"
 data-apple-banner-icon-background-color="rgb(178,178,178)"
 data-apple-banner-icon-color="rgba(255,255,254,1)"
-data-apple-business-intent-id="alc:prod2:949:7:1371"
-data-apple-banner-scale="1" data-apple-banner-orientation="vertical"
-data-apple-banner-rounded-corners="false"
+data-apple-banner-orientation="vertical"
+data-apple-banner-rounded-corners="false" data-apple-banner-scale="1"
 data-apple-business-body="Envoyer ce message pour commencer"
 data-apple-business-id="c89f57a6-4a1c-460e-a164-9c79fd47064d"
+data-apple-business-intent-id="alc:prod2:949:7:1371"
 style="max-width:400px;margin: 0 auto;">
+
+ 
 
 
 
