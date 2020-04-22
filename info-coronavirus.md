@@ -122,7 +122,7 @@ COVID-19
 
 
 
-Mis à jour le merecredu 22 avril 2020, à 19h30
+Mis à jour le merecredi 22 avril 2020, à 19h30
 
 
 -   [Francais](/info-coronavirus){.active}
