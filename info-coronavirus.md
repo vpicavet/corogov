@@ -28,7 +28,7 @@ menu](/info-coronavirus#nav)
 
 [![Gouvernement.fr - Retour à
 l'accueil](https://www.gouvernement.fr/sites/all/themes/custom/matignon/img/header/GOUVERNEMENT_LOGO.svg)](/ "Gouvernement.fr - Retour à l'accueil"){#marianne
-.col-md-3 .col-sm-3 .col-xs-6}[](/){#logo}
+.col-md-3 .col-sm-3 .col-xs-6}
 
 [EN](/en/news "Afficher la version anglaise du site"){#switch-lang}
 
@@ -122,7 +122,7 @@ COVID-19
 
 
 
-Mis à jour le merecredi 22 avril 2020, à 19h30
+Mis à jour le mercredi 22 avril 2020, à 19h30
 
 
 -   [Francais](/info-coronavirus){.active}
@@ -4947,7 +4947,7 @@ Oui.\
 \
 Les restaurants ont fermé leurs portes, tout comme les bars, brasseries,
 cafés et discothèques, jusqu'à nouvel ordre. En revanche les activités
-de vente à emporter et de livraison sont maintenues dans les restaurants
+de vente à emporter et de livraison sont possibles dans les restaurants
 et débits de boissons, avec la recommandation d'éviter tout contact.
 
 
@@ -10227,7 +10227,7 @@ Creative Commons.
 
 
 [![Gouvernement.fr - Retour à
-l'accueil](https://www.gouvernement.fr/sites/all/themes/custom/matignon/img/header/GOUVERNEMENT_LOGO.svg)](/ " - Retour à l'accueil"){#marianne}
+l'accueil](https://www.gouvernement.fr/sites/all/themes/custom/matignon/img/header/GOUVERNEMENT_LOGO.svg)](/ "Gouvernement.fr - Retour à l'accueil"){#marianne_footer}
 
 
 
