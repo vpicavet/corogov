@@ -450,6 +450,74 @@ avoir eu lieu.
 ### Transmission {#transmission .item-paragraphe-titre .c-onglet data-section="s622" data-picto=""}
 
 
+class="asset-wrapper asset aid-11502 asset-dmcloud-video asset-full">
+
+
+Comment lutter contre le Coronavirus ?
+
+
+
+class="field field-name-field-dm-video field-type-field-dm-video field-label-hidden">
+
+
+
+
+height="400" frameborder="0" title="lecteur vidéo" allowfullscreen="1"
+lang="fr">
+
+
+
+
+
+
+
+
+class="field field-name-field-partage field-type-pmv6-partage field-label-hidden">
+
+
+
+
+
+
+
+
+
+
+ 
+class="asset-wrapper asset aid-11503 asset-dmcloud-video asset-full">
+
+
+Pourquoi le confinement est essentiel pour lutter contre le Coronavirus
+?
+
+
+
+class="field field-name-field-dm-video field-type-field-dm-video field-label-hidden">
+
+
+
+
+height="400" frameborder="0" title="lecteur vidéo" allowfullscreen="1"
+lang="fr">
+
+
+
+
+
+
+
+
+class="field field-name-field-partage field-type-pmv6-partage field-label-hidden">
+
+
+
+
+
+
+
+
+
+
 
 
 
