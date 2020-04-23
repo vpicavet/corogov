@@ -111,18 +111,18 @@ COVID-19
 
 
 
+-   [Désinfox](/info-coronavirus/desinfox){.button-cta .desinfox}
 -   [Orientation
     médicale](/info-coronavirus/orientation-medicale){.button-cta
     .omedicale}
 -   [Carte et données](/info-coronavirus/carte-et-donnees){.button-cta
     .carte}
--   [Questions/réponses](/info-coronavirus#questions){.button-cta .red}
 
 
 
 
 
-Mis à jour le mercredi 22 avril 2020, à 19h30
+Mis à jour le jeudi 23 avril 2020, à 19h15
 
 
 -   [Francais](/info-coronavirus){.active}
@@ -1292,7 +1292,7 @@ telle ampleur, en temps réel, au cours d'une épidémie.
 ### Point de situation en France {#point-de-situation-en-france .item-paragraphe-titre .c-onglet data-section="s641" data-picto=""}
 
 
-**Le 22 avril 2020, à 19h30**\
+**Le 23 avril 2020, à 19h15**\
  
 
 Les autorités sanitaires tiennent [un point presse
@@ -1305,12 +1305,12 @@ Les informations du jour :
     plusieurs zones de regroupement de cas (clusters). Nous sommes
     actuellement au stade 3 du plan d’actions du Gouvernement qui a pour
     objectif de prévenir et limiter la circulation du virus. 
--   En France, 119 151 cas seraient confirmés selon les estimations de
+-   En France, 120 804cas seraient confirmés selon les estimations de
     Santé publique France. 
--   Depuis le 1er mars, nous déplorons 21 340 décès liés au COVID-19 :
-    13 236 décès dans les hôpitaux et 8 104 décès dans les
+-   Depuis le 1er mars, nous déplorons 21 856 décès liés au COVID-19 :
+    13 547 décès dans les hôpitaux et 8 309 décès dans les
     établissements sociaux et médico-sociaux.
--   Depuis le début de l’épidémie, 40 657 personnes sont sorties guéries
+-   Depuis le début de l’épidémie, 42 088 personnes sont sorties guéries
     de l’hôpital.
 
 Retrouvez toutes les données sur [le tableau de bord COVID-19 de
