@@ -3685,6 +3685,33 @@ population jusqu’au 11 mai par le président de la République.
 
 
 
+[]{#s1322}
+### Pour l'innovation et la recherche {#pour-linnovation-et-la-recherche .item-paragraphe-titre .c-onglet data-section="s1322" data-picto=""}
+
+
+Vous avez une innovation ? L’État peut vous soutenir.\
+\
+Si vous développez une innovation qui peut résoudre une problématique
+liée à la crise actuelle, vous pouvez vous rendre sur [cette
+page](https://www.gouvernement.fr/info-coronavirus/soutien-a-l-innovation)
+pour trouver le bon dispositif qui correspond à votre innovation, et
+ainsi trouver l’aide publique la plus appropriée.\
+\
+La crise liée à l’épidémie de Covid-19 a créé une demande urgente
+d’innovations en matière d’équipements médicaux, de traitements
+thérapeutiques, de transports, d’enseignement, de travail à distance,
+d’approvisionnement logistique, etc.\
+\
+L’État et ses partenaires ont lancé plusieurs initiatives (appels à
+projets, appels à mobilisation, plateforme de ressources…) afin de
+soutenir tous les entrepreneurs et chercheurs qui développent des
+innovations en réponse à la crise.
+
+
+
+
+
+
 
 
 []{#questions}
@@ -10087,6 +10114,8 @@ Ko]{}](https://www.gouvernement.fr/sites/default/files/cfiles/clauses-types_pour
 -   [Site de l’assurance Maladie](https://www.ameli.fr/assure)
 -   [Modalités pour les demandeurs
     d’emploi](https://www.pole-emploi.fr/actualites/information-covid-19.html)
+-   [Soutien à la
+    recherche](https://www.gouvernement.fr/info-coronavirus/soutien-a-l-innovation)
 
 
 
