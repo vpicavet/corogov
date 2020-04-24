@@ -2571,8 +2571,8 @@ pour quinze jours minimum.\
 \
 Après une première prolongation de deux semaines, annoncée par le
 Premier ministre le 27 mars 2020, le confinement est à nouveau prolongé
-au-delà du mercredi 15 avril. Les mêmes règles que celles actuellement
-en vigueur continuent à s’appliquer.\
+au moins jusqu'au 11 mai. Les mêmes règles que celles actuellement en
+vigueur continuent à s’appliquer.\
 \
 Cette période de confinement pourra être prolongée si la situation
 sanitaire l’exige.\
@@ -2672,15 +2672,15 @@ et le consulat général de France à Wuhan.
 ### Pour la scolarité {#pour-la-scolarité .item-paragraphe-titre .c-onglet data-section="s669" data-picto=""}
 
 
-**Fermeture de tous les établissements scolaires**\
+**Fermeture de tous les établissements scolaires jusqu'au 11 mai**\
 \
 Le président de la République a annoncé, le 12 mars 2020, la fermeture
 de l’ensemble des crèches, écoles, collèges, lycées et universités. Les
 crèches, cantines, écoles, collèges et lycées rouvriront progressivement
-à partir du 11 mai. Le retour des élèves, des enseignants et des
-personnels administratifs et techniques se fera dans les écoles dans le
-respect impératif des règles de sécurité sanitaire. Jusqu'au 11 mai, les
-établissements scolaires continueront d'accueillir les enfants de
+à partir du 11 mai. Le retour progressif des élèves, des enseignants et
+des personnels administratifs et techniques se fera dans les écoles dans
+le respect impératif des règles de sécurité sanitaire. Jusqu'au 11 mai,
+les établissements scolaires continueront d'accueillir les enfants de
 professionnels de santé. Les universités ne rouvriront pas avant l’été.\
 \
 Cette mesure, prise sur recommandations des scientifiques au vu de
@@ -2866,16 +2866,16 @@ d’urgence de soutien de 110 milliards d'euros avec les mesures suivantes
  \
 Pour les personnels soignants :
 
--   Tous les agents travaillant à l’hôpital dans la trentaine de
+-   tous les agents travaillant à l’hôpital dans la trentaine de
     départements les plus touchés par l’épidémie recevront une prime de
     1500€, versée quel que soit le statut ou le métier considéré.
     Internes, agents de service, infirmiers, médecins : tous ont formé
     un collectif dont l’effort doit être reconnu et valorisé.
--   Dans les autres départements, les agents ayant travaillé dans les
+-   dans les autres départements, les agents ayant travaillé dans les
     services COVID+ des 108 hôpitaux de référence percevront également
     la prime de 1500€. Les agents des autres services percevront une
     prime de 500€.
--   Une prime sera également versée aux personnels sein des EHPAD et des
+-   une prime sera également versée aux personnels sein des EHPAD et des
     services à domicile du secteur médico-social. Ces mesures sont en
     discussion avec les départements
 
@@ -2896,15 +2896,15 @@ automatiquement aux 4 millions de foyers qui y ont droit le 15 mai
 2020.\
 \
 Pour les agents de la fonction publique d’Etat :
--   Les agents publics sont fortement engagés dans la lutte contre
+-   les agents publics sont fortement engagés dans la lutte contre
     l’épidémie de Coronavirus. Conformément aux engagements du Président
     de la République, le Gouvernement versera une prime aux agents de la
     fonction publique d’Etat ayant dû faire face à un surcroît
     d’activité pendant la période d’état d’urgence sanitaire, en
     présentiel ou en télétravail.
--   La prime exceptionnelle pourra aller jusqu’à 1000 euros et sera
+-   la prime exceptionnelle pourra aller jusqu’à 1000 euros et sera
     exonérée d’impôts et de cotisations sociales.
--   De la même manière, les employeurs territoriaux pourront décider le
+-   de la même manière, les employeurs territoriaux pourront décider le
     versement d’une prime allant jusqu’à 1000 euros pour les agents
     publics de la fonction publique territoriale. Elle concernera les
     agents de leurs collectivités ayant fait face à un surcroît
@@ -3298,12 +3298,12 @@ cette page.
 
 
 
-Face aux conséquences économiques de la crise du coronavirus, chacun
-doit faire preuve de solidarité et de responsabilité. Le Gouvernement a
+Face aux conséquences économiques de la crise du Covid-19, chacun doit
+faire preuve de solidarité et de responsabilité. Le Gouvernement a
 demandé aux assureurs d’augmenter leur effort pour aider les entreprises
 dans le besoin et les assurés les plus vulnérables au COVID-19. Après
-avoir rencontré le Premier ministre et le ministre de l’économie et des
-finances, les assureurs ont pris des engagements significatifs qui
+avoir rencontré le Premier ministre et le ministre de l’Economie et des
+Finances, les assureurs ont pris des engagements significatifs qui
 consistent à :
 -   Apporter 400 millions d’euros au Fonds de solidarité (contre 200
     initialement envisagés) ;
@@ -4728,60 +4728,6 @@ inconnus.
 
 
 
-[]{#s1079-q1226}
-#### Les pensions alimentaires doivent-elles être versées comme d’habitude ? {#les-pensions-alimentaires-doivent-elles-être-versées-comme-dhabitude-1 .item-question}
-
-
-
-Oui. Toutes les pensions alimentaires doivent être payées à la date
-prévue.\
-\
-Vous ne percevez  pas correctement la pension alimentaire fixée
-légalement oui, du fait de difficultés financières, vous ne pouvez pas
-verser cette pension alimentaire ?\
-\
-=&gt; Contactez votre Caisse d’allocations familiales ou votre Caisse de
-mutualité sociale agricole pour saisir l’agence de recouvrement des
-impayés de pensions alimentaire (ARIPA) .\
-L’ARIPA pourra, si besoin, verser une allocation de substitution à la
-pension alimentaire (l’allocation de soutien familial ou ASF, d’un
-montant de 115€) à tout parent isolé et se charger du recouvrement de
-l’impayé.\
-\
-En savoir plus :
-[pension-alimentaire.caf.fr](http://pension-alimentaire.caf.fr).     \
-\
-A noter : pendant le confinement, le versement de l’ASF aux familles
-monoparentales récemment séparées et n’ayant pas encore de titre
-exécutoire de pension alimentaire est prolongé de 4 mois.\
-\
- 
-
-
-
-
-
-[]{#s1079-q1227}
-#### On m’a refusé l’entrée au supermarché, alors que j’étais accompagné de mon enfant en bas âge, que j’élève seul. Que faire ? {#on-ma-refusé-lentrée-au-supermarché-alors-que-jétais-accompagné-de-mon-enfant-en-bas-âge-que-jélève-seul.-que-faire-1 .item-question}
-
-
-
-Ce refus est illégal. De même, on ne peut pas vous demander de laisser
-votre enfant à la caisse ou avec des inconnus.\
-\
-Indiquez que vous signalez ce magasin sur
-[dgcs-coursesparentsisoles@social.gouv.fr](mailto:dgcs-coursesparentsisoles@social.gouv.fr%20)
-: une adresse ouverte par le secrétariat d’Etat chargé de l’Egalité
-entre les femmes et les hommes et de la Lutte contre les
-discriminations. Et, si le magasin persiste à vous refuser l’accès,
-faites-le, il sera sanctionné.\
-\
- 
-
-
-
-
-
 
 
 
@@ -5694,9 +5640,9 @@ Si vous ne pouvez pas reporter votre déménagement :\
     départ et de destination.
 
 \
-Vous êtes un propriétaire. Pour l’échange des clés  :
+Si vous êtes un propriétaire. Pour l’échange des clés  :
 -   munissez-vous de l'attestation de déplacement dérogatoire, en
-    cochant le déplacement pour motif familial impérieux ;
+    cochant case "déplacement pour motif familial impérieux" ;
 -   ayez avec vous un document justifiant le déménagement, tel que le
     bail, ainsi qu'une attestation sur l'honneur, que vous rédigerez,
     expliquant que  vous vous déplacez pour le motif d'un déménagement
@@ -7372,13 +7318,15 @@ Non. Tous les établissements d’activités physiques et sportives doivent
 
 
 []{#s1093-q1084}
-#### Les clubs et associations sportives qui sont habituellement fermés l’été vont-ils être ouverts pour compenser les semaines d’inactivités ? {#les-clubs-et-associations-sportives-qui-sont-habituellement-fermés-lété-vont-ils-être-ouverts-pour-compenser-les-semaines-dinactivités .item-question}
+#### Les clubs et associations sportives qui sont habituellement fermés l’été vont-ils être ouverts pour compenser les semaines d’inactivités? {#les-clubs-et-associations-sportives-qui-sont-habituellement-fermés-lété-vont-ils-être-ouverts-pour-compenser-les-semaines-dinactivités .item-question}
 
 
 
 Cette décision relève de chaque fédération sportive. Renseignez-vous
 auprès d’elle.\
- 
+Toutefois, les associations recevront l’ensemble des subventions qui
+leur sont promises, même celles liés à des projets ou événements
+annulés.
 
 
 
@@ -7434,7 +7382,7 @@ nécessaires pour faire face à l'épidémie de covid-19 dans le cadre de
 l'état d'urgence sanitaire prévoit d’une part au V de son article 8 que
 les établissements d’activité physique et sportive sont fermés d’autre
 part au I que les établissements sportifs et les établissements de plein
-air ne peuvent accueillir de public jusqu’au 15 avril 2020. Il est
+air ne peuvent accueillir de public jusqu’au 11 mai 2020. Il est
 probable que cette période soit prolongée.
 
 
@@ -7566,12 +7514,12 @@ attention encore renforcée aux gestes barrières.
 
 
 
--    Je respecte strictement les gestes barrières ;
+-    je respecte strictement les gestes barrières ;
 -    exposée à des risques de forme grave ou de complication du COVID
     19, je réduis mes sorties et mes déplacements au strict minimum ;.
 -   si j’ai des symptômes grippaux simples, je contacte mon médecin
     généraliste. Si j’ai une mauvaise tolérance (difficultés
-    respiratoires, malaise, je contacte le SAMU Centre-15.
+    respiratoires, malaise), je contacte le SAMU Centre-15.
 
 \
 \
@@ -8345,17 +8293,6 @@ Les arrêtés seront motivés localement sur la base des éléments suivants
 : taux de réservation important des locations saisonnières, conditions
 météorologiques propices, risque de saturation des établissements de
 santé en cas d’augmentations brutale de la population, etc
-
-
-
-
-
-[]{#s782-q1132}
-#### Les locations de vacances sont-elles interdites ? {#les-locations-de-vacances-sont-elles-interdites-1 .item-question}
-
-
-
-Oui.
 
 
 
