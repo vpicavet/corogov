@@ -6415,17 +6415,19 @@ Non, à moins que votre locataire soit d’accord.
 
 
 []{#s727-q721}
-#### Peut-on tenir des assemblées générales de copropriété à distance, notamment pour des réunions qui doivent se tenir urgemment, ou faut-il attendre la levée des mesures de restriction des déplacements pour convoquer une AG ? {#peut-on-tenir-des-assemblées-générales-de-copropriété-à-distance-notamment-pour-des-réunions-qui-doivent-se-tenir-urgemment-ou-faut-il-attendre-la-levée-des-mesures-de-restriction-des-déplacements-pour-convoquer-une-ag .item-question}
+#### Peut-on tenir des assemblées générales de copropriété à distance ? {#peut-on-tenir-des-assemblées-générales-de-copropriété-à-distance .item-question}
 
 
 
 Pour tenir une assemblée générale à distance, il faut que votre
 assemblée générale ait déjà voté cette possibilité avant la crise.\
 \
-Si ce n’est pas le cas, une ordonnance prévoit que le contrat de votre
-syndic qui aurait dû expirer pendant la période de confinement est
-prolongé jusqu’à ce qu’il puisse convoquer AG (au plus tard le 31
-décembre 2020).\
+Néanmoins, une ordonnance du 22 avril 2020 prévoit que les contrats de
+syndics devant être renouvelés jusqu’au 30 juin bénéficient de la
+prolongation jusqu’à la prochaine assemblée générale. Cette assemblée
+générale devra se tenir dans les 8 mois à compter de la fin de l’urgence
+sanitaire. L’ordonnance prolonge les mandats des conseils syndicats dans
+les mêmes conditions.\
 \
  
 
@@ -6872,6 +6874,35 @@ santé d’assurer la continuité.\
 \
 **En savoir plus** : numéro vert du Planning Familial, 0800 08 11 11,
 pour répondre à toute question.\
+ 
+
+
+
+
+
+[]{#s742-q1346}
+#### Puis-je me faire dépister pour les infections et maladies sexuellement transmissibles (IST / MST) ? {#puis-je-me-faire-dépister-pour-les-infections-et-maladies-sexuellement-transmissibles-ist-mst .item-question}
+
+
+
+Oui. Toutes les mesures sont prises au niveau des structures pour
+garantir le respect des mesures d’hygiène essentielles.\
+\
+Vous pouvez vous faire dépister :
+-   dans les structures de prévention qui continuent leurs activités
+    essentielles, dont le dépistage.
+-   chez votre médecin généraliste, qui continue d’assurer les
+    consultations nécessaires au suivi médical, notamment les dépistages
+    aux IST ou les vaccins. Pour rappel, la téléconsultation, si
+    possible, doit être privilégiée.
+-   dans un laboratoire de biologie médicale.
+
+\
+Dans tous les cas, il ne faut pas attendre pour consulter. Les
+déplacements dans le cadre de consultations et de  soins restent
+autorisés, en cochant la case dédiée sur  l’attestation de déplacement.
+Ils concernent également les personnes mineures, qui n’ont pas
+l’obligation de disposer d’une autorisation parentale.\
  
 
 
@@ -7552,6 +7583,37 @@ En savoir plus : le surpoids correspond à un indice de masse corporel
 
 
 
+[]{#s742-q1347}
+#### Les fumeurs sont-ils plus touchés ? Quel est le rôle potentiel de la nicotine face au Covid-19 ? {#les-fumeurs-sont-ils-plus-touchés-quel-est-le-rôle-potentiel-de-la-nicotine-face-au-covid-19 .item-question}
+
+
+
+Une hypothèse concernant l’effet protecteur de la nicotine a été émise
+après observation du faible nombre de fumeurs parmi les malades du
+Covid-19 hospitalisés par diverses études. Néanmoins, ces hypothèses ne
+sont pas des données avérées, et devront faire l’objet d’études
+poussées. Un essai clinique à l’hôpital de la Pitié Salpétrière est
+notamment en cours d’élaboration afin de mieux comprendre le phénomène.\
+\
+Les fumeurs sont cependant plus à risque de développer des formes
+graves. Fumer abîme les tissus pulmonaires et les rend plus vulnérables
+aux infections. Des études ont montré que fumer augmente le risque de
+développer une forme sévère ou très sévère du COVID-19 de +50%, ainsi
+qu’un risque de décès de +133% par rapport aux non-fumeurs.\
+\
+Fumer reste très déconseillé. Le tabagisme reste la première cause de
+mortalité en France, et la lutte contre le tabagisme demeure une
+priorité de Santé publique. Le tabac continue de provoquer 75 000 décès
+par an dans notre pays.\
+\
+Si vous voulez arrêter de fumer, ceci est possible et est toujours
+recommandé.\
+ 
+
+
+
+
+
 []{#s742-q957}
 #### Les fumeurs sont-ils plus touchés ? {#les-fumeurs-sont-ils-plus-touchés .item-question}
 
@@ -7899,6 +7961,7 @@ Non. Tous les établissements d’activités physiques et sportives doivent
 
 Cette décision relève de chaque fédération sportive. Renseignez-vous
 auprès d’elle.\
+\
 Toutefois, les associations recevront l’ensemble des subventions qui
 leur sont promises, même celles liés à des projets ou événements
 annulés.
@@ -8048,10 +8111,34 @@ au maximum les contacts.\
 
 
 
-Non : les visites aux personnes fragiles et âgées à domicile comme dans
-les établissements médico-sociaux sont suspendues.\
+**Concernant les visites aux personnes fragiles et âgées en EHPAD :**\
 \
-En revanche,
+Depuis lundi 20 avril, les visites des proches sont de nouveau possibles
+dans les établissements les EHPAD, dans des conditions très encadrées.\
+\
+Un protocole national, publié le 20 avril 2020, précise les conditions
+de sécurité dans lesquelles le confinement des résidents peut être
+assoupli, ainsi que les conditions à réunir pour  permettre la visite
+des proches dans les établissements.\
+\
+Les visites sont organisées à la demande du résident et placées sous la
+responsabilité de la direction de l’établissement. Elles ne peuvent pas
+excéder une heure, et accueillir deux personnes, majeures, au maximum.
+Les gestes barrières, les mesures de distanciation physique, ainsi qu’un
+circuit sécurisé de visite doivent être strictement respectés.\
+\
+L’ensemble des consignes sont à retrouver dans le protocole national [en
+cliquant
+ici](https://solidarites-sante.gouv.fr/IMG/pdf/protocole_relatif_aux_consignes_applicables_sur_le_confinement_dans_les_essms_et_unites_de_soins_de_longue_duree.pdf).\
+\
+Il revient aux directeurs d’établissements de décider des mesures de ce
+protocole applicables dans leur établissement, en fonction de sa
+situation sanitaire et dans le respect des préconisations en vigueur sur
+le territoire concerné.  Ce n’est qu’une fois ces conditions de visite
+précisées que les familles pourront bénéficier des visites, dans les
+meilleures conditions de sécurité.\
+\
+**Concernant les visites aux personnes fragiles et âgées à domicile :**
 
 -   les services de soins et d’accompagnement à domicile continuent à
     intervenir auprès des plus fragiles lorsque cela est nécessaire et
@@ -8113,20 +8200,24 @@ Pour protéger les personnes âgées, public fragile et vulnérable face au
 virus, il a été décidé de prendre plusieurs mesures au fil de
 l’aggravation de l’épidémie  :
 -   renforcement des gestes barrières (lavage des mains réguliers) pour
-    ralentir la progression de l’épidémie ;détection très rapide de tout
-    cas suspects et isolement de la personne en attendant confirmation ;
--   à partir du lundi 20 avril, les visites sont de nouveau possibles
-    dans les EHPAD, dans des conditions cependant extrêmement limitées :
-    elles sont organisées à la demande du résident, et placées sous la
-    responsabilité de la direction de l’établissement ; pas plus de deux
-    personnes de la famille sont autorisées, les gestes barrières
-    doivent être strictement respectés et tout contact physique est
-    interdit ;
+    ralentir la progression de l’épidémie ; détection très rapide de
+    tout cas suspects et isolement de la personne en attendant
+    confirmation ;
+-   Limitation et encadrement des visites extérieures, mais désormais
+    possibles depuis le 20 avril 2020 dans un cadre strict ;
+-   Suspension des sorties individuelles et collectives, hors accords
+    par le directeur d’établissement dans le cadre de cas réglementaires
+    ;
 -   tests systématiques en cas de cas avérés en EHPAD et tests des
     personnels soignants renforcés : la semaine du 13 avril, 50 000
     tests ont été programmés dans les EHPAD et pris en charge par
     l’Assurance maladie.
 
+Un protocole national, publié le 20 avril 2020, présente la conduite à
+tenir sur les modalités d’application du confinement pour les
+établissements médico-sociaux, dont font partie les EHPAD. Le protocole
+national est à retrouver [en cliquant
+ici](https://solidarites-sante.gouv.fr/IMG/pdf/protocole_relatif_aux_consignes_applicables_sur_le_confinement_dans_les_essms_et_unites_de_soins_de_longue_duree.pdf).\
 \
 Retour sur la chronologie des mesures :\
 \
@@ -8140,7 +8231,7 @@ seront accompagnées de mesures pour rendre cette situation plus simple
 pour les personnes âgées et leur proche (par exemple, par la mise en
 place de visioconférences).\
 \
-**Samedi 28 mars**, le Premier ministre et le ministre des Solidarités
+**Le 28 mars 2020**, le Premier ministre et le ministre des Solidarités
 et de la Santé ont appelé à un renforcement supplémentaire des mesures
 de protection au sein des établissements hébergeant des personnes âgées
 (Ehpad, Ulsd, résidences autonomies, résidences services) :\
@@ -8175,11 +8266,11 @@ dans ces établissements.\
 annoncé, suite à une consultation avec les sociétés savantes et les
 responsables des établissements, qu’à partir du lundi 20 avril, des
 droits de visites peuvent être accordés dans les EHPAD. Ces visites
-seront organisées à la demande des résidents et sous la responsabilité
-des directions des établissements, dans des conditions extrêmement
-limitées : pas plus de deux personnes de la famille peuvent rendre
-visite à un résident en même temps, les mesures barrières doivent être
-strictement appliquées et les contacts physiques sont interdits.
+doivent respecter les consignes présentes dans le protocole national
+relatif aux consignes applicables sur le confinement dans les
+établissements médico-sociaux, appliquées par les directeurs
+d’établissement.\
+ 
 
 
 
