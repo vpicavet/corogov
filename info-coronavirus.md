@@ -932,7 +932,27 @@ du Covid-19.
 
 Il existe 2 grands types de tests utilisés dans la lutte contre le
 Covid-19 : les tests diagnostiques virologiques (RT-PCR), et les tests
-sérologiques.\
+sérologiques.
+
+  ----------------------- ------------------------------------------------------------------- ---------------------------------------------------------------------
+                          Tests diagnostiques virologiques\                                   Tests sérologiques
+                          (RT-PCR)                                                            
+
+  Principe                Détecter la présence du virus                                       Détecter la présence d’anticorps au virus
+
+  Réponse à la question   "Suis-je infecté en ce moment ?"                                    "Ai-je été en contact avec le virus ?"
+
+  Fiabilité               Très bonne\                                                         Trop d’incertitudes sur la fiabilité des tests et l’immunité\
+                          Méthode de référence validée                                        Développement et évaluation toujours en cours par les scientifiques
+
+  Prélèvement             Écouvillonnage naso-pharyngé par un professionnel de santé équipé   Sanguin
+
+  Durée d’analyse         Quelques heures                                                     Quelques minutes à quelques heures
+  ----------------------- ------------------------------------------------------------------- ---------------------------------------------------------------------
+
+  : [Quelle est la différence entre les tests par PCR et les tests
+  sérologiques ?]{}
+
 \
 **Les tests sérologiques** n’apportent ce jour aucune information fiable
 sur une possible protection ou un statut immunitaire d’un malade. Ils ne
