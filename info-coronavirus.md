@@ -8317,48 +8317,26 @@ d’établissement.\
 
 
 
-[]{#s758-q754}
-#### Comment s’organiser pendant le confinement ? {#comment-sorganiser-pendant-le-confinement .item-question}
-
-
-
-Le secrétariat d’État au Numérique a recensé l’ensemble des offres
-gratuites des plateformes numériques susceptibles de vous accompagner
-pendant cette période de confinement : télétravail, connectivité,
-apprentissage, livraison, téléconsultation, accès à l’information et au
-divertissement.
-
-Retrouvez l’ensemble de ces offres sur la plateforme dédiée :
-[www.mobilisation-numerique.gouv.fr](http://www.mobilisation-numerique.gouv.fr)
-
-
-
-
-
 []{#s758-q755}
 #### Je veux me rendre utile, comment faire ? {#je-veux-me-rendre-utile-comment-faire .item-question}
 
 
 
 Pour que chacun puisse prendre sa part de cette mobilisation générale
-des solidarités, le Gouvernement lance la Réserve civique-COVID 19
-[jeveuxaider.gouv.fr](https://jeveuxaider.gouv.fr). Afin de permettre à
-tous ceux qui le peuvent et qui le souhaitent de s’engager et de donner
-de leur temps, pour que les plus démunis et les plus vulnérables ne
-soient pas les premières victimes de cette crise. Quatre missions
-prioritaires sont répertoriées : 
+des solidarités, le Gouvernement lance la Réserve civique-COVID 19. Vous
+pouvez vous engager ou donner de votre temps  au service des personnes
+démunies et vulnérables, dans les domaines suivants :
 
- 
--   Aide alimentaire et d’urgence.
--   Garde exceptionnelle d’enfants de soignants ou d’une structure de
+-   aide alimentaire et d’urgence.
+-   garde exceptionnelle d’enfants de soignants ou d’une structure de
     l’Aide Sociale à l’Enfance.
--   Lien (téléphonique, visio, mail, etc.) avec les personnes fragiles
-    isolées : personnes âgées, malades ou en situation de handicap. 
--   Solidarité de proximité : courses de produits essentiels pour les
+-   maintien du lien à distance avec les personnes fragiles isolées :
+    personnes âgées, malades ou en situation de handicap. 
+-   solidarité de proximité : courses de produits essentiels pour les
     voisins (fragiles, isolés, handicapés). 
 
-Cet espace est ouvert à tous, vous pouvez également y déposer des
-missions.
+Consultez le site [jeveuxaider.gouv.fr](http://jeveuxaider.gouv.fr) pour
+proposer une mission ou offrir votre aide.
 
 
 
@@ -8370,20 +8348,41 @@ missions.
 
 
 Les services de l’Etat s’organisent pour mettre à l’abri les plus
-démunis avec les associations : 174.700 places sont ouvertes pour
+démunis avec les associations : 177 000 places sont ouvertes pour
 héberger des personnes sans-domicile.\
 \
-9.500 places d’hôtels supplémentaires sont désormais mobilisables dans
+10 600 places d’hôtels supplémentaires sont désormais mobilisables dans
 toute la France depuis le début de la crise sanitaire, en plus des
 places pérennes financées par l’Etat toute l’année.\
 \
-88 sites spécialisés sont par ailleurs ouverts, dédiés aux SDF malades
-du Covid-19 mais ne relevant pas d’une hospitalisation, soit plus de
-3200 places ouvertes. Un dispositif exceptionnel de distribution de
+92 sites spécialisés sont par ailleurs ouverts, dédiés aux SDF malades
+du Covid-19 mais ne relevant pas d’une hospitalisation, soit plus de 3
+400 places ouvertes. Un dispositif exceptionnel de distribution de
 chèques services permet aux personnes sans domicile d’acheter des
-produits d’alimentation et d’hygiène pendant la crise sanitaire. L’Etat
-débloque au total une enveloppe d’urgence de 65 millions d’euros.\
- 
+produits d’alimentation et d’hygiène pendant la crise sanitaire.\
+\
+Au total, l’Etat débloque une enveloppe d’urgence de 65 millions d’euros
+supplémentaires pour héberger les sans-abri.\
+\
+Par ailleurs, un dispositif exceptionnel de distribution de chèques
+services permet aux personnes sans domicile d’acheter des produits
+d’alimentation et d’hygiène pendant la crise sanitaire. Près de 65 000
+personnes bénéficient de ce dispositif, qui a pour objectif de compter
+90 000 bénéficiaires.\
+\
+Le 23 avril 2020, un plan de soutien d’urgence de 39 millions d’euros a
+été débloqué en faveur de l’aide alimentaire :
+-   25 millions d’euros pour soutenir financièrement les associations
+    face à la crise. Ils  leurs permettront d’acheter des produits de
+    première nécessité et de faire face à des dépenses supplémentaires
+    qu’elles ont engagées pour adapter leur distribution à la crise
+    épidémique.
+-   14 millions d’euros d’aide d’urgence alimentaire immédiate pour les
+    territoires en souffrance : 10 millions d’euros en France
+    métropolitaine distribués sous forme de chèques d’urgence
+    alimentaire, soit 105 euros par foyer, et 4 millions d’euros en
+    Outre mer distribués sous forme de chèques d’urgence alimentaire à
+    Mayotte, ou de denrées alimentaires à Saint-Martin et en Guyane.
 
 
 
@@ -8399,30 +8398,6 @@ susceptibles de vous accompagner pendant cette période de confinement
 télétravail, connectivité, apprentissage, livraison, téléconsultation,
 accès à l’information et au divertissement- sur
 <http://www.mobilisation-numerique.gouv.fr>
-
-
-
-
-
-[]{#s758-q1232}
-#### Je veux me rendre utile, comment faire ? {#je-veux-me-rendre-utile-comment-faire-1 .item-question}
-
-
-
-Pour que chacun puisse prendre sa part, le Gouvernement a lancé la
-Réserve civique-COVID 19. Vous pouvez vous engager ou donner de votre
-temps au service des personnes démunies et vulnérables, dans les
-domaines suivants :
--   aide alimentaire et d’urgence ;
--   garde exceptionnelle d’enfants de soignants ou d’une structure de
-    l’Aide Sociale à l’Enfance ;
--   maintien du lien à distance avec les personnes fragiles isolées,
-    qu’elles soient âgées, malades ou en situation de handicap ;
--   solidarité de proximité : faire des courses pour les voisins
-    fragiles, isolés, handicapés.
-
-Consultez le site [jeveuxaider.gouv.fr](http://jeveuxaider.gouv.fr) pour
-proposer une mission ou offrir votre aide.
 
 
 
@@ -8450,20 +8425,21 @@ les clés du logement au bénéficiaire.
 
 
 []{#s758-q1290}
-#### Des distributions de vivres et produits d’hygiène (y compris gel et masques) sont-elles prévues ? {#des-distributions-de-vivres-et-produits-dhygiène-y-compris-gel-et-masques-sont-elles-prévues .item-question}
+#### Des distributions de vivres et produits d’hygiène sont-elles prévues ? {#des-distributions-de-vivres-et-produits-dhygiène-sont-elles-prévues .item-question}
 
 
 
 Un dispositif exceptionnel de distribution de chèques services a été
 lancé le 1er avril par le ministère chargé de la Ville et du Logement
 pour permettre aux personnes sans domicile d’acheter des produits
-d’alimentation et d’hygiène pendant la crise sanitaire. Ce dispositif
-vient en complément des actions des collectivités locales et des
-associations, maraudes et distributions alimentaires, qui restent
-indispensables. Il bénéficiera à 60 000 personnes sans domicile, pour un
-budget de 15 millions d’euros. D’un montant de 7€ par jour, ces chèques
-seront distribués par des associations et les préfectures seront
-chargées de l’organisation et la coordination du dispositif.
+d’alimentation et d’hygiène pendant la crise sanitaire.\
+\
+Ce dispositif vient vient compléter les actions des collectivités
+locales et des associations, maraudes et distributions alimentaires, qui
+restent indispensables. Il bénéficiera à 90 000 personnes sans domicile,
+et représente un budget de 15 millions d’euros. D’un montant de 7€ par
+jour, ces chèques sont distribués par les associations, coordonnés par
+les préfectures.
 
 
 
@@ -8776,15 +8752,21 @@ et distance barrières.\
 
 
 
-Le confinement de la population est prévu jusqu’au 11 mai 2020 où les
-sorties seront de nouveau autorisées à part pour les personnes âgées,
-fragiles ou malade.\
+Le confinement de la population est prévu jusqu’au 11 mai 2020. À partir
+de cette date, les sorties seront progressivement autorisées. Toutefois,
+il en sera appelé à la responsabilité individuelle des personnes les
+plus vulnérables de rester isolées, au moins dans un premier temps, pour
+leur protection.\
 \
-Les commerces, industries et services rouvriront mais les établissements
-accueillant du public resteront fermés jusqu’à nouvel ordre.\
+Certains commerces, industries et services rouvriront mais d'autres
+établissements accueillant du public resteront fermés jusqu’à nouvel
+ordre. Les crèches, écoles, collèges et lycées rouvriront
+progressivement mais les universités ne rouvriront pas leurs portes
+avant l’été.\
 \
-Les crèches, écoles, collèges et lycées rouvriront progressivement mais
-les universités ne rouvriront pas leurs portes avant l’été.
+Le Premier ministre et l’ensemble des membres du Gouvernement
+présenteront les grands principes d’un plan préparant la sortie
+progressive du confinement à la fin du mois d’avril.
 
 
 
@@ -9865,12 +9847,6 @@ sites hospitaliers, passant de 5 000 avant le début de l’épidémie à 10
 Le renforcement de l’accueil des hôpitaux implique des moyens matériels
 et humains supplémentaires : \
  
--   la France a passé une commande de plusieurs milliers de
-    respirateurs, nécessaires aux patients hospitalisés en réanimation :
-    à la fin du mois de juin, la France disposera ainsi de 15 000
-    respirateurs de réanimation et de 15 000 respirateurs
-    supplémentaires dits “de transports”, soit une capacité supérieure
-    aux besoins exprimés et anticipés.
 -   les capacités de production de gel hydroalcoolique, de surblouses et
     de masques ont aussi été fortement multipliées. Certains industriels
     ont changé leurs activités pour participer à une production
@@ -9882,6 +9858,27 @@ et humains supplémentaires : \
     médicalisé. Au total depuis le début de la crise, 644 transferts de
     malades ont été effectués, dont 180 vers des pays européens
     (Allemagne, Suisse, Luxembourg, Autriche).
+-   la France a passé une commande de 10 000 respirateurs, nécessaires
+    aux patients hospitalisés en réanimation, à la société Air Liquide :
+    1 500 respirateurs du modèle Monal T60 largement utilisé dans les
+    hôpitaux français et internationaux pour traiter des patients
+    atteints du Covid-19, et 8 500 respirateurs du modèle Osiris,
+    respirateurs d’urgence et de transport bénéficiant de toutes les
+    certifications utiles par les agences sanitaires. Elle sera fournie
+    par Air Liquide et ses partenaires à prix coûtant, sans facturer les
+    coûts de recherche et de développement.
+
+\
+A la fin du mois de juin, la France disposera ainsi de 15 000
+respirateurs de réanimation et de 15 000 autres respirateurs d’urgence
+et de transport. Cette commande a été effectuée compte tenu de la
+situation capacitaire des services de santé, quand il apparaissait
+nécessaire de sécuriser la capacité à armer un nombre de lits de
+réanimation beaucoup plus importants. C’est un choix de prudence et de
+responsabilité qui permet de sécuriser la position du pays, d’augmenter
+le stock stratégique, et d’envisager demain de mobiliser un certain
+nombre de respirateurs au profit de partenaires de la France à
+l’international.
 
 
 
@@ -10209,8 +10206,7 @@ mars :\
     pratiques et de gestion de crise ont été activés : au niveau des
     ministres en charge des secteurs impactés par la crise ; au niveau
     des experts, en particulier de santé ; au niveau des Chefs d’Etat et
-    de gouvernement qui ont tenus trois téléconférences (10, 17 et 26
-    mars) ;
+    de gouvernement ;
 -   des coopérations et des mutualisations ont été mises en place :
     passation conjointe de marchés pour les équipements de protection
     individuelle, les respirateurs et les kits de dépistage ;
@@ -10294,6 +10290,11 @@ et en Langue des Signes Française (LSF).
 ### Fonctionnement de la Justice {#fonctionnement-de-la-justice .item-paragraphe-titre .c-onglet data-section="s1111" data-picto="https://www.gouvernement.fr/sites/default/files/cimages/qr_droit_de_visite_et_hebergement_pension_alimentaire1.svg"}
 
 
+Pour éviter la propagation de la pandémie tout en assurant la continuité
+du service public essentiel de la justice, les palais de justice ont été
+fermés au public et l’activité a été réduite au traitement des seuls
+contentieux de l’urgence.
+
 
 
 
@@ -10335,7 +10336,13 @@ Les sessions d’assises seront, dans la mesure du possible, annulées
 compte tenu des risques de contagion pour les jurés et le public.\
 \
 Les procès pourront être renvoyés, dans les limites du délai raisonnable
-et dans le respect des délais de détention provisoire.
+et dans le respect des délais de détention provisoire.\
+\
+Dans le cadre de la crise sanitaire, la priorité est donnée à la lutte
+contre les violences intrafamiliales. Des réponses immédiates et fermes
+seront apportées à ces faits, privilégiant les déferrements à l’encontre
+des auteurs présumés, et permettant d’assurer la protection des
+victimes.
 
 
 
@@ -10352,6 +10359,27 @@ justice et du droit ; les points d’accès au droit.\
 \
 Afin de limiter vos déplacements, nous vous invitons également à prendre
 contact avec votre tribunal pour savoir si votre audience est maintenue.
+
+
+
+
+
+[]{#s1111-q1350}
+#### Comment est assurée la continuité des procédures ? {#comment-est-assurée-la-continuité-des-procédures .item-question}
+
+
+
+Les ordonnances du 26 mars ont adapté les procédures pour permettre le
+maintien de l’activité d’urgence  des juridictions civiles, sociales,
+commerciales et pénales, tout en respectant la protection sanitaire de
+tous :
+-   en étendant la procédure sans audience lorsque les parties sont
+    assistées d’un avocat, en permettant de statuer à juge unique et
+    d’échanger les pièces par tous les moyens ;
+-   en permettant aux avocats de rencontrer leurs clients, y compris en
+    détention, ou d’utiliser d’autres moyens mis à leur disposition
+    comme la visio-conférence ou le téléphone,  en assurant la
+    confidentialité des échanges.
 
 
 
@@ -10552,6 +10580,147 @@ municipaux pourvus au 1er tour).
 
 []{#s1222}
 ###  {#section .item-paragraphe-titre .c-onglet data-section="s1222" data-picto=""}
+
+
+
+
+
+
+
+
+
+[]{#s1351}
+### Economie {#economie .item-paragraphe-titre .c-onglet data-section="s1351" data-picto="https://www.gouvernement.fr/sites/default/files/cimages/qr_economie.svg"}
+
+
+
+
+
+[]{#s1351-q1352}
+#### Comment bénéficier du délai de paiement d'échéances fiscales ? {#comment-bénéficier-du-délai-de-paiement-déchéances-fiscales .item-question}
+
+
+
+**Un dispositif exceptionnel de délais de paiement des impôts a été
+activité auprès des services des impôts des entreprises (SIE) de la
+DGFiP.**\
+\
+Les entreprises -ou les experts-comptables qui interviennent pour des
+clients dans cette situation- peuvent demander au service des impôts des
+entreprises le report sans pénalité du règlement de leurs prochaines
+échéances d'impôts directs (acompte d'impôt sur les sociétés, taxe sur
+les salaires).\
+ 
+-   Si elles ont déjà réglé leurs échéances de mars, elles ont peut-être
+    encore la possibilité de s’opposer au prélèvement SEPA auprès de
+    leur banque en ligne.
+-   Sinon, elles ont également la possibilité d'en demander le
+    remboursement auprès de leur service des impôts des entreprises, une
+    fois le prélèvement effectif.
+
+\
+**Report d’échéances fiscales pour les indépendants et les
+microentrepreneurs**\
+\
+Pour les travailleurs indépendants, il est possible de moduler à tout
+moment le taux et les acomptes de prélèvement à la source. Il est aussi
+possible de reporter le paiement de leurs acomptes de prélèvement à la
+source sur leurs revenus professionnels d’un mois sur l’autre jusqu’à
+trois fois si leurs acomptes sont mensuels, ou d’un trimestre sur
+l’autre si leurs acomptes sont trimestriels.\
+ \
+**Les contrats de mensualisation pour le paiement de la CFE et de la
+taxe foncière**\
+ \
+Pour les contrats de mensualisation pour le paiement du CFE ou de la
+taxe foncière, il est possible de le suspendre sur
+[impots.gouv.fr](http://impots.gouv.fr) ou en contactant le Centre
+prélèvement service : le montant restant sera prélevé au solde, sans
+pénalité.\
+ \
+Pour faciliter l'ensemble des démarches, la DGFiP met à disposition un
+modèle de demande, disponible sur le site
+[impots.gouv.fr,](http://impots.gouv.fr) à adresser au service des
+impôts des entreprises.  Pour toute difficulté dans le paiement des
+impôts, ne pas hésiter à se rapprocher du service des impôts des
+entreprises, par la messagerie sécurisée de leur espace professionnel,
+par courriel ou par téléphone.
+
+
+
+
+
+[]{#s1351-q1353}
+#### Quelles sont les aides mises en place pour les travailleurs indépendants ? {#quelles-sont-les-aides-mises-en-place-pour-les-travailleurs-indépendants .item-question}
+
+
+
+Le conseil de la protection sociale des travailleurs indépendants
+([CPSTI](https://www.secu-independants.fr/nous-connaitre/instances/))
+propose aux travailleurs indépendants dont l’activité est impactée par
+la crise du Covid-19 de bénéficier d’une aide financière exceptionnelle
+ou d’une prise en charge de cotisations.\
+\
+Tous les travailleurs indépendants (hors professionnels de santé)
+affiliés quel que soit leur statut peuvent en bénéficier si les critères
+d’éligibilité suivants sont remplis :
+-   avoir effectué au moins un versement de cotisations depuis son
+    installation ;
+-   avoir été affilié avant le 1er janvier 2020 ;
+-   être concerné de manière significative par des mesures de réduction
+    ou de suspension d’activité ;
+-   être à jour de ses cotisations et contributions sociales
+    personnelles au 31 décembre 2019 (ou échéancier en cours) ;
+-   pour les autoentrepreneurs : l'activité indépendante devra
+    constituer l’activité principale ; avoir effectué au moins une
+    déclaration de chiffre d’affaires différent de 0 avant le
+    31/12/2019.
+
+\
+Vous trouverez plus d’informations sur le site :
+<https://info-entreprises-covid19.economie.gouv.fr/kb>
+
+
+
+
+
+[]{#s1351-q1354}
+#### Quelles démarches pour bénéficier de l'aide du fond de solidarité ? {#quelles-démarches-pour-bénéficier-de-laide-du-fond-de-solidarité .item-question}
+
+
+
+**Pour le premier volet de l’aide :**\
+\
+Depuis le vendredi 3 avril 2020, toutes les entreprises éligibles pour
+l’aide au titre du mois de mars peuvent faire leur demande sur le
+siteimpots.gouv.fr en renseignant les éléments suivants : SIREN, SIRET,
+RIB, chiffre d’affaires, montant de l’aide demandée, déclaration sur
+l’honneur.\
+\
+A partir du 1er mai 2020, toutes les entreprises éligibles ayant subi
+une perte de chiffre d’affaires de plus de 50% en avril 2020 par rapport
+à avril 2019 ou, si l’entreprise le souhaite, par rapport au chiffre
+d’affaires mensuel sur 2019 peuvent également faire une déclaration sur
+le site impots.gouv.fr pour recevoir une aide défiscalisée allant
+jusqu’à 1 500 euros.\
+\
+La DGFiP effectuera des contrôles de premier niveau et versera l’aide
+rapidement au demandeur. Des contrôles de second niveau pourront être
+effectués par la DGFiP postérieurement au versement de l’aide.\
+\
+**Pour le second volet de l’aide :**\
+\
+Depuis le 15 avril 2020, l’entreprise peut se rendre sur une plateforme
+ouverte par la région dans laquelle elle exerce son activité. Afin que
+les services de la région puissent examiner la demande, l’entreprise
+joint une description succincte de sa situation, accompagnée d’un plan
+de trésorerie à trente jours ainsi que le nom de la banque dont
+l’entreprise est cliente lui ayant refusé un prêt de trésorerie d’un
+montant raisonnable, le montant du prêt demandé et son contact dans la
+banque.\
+Vous trouverez plus d’informations sur le site :
+<https://info-entreprises-covid19.economie.gouv.fr/kb>\
+ 
 
 
 
