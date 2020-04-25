@@ -562,6 +562,31 @@ Santé.
 
 
 
+[]{#s622-q1323}
+#### Qu’est ce que le R0 ? {#quest-ce-que-le-r0 .item-question}
+
+
+
+C’est le taux de reproduction de base d’une infection, c’est-à-dire le
+nombre attendu de nouveaux cas contaminés par un seul malade.\
+\
+Le R0 serait d’environ 3 pour le COVID-19. Cela signifie qu’un cas
+Covid-19 contamine en moyenne 3 nouvelles personnes. À titre de
+comparaison, le R0 est de 15 en moyenne pour la rougeole.\
+\
+Si le R0 est supérieur à 1, alors l’épidémie se poursuit et le nombre de
+nouveaux cas croît de jour en jour. Si le R0 est inférieur à 1, alors
+l’épidémie s’atténue et le nombre de cas nouveaux cas diminuent de jour
+en jour.\
+\
+Plusieurs mesures qui permettent de diminuer le R0 : gestes barrières,
+distanciation sociale, mais aussi les mesures de confinement
+actuellement en vigueur en France.
+
+
+
+
+
 []{#s622-q618}
 #### Le virus circule-t-il dans l’air ? {#le-virus-circule-t-il-dans-lair .item-question}
 
@@ -855,14 +880,6 @@ Conformément aux recommandations de l’OMS qui incite dorénavant à tester
 massivement la population et au regard de l’évolution de l’épidémie, la
 stratégie de test en France va évoluer dans les prochains mois.\
 \
-Au 19 avril 2020, plus de 25 000 tests par PCR sont réalisés chaque
-jour.\
-\
-En parallèle, des tests rapides sont dorénavant disponibles et la France
-en a commandé 5 millions. La capacité des tests rapides sera portée à 30
-000 par jour en avril, 60 000 en mai pour atteindre les 100 000 tests
-rapides au mois de juin.\
-\
 Le samedi 4 avril 2020, le ministère des Armées a annoncé le financement
 d’un projet de test de dépistage du COVID-19 porté par la société NG
 Biotech, suite à l’appel à projets de solutions innovantes pour lutter
@@ -897,7 +914,37 @@ les cas positifs et ainsi, éviter les contaminations et prendre les
 dispositions adaptées pour le personnel. Pour permettre cette opération
 de dépistage, d’importants moyens de projection seront mis en place au
 sein des établissements, en lien avec les laboratoires, la réserve
-sanitaire et les conseils départementaux.
+sanitaire et les conseils départementaux.\
+\
+À la mi-avril, 175 000 tests par PCR sont effectués par semaine. La
+capacité de tests sera portée à 500 000 tests par semaine à compter du
+11 mai, afin  de pouvoir tester toute personne présentant les symptômes
+du Covid-19.
+
+
+
+
+
+[]{#s631-q1324}
+#### Quelle est la différence entre les tests par PCR et les tests sérologiques ? {#quelle-est-la-différence-entre-les-tests-par-pcr-et-les-tests-sérologiques .item-question}
+
+
+
+Il existe 2 grands types de tests utilisés dans la lutte contre le
+Covid-19 : les tests diagnostiques virologiques (RT-PCR), et les tests
+sérologiques.\
+\
+**Les tests sérologiques** n’apportent ce jour aucune information fiable
+sur une possible protection ou un statut immunitaire d’un malade. Ils ne
+sont donc pour le moment ni validés, ni recommandés, ni obligatoires.\
+\
+**Les tests par PCR**, dont l’objectif est de casser la chaîne de
+transmission du virus en détectant les personnes contaminées, sont les
+tests utilisés en France dans le cadre d’opérations de dépistage
+concernant aujourd’hui les publics les plus vulnérables ainsi que les
+soignants (cf questions ci-dessus). Ils seront progressivement élargis,
+en priorisant  les contacts rapprochés des personnes contaminées ou
+jugées “à risque”.
 
 
 
@@ -999,11 +1046,12 @@ DISCOVERY**. Son but :évaluer l’efficacité et la sécurité de quatre
 stratégies thérapeutiques expérimentales qui pourraient avoir un effet
 contre le COVID-19. Les molécules testées sont le Remdesivir,
 l’association Lopinavir + Ritonavir, l’association Lopinavir + Ritonavir
-+ interféron bêta et enfin l’hydroxychloroquine. L’essai compte inclure
-notamment 800 patients en France. Il y a donc de nombreuses pistes
-thérapeutiques potentielles, mais dont l’efficacité et l’innocuité
-doivent être démontrées. Pour le moment aucune n’est favorisée ; aucun
-traitement spécifique n’est donc validé.
++ interféron bêta et enfin l’hydroxychloroquine. Au  24 avril, 620
+patients ont pu être recrutés en France, sur un objectif de 800
+patients. Il y a donc de nombreuses pistes thérapeutiques potentielles,
+mais dont l’efficacité et l’innocuité doivent être démontrées. Pour le
+moment aucune n’est favorisée ; aucun traitement spécifique n’est donc
+validé.
 
 
 
@@ -1288,6 +1336,151 @@ telle ampleur, en temps réel, au cours d'une épidémie.
 
 
 
+[]{#s1325}
+### Masques {#masques .item-paragraphe-titre .c-onglet data-section="s1325" data-picto=""}
+
+
+
+
+
+[]{#s1325-q1326}
+#### Dois-je porter un masque ? {#dois-je-porter-un-masque .item-question}
+
+
+
+En raison des difficultés d’approvisionnement actuelles, les masques
+sanitaires sont réservés aux soignants. De plus, le masque n’est pas la
+bonne réponse systématique pour le grand public car il ne peut être
+porté en permanence et n’a pas d’indication sans contact rapproché et
+prolongé avec un malade.\
+\
+Contre le coronavirus, ce sont les gestes barrières et les mesures de
+distanciation sociale qui sont efficaces.\
+\
+Néanmoins, au terme d’une démarche supervisée par l’Agence nationale de
+sécurité du médicament et des produits de santé (ANSM), avec le soutien
+de l’Agence nationale de sécurité sanitaire de l’alimentation, de
+l’environnement et du travail (ANSES), deux nouvelles catégories de
+masques grand public ont été créées. Ces masques auront vocation à être
+utilisés dans des situations professionnelles, en complément des mesures
+barrières (voir la question « Pour l’accès aux masques “  dans la
+rubrique “ Les mesures prises par le Gouvernement ”).\
+\
+A partir du 11 mai, l'Etat, en lien avec les maires, permettra à chaque
+Français de se procurer un masque grand public.
+
+
+
+
+
+[]{#s1325-q1327}
+#### Y a-t-il suffisamment de masques pour les personnels soignants en France ? {#y-a-t-il-suffisamment-de-masques-pour-les-personnels-soignants-en-france .item-question}
+
+
+
+Tous les efforts sont entrepris par l’Etat, les collectivités et
+certaines entreprises, pour augmenter la capacité de production de
+masques en France, multiplier les commandes à l’étranger et accélérer
+les livraisons.  \
+\
+*En savoir plus*\
+\
+Depuis le début de la crise, la stratégie sanitaire a eu pour objectif
+de fournir en priorité des masques aux professionnels de santé amenés à
+prendre en charge des patients COVID-19 en ville, à l’hôpital et dans
+les structures médico-sociales accueillant des personnes fragiles, ainsi
+qu’aux services d’aide à domicile, pour garantir la continuité de
+l’accompagnement à domicile des personnes âgées et en situation de
+handicap.\
+\
+Au mois de janvier, le stock d'État est de 117 millions de masques
+chirurgicaux. \
+\
+Les besoins des établissements hospitaliers en masques en temps normal
+sont de 5 millions par semaine. La production nationale de masques en
+temps normal s’élève à 4 millions par semaine.\
+\
+Avec la crise, les besoins des établissements hospitaliers en masques
+sont passés à 45 millions par semaine. \
+\
+Les capacités de production de masques par les entreprises françaises
+ont pu être augmentées : la France produit à présent 8 millions de
+masques par semaine, et les efforts se poursuivent pour augmenter encore
+ces capacités. \
+\
+À cela s’ajoutent des importations depuis le mois de mars, livrées
+régulièrement  depuis la Chine via un pont aérien. La semaine du 13
+avril, ce sont ainsi près de 81 millions de masques qui ont été
+importés, soit bien plus que les besoins des établissements hospitaliers
+pour une semaine. \
+\
+Les collectivités territoriales et certaines entreprises contribuent
+également à cet effort d’approvisionnement.
+
+
+
+
+
+[]{#s1325-q1328}
+#### Comment les masques sont-ils distribués ? {#comment-les-masques-sont-ils-distribués .item-question}
+
+
+
+Depuis le début de la crise, pour préserver les capacités hospitalières,
+les masques sont livrés en priorité :
+-   aux professionnels de santé amenés à prendre en charge des patients
+    COVID-19 en ville comme à l’hôpital ;
+-   aux personnes qui interviennent auprès des personnes âgées en EHPAD.
+
+Depuis le 21 mars, les masques sont distribués ainsi :
+-   pour les médecins de ville, les biologistes médicaux et les
+    infirmiers de ville : 18 masques par semaine et par professionnel,
+    dont des masques FFP2 dans le strict respect des indications ;
+-   pour les pharmaciens de ville : 18 masques chirurgicaux par semaine
+    et par professionnel ;
+-   pour les masseurs-kinésithérapeutes : 6 masques par semaine et par
+    professionnel, chirurgicaux ou aux normes FFP2, dans le strict
+    respect des indications et selon les disponibilités, pour la
+    réalisation des actes prioritaires et non reportables ;
+-   pour les sages-femmes : 6 masques chirurgicaux par semaine pour la
+    prise en charge des femmes confirmées COVID-19 ;
+-   pour les prestataires de service et les distributeurs de matériel :
+    1 boîte de 50 masques chirurgicaux par semaine et, en moyenne, par
+    entreprise pour assurer les visites prioritaires ;
+-   pour les personnes exerçant des activités de services d’aide et de
+    soins à domicile : 9 masques chirurgicaux par semaine et par
+    professionnel exerçant au sein de la structure pour assurer les
+    visites prioritaires ;
+-   pour les EHPAD et les structures médico-sociales accueillant des
+    personnes fragiles, notamment les personnes en situation de handicap
+    ou des patients COVID-19 sans domicile ne relevant pas d’une
+    hospitalisation : 5 masques chirurgicaux par lit ou place et par
+    semaine. Les EHPAD disposeront dans la durée de 500 000 masques
+    chirurgicaux par jour, comme le demandaient les responsables de
+    leurs fédérations ;
+-   pour l’hospitalisation conventionnelle dans les établissements de
+    santé : 3 masques chirurgicaux par jour et par professionnel de
+    santé dans les services de soins prenant en charge les cas possibles
+    ou confirmés et, pour la réalisation des gestes à risque, des
+    masques FFP2 dans les services d’urgence, d’accueil des malades
+    COVID-19 et de soins critiques ;
+-   pour l’hospitalisation à domicile : 2 boîtes de 50 masques
+    chirurgicaux par semaine et en moyenne, par structure ;
+-   pour les transporteurs sanitaires et les centres de secours : 1
+    boîte de 50 masques par semaine et par structure.
+
+\
+Les chirurgiens-dentistes disposent désormais d’un stock dédié de
+masques qu’ils ont eux-mêmes réparti sur le territoire de façon à
+pouvoir dans la durée assurer les soins urgents à la population.\
+ 
+
+
+
+
+
+
+
 []{#s641}
 ### Point de situation en France {#point-de-situation-en-france .item-paragraphe-titre .c-onglet data-section="s641" data-picto=""}
 
@@ -1469,7 +1662,7 @@ les appelle les gestes barrières :
 
 
 []{#s642-q644}
-#### Dois-je porter un masque ? {#dois-je-porter-un-masque .item-question}
+#### Dois-je porter un masque ? {#dois-je-porter-un-masque-1 .item-question}
 
 
 
@@ -1549,7 +1742,7 @@ Les collectivités territoriales et certaines entreprises contribuent
 
 
 []{#s642-q646}
-#### Comment les masques sont-ils distribués ? {#comment-les-masques-sont-ils-distribués .item-question}
+#### Comment les masques sont-ils distribués ? {#comment-les-masques-sont-ils-distribués-1 .item-question}
 
 
 
