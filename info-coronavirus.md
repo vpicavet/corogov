@@ -2905,24 +2905,7 @@ aux transporteurs avant l’embarquement ainsi que lors des contrôles
 d’arrivée. Il est téléchargeable sur le site du ministère de l'Intérieur
 :
 https://www.interieur.gouv.fr/Actualites/L-actu-du-Ministere/Attestation-de-deplacement-et-de-voyage\
-\
-Le ministère a aussi mis en place **4 opérations de rapatriement** en
-activant le mécanisme européen de solidarité pour les ressortissants
-français et européens qui habitaient dans la province de Hubei en Chine,
-épicentre de l’épidémie. Des règles sanitaires strictes ont été
-appliquées à l’ensemble de l’opération, qui prévoit notamment une
-période de confinement de 14 jours à l’arrivée pour l’ensemble des
-Français bénéficiant de l’opération.\
-\
-Enfin, comme annoncé par le président de la République, pour manifester
-sa solidarité avec le peuple chinois, un avion affrété par la France a
-décollé le 19 février transportant des équipements médicaux dédiés à la
-lutte contre le COVID-19. Ce fret de solidarité de 17 tonnes comprenait
-notamment des combinaisons médicales de protection, des masques, des
-gants et des produits désinfectants. Cette opération a été coordonnée
-par le Centre de crise et de soutien du ministère de l’Europe et des
-affaires étrangères, en lien étroit avec l’Ambassade de France à Pékin
-et le consulat général de France à Wuhan.
+ 
 
 
 
@@ -3047,6 +3030,31 @@ le 8 août, pour un début des procédures d'appel à partir du 12 août au
 plus tard, afin de permettre le maintien des dates de la rentrée de
 septembre.\
 \
+Vous pouvez retrouver plus d’informations en consultant le [calendrier
+de l’ensemble des épreuves des concours aux grandes
+écoles.](https://www.enseignementsup-recherche.gouv.fr/cid150513/covid-19-concours-post-cpge-organisation-et-calendrier.html)\
+\
+**Comment seront organisés les examens de fin d’année et les concours
+aux grandes écoles ?**\
+\
+Pour terminer l’année en cours dans les meilleures conditions et
+préparer au mieux la rentrée prochaine, plusieurs recommandations
+s’offrent aux établissements quant à l’organisation des examens et
+concours :\
+ 
+
+-   Réduire autant que possible le recours aux épreuves en présentiel,
+    en se basant sur le contrôle continu ou en ayant recours à des
+    travaux à domicile dans la mesure du possible, tout en veillant
+    scrupuleusement à trouver des solutions aux difficultés que
+    pourraient rencontrer certains étudiants, notamment isolés.
+-   L’organisation d’épreuves orales est déconseillée.
+-   Si des épreuves  spécifiques en présentiel doivent être maintenues,
+    elles devront respecter des contraintes rigoureuses d'organisation
+    permettant d'assurer la sécurité sanitaire des étudiants, mais aussi
+    des surveillants et personnels mobilisés en appui.
+
+\
 **Service de garde**\
 \
 Le président de la République a également annoncé la mise en place d’un
@@ -3104,7 +3112,59 @@ seront mobilisés :
 4\. Un soutien renforcé des Caisses d'alocations familiales (CAF) et de
 leurs partenaires aux familles en situation de fragilité.\
 5. Une fiche récapitulative dans chaque département à l’attention des
-parents.
+parents.\
+\
+\
+**Je suis étudiant ultramarin et j’étudie dans l’hexagone, puis-je
+rentrer chez moi ?**\
+\
+Compte tenu de la non réouverture des établissements universitaires
+avant la rentrée prochaine et afin de permettre aux étudiants
+ultramarins de rentrer dans leur territoire dans les meilleures
+conditions sanitaires possibles lorsqu’ils le souhaitent, le ministère
+des Outre-mer a ouvert le 19 avril 2020 une plateforme d’entraide leur
+permettant d’en signifier la demande.\
+\
+Les étudiants concernés peuvent se manifester, et ce jusqu’au samedi 2
+mai, sur la plateforme d’entraide
+[www.outremersolidaires.gouv.fr](http://www.outremersolidaires.gouv.fr/)
+par le biais d’un questionnaire de recensement dédié : **le formulaire
+est disponible** [en cliquant
+ici](https://outremersolidaires.gouv.fr/questionnaire-ultramarins-mobilite/).\
+\
+Néanmoins, ces étudiants doivent avoir pris connaissance des modalités
+d’examen de fin d’année mises en œuvre par leur établissement
+d’enseignement supérieur avant d’envisager un retour sur leur territoire
+d’origine.\
+\
+Ce questionnaire permettra d’anticiper et organiser les besoins et les
+modalités de mise en quatorzaine de ces étudiants à leur retour, en lien
+avec les territoires concernés. En effet, il est rappelé dans l’article
+5.1 du décret n°2020-337 du 23 mars 2020 la mise en quarantaine des
+personnes se déplaçant sur le territoire d’une collectivité
+d’outre-mer.\
+\
+\
+**Pour l’accès au numérique et le suivi éducatif dans les quartiers
+prioritaires**\
+\
+Le Gouvernement a lancé le 20 avril un plan de 15 millions d’euros, qui
+permettra premièrement d’acheter et de distribuer du matériel
+informatique et de connexion aux élèves des quartiers n’ayant pas les
+outils nécessaires pour le suivi éducatif à distance.\
+\
+Cette initiative amplifie l’action débutée par certaines préfectures et
+rectorats pour acheter des tablettes numériques et des clés 4G et
+s’assure qu’elle soit élargie à l’ensemble des quartiers prioritaires\
+\
+En complément, le nombre d’élèves bénéficiant de mentorat va être
+doublé, pour renforcer l’accompagnement. L’objectif est d’assurer le
+suivi de 30 000 jeunes d’ici le mois de juillet.\
+\
+Enfin, un dispositif d’aide aux associations de très grande proximité,
+qui un rôle essentiel auprès de ces élèves, est mis en place pour
+soutenir les actions de solidarité dans les quartiers.\
+ 
 
 
 
@@ -3125,7 +3185,8 @@ Pour soutenir l’économie, le Gouvernement a mis en place un plan
 d’urgence de soutien de 110 milliards d'euros avec les mesures suivantes
 :\
  \
-Pour les personnels soignants :
+Pour les personnels soignants, y compris les internes, à la ville comme
+à l’hôpital :
 
 -   tous les agents travaillant à l’hôpital dans la trentaine de
     départements les plus touchés par l’épidémie recevront une prime de
@@ -3140,6 +3201,19 @@ Pour les personnels soignants :
     services à domicile du secteur médico-social. Ces mesures sont en
     discussion avec les départements
 
+\
+Pour les professionnels libéraux :\
+\
+L’Assurance Maladie, en lien avec les syndicats professionnels,
+travaille à l’élaboration d’un dispositif permettant également d’aider
+les professionnels libéraux, qu’ils aient été en situation de perte
+d’activité ou en première ligne contre le Covid-19.\
+\
+Des aides devraient être prochainement annoncées, sous forme de
+compensation de charges et de valorisation de l’activité maintenue
+pendant la crise.\
+\
+\
 Pour les foyers les plus modestes :\
 \
 Les foyers allocataires du revenu de solidarité active (RSA) ou de
@@ -3268,7 +3342,37 @@ Travail](https://travail-emploi.gouv.fr/actualites/l-actualite-du-ministere/arti
 Le plan d’urgence de soutien à l’économie est passé à 110 milliards
 d'euros, contre 45 milliards d'euros initialement. Cette hausse
 exceptionnelle s’applique à toutes les mesures mises en place comme le
-dispositif de chômage partiel et le fonds de solidarité.
+dispositif de chômage partiel et le fonds de solidarité.\
+\
+Le 24 avril 2020, le ministre de l’Economie et des Finances a annoncé le
+maintien et le renforcement des mesures du soutien du plan d’urgence
+économique en faveur des hôtels, cafés, restaurants, entreprises du
+secteur du tourisme, de l’événementiel, du sport et de la culture, comme
+tel :
+-   la possibilité de recourir à l’activité partielle après la reprise
+    de l’activité pour ces secteurs ;
+-   le maintien de l’ouverture du fonds de solidarité aux entreprises de
+    ces secteurs au-delà du mois de mai. Ses conditions d’accès seront
+    élargies aux entreprises des secteurs concernés ayant jusqu’à 20
+    salariés et 2 millions d’euros de chiffre d’affaires, et le plafond
+    des subventions pouvant être versées dans le cadre du second volet
+    du fonds sera porté à 10 000 euros.
+-   une exonération de cotisations sociales aux TPE et aux PME de ces
+    secteurs pendant la période de fermeture, de mars à juin, qu’elles
+    aient déjà acquitté ou non leurs cotisations. Les ETI et les grandes
+    entreprises de ces secteurs ne bénéficiant pas de l’exonération
+    automatique pourront obtenir des étalements longs des charges
+    sociales et fiscales reportées et, au cas par cas, solliciter des
+    annulations de dette en fonction de leur situation financière.
+-   sur le plan fiscal, le Gouvernement échangera avec les collectivités
+    territoriales sur les modalités de report de la cotisation foncière
+    des entreprises (CFE) et d’exonération de la part forfaitaire de la
+    taxe de séjour au titre de l’année 2020.
+-   annulation des loyers et redevances d’occupation du domaine public
+    dus aux bailleurs nationaux (État et opérateurs) pour les TPE et PME
+    pour la période de fermeture administrative. Un guide pratique sera
+    établi à destination des collectivités territoriales qui
+    souhaiteraient faire de même.
 
 
 
@@ -3494,15 +3598,15 @@ chiffre d’affaires de plus de 50 % : \
 **Vous êtes soignant et êtes fortement mobilisé durant cette épidémie du
 COVID-19 :**\
  
--   Une prime exceptionnelle et défiscalisée de 1 500 € sera accordés
+-   une prime exceptionnelle et défiscalisée de 1 500 € sera accordés
     aux personnels soignants des services de santé dans les départements
     les plus touchés par l'épidémie et à ceux des services ayant
     accueilli des patients COVID-19 dans les départements les moins
     touchés. Les personnels de santé ne bénéficiant pas du taux maximum
     recevront une prime de 500 € ;
--   Tous les professionnels soignants auront une majoration de 50% de
+-   tous les professionnels soignants auront une majoration de 50% de
     leurs heures supplémentaires. Cette majoration sera défiscalisée.
--   Une prime sera également versée aux personnels sein des EHPAD et des
+-   une prime sera également versée aux personnels sein des EHPAD et des
     services à domicile du secteur médico-social. Ces mesures sont en
     discussion avec les départements.
 
@@ -3548,7 +3652,10 @@ surmonter le stress économique majeur que nous connaissons et les
 accompagner dans la phase de reprise. Les sociétés civiles immobilières
 (SCI), établissements de crédits et sociétés de financement sont exclus.
 Toutes les modalités du prêt garanti par l’Etat sont à retrouver sur
-cette page.
+cette page.\
+\
+Au 21 avril 2020, les banques ont accordé 24 milliards € de prêts à 174
+000 entreprises.
 
 
 
@@ -3576,7 +3683,21 @@ consistent à :
 
 Le Gouvernement veillera au respect des contrats. A ce titre, les
 entreprises ayant conclu un contrat d’assurance dans lequel figure la
-perte d’exploitation, sont indemnisables.
+perte d’exploitation, sont indemnisables.\
+\
+Par ailleurs, le ministre de l’Economie et des Finances a annoncé le 22
+avril 2020 la mise en place d’un groupe de travail sur le développement
+d’une couverture d’assurance des événements exceptionnels, dont les
+pandémies, pour les entreprises. Il remettra ses propositions d’ici
+début juin.\
+\
+Ce groupe de travail définira un cadre assurantiel offrant une
+couverture des risques d’une intensité exceptionnelle, comme le
+Covid-19, pour permettre aux acteurs économiques de faire face à une
+baisse du chiffre d’affaires, et poursuivre leur activité dans les
+meilleures conditions, à un coût abordable pour les entreprises et
+maîtrisé pour la collectivité publique.\
+ 
 
 
 
@@ -3611,6 +3732,63 @@ des entreprises du secteur de 90 millions d’euros au total.
 
 
 
+[]{#s670-q1338}
+#### Quelles sont les aides pour soutenir les avocats pendant cette période ? {#quelles-sont-les-aides-pour-soutenir-les-avocats-pendant-cette-période .item-question}
+
+
+
+La période de confinement a entraîné une réduction de l’activité des
+juridictions. Les avocats, dans la diversité de leurs modes d’exercice,
+bénéficient de plusieurs dispositifs mis en place pour faire face à la
+situation :\
+ 
+-   le report des échéances d’URSSAF : ce report étant automatique, tous
+    les avocats en bénéficient ;
+-   le placement en chômage partiel pour les salariés des cabinets
+    d’avocats, qu’ils soient avocats ou non, s’ils sont confrontés à une
+    baisse d’activité ;
+-   l’éligibilité au dispositif permettant le report des loyers et des
+    factures d’eau, de gaz et d’électricité prévu par l’ordonnance n°
+    2020-316 du 25 mars 2020 ;
+-   le bénéfice des indemnités journalières de l’assurance maladie pour
+    les arrêts de travail pour garde d’enfant et pour les personnes
+    considérées comme vulnérables ;
+-   l’inclusion au périmètre du fonds de solidarité institué pour venir
+    en aide aux entreprises les plus touchées par la crise. Ce
+    dispositif a été étendu par un décret du 16 avril pour tenir compte
+    de la situation des collaborateurs des cabinets d’avocats. L’aide
+    tient compte du nombre d’associés et des sommes rétrocédées aux
+    collaborateurs.
+
+\
+La Garde des Sceaux a décidé de mettre en place un dispositif spécifique
+d’avance de 50 millions d’euros pour les avocats qui perçoivent l’aide
+juridictionnelle. Cette provision pourra représenter jusqu’à 25% du
+chiffre d’affaires moyen réalisé au titre de l’aide juridictionnelle des
+deux dernières années. Une avance de 1 500 € pourra également être
+versée aux jeunes avocats récemment inscrits au tableau de l’ordre.
+
+
+
+
+
+[]{#s670-q1339}
+#### Quelles sont les aides pour soutenir les associations pendant cette période ? {#quelles-sont-les-aides-pour-soutenir-les-associations-pendant-cette-période .item-question}
+
+
+
+Le 21 avril, le secrétaire d’État auprès du ministre de l’Education
+nationale et de la Jeunesse a annoncé le versement de toutes les
+subventions aux associations, même celles liés à des projets ou
+événements annulés.\
+\
+Cette décision concerne l'ensemble des subventions qui ont déjà été
+notifiées, actées, mais pour la plupart pas encore versées.
+
+
+
+
+
 
 
 []{#s930}
@@ -3620,9 +3798,6 @@ des entreprises du secteur de 90 millions d’euros au total.
 La durée de perception des allocations chômage est prolongée pour les
 demandeurs d’emploi qui ont épuisé leurs droits à compter du 12 mars
 2020.\
-\
-Pour l’année 2020, la fin de la trêve hivernale est repoussée au 31
-mai.\
 \
 La fin de la période durant laquelle les fournisseurs d'électricité, de
 chaleur, de gaz ne peuvent procéder, dans une résidence principale, à
@@ -3640,7 +3815,71 @@ d’urgence sanitaire.\
 Afin de soutenir les étudiants, 10 millions d'euros supplémentaires
 seront attribués pour le financement des aides spécifiques d'urgence
 attribuées par les Centres régionaux des œuvres universitaires et
-scolaires (CROUS).
+scolaires (CROUS).\
+\
+Le 23 avril 2020, un plan de soutien d’urgence de 39 millions d’euros a
+été débloqué en faveur de l’aide alimentaire :
+-   25 millions d’euros pour soutenir financièrement les associations
+    face à la crise. Ils  leurs permettront d’acheter des produits de
+    première nécessité et de faire face à des dépenses supplémentaires
+    qu’elles ont engagées pour adapter leur distribution à la crise
+    épidémique.
+-   14 millions d’euros d’aide d’urgence alimentaire immédiate pour les
+    territoires en souffrance : 10 millions d’euros en France
+    métropolitaine distribués sous forme de chèques d’urgence
+    alimentaire, soit 105 euros par foyer, et 4 millions d’euros en
+    Outre mer distribués sous forme de chèques d’urgence alimentaire à
+    Mayotte, ou de denrées alimentaires à Saint-Martin et en Guyane.
+
+
+
+
+[]{#s930-q1340}
+#### Quel est le dispositif d’accueil dans les centres d’hébergement et les hôtels ? {#quel-est-le-dispositif-daccueil-dans-les-centres-dhébergement-et-les-hôtels .item-question}
+
+
+
+Pour l’année 2020, la fin de la trêve hivernale est repoussée au 31 mai.
+Cela signifie que les 14 000 places exceptionnelles ouvertes cet hiver
+resteront ouvertes jusqu’à cette date.\
+\
+Par ailleurs, depuis le premier jour du confinement, plus de 17 000
+places d’hébergement en plus sont sont ouvertes. Depuis le 23 avril au
+soir, 10 600 chambres d’hôtel supplémentaires sont mobilisées pour
+accueillir les sans-abri. Ainsi, 177 000 places sont ouvertes pour
+mettre à l’abri les plus fragiles. \
+\
+Par ailleurs, 92 centres d’hébergement spécialisés, répartis dans 77
+départements, sont dédiés aux sans-abri malades du Covid-19 mais ne
+relevant pas d’une hospitalisation, soit près de 3400 places. \
+\
+Au total, l’Etat débloque une enveloppe d’urgence de 65 millions d’euros
+supplémentaires pour héberger les sans-abri.
+
+
+
+
+
+[]{#s930-q1341}
+#### Comment avoir accès aux produits d’alimentation et d’hygiène ? {#comment-avoir-accès-aux-produits-dalimentation-et-dhygiène .item-question}
+
+
+
+Un dispositif exceptionnel de distribution de chèques services permet
+aux personnes sans domicile d’acheter des produits d’alimentation et
+d’hygiène pendant la crise sanitaire.\
+\
+La distribution de ces chèques, d’un montant de 7€ par jour, est
+effectuée par les associations, et coordonnée par les préfectures. Elle
+concerne déjà près de 65 000 bénéficiaires, mais en comptera
+prochainement 90 000. Le nombre de chèques services a été doublé dans
+les territoires les plus en tension : l’Ile-de-France et l’Outre-mer.\
+\
+Ce dispositif, d’un montant de plus de 15 millions d’euros, complète les
+actions des collectivités locales et des associations, maraudes et
+distributions alimentaires, qui restent indispensables.\
+ 
+
 
 
 
@@ -3996,6 +4235,14 @@ Questions / Réponses
 ### Travail et pension {#travail-et-pension .item-paragraphe-titre .c-onglet data-section="s681" data-picto="https://www.gouvernement.fr/sites/default/files/cimages/qr_travail_et_pension_04.svg"}
 
 
+Des fiches conseils et des guides sectoriels sont disponibles, pour
+aider les salariés et les employeurs dans la mise en œuvre des mesures
+de protection contre le COVID-19 sur les lieux de travail et assurer la
+continuité de l’activité économique. Pour les retrouver :\
+[Fiches conseils métiers pour les salariés et les employeurs du
+ministère du
+Travail](https://travail-emploi.gouv.fr/actualites/l-actualite-du-ministere/article/coronavirus-covid-19-fiches-conseils-metiers-pour-les-salaries-et-les)
+
 
 
 
@@ -4070,8 +4317,9 @@ Pour en savoir plus sur ce que doit faire votre employeur, le ministère
 du Travail propose [un document rappelant les obligations des employeurs
 en matière de protection de la santé des
 travailleurs](https://travail-emploi.gouv.fr/IMG/pdf/covid19_obligations_employeur.pdf).
-Dans certains secteurs, ces obligations peuvent être complétées par la
-branche professionnelle qui proposera un guide par métier.\
+Dans certains secteurs, ces obligations peuvent être complétées des
+[guides par métiers publiées par la branche
+professionnelle](https://travail-emploi.gouv.fr/le-ministere-en-action/coronavirus-covid-19/proteger-les-travailleurs/article/fiches-conseils-metiers-et-guides-pour-les-salaries-et-les-employeurs).\
 \
 A noter : si votre employeur ne respecte pas ces consignes, vous pouvez
 prendre contact avec l’inspecteur du travail de votre secteur. Ses
