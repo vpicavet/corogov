@@ -1432,6 +1432,7 @@ les masques sont livrés en priorité :
     COVID-19 en ville comme à l’hôpital ;
 -   aux personnes qui interviennent auprès des personnes âgées en EHPAD.
 
+\
 Depuis le 21 mars, les masques sont distribués ainsi :
 -   pour les médecins de ville, les biologistes médicaux et les
     infirmiers de ville : 18 masques par semaine et par professionnel,
@@ -1474,6 +1475,211 @@ Les chirurgiens-dentistes disposent désormais d’un stock dédié de
 masques qu’ils ont eux-mêmes réparti sur le territoire de façon à
 pouvoir dans la durée assurer les soins urgents à la population.\
  
+
+
+
+
+
+[]{#s1325-q1329}
+#### Les aidants peuvent-ils obtenir des masques ? {#les-aidants-peuvent-ils-obtenir-des-masques .item-question}
+
+
+
+**Pour les professionnels du secteur médico-social travaillant en
+EHPAD**, le Gouvernement a mis à disposition 500 000 masques par jour,
+comme cela avait été demandé par les directeurs d’établissements.
+Concernant les autres aidants pour personnes âgées, le Gouvernement a
+demandé la création et fabrication de nouveaux masques à usage non
+sanitaire. A ce titre, ils pourront en être équipés.\
+\
+**Pour le secteur du handicap**, 500 000 masques de plus et par semaine
+(soit 3,5 millions au total) sont désormais distribués par la doctrine
+nationale d’utilisation du ministère des Solidarités et de la Santé. Cet
+assouplissement permettra notamment de couvrir, aux conditions fixées,
+les foyers de vie et d’hébergement accueillant des personnes en
+situation de handicap.
+
+
+
+
+
+[]{#s1325-q1330}
+#### La réquisition des masques concerne-t-elle toute la production française et les stocks des ministères ? {#la-réquisition-des-masques-concerne-t-elle-toute-la-production-française-et-les-stocks-des-ministères .item-question}
+
+
+
+Oui, par décret du 3 mars 2020, sont réquisitionnés les stocks de type
+FFP2 (masques réservés à des opérations spécifiques réalisées par les
+soignants) ainsi que les masques chirurgicaux produits jusqu’au 31 mai
+2020.
+
+
+
+
+
+[]{#s1325-q1331}
+#### À défaut d’un masque, est-il utile que je me protège le visage avec un foulard ou une écharpe lorsque je vais faire mes courses ou que je sors dans la rue ? {#à-défaut-dun-masque-est-il-utile-que-je-me-protège-le-visage-avec-un-foulard-ou-une-écharpe-lorsque-je-vais-faire-mes-courses-ou-que-je-sors-dans-la-rue .item-question}
+
+
+
+Il semble peu probable qu’ils soient efficaces pour se protéger, car les
+mailles des tissus utilisés laissent passer les virus. Aucune étude à ce
+jour n’en a démontré l’efficacité. De plus, ils exposent au risque de se
+toucher fréquemment le visage, et donc se contaminer à travers les
+mains.
+
+
+
+
+
+[]{#s1325-q1332}
+#### Les visières peuvent-elles remplacer les masques grand public ? {#les-visières-peuvent-elles-remplacer-les-masques-grand-public .item-question}
+
+
+
+Les visières sont un moyen supplémentaire de protection face aux virus
+transmis par les gouttelettes. Néanmoins, elles n’ont pas pour vocation
+de remplacer les masques pour le grand public. Les visières sont
+essentiellement utilisées en milieu hospitalier, où les soignants
+côtoient de nombreux malades. Le gouvernement, en lien avec les
+producteurs nationaux, travaille à la fabrication massive de masques
+grand public lavables, répondant à des normes strictes afin de pouvoir
+équiper toute la population.\
+\
+De plus, pour rappel, le port de masque (et de visière) ne dispense pas
+d’une application rigoureuse des gestes barrières, de l’hygiène des
+mains et du respect de la distanciation sociale.\
+\
+ 
+
+
+
+
+
+[]{#s1325-q1333}
+#### Quels sont les différents types de masques pour se protéger efficacement contre le COVID-19 ? {#quels-sont-les-différents-types-de-masques-pour-se-protéger-efficacement-contre-le-covid-19 .item-question}
+
+
+
+**1. Le masque chirurgical** protège contre les virus qui se
+transmettent dans les gouttelettes. Il permet donc se protéger contre le
+coronavirus, à transmission gouttelettes, mais aussi d’éviter de
+contaminer les autres quand on est malade. Il est suffisant dans la
+plupart des situations pour se protéger efficacement.\
+\
+**2. Le masque FFP2** filtre l’inhalation d’aérosols contaminés, il
+protège donc le porteur du masque contre les virus circulant dans l’air.
+Dans le cas du coronavirus, il est réservé aux situations à risque,
+principalement pour le personnel soignant, quand il existe des
+possibilités d’aérosolisation du virus (propulsion de gouttelettes
+contaminées), notamment lors des gestes invasifs. La production
+nationale en masques de protection à destination des professionnels de
+santé et des patients atteints par le coronavirus est passée de 15
+millions de masques FFP2 et chirurgicaux par mois avant la crise, à plus
+de 40 millions en avril.\
+\
+**3. Les masques grand public**\
+\
+La priorité du Gouvernement en termes de masques est l’équipement des
+professionnels de santé, via des importations massives et l’augmentation
+de nos capacités de production.\
+ \
+Mais il y a aussi une demande croissante, dans de nombreux secteurs
+d’activité, d’augmenter la protection des salariés par des masques en
+complément des gestes barrières et des mesures de distanciation
+sociale.\
+ \
+Pour contribuer à y répondre et dès le début du mois de mars, le
+Gouvernement a mobilisé les industriels français du textile afin de
+proposer de nouveaux types de masques anti-projections, avec des
+performances adaptées au domaine non médical. Ces masques répondent à
+des normes établies par les autorités sanitaires. Ils doivent être
+respirables et filtrer les gouttelettes qui contiennent du virus, pour
+ne pas qu’elles rentrent ni qu’elles sortent. Ils seront lavables pour
+la grande majorité et réutilisables plusieurs fois (certains modèles 20
+ou 30 fois).\
+\
+La semaine du 13 avril, ce sont 8 millions de masques grand public qui
+ont été produits en France ; l’objectif est de parvenir à une production
+de 17 millions de masques par semaine d’ici au 11 mai, grâce à la
+mobilisation de plus d’une centaine d’entreprises. Cette production
+nationale est complétée par des importations : plusieurs dizaines de
+millions de masques ont été commandés.\
+\
+L’objectif est ainsi de permettre l’accès aux masques grand public pour
+tous les Français qui le souhaitent à partir du 11 mai.\
+\
+Ces masques sont qualifiés pour des environnements de travail :
+-   masques grand public de catégorie 1 : l’usage de ces masques est
+    destiné aux populations amenées à accueillir du public dans le cadre
+    de leurs activités professionnelles (policiers, gendarmes, hôtesses
+    de caisses, etc.). Ils filtrent plus de 90% des particules émises
+    d’une taille supérieure ou égale à 3 microns compatibles avec cette
+    utilisation ;
+-   masques grand public de catégorie 2 : ces masques sont destinés à
+    l’usage d’individus ayant des contacts occasionnels avec d’autres
+    personnes, dans le cadre professionnel. Leurs propriétés de
+    filtration des particules supérieures ou égales à 3 microns
+    apportent un complément de protection aux gestes barrières.
+
+\
+Il faut rappeler que le port de masque doit nécessairement s’accompagner
+du respect des gestes barrières ainsi que des mesures de distanciation
+sociale.\
+\
+**4.** **Il existe des masques FFP3**, réservés à certaines utilisations
+très spécifiques. Ils ne sont pas utiles en prévention de la
+transmission COVID-19.\
+ 
+
+
+
+
+
+[]{#s1325-q1334}
+#### Pour les entreprises qui souhaitent acquérir des masques {#pour-les-entreprises-qui-souhaitent-acquérir-des-masques .item-question}
+
+
+
+Le ministère de l’Economie et des Finances aide les entreprises et les
+filières à s’approvisionner en masques de protection nécessaires à la
+poursuite de l’activité économique. Plusieurs possibilités sont ouvertes
+:\
+ 
+-   **recourir à l’importation** : les entreprises dont l’activité
+    nécessite le port d’un masque de protection peuvent se fournir
+    directement auprès de producteurs étrangers sans que les masques
+    importés ne soient réquisitionnés ;
+-   **passer commande sur la plateforme StopCovid19.fr** : ****
+    plateforme professionnelle qui permet de mettre en relation les
+    fabricants et les acheteurs de gels hydro-alcooliques et masques de
+    protection (la plateforme a déjà permis la commande de 1 390 000
+    masques) ;
+-   **mutualiser les commandes au niveau des filières ou grands donneurs
+    d’ordre** : afin d’aider les PME et sous-traitants à importer, le
+    ministère de l’Economie et des Finances a demandé aux filières
+    industrielles et économiques, ainsi qu’aux principaux donneurs
+    d’ordre, de faire preuve de solidarité en organisant, au niveau de
+    chaque filière, des commandes mutualisées au bénéfice de l’ensemble
+    de leurs entreprises.
+-   **bénéficier du dispositif de vente et de distribution lancé par
+    Cdiscount et appuyé par les services de l’Etat** : pour répondre aux
+    besoins des TPE et  PME en masques de protection, Cidscount a lancé
+    un dispositif de vente en “click & collect” leur permettant de
+    passer des commandes et avoir un accès facilité à ces masques, opéré
+    par les enseignes du Groupe Casino.
+
+\
+Par ailleurs, le 9 avril 2020, le ministre de l’Economie et des Finances
+et le ministre de l’Action et des Comptes publics ont annoncé que les
+entreprises fabriquant ou important du matériel sanitaire (masques, gels
+hydroalcooliques, tenues de protection et respirateurs) et qui en font
+don à des établissements de santé, à des établissements sociaux et
+médico-sociaux qui accueillent des personnes âgées, handicapées ou
+atteintes de pathologies chroniques, à des professionnels de la santé ou
+à des services de l’État et des collectivités territoriales, pourront
+déduire la taxe sur la valeur ajoutée (TVA) supportée à l’occasion de
+l’acquisition ou de la fabrication de ces matériels.
 
 
 
@@ -1688,277 +1894,6 @@ barrières (voir la question "Pour l’accès aux masques" dans la rubrique
 A partir du 11 mai, l'Etat, en lien avec les maires, permettra à chaque
 Français de se procurer un masque grand public.\
  
-
-
-
-
-
-[]{#s642-q645}
-#### Y a-t-il suffisamment de masques pour le personnel soignant en France ? {#y-a-t-il-suffisamment-de-masques-pour-le-personnel-soignant-en-france .item-question}
-
-
-
-Tous les efforts sont entrepris par l’Etat, les collectivités et
-certaines entreprises, pour augmenter la capacité de production de
-masques en France, multiplier les commandes à l’étranger et accélérer
-les livraisons.\
-\
-*En savoir plus*\
-\
-Depuis le début de la crise, la stratégie sanitaire a eu pour objectif
-de fournir en priorité des masques aux professionnels de santé amenés à
-prendre en charge des patients COVID-19 en ville, à l’hôpital et dans
-les structures médico-sociales accueillant des personnes fragiles, ainsi
-qu’aux services d’aide à domicile, pour garantir la continuité de
-l’accompagnement à domicile des personnes âgées et en situation de
-handicap.\
-\
-Au mois de janvier, le stock d'État est de 117 millions de masques
-chirurgicaux.\
-\
-Les besoins des établissements hospitaliers en masques en temps normal
-sont de 5 millions par semaine. La production nationale de masques
-s’élevait alors à 4 millions par semaine.\
-\
-Avec la crise, les besoins minimaux des professionnels de santé en
-masques sont passés à environ 45 millions par semaine.\
-\
-Les capacités de production de masques par les entreprises françaises
-ont pu être augmentées : la France produit à présent 8 millions de
-masques par semaine, et les efforts se poursuivent pour augmenter encore
-ces capacités.\
-\
-À cela s’ajoutent des importations depuis le mois de mars,
-progressivement livrées depuis la Chine via un pont aérien. La semaine
-du 14 avril, ce sont ainsi près de 81 millions de masques qui ont été
-importés, soit bien plus que les besoins des établissements hospitaliers
-pour une semaine.\
-\
-Les collectivités territoriales et certaines entreprises contribuent
-également à cet effort d’approvisionnement.
-
-
-
-
-
-[]{#s642-q646}
-#### Comment les masques sont-ils distribués ? {#comment-les-masques-sont-ils-distribués-1 .item-question}
-
-
-
-Depuis le début de la crise, pour préserver les capacités hospitalières,
-les masques sont livrés en priorité : 
-
--   aux professionnels de santé amenés à prendre en charge des patients
-    COVID 19 en ville comme à l’hôpital ; 
--   aux personnes qui interviennent auprès des personnes âgées en EHPAD.
-
-\
-Depuis le 21 mars, les masques sont distribués ainsi :
-
--   pour les médecins de ville, les biologistes médicaux et les
-    infirmiers de ville : 18 masques par semaine et par professionnel,
-    dont des masques FFP2 dans le strict respect des indications ;
--   pour les pharmaciens de ville : 18 masques chirurgicaux par semaine
-    et par professionnel ; 
--   pour les masseurs-kinésithérapeutes : 6 masques par semaine et par
-    professionnel, chirurgicaux ou aux normes FFP2, dans le strict
-    respect des indications et selon les disponibilités, pour la
-    réalisation des actes prioritaires et non reportables ;
--   pour les sages-femmes : 6 masques chirurgicaux par semaine pour la
-    prise en charge des femmes confirmées COVID-19 ;
--   pour les prestataires de service et les distributeurs de matériel :
-    1 boîte de 50 masques chirurgicaux par semaine et, en moyenne, par
-    entreprise pour assurer les visites prioritaires ; 
--   pour les personnes exerçant des activités de services d’aide et de
-    soins à domicile : 9 masques chirurgicaux par semaine et par
-    professionnel exerçant au sein de la structure pour assurer les
-    visites prioritaires. 
--   pour les EHPAD et les structures médico-sociales accueillant des
-    personnes fragiles, notamment les personnes en situation de handicap
-    ou des patients COVID-19 sans domicile ne relevant pas d’une
-    hospitalisation :  5 masques chirurgicaux par lit ou place et par
-    semaine. Les EHPAD disposeront dans la durée de 500 000 masques
-    chirurgicaux par jour, comme le réclamaient les responsables de
-    leurs fédérations.
--   pour l’hospitalisation conventionnelle dans les établissements de
-    santé : 3 masques chirurgicaux par jour et par professionnel de
-    santé dans les services de soins prenant en charge les cas possibles
-    ou confirmés et, pour la réalisation des gestes à risque, des
-    masques FFP2 dans les services d’urgence, d’accueil des malades
-    COVID-19 et de soins critiques 
--   pour l’hospitalisation à domicile : 2 boîtes de 50 masques
-    chirurgicaux par semaine et, en moyenne, par structure ;
--   pour les transporteurs sanitaires et les centres de secours : 1
-    boîte de 50 masques par semaine et par structure.
-
-Les chirurgiens-dentistes disposent désormais d’un stock dédié de
-masques qu’ils ont eux-mêmes réparti sur le territoire de façon à
-pouvoir dans la durée assurer les soins urgents à la population.
-
-
-
-
-
-[]{#s642-q1063}
-#### Les aidants pour personnes âgées dépendantes peuvent-ils obtenir des masques ? {#les-aidants-pour-personnes-âgées-dépendantes-peuvent-ils-obtenir-des-masques .item-question}
-
-
-
-Pour les professionnels du secteur médico-social travaillant en EHPAD,
-le Gouvernement a mis à disposition 500 000 masques par jour, comme cela
-avait été demandé par les directeurs d’établissements. Concernant les
-autres aidants pour personnes âgées, le Gouvernement a demandé la
-création et fabrication de nouveaux masques à usage non sanitaire. A ce
-titre, ils pourront en être équipés.
-
-
-
-
-
-[]{#s642-q647}
-#### La réquisition des masques concerne-t-elle toute la production française et les stocks des ministères ? {#la-réquisition-des-masques-concerne-t-elle-toute-la-production-française-et-les-stocks-des-ministères .item-question}
-
-
-
-Oui, par décret du 3 mars 2020, sont réquisitionnés les stocks de type
-FFP2 (masques réservés à des opérations spécifiques réalisées par les
-soignants) ainsi que les masques chirurgicaux produits jusqu’au 31 mai
-2020.
-
-
-
-
-
-[]{#s642-q648}
-#### À défaut d’un masque, est-il utile que je me protège le visage avec un foulard ou une écharpe lorsque je vais faire mes courses ou que je sors dans la rue ? {#à-défaut-dun-masque-est-il-utile-que-je-me-protège-le-visage-avec-un-foulard-ou-une-écharpe-lorsque-je-vais-faire-mes-courses-ou-que-je-sors-dans-la-rue .item-question}
-
-
-
-Il semble peu probable qu’ils soient efficaces pour se protéger, car les
-mailles des tissus utilisés laissent passer les virus. Aucune étude à ce
-jour n’en a démontré l’efficacité. De plus, ils exposent au risque de se
-toucher fréquemment le visage, et donc se contaminer à travers les
-mains.
-
-
-
-
-
-[]{#s642-q1064}
-#### Quels sont les différents types de masques pour se protéger efficacement contre le COVID-19 ? {#quels-sont-les-différents-types-de-masques-pour-se-protéger-efficacement-contre-le-covid-19 .item-question}
-
-
-
-1\.     **Le masque chirurgical** protège lui contre les virus qui se
-transmettent dans les gouttelettes. Il permet donc se protéger contre le
-coronavirus, à transmission gouttelettes, mais aussi d’éviter de
-contaminer les autres quand on est malade. Il est suffisant dans la
-plupart des situations pour se protéger efficacement.\
-\
-2.    **Le masque FFP2** filtre l’inhalation d’aérosols contaminés, il
-protège donc le porteur du masque contre les virus circulant dans l’air.
-Dans le cas du coronavirus, il est réservé pour les situations à risque,
-réalisées par le personnel soignant, quand il existe des possibilités
-d’aérosolisation du virus (propulsion de gouttelettes contaminées),
-notamment lors des gestes invasifs. La production nationale en masques
-de protection à destination des professionnels de santé et des patients
-atteints par le coronavirus est passée de 15 millions de masques FFP2 et
-chirurgicaux par mois avant la crise, à plus de 40 millions en avril.\
-\
-3. **Les masques grand public**\
- \
-La priorité du Gouvernement en termes de masques est l’équipement des
-professionnels de santé, via des importations massives et l’augmentation
-de nos capacités de production.\
-\
-Mais il y a aussi une demande croissante, dans de nombreux secteurs
-d’activité, d’augmenter la protection des salariés par des masques en
-complément des gestes barrières et des mesures de distanciation
-sociale.\
-\
-Pour contribuer à y répondre et dès le début du mois de mars, le
-Gouvernement a mobilisé les industriels français du textile afin de
-proposer de nouveaux types de masques anti-projections, avec des
-performances adaptées au domaine non médical. Ces masques répondent à
-des normes établies par les autorités sanitaires. Ils doivent être
-respirables et filtrer les gouttelettes qui contiennent du virus, pour
-ne pas qu’elles rentrent ni qu’elles sortent. Ils seront lavables pour
-la grande majorité et réutilisables plusieurs fois (certains modèles 20
-ou 30 fois). \
-\
-La semaine du 13 avril, ce sont 8 millions de masques grand public qui
-ont été produits en France ; l’objectif est de parvenir à une production
-de 17 millions de masques par semaine d’ici au 11 mai, grâce à la
-mobilisation de plus d’une centaine d’entreprises. Cette production
-nationale est complétée par des importations : plusieurs dizaines de
-millions de masques ont été commandés. \
-\
-L’objectif est ainsi de permettre l’accès aux masques grand public pour
-tous les Français qui le souhaitent à partir du 11 mai.\
-\
-Ces masques sont qualifiés pour des environnements de travail :\
- 
--   masques grand public de catégorie 1 : l’usage de ces masques est
-    destiné aux populations amenées à accueillir du public dans le cadre
-    de leurs activités professionnelles (policiers, gendarmes, hôtesses
-    de caisses, etc.). Ils filtrent plus de 90% des particules émises
-    d’une taille supérieure ou égale à 3 microns compatibles avec cette
-    utilisation ;
--   masques grand public de catégorie 2 : ces masques sont destinés à
-    l’usage d’individus ayant des contacts occasionnels avec d’autres
-    personnes, dans le cadre professionnel. Leurs propriétés de
-    filtration des particules supérieures ou égales à 3 microns
-    apportent un complément de protection aux gestes barrières.
-
-Il faut rappeler que le port de masque doit nécessairement s’accompagner
-du respect des gestes barrières ainsi que des mesures de distanciation
-sociale.\
-\
-4. **Il existe des masques FFP3**, réservés à certaines utilisations
-très spécifiques. Ils ne sont pas utiles en prévention de la
-transmission COVID-19.
-
-
-
-
-
-[]{#s642-q1285}
-#### Pour les entreprises qui souhaitent acquérir des masques {#pour-les-entreprises-qui-souhaitent-acquérir-des-masques .item-question}
-
-
-
-Le ministère de l’Economie et des Finances aide les entreprises et les
-filières à s’approvisionner en masques de protection nécessaires à la
-poursuite de l’activité économique. Plusieurs possibilités sont ouvertes
-aux entreprises :\
- 
--   **recourir à l’importation** : les entreprises dont l’activité
-    nécessite le port d’un masque de protection peuvent se fournir
-    directement auprès de producteurs étrangers sans que les masques
-    importés ne soient réquisitionnés ;
--   **passer commande sur la plateforme StopCovid19.fr** : plateforme
-    professionnelle qui permet de mettre en relation les fabricants et
-    les acheteurs de gels hydro-alcooliques et masques de protection (la
-    plateforme a déjà permis la commande de 1 390 000 masques) ;
--   **mutualiser les commandes au niveau des filières ou grands donneurs
-    d’ordre** : afin d’aider les PME et sous-traitants à importer, le
-    ministère de l’Economie et des Finances a demandé aux filières
-    industrielles et économiques, ainsi qu’aux principaux donneurs
-    d’ordre, de faire preuve de solidarité en organisant, au niveau de
-    chaque filière, des commandes mutualisées au bénéfice de l’ensemble
-    de leurs entreprises.
-
-Par ailleurs, le 9 avril 2020, le ministre de l’Economie et des Finances
-et le ministre de l’Action et des Comptes publics ont annoncé que les
-entreprises fabriquant ou important du matériel sanitaire (masques, gels
-hydroalcooliques, tenues de protection et respirateurs) et qui en font
-don à des établissements de santé, à des établissements sociaux et
-médico-sociaux qui accueillent des personnes âgées, handicapées ou
-atteintes de pathologies chroniques, à des professionnels de la santé ou
-à des services de l’État et des collectivités territoriales, pourront
-déduire la taxe sur la valeur ajoutée (TVA) supportée à l’occasion de
-l’acquisition ou de la fabrication de ces matériels.
 
 
 
