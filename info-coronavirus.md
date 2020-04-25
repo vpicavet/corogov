@@ -4486,6 +4486,26 @@ Pour toute info sur les modalités consultez :\
 
 
 
+[]{#s681-q1342}
+#### Mon employeur peut-il mettre fin à ma période d’essai en raison de la baisse de l’activité ? {#mon-employeur-peut-il-mettre-fin-à-ma-période-dessai-en-raison-de-la-baisse-de-lactivité .item-question}
+
+
+
+Non. Même si l’employeur n’a pas à justifier de sa décision, la rupture
+du contrat de travail durant la période d’essai ne peut reposer que sur
+l’appréciation des compétences et aptitudes du salarié pour occuper
+l’emploi proposé. Elle devient abusive si elle est sans rapport avec les
+qualités professionnelles du salarié.\
+\
+Par ailleurs, le salarié en période d’essai est éligible au dispositif
+d’activité partielle, étape sans doute nécessaire avant d’envisager de
+rompre son contrat de travail.\
+ 
+
+
+
+
+
 []{#s681-q677}
 #### Je suis en fin de droits de chômage, que faire ? {#je-suis-en-fin-de-droits-de-chômage-que-faire .item-question}
 
@@ -4571,6 +4591,11 @@ Des prolongements d’aides à noter :\
 -   si, dans les prochains mois, vos droits à la complémentaire santé
     solidaire et à l’aide au paiement d’une assurance complémentaire de
     santé devaient expirer, ils  seront prolongés de 3 mois.
+-   l’allocation de soutien familial sera prolongée au-delà du délai
+    réglementaire de quatre mois, à la demande du parent créancier,
+    lorsque celui-ci n’est pas en mesure d’obtenir ou de transmettre
+    pendant la période de crise les justificatifs d’engagement de
+    procédure en fixation de pension alimentaire.
 
 
 
@@ -4607,12 +4632,19 @@ lycée.
 
 
 
-Oui, les personnels de santé à risques élevés, comme le reste de la
-population, peuvent bénéficier d’un arrêt de travail.Ils seront pris en
-charge par l’Assurance Maladie, alignés sur les modalités des salariés
-en termes de délais de carence. \
+Pour personnels de santé, le Covid-19 sera reconnu de façon automatique
+comme maladie professionnelle, impliquant une indemnisation en cas
+d’incapacité temporaire ou permanente. Cette règle s’applique à tous les
+soignants, quel que soit leur lieu d’exercice, qui n’auront pas à
+démontrer qu’ils ont été contaminés sur leur lieu de travail ou non.\
 \
-Cette disposition s’applique également aux personnels de santé libéraux.
+Dans tous les cas, ils peuvent, comme le reste de la population,
+bénéficier d’un arrêt de travail. Ils seront pris en charge par
+l’Assurance Maladie, alignés sur les modalités des salariés en termes de
+délais de carence. \
+\
+Ces dispositions s’appliquent également aux personnels de santé
+libéraux.
 
 
 
@@ -4665,6 +4697,29 @@ Non il n’en a pas le droit, ni sur place, ni à distance.\
 A noter : lorsqu’un employeur demande à un salarié de “télétravailler”
 alors que ce dernier est placé en activité partielle, c’est une fraude
 sévèrement sanctionnée.
+
+
+
+
+
+[]{#s681-q1343}
+#### Ai-je le droit d’alterner entre télétravail et chômage partiel ? {#ai-je-le-droit-dalterner-entre-télétravail-et-chômage-partiel .item-question}
+
+
+
+Un employeur ne peut pas demander à un salarié en activité partielle de
+faire du télétravail, ni le placer en activité partielle alors qu’il est
+en télétravail. Les entreprises qui ignorent cette règle de non cumul
+s’exposent à des sanctions pénales et administratives.\
+\
+Toutefois, si l’horaire de travail d’un salarié est réduite, l’employeur
+peut le mettre en télétravail pour le temps travaillé, et en activité
+partielle sur les plages horaires non travaillées. Dans ce cas, il doit
+définir clairement les journées ou demi-journées travaillées et celles
+non travaillées au sein d’une même semaine.\
+\
+Ces éléments pourront être demandés en cas de contrôle.\
+ 
 
 
 
@@ -5118,6 +5173,22 @@ cadre de la garde alternée est tout à fait autorisé.\
 Sur l’attestation de déplacement, vous devez cocher la case : «
 Déplacements pour motif familial impérieux, pour l’assistance aux
 personnes vulnérables ou la garde d’enfants ».
+
+
+
+
+
+[]{#s1079-q1344}
+#### Un tiers peut-il assurer les déplacements de l’enfant dans le cadre de la garde alternée ? {#un-tiers-peut-il-assurer-les-déplacements-de-lenfant-dans-le-cadre-de-la-garde-alternée .item-question}
+
+
+
+Oui.\
+Les déplacements nécessaires pour assurer la continuité de la garde
+alternée peuvent être effectués par une personne tiers. Dans ce cas, il
+est conseillé de se munir, en plus des pièces d’identité et de
+l’attestation remplie, d’une copie du jugement prévoyant les droits de
+visite ou d’hébergement.
 
 
 
@@ -5992,7 +6063,13 @@ familial impérieux).\
 
 
 Non. partir en vacances, se rendre dans sa résidence secondaire ou une
-résidence de location ne fait pas partie des déplacements autorisés.
+résidence de location ne fait pas partie des déplacements autorisés.\
+\
+Concernant les vacances d’été, cela dépendra de l'évolution de la
+situation sanitaire. Cependant, il est conseillé de faire preuve d'une
+grande prudence dans la préparation des vacances d'été, et en
+particulier des voyages à l'étranger.\
+ 
 
 
 
@@ -6007,6 +6084,30 @@ Si vous avez choisi de débuter la période de confinement dans votre
 résidence secondaire, vous devez y rester. Seule la fin d'un bail de
 location est un motif impérieux pour rentrer dans votre résidence
 principale.
+
+
+
+
+
+[]{#s690-q1345}
+#### Puis-je me rendre dans un centre équestre pour m’occuper de mes chevaux ? {#puis-je-me-rendre-dans-un-centre-équestre-pour-moccuper-de-mes-chevaux .item-question}
+
+
+
+Oui. Depuis le 24 avril 2020, les propriétaires de chevaux peuvent se
+rendre dans leurs prés ou dans les centres équestres pour aller nourrir,
+soigner ou assurer l’activité physique indispensable à leurs animaux.\
+ \
+Ces déplacements sont autorisés si les centres équestres ne peuvent pas
+assurer eux-mêmes la totalité des soins. Pour cela, les propriétaires
+doivent remplir l’attestation de déplacement en cochant le motif
+familial impérieux.\
+ \
+Pour autant, les centres équestres ne peuvent pas accueillir du public.
+Ils doivent mettre en place toutes les mesures sanitaires et de
+distanciation sociale adaptées à la configuration des lieux pour leurs
+employés et les propriétaires présents.\
+ 
 
 
 
@@ -6058,41 +6159,6 @@ symptômes).\
 Sortir trop tôt du confinement risque donc de recréer des foyers de
 contamination, et de mettre en danger la population, notamment les plus
 fragiles.
-
-
-
-
-
-[]{#s690-q1229}
-#### Puis-je faire mes courses au supermarché ou à l'épicerie ? Oui, car il s’agit d’un déplacement pour effectuer des achats de première nécessité. Cochez la case correspondante sur votre Attestation de déplacement dérogatoire. Et soyez attentif, dans la {#puis-je-faire-mes-courses-au-supermarché-ou-à-lépicerie-oui-car-il-sagit-dun-déplacement-pour-effectuer-des-achats-de-première-nécessité.-cochez-la-case-correspondante-sur-votre-attestation-de-déplacement-dérogatoire.-et-soyez-attentif-dans-la .item-question}
-
-
-
-Puis-je faire mes courses au supermarché ou à l'épicerie ?\
-Oui, car il s’agit d’un déplacement pour effectuer des achats de
-première nécessité.\
-\
-Cochez la case correspondante sur votre Attestation de déplacement
-dérogatoire.\
-\
-Et soyez attentif, dans la rue comme dans le magasin, à respecter une
-distance de 1 mètre avec les gens qui vous entourent, et à mettre en
-oeuvre en toute circonstance les gestes barrières.\
-\
-*Pour en savoir plus :*\
-\
-Les supermarchés et épiceries restent ouverts. Leur approvisionnement en
-produits alimentaires et de première nécessité est garantie dans les
-jours et les semaines à venir. Les règles du travail de nuit notamment,
-sont assouplies pour les magasins. Il n’y a donc aucun risque de
-rationnement et il faut éviter la surconsommation préventive. Les
-espaces culturels et les cafétérias de la grande distribution sont
-fermés.\
-\
-La liste des établissements qui bénéficient d’une dérogation pour rester
-ouverts se trouve dans la rubrique “Les établissements fermés”.\
-\
- 
 
 
 
