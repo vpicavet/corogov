@@ -2114,6 +2114,74 @@ l’Europe et des Affaires
 
 
 
+[]{#s657-q1335}
+#### Je suis étranger et me trouve actuellement confiné en France. Mon titre de séjour a expiré, que dois-je faire ? {#je-suis-étranger-et-me-trouve-actuellement-confiné-en-france.-mon-titre-de-séjour-a-expiré-que-dois-je-faire .item-question}
+
+
+
+La durée de validité des documents de séjour qui auront expiré entre le
+16 mars 2020 et le  15 mai  2020  a été prolongée de 3 mois. Cette
+mesure concerne :\
+ 
+-   les visas de long séjour,
+-   les titres de séjour,
+-   les autorisations provisoires de séjour,
+-   les récépissés de demande de titre de séjour,
+-   les attestations de demande d’asile.
+
+\
+Les visas de court séjour ne sont pas concernés par cette mesure.\
+\
+Dans ce cas, il est possible de contacter son ambassade pour connaître
+les modalités de retour dans votre pays de résidence habituelle. Par
+ailleurs, la préfecture du lieu de séjour pourra, dans des cas d’urgence
+justifiés, prolonger le visa ou délivrer une autorisation provisoire de
+séjour.\
+ 
+
+
+
+
+
+[]{#s657-q1336}
+#### Je suis étranger et en voyage dans un département ou un territoire d’Outre-mer. Comment puis-je rentrer dans mon pays d’origine ? {#je-suis-étranger-et-en-voyage-dans-un-département-ou-un-territoire-doutre-mer.-comment-puis-je-rentrer-dans-mon-pays-dorigine .item-question}
+
+
+
+Les retours vers le pays d’origine ne sont soumis à aucune restriction.
+Il sera toutefois nécessaire de se munir d’une attestation dérogatoire
+de déplacement dûment complétée.
+
+
+
+
+
+[]{#s657-q1337}
+#### Je suis étudiant étranger en France. Que dois-je faire ? {#je-suis-étudiant-étranger-en-france.-que-dois-je-faire .item-question}
+
+
+
+Tous les établissements d’enseignement supérieur français sont fermés
+jusqu’à l’été. Pendant cette période, les enseignements continuent sous
+des formes adaptées.\
+\
+Les étudiants internationaux sont invités à rentrer chez eux en
+adéquation avec les mesures prises concernant les déplacements
+internationaux. Campus France assure le retour dans leur pays des
+étudiants boursiers qu'il gère, avec l'accord des ambassades de France
+qui leur ont attribué une bourse.\
+\
+Il est fortement conseillé de rester en contact avec son établissement
+de formation et d’être attentif aux informations qui sont communiquées
+par mail, sur les sites internet des établissements et leurs réseaux
+sociaux officiels.\
+\
+ 
+
+
+
+
+
 []{#s657-q656}
 #### Quelles sont les consignes si je reviens en France ? {#quelles-sont-les-consignes-si-je-reviens-en-france .item-question}
 
@@ -2124,7 +2192,12 @@ ainsi qu’au site Internet de [Santé Publique
 France](https://www.santepubliquefrance.fr/maladies-et-traumatismes/maladies-et-infections-respiratoires/infection-a-coronavirus/articles/infection-au-nouveau-coronavirus-sars-cov-2-covid-19-france-et-monde).
 Vous pouvez également contacter le numéro vert : 0 800 130 000. Pour
 toute question d’ordre médical, il convient de vous adresser à votre
-médecin.
+médecin.\
+\
+Rappel : Pour tout déplacement sur le territoire français ou tout
+déplacement à destination du territoire français, vous devez vous munir
+des attestations nécessaires en français, à retrouver dans la rubrique
+“Ressources et contacts utiles”.
 
 
 
@@ -2437,7 +2510,26 @@ Corse, et ont interdiction de faire escale ou de mouiller dans les eaux
 intérieures et territoriales des départements et régions d'outre-mer,
 ainsi que de Saint-Barthélemy et Saint-Martin, Saint-Pierre-et-Miquelon,
 et Wallis-et-Futuna, sauf dérogation accordée par le représentant de
-l'Etat compétent pour ces mêmes collectivités.
+l'Etat compétent pour ces mêmes collectivités.\
+\
+**Pour les établissements demeurant fermés, la continuité de leur
+activité en “*click and collect*” est possible.**\
+\
+Le 21 avril 2020, le ministre de l’Economie et des Finances, le
+secrétaire d’Etat chargé du Numérique et la secrétaire d’Etat auprès du
+ministre de l’Economie et des Finances ont annoncé la possibilité pour
+les magasins de vente n’ayant pas l’autorisation de recevoir du public
+de maintenir des activités d’achat à distance, en ligne, de retrait de
+commande en magasins, ou de livraison.\
+\
+Cette autorisation reste conforme à [l’article 8 du décret du 23 mars
+2020](http://anws.co/bH9i0/%7b669a601a-f535-4dee-8d6d-07c5cb573d11%7d),
+sous réserve du respect de conditions irréprochables de sécurité
+sanitaire, et de l’application des mesures barrières.\
+\
+Ces achats du quotidien en “click & collect” sont autorisés au titre des
+« déplacements pour effectuer des achats de première nécessité », quelle
+que soit la nature du bien.
 
 
 
@@ -2507,6 +2599,7 @@ restaurants et bars d’hôtels ne peuvent pas accueillir de public.\
 -   Commerce de détail d'aliments et fournitures pour les animaux de
     compagnie
 -   Commerce de détail alimentaire sur éventaires et marchés
+-   Commerce de détail de vente de tissus et de matériels de couture
 -   Vente par automates et autres commerces de détail hors magasin,
     éventaires ou marchés n.c.a.
 -   Hôtels et hébergement similaire
@@ -2542,8 +2635,48 @@ restaurants et bars d’hôtels ne peuvent pas accueillir de public.\
 
 
 
-Non. Une exception est faite pour les accueils qui recevraient les
-enfants des personnels indispensables à la crise sanitaire.
+Non.\
+\
+**Néanmoins, une exception est faite pour les accueils qui reçoivent les
+enfants des personnels indispensables à la crise sanitaire.**\
+\
+Les personnels concernés sont :
+-   tout personnel travaillant en établissements de santé publics/privés
+    : hôpitaux, cliniques, SSR, HAD, centres de santé …
+-   tout personnel travaillant en établissements médico-sociaux pour
+    personnes âgées et personnes handicapées : maisons de retraite,
+    EHPAD, USLD, foyers autonomie, IME, MAS, FAM, SSIAD …
+-   les professionnels de santé et médico-sociaux de ville : médecins,
+    infirmiers, pharmaciens, sages-femmes, aides-soignants,
+    transporteurs sanitaires, biologistes, auxiliaires de vie pour
+    personnes âgées et handicapées…
+-   les personnels chargés de la gestion de l’épidémie des agences
+    régionales de santé (ARS) des préfectures et ceux affectés à
+    l’équipe nationale de gestion de la crise ;
+-   les gendarmes, personnels de la police nationale, sapeurs-pompiers
+    professionnels, personnels des préfectures indispensables à la
+    gestion de la crise ;
+-   les personnels affectés aux missions d’aide sociale à l’enfance
+    relevant des conseils départementaux ainsi que des associations et
+    établissements publics concourant à cette politique.
+
+\
+Cette liste, dont la composition est fixée par les pouvoirs publics, est
+susceptible d’être réévaluée en fonction de l’évolution de la
+situation.\
+\
+Cette offre d’accueil en ACM et le service d’accueil scolaire mis en
+place par l’Etat sont complémentaires. Le ministre de l’Education
+nationale et de la Jeunesse appelle à la mobilisation des organisateurs
+pour permettre l’accueil de ces enfants également sur les temps
+périscolaire et extrascolaire, grâce aux personnels volontaires, selon
+les besoins identifiés et les moyens disponibles localement.\
+\
+Les activités proposées, qui peuvent être des activités de loisirs comme
+éducatives, devront permettre la stricte observation des consignes
+sanitaires et notamment le respect des gestes barrières.\
+\
+ 
 
 
 
