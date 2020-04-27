@@ -261,7 +261,7 @@ pas été confirmée.
 
 
 []{#s615-q927}
-#### Quel est la dangerosité du coronavirus ? {#quel-est-la-dangerosité-du-coronavirus .item-question}
+#### Quelle est la dangerosité du coronavirus ? {#quelle-est-la-dangerosité-du-coronavirus .item-question}
 
 
 
