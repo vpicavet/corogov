@@ -184,8 +184,8 @@ condition d'être munis d'une attestation pour :
 []{#informations}
 
 
-Les informations essentielles
------------------------------
+Les informations essentielles sur le COVID-19
+---------------------------------------------
 
 
 
@@ -212,7 +212,8 @@ gouttelettes](https://www.gouvernement.fr/sites/default/files/cimages/transmissi
 
 
 
-**Pour en savoir plus**, cliquez sur la thématique qui vous intéresse :
+**Pour en savoir plus sur le COVID-19**, cliquez sur la thématique qui
+vous intéresse :
 
 
 
