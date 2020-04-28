@@ -175,12 +175,10 @@ condition d'être munis d'une attestation pour :
 -   **Participation à des missions d’intérêt général** sur demande de
     l’autorité administrative.
 
-
 Le Premier ministre a présenté le mardi 28 avril 2020 la stratégie
 nationale de déconfinement à l'Assemblée nationale. Retrouvez toutes les
 informations sur [cet espace dédié au
 déconfinement](/info-coronavirus/strategie-de-deconfinement).
-
 
 []{#attestations}
 
