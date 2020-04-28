@@ -10744,7 +10744,8 @@ Ressources et contacts utiles
 ### **Numéros utiles**
 
 Un numéro vert répond à vos questions sur le Coronavirus COVID-19 en
-permanence, 24h/24 et 7j/7 : [0 800 130 000](tel:0800130000).
+permanence, 24h/24 et 7j/7 : [0 800 130
+000](tel:0800130000 "Appeler le 0 800 130 000").
 
 Si vous avez des difficultés pour entendre ou parler par téléphone en
 raison d’un handicap, vous pouvez vous rendre sur l'[espace de
