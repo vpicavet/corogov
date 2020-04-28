@@ -10766,7 +10766,8 @@ rendre à son cabinet ou j’appelle le numéro de permanence de soins de ma
 région. Je peux également bénéficier d’une téléconsultation. Si les
 symptômes s’aggravent avec des difficultés respiratoires et signes
 d’étouffement, j'appelle le SAMU ([15](tel:15)) ou j'envoie un message
-au numéro d’urgence pour les sourds et malentendants ([114](tel:114)).\
+au numéro d’urgence pour les sourds et malentendants
+([114](114 "Appeler le 114")).\
  
 
 ### **Numéros d’urgence et d’écoute : **
