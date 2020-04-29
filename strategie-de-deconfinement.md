@@ -312,6 +312,35 @@ ne sera prise qu’après un vote du Parlement.
 
 
 
+[]{#s1380}
+### Pour vos déplacements {#pour-vos-déplacements .item-paragraphe-titre .c-onglet data-section="s1380" data-picto="https://www.gouvernement.fr/sites/default/files/cimages/deplacement.svg"}
+
+
+L’offre de transport urbaine et régionale va être augmentée
+progressivement selon des modalités à définir par région. A Paris par
+exemple, 70% des métros et bus de la RATP seront progressivement
+rétablis d’ici au 11 mai. Cependant, la capacité d’accueil sera réduite
+pour respecter la distanciation physique, pendant au moins trois
+semaines à partir du 11 mai.\
+\
+Les opérateurs de transport doivent s’organiser pour assurer le respect
+des mesures de distanciation physique et des gestes barrières :
+condamnation d’un siège sur deux dans les bus et métros, marquage au sol
+dans le métro, etc.\
+\
+Le port du masque sera obligatoire dans les transports en commun, les
+trains, les taxis, VTC et véhicules de covoiturage (en absence de
+protection physique séparant le conducteur du passager) et les avions.\
+\
+Les déplacements longue distance (&gt;100 km) ne seront possibles que
+pour motif impérieux, personnel ou professionnel. L’offre sera réduite,
+la réservation sera obligatoire dans tous les trains.
+
+
+
+
+
+
 []{#s1376}
 ### Pour vos enfants et leur scolarité {#pour-vos-enfants-et-leur-scolarité .item-paragraphe-titre .c-onglet data-section="s1376" data-picto="https://www.gouvernement.fr/sites/default/files/cimages/enfantscolarite.svg"}
 
@@ -340,9 +369,9 @@ Le port du masque est :\
 -   fortement déconseillé  pour les enfants en école maternelle ;
 -   non recommandé pour les enfants en école élémentaire, mais des
     masques pédiatriques seront mis à disposition dans les écoles ;
--   obligatoire pour les collégiens, des masques seront mis à
-    disposition dans les collèges notamment pour la fourniture des
-    élèves qui n’auront pas pu s’en procurer ;
+-   obligatoire pour les collégiens, y compris dans les cars scolaires,
+    des masques seront mis à disposition dans les collèges notamment
+    pour la fourniture des élèves qui n’auront pas pu s’en procurer ;
 -   obligatoire pour les encadrants et enseignants.
 
 \

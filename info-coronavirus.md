@@ -10804,32 +10804,32 @@ voyageurs.](https://www.diplomatie.gouv.fr/fr/le-ministere-et-son-reseau/actuali
 
 
 [Attestation dérogatoire[ PDF - 134.44
-Ko]{}](https://www.gouvernement.fr/sites/default/files/cfiles/attestation-deplacement-fr-20200324.pdf "attestation-deplacement-fr-20200324.pdf"){.download-link}
+Ko]{}](https://www.gouvernement.fr/sites/default/files/cfiles/attestation-deplacement-fr-20200324.pdf){.download-link}
 
 
 
 [Attestation professionnelle[ PDF - 122.97
-Ko]{}](https://www.gouvernement.fr/sites/default/files/cfiles/justificatif-deplacement-professionnel-fr_20200330.pdf "justificatif-deplacement-professionnel-fr_20200330.pdf"){.download-link}
+Ko]{}](https://www.gouvernement.fr/sites/default/files/cfiles/justificatif-deplacement-professionnel-fr_20200330.pdf){.download-link}
 
 
 
 [Attestation dérogatoire[ DOCX - 18.64
-Ko]{}](https://www.gouvernement.fr/sites/default/files/cfiles/attestation-deplacement-fr-20200324.docx "attestation-deplacement-fr-20200324.docx"){.download-link}
+Ko]{}](https://www.gouvernement.fr/sites/default/files/cfiles/attestation-deplacement-fr-20200324.docx){.download-link}
 
 
 
 [Attestation professionnelle[ DOCX - 19.76
-Ko]{}](https://www.gouvernement.fr/sites/default/files/cfiles/justificatif-deplacement-professionnel-fr_20200330.docx "justificatif-deplacement-professionnel-fr_20200330.docx"){.download-link}
+Ko]{}](https://www.gouvernement.fr/sites/default/files/cfiles/justificatif-deplacement-professionnel-fr_20200330.docx){.download-link}
 
 
 
 [Attestation dérogatoire[ TXT - 2.66
-Ko]{}](https://www.gouvernement.fr/sites/default/files/cfiles/attestation-deplacement-fr-20200324.txt "attestation-deplacement-fr-20200324.txt"){.download-link}
+Ko]{}](https://www.gouvernement.fr/sites/default/files/cfiles/attestation-deplacement-fr-20200324.txt){.download-link}
 
 
 
 [Attestation professionnelle[ TXT - 2.42
-Ko]{}](https://www.gouvernement.fr/sites/default/files/cfiles/justificatif-deplacement-professionnel-fr_20200330.txt "justificatif-deplacement-professionnel-fr_20200330.txt"){.download-link}
+Ko]{}](https://www.gouvernement.fr/sites/default/files/cfiles/justificatif-deplacement-professionnel-fr_20200330.txt){.download-link}
 
 
 -   [Attestation dérogatoire
@@ -10851,48 +10851,48 @@ Ko]{}](https://www.gouvernement.fr/sites/default/files/cfiles/justificatif-depla
 
 [Téléchargez la présentation de la conférence de presse du 19 mars 2020
 sur le COVID-19[ PDF - 1.97
-Mo]{}](https://www.gouvernement.fr/sites/default/files/cfiles/presentation_-_conference_de_presse_sur_le_covid19_-_19.04.2020.pdf "presentation_-_conference_de_presse_sur_le_covid19_-_19.04.2020.pdf"){.download-link}
+Mo]{}](https://www.gouvernement.fr/sites/default/files/cfiles/presentation_-_conference_de_presse_sur_le_covid19_-_19.04.2020.pdf){.download-link}
 
 
 
 [Téléchargez la présentation du point de situation du 28 mars 2020 sur
 le COVID-19[ PDF - 6.24
-Mo]{}](https://www.gouvernement.fr/sites/default/files/cfiles/presentation_-_point_de_situation_sur_le_covid-19_-_28.03.2020.pdf "presentation_-_point_de_situation_sur_le_covid-19_-_28.03.2020.pdf"){.download-link}
+Mo]{}](https://www.gouvernement.fr/sites/default/files/cfiles/presentation_-_point_de_situation_sur_le_covid-19_-_28.03.2020.pdf){.download-link}
 
 
 
 [Téléchargez la brochure fiches pratiques sur les mesures de soutien[
 PDF - 152.76
-Ko]{}](https://www.gouvernement.fr/sites/default/files/cfiles/brochure_fiches_pratiques_sur_les_mesures_de_soutien.pdf "brochure_fiches_pratiques_sur_les_mesures_de_soutien.pdf"){.download-link}
+Ko]{}](https://www.gouvernement.fr/sites/default/files/cfiles/brochure_fiches_pratiques_sur_les_mesures_de_soutien.pdf){.download-link}
 
 
 
 [Téléchargez les questions / réponses sur les restrictions de
 déplacement[ PDF - 580.54
-Ko]{}](https://www.gouvernement.fr/sites/default/files/cfiles/faq-restrictions.pdf "faq-restrictions.pdf"){.download-link}
+Ko]{}](https://www.gouvernement.fr/sites/default/files/cfiles/faq-restrictions.pdf){.download-link}
 
 
 
 [Téléchargez la déclaration du président de la République 16 mars 2020[
 PDF - 313.99
-Ko]{}](https://www.gouvernement.fr/sites/default/files/cfiles/declaration_du_president_de_la_republique_16_mars_2020.pdf "declaration_du_president_de_la_republique_16_mars_2020.pdf"){.download-link}
+Ko]{}](https://www.gouvernement.fr/sites/default/files/cfiles/declaration_du_president_de_la_republique_16_mars_2020.pdf){.download-link}
 
 
 
 [Téléchargez la déclaration Premier ministre 14 avril 2020 [ PDF - 319
-Ko]{}](https://www.gouvernement.fr/sites/default/files/cfiles/declaration_premier_ministre_14_mars_2020.pdf "declaration_premier_ministre_14_mars_2020.pdf"){.download-link}
+Ko]{}](https://www.gouvernement.fr/sites/default/files/cfiles/declaration_premier_ministre_14_mars_2020.pdf){.download-link}
 
 
 
 [Téléchargez le livret de présentation sur le suivi de l’épidémie de
 COVID-19[ PDF - 1.11
-Mo]{}](https://www.gouvernement.fr/sites/default/files/cfiles/livret_de_presentation_sur_le_suivi_de_lepidemie_de_covid-19.pdf "livret_de_presentation_sur_le_suivi_de_lepidemie_de_covid-19.pdf"){.download-link}
+Mo]{}](https://www.gouvernement.fr/sites/default/files/cfiles/livret_de_presentation_sur_le_suivi_de_lepidemie_de_covid-19.pdf){.download-link}
 
 
 
 [Clauses-types pour une convention d’occupation temporaire [ DOCX -
 46.11
-Ko]{}](https://www.gouvernement.fr/sites/default/files/cfiles/clauses-types_pour_une_convention_doccupation_temporaire.docx "clauses-types_pour_une_convention_doccupation_temporaire.docx"){.download-link}
+Ko]{}](https://www.gouvernement.fr/sites/default/files/cfiles/clauses-types_pour_une_convention_doccupation_temporaire.docx){.download-link}
 
 
 
@@ -11102,9 +11102,6 @@ Rechercher
     institutions](/decouvrir-le-gouvernement-et-les-institutions){.mlid-333}
 -   [PARTAGEZ et diffusez](/les-infographies-et-videos){.mlid-334}
 
-
-Liens secondaires {#liens-secondaires .element-invisible}
------------------
 
 -   [Données personnelles et
     cookies](/donnees-personnelles-et-cookies){.footer-menu-item-7573}
