@@ -130,8 +130,8 @@ Mis à jour le mardi 28 avril 2020, à 15h
 []{#point}
 
 
-EN DIRECT
----------
+REDIFFUSION
+-----------
 
 
 
@@ -198,43 +198,6 @@ verte (circulation limitée du virus).\
 Dès jeudi 30 avril, le Directeur général de la Santé présentera chaque
 soir une carte avec ces résultats, département par département. Cette
 carte guidera chaque département dans la préparation du 11 mai.
-
-
-
-
-[]{#s1373}
-###  {#section .item-paragraphe-titre .c-onglet data-section="s1373" data-picto=""}
-
-
-Le déconfinement est prévu pour le 11 mai. Il se prépare en surveillant
-tous les indicateurs pour vérifier, département par département,
-l’évolution de l’épidémie. C’est cette observation qui permettra de
-décider si les opérations peuvent bien être lancées à cette date ou si
-des mesures plus strictes doivent être prises.\
-\
-Si la situation sanitaire au 11 mai le permet, alors commencera une
-seconde phase qui s’étendra jusqu’au 2 juin. Elle permettra de vérifier
-que les mesures mises en œuvre permettent de contenir l’épidémie. Et
-d’envisager les mesures pour la phase suivante : du 2 juin jusqu’à
-l’été.\
-\
-Le déconfinement prendra une forme plus stricte dans les départements
-qui sont dans une ou plusieurs de ces situations :
--   le taux de nouveaux cas dans la population sur une période de 7
-    jours reste élevé ;
--   les capacités hospitalières en réanimation restent saturées ;
--   le système local de tests et de détection des cas contacts n'est pas
-    suffisamment prêt.
-
-Le 7 mai, les résultats permettront d'indiquer les départements qui
-basculent le 11 mai en catégorie rouge (circulation élevée du virus) ou
-verte (circulation limitée du virus).\
-\
-Dès jeudi 30 avril, le Directeur général de la Santé présentera chaque
-soir une carte avec ces résultats, département par département. Cette
-carte guidera chaque département dans la préparation du 11 mai.
-
-
 
 
 
@@ -310,7 +273,7 @@ L'identification de ces cas-contacts sera assurée par :\
 -   les professionnels de santé libéraux (notamment les généralistes et
     infirmiers) mobilisés en première ligne pour la recherche et des cas
     contacts dans la cellule familiale ;
--   les équipes de l'assurance maladie mobilisées pour 'identification
+-   les équipes de l'assurance maladie mobilisées pour l'identification
     des cas contacts au-delà de la cellule familiale ;
 -   des brigades créées dans chaque département, chargées de remonter la
     liste des cas contacts, de les appeler et de les inviter à se faire
@@ -365,7 +328,7 @@ des mesures de distanciation physique et des gestes barrières :
 condamnation d’un siège sur deux dans les bus et métros, marquage au sol
 dans le métro, etc.\
 \
-Le port du masque sera obligatoire :\
+**Le port du masque sera obligatoire :**\
  
 -   dans les transports en commun ;
 -   dans les cars scolaires, pour les jeunes à partir du collège, comme
@@ -386,8 +349,8 @@ la réservation sera obligatoire dans tous les trains.
 ### Pour vos enfants et leur scolarité {#pour-vos-enfants-et-leur-scolarité .item-paragraphe-titre .c-onglet data-section="s1376" data-picto=""}
 
 
-Le retour sur le chemin de l’école se fera, de façon progressive,
-suivant le calendrier suivant :\
+**Le retour sur le chemin de l’école se fera, de façon progressive,
+suivant le calendrier suivant :**\
  
 -   pour les écoles maternelles et élémentaires : à partir du 11 mai,
     sur la base du volontariat ;
@@ -398,21 +361,23 @@ suivant le calendrier suivant :\
     ferait début juin en commençant par les lycées professionnels.
 
 \
-Selon les modalités suivantes :
--    
+Selon les modalités suivantes :\
+ 
 -   15 élèves par classe maximum ;
 -   une vie scolaire organisée autour des gestes barrière et la
     distanciation physique ;
--   mise à disposition de gel hydroalcoolique ;
--   port du masque :
+-   mise à disposition de gel hydroalcoolique.
 
-- fortement déconseillé  pour les enfants en école maternelle ;\
-- non recommandé pour les enfants en école élémentaire, mais des masques
-pédiatriques seront mis à disposition dans les écoles ;\
-- obligatoire pour les collégiens, des masques seront mis à disposition
-dans les collèges notamment pour la fourniture des élèves qui n’auront
-pas pu s’en procurer ;\
-- obligatoire pour les encadrants et enseignants.\
+Le port du masque est :\
+ 
+-   fortement déconseillé  pour les enfants en école maternelle ;
+-   non recommandé pour les enfants en école élémentaire, mais des
+    masques pédiatriques seront mis à disposition dans les écoles ;
+-   obligatoire pour les collégiens, des masques seront mis à
+    disposition dans les collèges notamment pour la fourniture des
+    élèves qui n’auront pas pu s’en procurer ;
+-   obligatoire pour les encadrants et enseignants.
+
 \
 Les enfants suivront leur scolarité dans les lieux suivants :\
  
@@ -427,7 +392,7 @@ Les enfants suivront leur scolarité dans les lieux suivants :\
 Dans tous les cas, les directeurs d’écoles, parents d’élèves,
 collectivités locales trouveront ensemble les meilleures solutions.\
 \
-Concernant les crèches :\
+**Concernant les crèches :**\
  
 -   réouverture à partir du 11 mai ;
 -   10 enfants maximum, éventuellement plusieurs groupes de 10 enfants
@@ -441,6 +406,129 @@ mais sera assurée par les gestionnaires. Pourraient être privilégiés les
 enfants des couples dans l’impossibilité de télétravailler, les enfants
 des soignants et professeurs, les enfants des familles monoparentales,
 etc.
+
+
+
+
+
+
+[]{#s1377}
+### Pour votre travail {#pour-votre-travail .item-paragraphe-titre .c-onglet data-section="s1377" data-picto=""}
+
+
+Le télétravail doit être maintenu partout où cela est possible.\
+\
+Si le télétravail n’est pas possible : les horaires décalés devront être
+encouragés, pour réduire au maximum la présence simultanée des personnes
+à la fois sur le lieu de travail et dans les transports.\
+\
+**Les entreprises en difficulté pourront continuer à bénéficier :**\
+ 
+-   du dispositif d'activité partielle, jusqu'au 1er juin. Il sera
+    ensuite adapté progressivement, afin d'accompagner la reprise
+    d'activité si l'épidémie est maîtrisée ;
+-   des mesures de chômage partiel, qui permettent au salarié de toucher
+    84% de sa rémunération nette, et concerne actuellement 10,8 millions
+    de personnes.
+
+\
+60 guides métiers vont être publiés d’ici au 11 mai pour aider les
+entreprises à s’organiser, secteur par secteur. 33 sont déjà disponibles
+sur le site du [Ministère du
+travail](https://travail-emploi.gouv.fr/le-ministere-en-action/coronavirus-covid-19/proteger-les-travailleurs/article/fiches-conseils-metiers-et-guides-pour-les-salaries-et-les-employeurs).
+
+
+
+
+
+
+[]{#s1378}
+### Pour vos achats et besoins essentiels {#pour-vos-achats-et-besoins-essentiels .item-paragraphe-titre .c-onglet data-section="s1378" data-picto=""}
+
+
+La majorité des commerces ouvriront à partir du 11 mai, en respectant
+des mesures de protection sanitaire :\
+ 
+-   le nombre de personnes dans les magasins sera limité ;
+-   la distanciation physique de 1 mètre entre chaque personne devra
+    être respectée ;
+-   le personnel devra être protégé ;
+-   le port du masque sera recommandé pour le personnel comme pour les
+    clients lorsque la distanciation physique n’est pas possible. Un
+    commerçant pourra imposer le port du masque dans son magasin.
+
+Cas spécifiques :\
+ 
+-   concernant les cafés et restaurants, une décision sera prise fin mai
+    pour une éventuelle réouverture le 2 juin ;
+-   les marchés de plein air et halles couvertes rouvriront à partir du
+    11 mai si les distances de sécurité entre les consommateurs sont
+    garanties. Les maires ou préfets pourront revenir sur cette
+    autorisation s’ils constatent l’impossibilité de garantir le respect
+    des gestes barrières ;
+-   concernant les centres commerciaux de plus de 40 000 m² : les
+    préfets pourront décider de les maintenir fermés s’ils estiment que
+    la zone de chalandise de ces commerces va au-delà du bassin de vie.
+    Dans ce cas, seuls les magasins alimentaires et essentiels déjà
+    ouverts situés à l’intérieur du  centre commercial restent ouverts.
+
+
+
+
+
+
+[]{#s1379}
+### Pour votre vie sociale {#pour-votre-vie-sociale .item-paragraphe-titre .c-onglet data-section="s1379" data-picto=""}
+
+
+À partir du 11 mai, la vie sociale reprendra progressivement son cours.\
+\
+Vous pourrez, tout en respectant les règles de distanciation sociale :\
+ 
+-   circuler librement dans votre région, sauf pour les déplacements à
+    plus de 100 km de votre domicile, qui ne seront possibles que pour
+    un motif impérieux, qu’il soit familial ou professionnel ;
+-   pratiquer un sport individuel en extérieur ;
+-   vous rendre à nouveau dans les parcs et jardins , uniquement dans
+    les départements où le virus circule faiblement et sous réserve des
+    décisions des gestionnaires de ces espaces ;
+-   vous rendre dans les médiathèques, bibliothèques, les petits musées
+    et les petits monuments ;
+-   vous rendre dans les lieux de cultes, qui resteront ouverts. Ils
+    n’organiseront cependant pas de cérémonie, au moins jusqu’au 2 juin
+    ;
+-   vous rendre aux cérémonies funéraires qui resteront limitées à 20
+    personnes ;
+-   vous rendre dans les cimetières, qui seront rouverts au public ;
+-   participer à des rassemblements limités à 10 personnes.
+
+Cependant :\
+ 
+-   vous ne pourrez pas pratiquer de sport dans les lieux couverts, ni
+    de sport collectif, ni de sport de contact (la liste précise sera
+    diffusée par le ministère des sports) ;
+-   les plages seront inaccessibles au moins jusqu’au 2 juin ;
+-   les grands musées, grands monuments, cinémas, salles de théâtres,
+    salles de concert, salles des fêtes, salles polyvalentes resteront
+    fermés ;
+-   les manifestations de plus de 5000 participants (sportives,
+    culturelles, etc.) ne pourront pas se tenir avant le mois de
+    septembre ;
+-   la saison actuelle des sports professionnels dont le football ne
+    reprendra pas ;
+-   les mariages continueront d’être reportés, sauf urgences ;
+-   la décision des conditions de réouverture des cafés et restaurants
+    sera prise à la fin du mois de mai.
+
+Le respect par chacun d’entre nous de ces règles contraignantes est
+important : notre santé collective en dépend !\
+\
+**Les personnes âgées et vulnérables** seront invitées (sans obligation
+ni besoin d’attestation) à respecter les règles similaires à celles
+imposées durant la période de confinement, et donc à limiter leurs
+contacts et leurs sorties. Les personnes qui rendront visite à ces
+personnes devront respecter les précautions nécessaires à la
+préservation de leur santé fragile.
 
 
 
@@ -586,9 +674,6 @@ Rechercher
     institutions](/decouvrir-le-gouvernement-et-les-institutions){.mlid-333}
 -   [PARTAGEZ et diffusez](/les-infographies-et-videos){.mlid-334}
 
-
-Liens secondaires {#liens-secondaires .element-invisible}
------------------
 
 -   [Données personnelles et
     cookies](/donnees-personnelles-et-cookies){.footer-menu-item-7573}
