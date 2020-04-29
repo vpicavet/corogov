@@ -203,7 +203,7 @@ carte guidera chaque département dans la préparation du 11 mai.
 
 
 []{#s1374}
-### Pour votre santé {#pour-votre-santé .item-paragraphe-titre .c-onglet data-section="s1374" data-picto=""}
+### Pour votre santé {#pour-votre-santé .item-paragraphe-titre .c-onglet data-section="s1374" data-picto="https://www.gouvernement.fr/sites/default/files/cimages/sante.svg"}
 
 
 Les 3 priorités du gouvernement : protéger, tester, isoler.\
@@ -312,41 +312,8 @@ ne sera prise qu’après un vote du Parlement.
 
 
 
-[]{#s1375}
-### Pour vous déplacer {#pour-vous-déplacer .item-paragraphe-titre .c-onglet data-section="s1375" data-picto=""}
-
-
-L’offre de transport urbaine et régionale va être augmentée
-progressivement selon des modalités à définir par région. A Paris par
-exemple, 70% des métros et bus de la RATP seront progressivement
-rétablis d’ici au 11 mai. Cependant, la capacité d’accueil sera réduite
-pour respecter la distanciation physique, pendant au moins trois
-semaines à partir du 11 mai.\
-\
-Les opérateurs de transport doivent s’organiser pour assurer le respect
-des mesures de distanciation physique et des gestes barrières :
-condamnation d’un siège sur deux dans les bus et métros, marquage au sol
-dans le métro, etc.\
-\
-**Le port du masque sera obligatoire :**\
- 
--   dans les transports en commun ;
--   dans les cars scolaires, pour les jeunes à partir du collège, comme
-    pour les conducteurs ;
--   dans les taxis et VTC. 
-
-\
-Les déplacements longue distance (&gt;100 km) ne seront possibles que
-pour motif impérieux, personnel ou professionnel. L’offre sera réduite,
-la réservation sera obligatoire dans tous les trains.
-
-
-
-
-
-
 []{#s1376}
-### Pour vos enfants et leur scolarité {#pour-vos-enfants-et-leur-scolarité .item-paragraphe-titre .c-onglet data-section="s1376" data-picto=""}
+### Pour vos enfants et leur scolarité {#pour-vos-enfants-et-leur-scolarité .item-paragraphe-titre .c-onglet data-section="s1376" data-picto="https://www.gouvernement.fr/sites/default/files/cimages/enfantscolarite.svg"}
 
 
 **Le retour sur le chemin de l’école se fera, de façon progressive,
@@ -413,7 +380,7 @@ etc.
 
 
 []{#s1377}
-### Pour votre travail {#pour-votre-travail .item-paragraphe-titre .c-onglet data-section="s1377" data-picto=""}
+### Pour votre travail {#pour-votre-travail .item-paragraphe-titre .c-onglet data-section="s1377" data-picto="https://www.gouvernement.fr/sites/default/files/cimages/travail.svg"}
 
 
 Le télétravail doit être maintenu partout où cela est possible.\
@@ -443,7 +410,7 @@ travail](https://travail-emploi.gouv.fr/le-ministere-en-action/coronavirus-covid
 
 
 []{#s1378}
-### Pour vos achats et besoins essentiels {#pour-vos-achats-et-besoins-essentiels .item-paragraphe-titre .c-onglet data-section="s1378" data-picto=""}
+### Pour vos achats et besoins essentiels {#pour-vos-achats-et-besoins-essentiels .item-paragraphe-titre .c-onglet data-section="s1378" data-picto="https://www.gouvernement.fr/sites/default/files/cimages/achatsbesoins_essentiels.svg"}
 
 
 La majorité des commerces ouvriront à partir du 11 mai, en respectant
@@ -478,7 +445,7 @@ Cas spécifiques :\
 
 
 []{#s1379}
-### Pour votre vie sociale {#pour-votre-vie-sociale .item-paragraphe-titre .c-onglet data-section="s1379" data-picto=""}
+### Pour votre vie sociale {#pour-votre-vie-sociale .item-paragraphe-titre .c-onglet data-section="s1379" data-picto="https://www.gouvernement.fr/sites/default/files/cimages/vie_sociale.svg"}
 
 
 À partir du 11 mai, la vie sociale reprendra progressivement son cours.\
