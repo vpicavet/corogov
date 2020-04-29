@@ -239,6 +239,214 @@ carte guidera chaque département dans la préparation du 11 mai.
 
 
 
+[]{#s1374}
+### Pour votre santé {#pour-votre-santé .item-paragraphe-titre .c-onglet data-section="s1374" data-picto=""}
+
+
+Les 3 priorités du gouvernement : protéger, tester, isoler.\
+\
+**1. Protéger**\
+\
+Les occasions de contact augmentant à nouveau à partir du début du
+déconfinement, le respect des gestes barrières et de distanciation
+physique prendra encore plus d’importance. Le port du masque s’imposera
+dans certaines situations.\
+\
+*A propos des masques :*\
+\
+Il y aura suffisamment de masques dans le pays pour répondre aux besoins
+à partir du 11 mai. Aujourd’hui, la France reçoit près de 100 millions
+de masques sanitaires chaque semaine, et elle recevra chaque semaine
+également près de 20 millions de masques grand publics lavables à partir
+de mai. En France, nous produirons 20 millions de masques sanitaires
+chaque semaine d’ici la fin mai et 17 millions de masques textiles au 11
+mai.\
+\
+L’Etat, les collectivités, les entreprises, l’initiative privée, seront
+complémentaires :\
+ 
+-   des masques jetables ou lavables seront  vendus dans les pharmacies
+    et la grande distribution, selon les conditions qui restent à
+    définir ;
+-   les entreprises sont invitées à équiper leurs salariés de masques
+    lorsque cela sera justifié par leurs situations de travail ;
+-   les personnels de l’Etat et des collectivités locales seront
+    également équipés, et les préfets disposeront d’une enveloppe pour
+    soutenir, avec les départements et les régions, les plus petites
+    collectivités ou les publics non couverts ;
+-   des masques seront fournis aux personnels de l’Education nationale
+    et des masques seront mis à disposition des enfants scolarisés et
+    des collégiens ;
+-   la Poste va mettre en place une plateforme de e-commerce à partir de
+    fin avril - début mai, pour assurer la distribution de plusieurs
+    millions de masques grand public aux TPE-PME et aux indépendants ;
+-   les particuliers sont incités à se confectionner eux-mêmes des
+    masques, selon les conditions recommandées par l’AFNOR et l’ANSM.
+
+Des mesures de soutien à l’achat de masques sont mises en place :\
+ 
+-   l’Etat prendra en charge 50% du coût des masques grand public
+    achetés à partir du 28 avril par les collectivités locales, dans la
+    limite d’un prix de référence ;
+-   une enveloppe hebdomadaire de 5 millions de masques lavables sera
+    destinée aux citoyens les plus précaires, via les CCAS et les
+    acteurs associatifs.
+
+\
+**2. Tester**\
+\
+L'objectif fixé est d'effectuer 700 000 tests virologiques par semaine à
+partir du 11 mai. Ces tests pourront être faits dans les laboratoires
+publics et privés, y compris les laboratoires de recherche et
+vétérinaires et seront pris en charge à 100% par l'assurance-maladie.\
+\
+Si une personne est testée positive, un travail d’identification sera
+engagé et tous ceux qui auront eu un contact rapproché avec elle seront
+testés et invités à s’isoler, compte-tenu de la durée d’incubation du
+virus qui doit être prise en compte.\
+\
+L'identification de ces cas-contacts sera assurée par :\
+ 
+-   les professionnels de santé libéraux (notamment les généralistes et
+    infirmiers) mobilisés en première ligne pour la recherche et des cas
+    contacts dans la cellule familiale ;
+-   les équipes de l'assurance maladie mobilisées pour 'identification
+    des cas contacts au-delà de la cellule familiale ;
+-   des brigades créées dans chaque département, chargées de remonter la
+    liste des cas contacts, de les appeler et de les inviter à se faire
+    tester en vue d'un éventuel isolement.
+
+\
+**3. Isoler**\
+\
+Pour casser les chaînes de transmission, il est important d‘isoler au
+plus vite les porteurs du virus pour protéger leurs proches.\
+\
+Cette politique repose sur la responsabilité individuelle et le civisme
+de chacun mais, si nécessaire, des dispositifs de contrôle seront mis en
+place.\
+\
+Concrètement :\
+ 
+-   les Préfets et les collectivités territoriales définiront ensemble,
+    avec les acteurs associatifs, les professionnels de santé, et les
+    acteurs de la prise en charge à domicile, le plan d'accompagnement
+    des personnes placées en isolement ;
+-   les personnes devant être isolées pourront choisir de : rester chez
+    elles (ce qui entraînera l’isolement de tout le foyer pour 14 jours)
+    ou dans un  lieu mis à sa disposition, notamment les hôtels
+    réquisitionnés.
+
+\
+Un consortium européen a lancé un travail pour la création de
+l’application Stop Covid. Il s’agit de permettre aux personnes qui ont
+croisé une personne testée positive d’intégrer un parcours sanitaire.
+Son développement n’est pas achevé et la décision de la mettre en œuvre
+ne sera prise qu’après un vote du Parlement.
+
+
+
+
+
+
+[]{#s1375}
+### Pour vous déplacer {#pour-vous-déplacer .item-paragraphe-titre .c-onglet data-section="s1375" data-picto=""}
+
+
+L’offre de transport urbaine et régionale va être augmentée
+progressivement selon des modalités à définir par région. A Paris par
+exemple, 70% des métros et bus de la RATP seront progressivement
+rétablis d’ici au 11 mai. Cependant, la capacité d’accueil sera réduite
+pour respecter la distanciation physique, pendant au moins trois
+semaines à partir du 11 mai.\
+\
+Les opérateurs de transport doivent s’organiser pour assurer le respect
+des mesures de distanciation physique et des gestes barrières :
+condamnation d’un siège sur deux dans les bus et métros, marquage au sol
+dans le métro, etc.\
+\
+Le port du masque sera obligatoire :\
+ 
+-   dans les transports en commun ;
+-   dans les cars scolaires, pour les jeunes à partir du collège, comme
+    pour les conducteurs ;
+-   dans les taxis et VTC. 
+
+\
+Les déplacements longue distance (&gt;100 km) ne seront possibles que
+pour motif impérieux, personnel ou professionnel. L’offre sera réduite,
+la réservation sera obligatoire dans tous les trains.
+
+
+
+
+
+
+[]{#s1376}
+### Pour vos enfants et leur scolarité {#pour-vos-enfants-et-leur-scolarité .item-paragraphe-titre .c-onglet data-section="s1376" data-picto=""}
+
+
+Le retour sur le chemin de l’école se fera, de façon progressive,
+suivant le calendrier suivant :\
+ 
+-   pour les écoles maternelles et élémentaires : à partir du 11 mai,
+    sur la base du volontariat ;
+-   pour les collèges : à partir du 18 mai, en commençant par les
+    classes de 6e et de 5e, seulement dans les départements où le virus
+    circule peu ;
+-   pour les lycées : la décision sera prise fin mai ; la reprise se
+    ferait début juin en commençant par les lycées professionnels.
+
+\
+Selon les modalités suivantes :
+-    
+-   15 élèves par classe maximum ;
+-   une vie scolaire organisée autour des gestes barrière et la
+    distanciation physique ;
+-   mise à disposition de gel hydroalcoolique ;
+-   port du masque :
+
+- fortement déconseillé  pour les enfants en école maternelle ;\
+- non recommandé pour les enfants en école élémentaire, mais des masques
+pédiatriques seront mis à disposition dans les écoles ;\
+- obligatoire pour les collégiens, des masques seront mis à disposition
+dans les collèges notamment pour la fourniture des élèves qui n’auront
+pas pu s’en procurer ;\
+- obligatoire pour les encadrants et enseignants.\
+\
+Les enfants suivront leur scolarité dans les lieux suivants :\
+ 
+-   soit dans leur établissement scolaire, dans la limite de 15 élèves
+    par classe ;
+-   soit chez eux, avec un enseignement à distance ;
+-   soit en étude (si les locaux scolaires le permettent), ou dans des
+    locaux périscolaires mis à disposition par les collectivités
+    territoriales pour des activités culturelles, de sport, santé, ou
+    civisme.
+
+Dans tous les cas, les directeurs d’écoles, parents d’élèves,
+collectivités locales trouveront ensemble les meilleures solutions.\
+\
+Concernant les crèches :\
+ 
+-   réouverture à partir du 11 mai ;
+-   10 enfants maximum, éventuellement plusieurs groupes de 10 enfants
+    sont possibles si les conditions et l’espace le permettent ;
+-   pas de port du masque pour les enfants de moins de 3 ans ;
+-   port du masque grand public obligatoire pour les professionnels de
+    la petite enfance.
+
+La définition des priorités d'accueil ne sera pas définie par l'Etat,
+mais sera assurée par les gestionnaires. Pourraient être privilégiés les
+enfants des couples dans l’impossibilité de télétravailler, les enfants
+des soignants et professeurs, les enfants des familles monoparentales,
+etc.
+
+
+
+
+
+
 
 
 
