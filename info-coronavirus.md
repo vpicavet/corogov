@@ -124,7 +124,7 @@ COVID-19
 
 
 
-Mis à jour le mardi 28 avril 2020, à 19h
+Mis à jour le mercredi 29 avril 2020, à 19h30
 
 
 -   [Francais](/info-coronavirus){.active}
@@ -1719,7 +1719,7 @@ l’acquisition ou de la fabrication de ces matériels.
 ### Point de situation en France {#point-de-situation-en-france .item-paragraphe-titre .c-onglet data-section="s641" data-picto=""}
 
 
-**Le 28 avril 2020, à 19h**\
+**Le 29 avril 2020, à 19h30**\
  
 
 Les autorités sanitaires tiennent [un point presse
@@ -1732,12 +1732,12 @@ Les informations du jour :
     plusieurs zones de regroupement de cas (clusters). Nous sommes
     actuellement au stade 3 du plan d’actions du Gouvernement qui a pour
     objectif de prévenir et limiter la circulation du virus. 
--   En France, 129 859 cas seraient confirmés selon les estimations de
+-   En France, 128 442 cas seraient confirmés selon les estimations de
     Santé publique France. 
--   Depuis le 1er mars, nous déplorons 23 660 décès liés au COVID-19 :
-    14 810 décès dans les hôpitaux et 8 850 décès dans les
+-   Depuis le 1er mars, nous déplorons 24 087 décès liés au COVID-19 :
+    15 053 décès dans les hôpitaux et 9 034 décès dans les
     établissements sociaux et médico-sociaux.
--   Depuis le début de l’épidémie, 46 886 personnes sont sorties guéries
+-   Depuis le début de l’épidémie, 48 200 personnes sont sorties guéries
     de l’hôpital.
 
 Retrouvez toutes les données sur [le tableau de bord COVID-19 de
