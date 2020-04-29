@@ -111,6 +111,8 @@ COVID-19
 
 
 
+-   [Masques](/info-coronavirus/masques-grand-public){.button-cta
+    .masque}
 -   [Désinfox](/info-coronavirus/desinfox){.button-cta .desinfox}
 -   [Orientation
     médicale](/info-coronavirus/orientation-medicale){.button-cta
