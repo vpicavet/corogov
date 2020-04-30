@@ -10458,7 +10458,14 @@ professionnels de santé : 0800 73 09 58 (n° vert)
 L’Ambassade et consulat de votre lieu de résidence est à votre
 disposition pour répondre à l’ensemble de vos questions. Par ailleurs,
 le ministère met à jour régulièrement [son site de conseils aux
-voyageurs.](https://www.diplomatie.gouv.fr/fr/le-ministere-et-son-reseau/actualites-du-ministere/informations-coronavirus-covid-19/)
+voyageurs.](https://www.diplomatie.gouv.fr/fr/le-ministere-et-son-reseau/actualites-du-ministere/informations-coronavirus-covid-19/)\
+\
+Un guide est à disposition de tous : il rassemble les numéros
+d’urgences, numéros utiles et autres services mis en place par l’Etat.
+Disponible en format
+[A4](https://www.gouvernement.fr/sites/default/files/cfiles/guide_covid19_besoindaide_29avril2020_a4.pdf)et
+format livret
+[A5](https://gouvernement.fr/sites/default/files/cfiles/guide_covid19_besoindaide_29avril2020_livreta5.pdf).
 
 
 
@@ -10558,6 +10565,16 @@ Mo]{}](https://www.gouvernement.fr/sites/default/files/cfiles/livret_de_presenta
 [Clauses-types pour une convention d’occupation temporaire [ DOCX -
 46.11
 Ko]{}](https://www.gouvernement.fr/sites/default/files/cfiles/clauses-types_pour_une_convention_doccupation_temporaire.docx){.download-link}
+
+
+
+[Guide besoin d'aide 29 avril 2020 A4[ PDF - 115.58
+Ko]{}](https://www.gouvernement.fr/sites/default/files/cfiles/guide_covid19_besoindaide_29avril2020_a4.pdf){.download-link}
+
+
+
+[Guide besoin d'aide 29 avril 2020 A5[ PDF - 112.4
+Ko]{}](https://www.gouvernement.fr/sites/default/files/cfiles/guide_covid19_besoindaide_29avril2020_livreta5.pdf){.download-link}
 
 
 
