@@ -2881,23 +2881,13 @@ concours :\
 \
 **Service de garde**\
 \
-Le président de la République a également annoncé la mise en place d’un
-service de garde pour les personnels qui sont indispensables à la
-gestion de la crise sanitaire. Pour assurer l’accueil des enfants âgés
-de moins de 16 ans de ces personnes, lorsqu’elles ne disposent pas
-d’autre solution de garde à domicile, les personnels relevant du
-ministère de l’Éducation nationale et ceux relevant des collectivités
-territoriales (ATSEM et ALSH) seront mobilisés dès le lundi 16 mars
-2020. Les groupes d’élèves ne devront pas dépasser 8 à 10 élèves par
-classe. 
-
-Les parents concernés et leurs enfants seront accueillis dès lors qu’ils
-présenteront la carte professionnelle de santé ou une fiche de paye avec
-mention de l’établissement employeur. Toute piste complémentaire sur des
-aides/gardes d’enfants à domicile pourra être envisagée localement sous
-l’égide des Préfets (ex. plateformes offre/demande).\
- 
-
+Le président de la République a annoncé la mise en place d’un service de
+garde pour les personnels qui sont indispensables à la gestion de la
+crise sanitaire. Les personnels relevant du ministère de l’Éducation
+nationale et ceux relevant des collectivités territoriales (ATSEM et
+ALSH) sont mobilisés depuis le lundi 16 mars 2020 pour assurer l’accueil
+de ces enfants.\
+\
 Sont concernés par ce dispositif :
 
 -   tout personnel travaillant en établissements de santé publics/privés
@@ -3085,7 +3075,12 @@ Pour les entreprises :
     indépendants, et les entreprises  de moins de 10 salariés ; ce fonds
     représente un budget de 7 milliards d’euros, financé par l’Etat, les
     assureurs à hauteur de 400 millions d’euros et les régions à hauteur
-    de 500 millions d’euros ;
+    de 500 millions d’euros. Depuis le 1er avril, le fonds de solidarité
+    a permis d’octroyer plus d’1 milliard d’euros d’aides à près de 800
+    000 bénéficiaires, au titre de son 1er volet mis en oeuvre. Le 2ème
+    volet, directement instruit par les Régions à destination des TPE,
+    est ouvert depuis le 15 avril. Il est accessible depuis le site
+    internet de chaque région ;
 -    la mobilisation de l’État à hauteur de 300 milliards d’euros pour
     la mise en place de prêts bancaires garantis par l’État ;
 -   un soutien de l’État et de la Banque de France (médiation du crédit)
@@ -3105,8 +3100,9 @@ Pour les entreprises :
 
 Pour en savoir plus sur ces mesures, les modalités d’accès et les
 contacts, consulter l’espace dédié « Mesures de soutien aux entreprises
-» sur [economie.gouv.fr](http://economie.gouv.fr/) (lien vers
-<https://info-entreprises-covid19.economie.gouv.fr/kb>)\
+» sur
+[economie.gouv.fr](https://info-entreprises-covid19.economie.gouv.fr/kb)
+.\
 \
 A noter :\
  
@@ -3215,14 +3211,17 @@ concerné par la fermeture par arrêté de votre entreprise :**\
 -   vous pouvez suspendre le paiement de vos cotisations sociales et
     impôts directs, de votre loyer et de vos factures d’eau,
     d’électricité et de gaz.
--   vous pouvez solliciter une aide allant jusqu’à 1500 euros sur le
-    site impots.gouv.fr. 2000 euros supplémentaires seront accordés par
-    les régions si vous employez des salariés et que vous risquez de
-    vous trouver en cessation de paiement.
+-   Depuis le 15 avril, 2 000 euros supplémentaires peuvent vous être
+    accordés par votre Région si vous employez des salariés et que vous
+    risquez de vous trouver en cessation de paiement. L’aide est
+    accessible depuis le site internet de votre région ;
 -   vous pouvez solliciter auprès de votre banque un [prêt garanti par
     l’État](https://www.economie.gouv.fr/files/files/PDF/2020/dp-covid-pret-garanti.pdf)
     pour soutenir votre trésorerie.
 
+Vous êtes chef d’entreprise et vous avez besoin d’aide ou d’un soutien
+psychologique ? Un numéro Vert est à votre disposition : 0 805 65 505 0.
+La plateforme est ouverte 7 jours sur 7, de 8 heures à 20 heures.\
 \
 **Vous êtes micro-entrepreneur ou indépendant (artisan, commerçante,
 plombier, architecte...) et vous n’avez plus d’activité suite au
@@ -3280,6 +3279,9 @@ moins 50% ?\
     les régions si vous employez des salariés et que vous risquez de
     vous trouver en cessation de paiement.
 
+Vous êtes chef d’entreprise et vous avez besoin d’aide ou d’un soutien
+psychologique ? Un numéro Vert est à votre disposition : 0 805 65 505 0.
+La plateforme est ouverte 7 jours sur 7, de 8 heures à 20 heures.\
 \
 **Vous êtes chef d’entreprise et vous ne pouvez pas mettre en place les
 mesures de protection nécessaires à la santé de vos salariés :**\
@@ -3303,6 +3305,9 @@ moins 50% ?\
     les régions si vous employez des salariés et que vous risquez de
     vous trouver en cessation de paiement.
 
+Vous êtes chef d’entreprise et vous avez besoin d’aide ou d’un soutien
+psychologique ? Un numéro Vert est à votre disposition : 0 805 65 505 0.
+La plateforme est ouverte 7 jours sur 7, de 8 heures à 20 heures.\
 \
 **Vous êtes chef d’entreprise et vous souhaitez utiliser la période de
 chômage partiel pour former vos salariés :**\
@@ -3476,7 +3481,7 @@ surmonter le stress économique majeur que nous connaissons et les
 accompagner dans la phase de reprise. Les sociétés civiles immobilières
 (SCI), établissements de crédits et sociétés de financement sont exclus.
 Toutes les modalités du prêt garanti par l’Etat sont à retrouver sur
-cette page.\
+[cette page](https://www.economie.gouv.fr/covid19-soutien-entreprises).\
 \
 Au 21 avril 2020, les banques ont accordé 24 milliards € de prêts à 174
 000 entreprises.
@@ -3985,24 +3990,24 @@ tests.\
 -   adoption de 7 ordonnances dans le cadre de l’état d’urgence
     sanitaire en conseil des ministres.
 
-**2 avril** :\
-visioconférence du Premier ministre avec les chefs de partis et de
-groupes parlementaires.\
-**4 avril** :\
-financement d’un projet de test de dépistage du COVID-19 par le
-ministère des Armées, à hauteur de 1 million d’euros.\
-**6 avril** :\
-lancement d’une vaste opération de dépistage des personnes les plus
-vulnérables, en mettant la priorité sur les personnes âgées, les
-personnes handicapées les plus fragiles et les professionnels qui les
-accompagnent en établissement.\
-**7 avril** :\
-financement d’une nouvelle technologie de détection rapide du COVID-19
-par le ministère des Armées, à hauteur de 1,8 million d’euros.\
-**9 avril** : renforcement du plan d’urgence de soutien à l’économie :
+**2 avril** : visioconférence du Premier ministre avec les chefs de
+partis et de groupes parlementaires.\
+**4 avril** : financement d’un projet de test de dépistage du COVID-19
+par le ministère des Armées, à hauteur de 1 million d’euros.\
+**6 avril** : opération de dépistage des personnes les plus vulnérables,
+en mettant la priorité sur les personnes âgées, les personnes
+handicapées les plus fragiles et les professionnels qui les accompagnent
+en établissement.\
+**7 avril** : financement d’une nouvelle technologie de détection rapide
+du COVID-19 par le ministère des Armées, à hauteur de 1,8 million
+d’euros.\
+**9 avril** :  renforcement du plan d’urgence de soutien à l’économie :
 de 45 milliards d'euros, il est passé à 100 milliards d'euros.\
 **13 avril** : annonce de la prolongation du confinement de la
-population jusqu’au 11 mai par le président de la République.
+population jusqu’au 11 mai par le président de la République.\
+**28 avril** : présentation par le Premier ministre de la stratégie
+nationale de déconfinement, à l’Assemblée nationale.\
+ 
 
 
 
@@ -4395,7 +4400,8 @@ Si vous pouvez continuer vos déclarations trimestrielles de ressources
 par Internet, faites-le.\
 \
 Vous ne pouvez pas le faire par Internet : **vos prestations seront
-automatiquement renouvelées pour permettre la continuité des droits**. \
+automatiquement renouvelées pour permettre la continuité des droits**.
+**Cette prolongation sera effective pour le mois de mai.**\
 \
 Prestations concernées par ce maintien :\
  
@@ -6641,29 +6647,6 @@ ce sans renouvellement d’ordonnance.\
 
 
 
-[]{#s742-q739}
-#### Les centres d’interruption volontaire de grossesse (IVG) sont-ils ouverts ? {#les-centres-dinterruption-volontaire-de-grossesse-ivg-sont-ils-ouverts .item-question}
-
-
-
-Les interruptions de grossesse sont considérées comme des interventions
-urgentes par le ministère des Solidarités et de la Santé. Leur
-continuité doit être assurée.\
-\
-Les médecins en ville et les sages-femmes sont autorisés à conseiller
-les femmes et leurs partenaires sur les questions de contraception.\
-\
-Conventionnés avec un établissement de santé, ils sont habilités à
-réaliser des IVG médicamenteuses sans passer par l’hôpital.\
-\
-En savoir plus : numéro vert du Planning Familial, 0800 08 11 11, pour
-répondre à toute question.\
- 
-
-
-
-
-
 []{#s742-q1107}
 #### L’interruption volontaire de grossesse (IVG) est-elle possible? {#linterruption-volontaire-de-grossesse-ivg-est-elle-possible .item-question}
 
@@ -6673,25 +6656,27 @@ Oui. Les interruptions de grossesse sont considérées comme des
 interventions urgentes par le ministère des Solidarités et de la Santé.
 Leur continuité doit être assurée.\
 \
-IVG médicamenteuses : l’ensemble des consultations nécessaires pourront
-être réalisées sous forme de téléconsultations, si la femme le souhaite
-et le praticien l’estime possible :
--   une téléconsultation d’information et de remise des ordonnances ;
+**IVG médicamenteuses :**\
+\
+Les médecins en ville et les sages-femmes sont autorisés à conseiller
+les femmes et leurs partenaires sur les questions de contraception.
+Conventionnés avec un établissement de santé, ils sont habilités à
+réaliser des IVG médicamenteuses sans passer par l’hôpital.\
+\
+Le délai  de réalisation des IVG médicamenteuses hors milieu hospitalier
+a été étendu  de 7  à 9 semaines d’aménorrhée.\
+\
+L’ensemble des consultations nécessaires peuvent être réalisées sous
+forme de téléconsultations, si la femme le souhaite et le praticien
+l’estime possible :
+-   une téléconsultation d’information et de remise des ordonnances ; 
 -   une consultation de prise du médicament qui arrête la grossesse
     (antiprogestérone) : en cas de téléconsultation, la femme pourra
     aller chercher le médicament en officine, en lien avec le médecin ou
     la sage-femme. Le 2e médicament (prostaglandine) devant être pris 36
-    à 48h après le premier ;
+    à 48h après le premier ; 
 -   une téléconsultation de contrôle dans les 14 à 21 jours qui suivent.
 
-\
-A noter : L’ensemble des médecins en ville et les sages-femmes libérales
-sont encouragés à s’engager dans le maintien des IVG médicamenteuses. Le
-ministre des Solidarités et de la Santé a par ailleurs saisi en urgence
-la Haute Autorité de Santé afin d’émettre un avis sur la possibilité
-d’étendre le délai de réalisation des IVG médicamenteuses hors milieu
-hospitalier de 7 à 9 semaines d’aménorrhée. Un avis favorable a été
-donné.\
 \
 **IVG instrumentales** : le ministère demande aux établissements de
 santé d’assurer la continuité.\
@@ -7245,40 +7230,6 @@ n’existe aucun cas confirmé.\
 
 
 
-[]{#s742-q955}
-#### Pourquoi le Gouvernement affirme-t-il que le port des masques par tous n’est pas utile ? Puisqu’il y a des cas asymptomatiques, ne faudrait-il pas que chacun porte un masque ? {#pourquoi-le-gouvernement-affirme-t-il-que-le-port-des-masques-par-tous-nest-pas-utile-puisquil-y-a-des-cas-asymptomatiques-ne-faudrait-il-pas-que-chacun-porte-un-masque .item-question}
-
-
-
-Le port du masque dans la population générale limite essentiellement la
-propagation du virus quand il est porté par les personnes malades et
-symptomatiques (émettant des postillons contaminants).\
-\
-Pour les personnes asymptomatiques, ce sont essentiellement le respect
-des gestes barrières et les mesures de distanciation sociale qui
-limitent la propagation du virus.\
-\
-Pour les non-malades, les meilleures défenses contre le virus demeurent
-également les gestes barrière et la distanciation sociale, appliqués de
-manière systématique, et pas uniquement en présence de cas
-symptomatiques. Le confinement généralisé, la distanciation sociale et
-l’isolement les malades sont ce jour indispensables pour limiter la
-propagation du virus. Ils permettent de protéger l’ensemble de la
-population, notamment les plus fragiles, et d’aider nos soignants et
-notre système de santé.\
-\
-Le Gouvernement travaille activement afin d’élargir les disponibilités
-en masques grand public,destinés à une population plus large. Au terme
-d’une démarche supervisée par l’Agence nationale de sécurité du
-médicament et des produits de santé (ANSM), avec le soutien de l’ANSES,
-deux nouvelles catégories de masques grand public ont ainsi été créées.
-Ces masques auront vocation à être utilisés dans des situations
-professionnelles en complément des mesures barrières.
-
-
-
-
-
 []{#s742-q1158}
 #### Pourquoi les masques périment-ils ? Quels sont les risques d’utiliser les masques périmés ? {#pourquoi-les-masques-périment-ils-quels-sont-les-risques-dutiliser-les-masques-périmés .item-question}
 
@@ -7349,31 +7300,6 @@ Aucune recommandation ni données scientifiques ne sont disponibles ce
 jour concernant l’usage de tels dispositifs, non médicaux, pour la
 protection des professionnels de santé. Il n’est donc pas recommandé de
 faire usage de ce type de masques.
-
-
-
-
-
-[]{#s742-q1143}
-#### Le prix des masques sera-t-il encadré ? {#le-prix-des-masques-sera-t-il-encadré .item-question}
-
-
-
-Pas pour l’instant.
--   Les masques chirurgicaux et FFP2, à usage sanitaire, restent
-    réquisitionnés par l’Etat et sont destinés aux professionnels de
-    santé ;
--   concernant les nouveaux masques grand public leur prix n’est pas
-    encadré à ce jour ;
--   les entreprises mobilisées pour la fabrication des nouveaux masques
-    sont volontaires pour répondre au besoin national et n’ont pas pour
-    objectif de réaliser des marges.
-
-\
-Le Gouvernement restera toutefois vigilant à la question de l’accès aux
-protections.\
-\
- 
 
 
 
@@ -7593,63 +7519,6 @@ le virus.\
 L’alcool à 70 degrés et 90 degrés ne sont recommandés que pour la
 désinfection des surfaces.\
  
-
-
-
-
-
-[]{#s742-q961}
-#### Pourquoi ne pas tester l’ensemble de la population et lever le confinement pour les personnes immunisées et non atteintes ? Le dépistage massif n’est-il pas plus efficace que le confinement ? {#pourquoi-ne-pas-tester-lensemble-de-la-population-et-lever-le-confinement-pour-les-personnes-immunisées-et-non-atteintes-le-dépistage-massif-nest-il-pas-plus-efficace-que-le-confinement .item-question}
-
-
-
-Le dépistage et le confinement ont deux objectifs différents :.\
-\
-·       le confinement a pour but de freiner la propagation du virus ;\
-·       le dépistage a pour but d’orienter la prise en charge ou ne
-faire qu’un isolement ciblé.\
- \
-Un dépistage massif n’est pour le moment pas envisageable car le virus
-circule trop fortement sur territoire et le suivi individuel des cas
-serait  trop difficile.\
-\
-De plus, les tests actuels, fondés sur les PCR (prélèvements dans le
-nez), n’éliminent pas une possible infection ultérieure, et ne donnent
-pas d’information sur une contamination passée.\
-\
-Ainsi, un dépistage massif à base de tests PCR ne serait pas
-suffisamment efficace pour contenir l’épidémie.\
-\
-Et, même s’il était réalisé, la forte circulation active du virus sur le
-territoire rendrait difficile un confinement individualisé.\
-\
-De nouveaux tests sont en cours de développement et devraient nous
-permettre de proposer une stratégie élargie de test pour sortir du
-confinement. Ces tests sont les tests rapides, qui pourront nous
-permettre de généraliser le dépistage, et les sérologies, qui pourront
-nous donner des informations sur une contamination passée ou une
-immunité contre le virus.\
-\
-*En savoir plus* : le ministère des Armées finance plusieurs projets.\
-\
-Par ailleurs, le ministère des Armées a annoncé, le 4 avril 2020, le
-financement d’un projet de test de dépistage du COVID-19 porté par la
-société NG Biotech. Cette commande, financée à hauteur de 1 million
-d’euros par un contrat de la Direction générale de l’armement, permettra
-à la PME de lancer rapidement la production de nouveaux kits de
-dépistage (kits immunologiques de dépistage sanguin rapide de
-l’infection au coronavirus). La commande inclut également le
-développement d’un second type de kit de détection directe du virus,
-dans la salive ou par échantillon nasal, et la sécurisation d’une
-filière de réactifs de base nationale.\
-\
-Le ministère des Armées a également annoncé, le 7 avril 2020, le
-ministère a annoncé le financement d’une nouvelle technologie de
-détection rapide du COVID-19 par l’agence de l’innovation de défense
-(AID) à hauteur de 1,8 million d’euros. Il s’agit du projet NOMORECOV,
-développé par la PME BforCure, qui consiste à développer un automate
-mobile, modulaire et connecté pour le dépistage rapide d’une infection
-au coronavirus (en moins de 30 minutes).
 
 
 
@@ -8568,9 +8437,10 @@ ordre. Les crèches, écoles, collèges et lycées rouvriront
 progressivement mais les universités ne rouvriront pas leurs portes
 avant l’été.\
 \
-Le Premier ministre et l’ensemble des membres du Gouvernement
-présenteront les grands principes d’un plan préparant la sortie
-progressive du confinement à la fin du mois d’avril.
+Le Premier ministre a présenté le mardi 28 avril 2020 la stratégie
+nationale de déconfinement à l’Assemblée nationale. Retrouvez toutes les
+informations sur cet [espace dédié au
+déconfinement](https://www.gouvernement.fr/info-coronavirus/strategie-de-deconfinement).
 
 
 
@@ -8671,9 +8541,9 @@ Oui. Les personnes étrangères, dont la durée de validité du titre de
 séjour est expirée à compter du 16 mars dernier, sont dispensées
 d’accomplir les démarches pour en solliciter le renouvellement. Elle
 n'ont pas à se déplacer pour ce motif. La validité des titres de séjour
-est prolongée jusqu’à 90 jours. Ainsi, la situation au regard du séjour
-ou de l’asile des étrangers concernés est sécurisée, sans aucune rupture
-de droits.\
+expirant entre le 16 mars et le 15 mai 2020, est prolongée de 6 mois.
+Ainsi, la situation au regard du séjour ou de l’asile des étrangers
+concernés est sécurisée, sans aucune rupture de droits.\
 \
 Les catégories de titres concernées par cette mesure sont :
 
@@ -9525,6 +9395,41 @@ complémentaires ont été adoptées en conseil des ministres le 1er avril
     établissements publics locaux afin de faire face à l’épidémie de
     COVID-19.
 
+\
+Dans le cadre de l’état d’urgence sanitaire, 2 ordonnances
+complémentaires ont été adoptées en conseil des ministres le 8 avril :
+1.  Assurer la continuité de l’exercice des fonctions exécutives locales
+    durant l’état d‘urgence sanitaire, en rendant possible
+    l’organisation de l'intérim après le décès d'un maire ou d'un
+    président d'exécutif local (président d'un département...).
+2.  Adaptations des règles applicables devant les juridictions de
+    l'ordre administratif.
+
+\
+Dans le cadre de l’état d’urgence sanitaire, 3 ordonnances
+complémentaires ont été adoptées en conseil des ministres le 15 avril : 
+1.  Congés payés et RTT dans la fonction publique de l'État et la
+    fonction publique territoriale au titre de la période d'urgence
+    sanitaire.
+2.  Dispositions en matière de délais administratifs pour faire face à
+    l'épidémie de Covid-19.
+3.  Diverses dispositions sociales pour faire face à l'épidémie de
+    covid-19.
+
+\
+Dans le cadre de l’état d’urgence sanitaire, 4 ordonnances
+complémentaires ont été adoptées en conseil des ministres le 22 avril : 
+1.  Mesures prises pour faire face à l’épidémie de Covid-19 : délais
+    échus prolongés, droit social, chômage partiel.
+2.  Report du second tour du renouvellement général des conseillers
+    municipaux de Polynésie française et de Nouvelle-Calédonie, et à
+    l'établissement de l'aide publique pour 2021.
+3.  Adaptation de l'état d'urgence sanitaire à la Nouvelle-Calédonie, à
+    la Polynésie française et aux îles Wallis et Futuna.
+4.  Modification de l'ordonnance du 25 mars 2020 relative au
+    prolongement de la trêve hivernale pour son application à
+    Saint-Barthélemy, à Saint-Martin et à Saint-Pierre-et-Miquelon.
+
 
 
 
@@ -9545,10 +9450,8 @@ Pour le **stade 2**, l’objectif des pouvoirs publics est de freiner la
 propagation du virus sur le territoire et d’empêcher ou, tout du moins,
 de retarder aussi longtemps que possible le passage au stade 3.\
 \
-**Stade 3** : Le virus circule largement dans la population.\
-\
-Le stade 3 ou stade épidémique correspond à une circulation active du
-virus. La stratégie vise alors à atténuer les effets de l’épidémie.
+Le **stade 3** ou stade épidémique correspond à une circulation active
+du virus. La stratégie vise alors à atténuer les effets de l’épidémie.
 L’organisation prévoit la mobilisation complète du système sanitaire
 hospitalier et de ville, ainsi que les établissement médico-sociaux pour
 protéger les populations fragiles, assurer la prise en charge des
@@ -9616,22 +9519,6 @@ accéder au tableau de bord complet de suivi de l’épidémie.
 
 
 
-[]{#s808-q967}
-#### Quelle stratégie pour lutter contre le COVID-19 ? {#quelle-stratégie-pour-lutter-contre-le-covid-19 .item-question}
-
-
-
-Notre stratégie pour lutter contre le virus est double :
-1.  Freiner sa progression pour diminuer le nombre cas graves et donc le
-    nombre de personnes en réanimation, grâce au respect du confinement
-    et des gestes barrières.
-2.  Augmenter la capacité d’admission dans les services de réanimation
-    grâce à une mobilisation massive des moyens de l’Etat.
-
-
-
-
-
 []{#s808-q968}
 #### Comment la capacité d’accueil des hôpitaux est-elle renforcée ? {#comment-la-capacité-daccueil-des-hôpitaux-est-elle-renforcée .item-question}
 
@@ -9683,24 +9570,6 @@ responsabilité qui permet de sécuriser la position du pays, d’augmenter
 le stock stratégique, et d’envisager demain de mobiliser un certain
 nombre de respirateurs au profit de partenaires de la France à
 l’international.
-
-
-
-
-
-[]{#s808-q1298}
-#### Pourquoi transférer les personnes infectées dans d’autres hôpitaux plutôt que de réquisitionner des gymnases et les soigner sur place ? {#pourquoi-transférer-les-personnes-infectées-dans-dautres-hôpitaux-plutôt-que-de-réquisitionner-des-gymnases-et-les-soigner-sur-place .item-question}
-
-
-
-Les personnes transférées lors des évacuations sanitaires (EVASAN) sont
-des patients avec des formes graves, nécessitant un lit de réanimation.
-La mise en place d’un lit de réanimation nécessite une équipe formée et
-du matériel lourd (respirateur, matériel de surveillance continue).\
-\
-Il n’est donc pas possible de les soigner dans des gymnases
-réquisitionnés car ce ne sont pas des lieux appropriés pour une telle
-prise en charge.
 
 
 
@@ -9971,7 +9840,7 @@ protéger les personnes détenues et les personnels pénitentiaires : 
 
 Beaucoup de territoires d’Outre-mer ont des capacités sanitaires qui
 reposent souvent, pour les cas les plus graves, sur l’évacuation
-sanitaire en métropole. \
+sanitaire  dans l’hexagone. \
 \
 Une série de décisions adaptées à la situation des territoires
 d’Outre-mer a été prise rapidement :\
