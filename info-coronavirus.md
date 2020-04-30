@@ -683,8 +683,9 @@ animale.
 
 
 
-Le coronavirus est un virus très récent dont on connaît encore mal le
-comportement. \
+Le Covid-19 est un virus très récent dont on connaît encore mal le
+comportement.\
+\
 Nous ne savons pas si la hausse des températures avec la venue des beaux
 jours aura une incidence sur le virus. \
 Toutefois, la chaleur tue effectivement le virus quand on veut
@@ -733,7 +734,7 @@ ni pour lui.
 
 
 
-Au vu des informations disponibles, le passage du coronavirus de l’être
+Au vu des informations disponibles, le passage du Covid-19 de l’être
 humain vers une autre espèce animale semble actuellement peu probable,
 et la possible contamination des denrées alimentaires d’origine animale
 à partir d’un animal infecté par le COVID-19 est exclue.
@@ -747,40 +748,24 @@ préparation des denrées alimentaires.
 
 
 
-[]{#s622-q625}
-#### Peut-on être contaminé en touchant un caddie de supermarché ? {#peut-on-être-contaminé-en-touchant-un-caddie-de-supermarché .item-question}
-
-
-
-Oui, bien que ce soit peu probable si on respecte les gestes barrières.\
-Les caddies, comme toutes les surfaces, peuvent servir de support au
-virus, s’ils sont souillés par des gouttelettes respiratoires d’un sujet
-contaminé. Le virus peut rester quelques heures sur une surface comme un
-caddie, mais en quantité faible. En appliquant les gestes barrières (se
-laver les mains notamment) et en nettoyant le caddie avec une lingette,
-le risque devient négligeable.
-
-
-
-
-
 []{#s622-q1004}
-#### Y a-t-il un risque concernant l’achat de pain à la boulangerie ? {#y-a-t-il-un-risque-concernant-lachat-de-pain-à-la-boulangerie .item-question}
+#### Quels sont les risques de contamination en allant faire ses courses ? {#quels-sont-les-risques-de-contamination-en-allant-faire-ses-courses .item-question}
 
 
 
-Les sorties pour acheter du pain ou des produits alimentaires ne
-présentent pas de risque si les gestes barrières et les règles de
-distanciation sociale sont bien respectés. En restant à plus d’un mètre
-des autres clients, et en se lavant les mains lors du retour à domicile,
-il n’y a donc pas de risque à acheter du pain.
+Les sorties pour acheter des produits alimentaires ne présentent pas de
+risque si les gestes barrières et les règles de distanciation sociale
+sont bien respectés. En restant à plus d’un mètre des autres clients, et
+en se lavant les mains lors du retour à domicile,  en nettoyant son
+caddie avec une lingette, il n’y a donc pas de risque à faire des
+courses.
 
 
 
 
 
 []{#s622-q626}
-#### Puis-je continuer de recevoir et envoyer du courrier, notamment à destination des personnes fragiles (EHPAD…) ? Existe-t-il un risque de contamination ? {#puis-je-continuer-de-recevoir-et-envoyer-du-courrier-notamment-à-destination-des-personnes-fragiles-ehpad-existe-t-il-un-risque-de-contamination .item-question}
+#### Puis-je continuer de recevoir et envoyer du courrier ? {#puis-je-continuer-de-recevoir-et-envoyer-du-courrier .item-question}
 
 
 
@@ -793,51 +778,48 @@ pendant l’épidémie.
 
 
 []{#s622-q627}
-#### Pourquoi le confinement n’entraîne-t-il pas plus rapidement des effets sur la propagation du virus et sur le nombre de nouveaux cas quotidiens, Quels sont les autres indicateurs qui permettront de dire si ce confinement a bien un impact sanitaire positif? {#pourquoi-le-confinement-nentraîne-t-il-pas-plus-rapidement-des-effets-sur-la-propagation-du-virus-et-sur-le-nombre-de-nouveaux-cas-quotidiens-quels-sont-les-autres-indicateurs-qui-permettront-de-dire-si-ce-confinement-a-bien-un-impact-sanitaire-positif .item-question}
+#### Quels effets le confinement a-t-il sur la situation sanitaire en France ? {#quels-effets-le-confinement-a-t-il-sur-la-situation-sanitaire-en-france .item-question}
 
 
 
-La période d’incubation du virus est de 5 à 14 jours. Ainsi, de
-nombreuses personnes aujourd’hui confinées ont été contaminées avant la
-mise en place des mesures de confinement mais ne sont pas encore
-symptomatiques. Après apparition des symptômes, il faut encore quelques
-jours, entre 5 à 8 jours selon les observations, pour que les symptômes
-s’aggravent et nécessitent une hospitalisation. Au total, il faut donc 2
-à 3 semaines pour que le confinement, s’il est bien respecté, ait un
-premier impact sur les hospitalisations. Parmi les indicateurs utiles,
-le nombre de consultations en médecine de ville en lien avec des
-symptômes COVID-19 (après la période d’incubation) devrait être le
-premier indicateur à la baisse. Toutefois, ces données nécessiteront du
-temps afin d’être consolidées.
+Depuis le 14 avril, le nombre de cas de Covid-19 hospitalisés diminue :
+de plus de 32 000 patients hospitalisés, il est descendu à environ 27
+000 ce jour. Depuis le 8 avril, le nombre de cas de Covid-19 en
+réanimation diminue également. Il dépassait 7100, il est désormais de
+4200.\
+\
+Selon une [étude de l’École des hautes études de santé
+publique](https://www.ehesp.fr/wp-content/uploads/2020/04/Impact-Confinement-EHESP-20200322v1-1.pdf),
+le confinement aura permis d’éviter au moins 62 000 décès sur un mois.
+Et en  l’absence de confinement, 105 000 lits de réanimation auraient
+manqué aux hôpitaux pour accueillir les malades.
 
 
 
 
 
 []{#s622-q1002}
+#### Le contact avec une personne guérie du Covid-19 est-il risqué ? {#le-contact-avec-une-personne-guérie-du-covid-19-est-il-risqué .item-question}
 
 
-Au vu des connaissances actuelles, les animaux de compagnie ne
-transmettent pas le virus COVID-19. Ce virus se transmet d'homme à
-homme. Le virus peut cependant vivre quelques heures sur le pelage d'un
-animal.\
-\
-Pour éviter toute contamination et comme recommandé par l'ANSES : 
--   Séparez les animaux des personnes malades ou présumées malades ;
--   Ne laissez pas l'animal vous lécher le visage ;
--   Lavez-vous les mains avant et après avoir caressé un animal ;
 
-Ne maltraitez pas votre animal en le nettoyant avec des produits
-inadaptés !\
+Selon le Haut Conseil de la Santé Publique, les malades guéris du
+Covid-19 peuvent à nouveau rentrer en contact avec d’autres personnes
+après la levée de l’isolement strict.\
 \
-Il n'est pas utile de laver un animal qui sort en promenade.\
-\
-De plus, tout produit qui n'est pas un produit adapté à l'animal
-(shampooing vétérinaire) ne doit en aucun cas être utilisé. Il peut
-nuire à votre animal comme à vous et votre entourage. L'usage de
-produits inadaptés (eau de javel...) voire agressifs pour l'animal, peut
-être assimilé à une véritable maltraitance et surtout ferait souffrir
-votre animal sans aucun bénéfice pour vous comme pour lui.
+Les critères de levée de l’isolement strict sont variables en fonction
+des facteurs de risques du malade. La plupart du temps, il faut attendre
+au moins 8 jours (10j pour les sujets à risque) après le début des
+symptômes, et 48 heures de disparition d’éventuelles difficultés
+respiratoires et de fièvre (&lt; 37.8 °C, mesurée par 2 mesures rectales
+dans la journée, sans prise d’antipyrétique/paracétamol).\
+Le risque de contamination est faible avec les personnes présentant ces
+critères de guérison s’ils sont bien respectés. Le risque n’est
+néanmoins pas exclu car il a été décrit des situations d’excrétion un
+peu plus longue du virus. Il est essentiel, avec une personne guérie
+comme avec le reste de la population générale, de continuer d’appliquer
+les précautions sanitaires telles que la distanciation sociale et les
+gestes barrière.
 
 
 
@@ -858,18 +840,13 @@ votre animal sans aucun bénéfice pour vous comme pour lui.
 
 
 []{#s631-q628}
-#### Quelle est la stratégie des autorités sanitaires pour les tests ? Cette stratégie peut-elle évoluer ? {#quelle-est-la-stratégie-des-autorités-sanitaires-pour-les-tests-cette-stratégie-peut-elle-évoluer .item-question}
+#### Quelle est la stratégie de dépistage des autorités sanitaires pour les tests ? {#quelle-est-la-stratégie-de-dépistage-des-autorités-sanitaires-pour-les-tests .item-question}
 
 
 
-Les tests ne servent pas à mesurer, mais à contenir l’épidémie. En phase
-épidémique, le principe est de ne plus tester systématiquement. Il n’y
-pas de droit à être dépisté, et pas d’avantage particulier à le faire
-pour la population générale.\
-\
-Comme le font la plupart des pays et comme le recommande la Commission
-européenne, les tests sont donc actuellement réservés à des publics
-prioritaires qui sont : 
+Dès lors que le pays est passé en phase épidémique, le principe n’était
+plus de tester systématiquement toute la population, mais de réserver
+les tests  à des publics prioritaires  : 
 
 -   Les professionnels de santé symptomatiques, 
 -   Les personnes âgées symptomatiques, 
@@ -878,50 +855,29 @@ prioritaires qui sont : 
 -   Les personnes hospitalisées,
 -   Les nouveaux foyers et nouveaux territoires. 
 
-Conformément aux recommandations de l’OMS qui incite dorénavant à tester
-massivement la population et au regard de l’évolution de l’épidémie, la
-stratégie de test en France va évoluer dans les prochains mois.\
+Conformément aux recommandations de l’OMS qui incite dorénavant à
+élargir les indications de tests et au regard de l’évolution de
+l’épidémie, la stratégie de test en France évolue.\
+Au début du mois d’avril, une vaste opération de dépistage des personnes
+les plus vulnérables a été lancée, en mettant la priorité sur les
+personnes âgées, les personnes handicapées les plus fragiles et les
+professionnels qui les accompagnent en établissement.\
 \
-Le samedi 4 avril 2020, le ministère des Armées a annoncé le financement
-d’un projet de test de dépistage du COVID-19 porté par la société NG
-Biotech, suite à l’appel à projets de solutions innovantes pour lutter
-contre l’épidémie, lancé par l’Agence innovation défense (AID). Cette
-commande, financée à hauteur de 1 million d’euros par un contrat de la
-Direction générale de l’armement, permettra à NG Biotech de lancer
-rapidement la production de nouveaux kits de dépistage (kits
-immunologiques de dépistage sanguin rapide de l’infection au
-coronavirus). Le prototype a déjà été évalué en France sur échantillons
-cliniques. La commande inclut également le développement d’un second
-type de kit de détection directe du virus, dans la salive ou par
-échantillon nasal, et la sécurisation d’une filière de réactifs de base
-nationale.\
+Au début du mois d’avril, une vaste opération de dépistage des personnes
+les plus vulnérables a été lancée, en mettant la priorité sur les
+personnes âgées, les personnes handicapées les plus fragiles et les
+professionnels qui les accompagnent en établissement.\
 \
-Par ailleurs, le ministère des Armées a également annoncé, le 7 avril
-2020, le financement d’une nouvelle technologie de détection rapide du
-COVID-19 par l’agence de l’innovation de défense (AID) à hauteur de 1,8
-million d’euros. Il s’agit du projet NOMORECOV, développé par la PME
-BforCure, qui consiste à développer un automate mobile, modulaire et
-connecté pour le dépistage rapide d’une infection au coronavirus (en
-moins de 30 minutes).\
+À la mi-avril, 175 000 tests par PCR sont effectués par semaine.  À la
+sortie du confinement, la France a pour objectif de pouvoir tester toute
+personne présentant des symptômes du Covid-19 et les cas contacts de son
+entourage. Pour cela, nous serons en capacité de réaliser au moins 700
+000 tests virologiques par semaine.\
 \
-Le lundi 6 avril 2020, le ministre des Solidarités et de la Santé a
-annoncé que les capacités de tests par PCR sont en train de doubler,
-permettant ainsi de lancer une vaste opération de dépistage des
-personnes les plus vulnérables, en mettant la priorité sur les personnes
-âgées, les personnes handicapées les plus fragiles et les professionnels
-qui les accompagnent en établissement. Il s’agit de tester tous les
-résidents et tous les personnels à compter de l’apparition d’un premier
-cas confirmé de malade du COVID-19 au sein d’un EHPAD, afin de regrouper
-les cas positifs et ainsi, éviter les contaminations et prendre les
-dispositions adaptées pour le personnel. Pour permettre cette opération
-de dépistage, d’importants moyens de projection seront mis en place au
-sein des établissements, en lien avec les laboratoires, la réserve
-sanitaire et les conseils départementaux.\
-\
-À la mi-avril, 175 000 tests par PCR sont effectués par semaine. La
-capacité de tests sera portée à 500 000 tests par semaine à compter du
-11 mai, afin  de pouvoir tester toute personne présentant les symptômes
-du Covid-19.
+Pour découvrir la stratégie nationale de déconfinement présentée par le
+Premier ministre à l’Assemblée nationale, rendez-vous sur cet [espace
+dédié au
+déconfinement](https://www.gouvernement.fr/info-coronavirus/strategie-de-deconfinement).
 
 
 
@@ -972,48 +928,19 @@ jugées “à risque”.
 
 
 
-[]{#s631-q629}
-#### Pourquoi ne plus tester tous les patients avec symptômes ? {#pourquoi-ne-plus-tester-tous-les-patients-avec-symptômes .item-question}
-
-
-
-Devant l’augmentation du nombre de cas, la recherche systématique de
-sujets contacts est devenue inutile. Tester tous les patients présentant
-des symptômes ou non conduirait à saturer la filière de dépistage alors
-que pour les cas graves, le personnel soignant et les structures
-collectives de personnes fragiles, le dépistage permet toujours de
-prendre des mesures immédiates (par exemple pour prévenir la diffusion
-du virus au sein d’un hôpital lorsqu’un patient est hospitalisé).\
-\
-Le décompte des cas ne se fonde plus uniquement sur les cas
-diagnostiqués biologiquement, mais sur des estimations épidémiologiques,
-comme cela se fait pour la grippe tous les ans (nombre de consultations,
-nombre de cas graves ou de décès…). Ces modifications reflètent donc une
-volonté d’adapter la réponse en fonction de l’évolution de la
-propagation du coronavirus dans les différents territoires.\
-\
-A partir du 11 mai,  les tests de dépistage seront disponibles pour
-l’ensemble des personnes présentant des symptômes.
-
-
-
-
-
 []{#s631-q630}
 #### Comment se passent les tests ? {#comment-se-passent-les-tests .item-question}
 
 
 
-Pour les populations concernées (cf question précédente), il y a
-plusieurs possibilités de tests : 
+Il y a plusieurs possibilités de tests : 
 
 -   Pour les patients diagnostiqués à l’hôpital ou avec signes de
     gravité, ces tests seront réalisés dans les hôpitaux.  
 -   Pour les autres patients répondants aux critères de dépistage, il
     est possible d’être testé dans les laboratoires en ville, après
     contact du médecin traitant et prescription médicale. Les
-    prélèvements seront réalisés à domicile. Il ne faut en aucun cas se
-    rendre directement dans les laboratoires de biologie, mais les
+    prélèvements seront réalisés à domicile. Il est nécessaire de les
     appeler au préalable, et seulement si on a une prescription
     médicale, car il existe un grand risque de contaminer d’autres
     malades, notamment les plus fragiles. 
@@ -1054,7 +981,7 @@ ceux-ci ne devraient pas être disponibles avant plusieurs mois.
 
 
 
-Les patients infectés par le coronavirus bénéficient aujourd’hui de
+Les patients infectés par le Covid-19 bénéficient aujourd’hui de
 traitements symptomatiques, c’est-à-dire visant à améliorer les
 symptômes.\
 Il n’existe pas encore de traitement visant spécifiquement le virus.\
@@ -1074,26 +1001,6 @@ patients. Il y a donc de nombreuses pistes thérapeutiques potentielles,
 mais dont l’efficacité et l’innocuité doivent être démontrées. Pour le
 moment aucune n’est favorisée ; aucun traitement spécifique n’est donc
 validé.
-
-
-
-
-
-[]{#s638-q639}
-#### Qu’est-ce qu’un essai clinique ? {#quest-ce-quun-essai-clinique .item-question}
-
-
-
-C’est une étude scientifique réalisée pour évaluer l’efficacité et la
-sécurité d’une méthode diagnostique ou d’un traitement. Le plus souvent,
-on compare deux groupes de malades au profil similaire. Dans un groupe,
-on donne le nouveau traitement, et dans un autre groupe, on donne un
-comparateur (placebo ou traitement normalement utilisé). A l’issue de
-l’essai, on évalue si le nouveau traitement est plus efficace ou pas, et
-on évalue s’il présente trop de risques pour les malades. C’est donc une
-étape indispensable pour obtenir la preuve de l’efficacité d’un
-traitement, et ne pas exposer les malades à des risques liés au
-médicament.
 
 
 
@@ -1127,9 +1034,7 @@ doute, demandez conseil à votre médecin ou consultez le site
 Les hôpitaux du monde entier sont confrontés à des besoins croissants en
 médicaments utilisés en réanimation.\
 \
-Nous pourrions avoir dans les semaines qui viennent des tensions
-d’approvisionnement sur certains produits. Lorsqu’elles sont localisées,
-ces tensions sont maîtrisées :
+Lorsqu’elles sont localisées, ces tensions sont maîtrisées :
 -   en assurant la coordination et la circulation des produits sur
     l’ensemble du territoire, notamment à partir du stock national ;
 -   en encourageant l’augmentation de la production nationale, lorsque
@@ -1222,7 +1127,7 @@ de travail avec les professionnels.
 
 
 []{#s638-q636}
-#### La chloroquine est-elle vraiment un remède miracle contre le coronavirus ? {#la-chloroquine-est-elle-vraiment-un-remède-miracle-contre-le-coronavirus .item-question}
+#### La chloroquine est-elle vraiment un remède miracle contre le Covid-19 ? {#la-chloroquine-est-elle-vraiment-un-remède-miracle-contre-le-covid-19 .item-question}
 
 
 
@@ -1240,11 +1145,17 @@ Le Haut Conseil exclut toute prescription dans la population générale et
 pour des formes non sévères en l’absence de toute donnée probante pour
 le moment.\
 \
-Le ministre des Solidarités et de la Santé prendra prochainement un
-arrêté pour encadrer l’utilisation du médicament, qui sera accessible
-aux équipes hospitalières qui le souhaitent pour l’utiliser selon ces
-orientations précises. Il ne s’agit pas d’une autorisation de mise sur
-le marché ni d’une utilisation libre.\
+\
+Dans un décret paru le 26 mars, le Gouvernement a autorisé la
+prescription de  l'hydroxychloroquine et de l'association
+lopinavir/ritonavir, dispensés et administrés sous la responsabilité
+d'un médecin, aux patients atteints des formes les plus graves par le
+Covid-19.\
+\
+La prescription doit se faire dans les établissements de santé qui les
+prennent en charge, ainsi que, pour la poursuite de leur traitement si
+leur état le permet et sur autorisation du prescripteur initial, à
+domicile.\
 \
 D’importantes études cliniques, sur plusieurs milliers de malades en
 Europe dont 800 malades en France, sont en cours pour identifier le ou
@@ -1370,26 +1281,22 @@ telle ampleur, en temps réel, au cours d'une épidémie.
 
 
 
-En raison des difficultés d’approvisionnement actuelles, les masques
-sanitaires sont réservés aux soignants. De plus, le masque n’est pas la
-bonne réponse systématique pour le grand public car il ne peut être
-porté en permanence et n’a pas d’indication sans contact rapproché et
-prolongé avec un malade.\
+Les masques sanitaires demeurent prioritaires.  À la fin du mois
+d‘avril, la France reçoit près de 100 millions de masques chirurgicaux
+par semaine.\
 \
-Contre le coronavirus, ce sont les gestes barrières et les mesures de
-distanciation sociale qui sont efficaces.\
+Pour faire face au Covid-19, les gestes barrières et les mesures de
+distanciation sociale sont les mesures les plus efficaces. À ces gestes
+barrières, le port du masque grand public deviendra à partir du 11 mai
+une mesure de protection complémentaire dans certaines situations.\
 \
-Néanmoins, au terme d’une démarche supervisée par l’Agence nationale de
-sécurité du médicament et des produits de santé (ANSM), avec le soutien
-de l’Agence nationale de sécurité sanitaire de l’alimentation, de
-l’environnement et du travail (ANSES), deux nouvelles catégories de
-masques grand public ont été créées. Ces masques auront vocation à être
-utilisés dans des situations professionnelles, en complément des mesures
-barrières (voir la question « Pour l’accès aux masques “  dans la
-rubrique “ Les mesures prises par le Gouvernement ”).\
+À partir du 11 mai, l'Etat, en lien avec les élus locaux et grâce à la
+mobilisation de tous, acteurs privés comme associatifs et citoyens,
+permettra à chaque Français de se procurer un masque grand public.\
 \
-A partir du 11 mai, l'Etat, en lien avec les maires, permettra à chaque
-Français de se procurer un masque grand public.
+Retrouvez toutes les informations sur l’utilisation, l’entretien et
+l’approvisionnement des masques grand public sur cette [page
+dédiée](https://www.gouvernement.fr/info-coronavirus/masques-grand-public).
 
 
 
@@ -1402,8 +1309,8 @@ Français de se procurer un masque grand public.
 
 Tous les efforts sont entrepris par l’Etat, les collectivités et
 certaines entreprises, pour augmenter la capacité de production de
-masques en France, multiplier les commandes à l’étranger et accélérer
-les livraisons.  \
+masques sanitaires en France, multiplier les commandes à l’étranger et
+accélérer les livraisons.  \
 \
 *En savoir plus*\
 \
@@ -1422,19 +1329,12 @@ Les besoins des établissements hospitaliers en masques en temps normal
 sont de 5 millions par semaine. La production nationale de masques en
 temps normal s’élève à 4 millions par semaine.\
 \
-Avec la crise, les besoins des établissements hospitaliers en masques
-sont passés à 45 millions par semaine. \
+Avec la crise, les volumes de masques sanitaires distribués aux
+personnels soignants et médico sociaux sont actuellement de 45 millions
+de masques par semaine. \
 \
-Les capacités de production de masques par les entreprises françaises
-ont pu être augmentées : la France produit à présent 8 millions de
-masques par semaine, et les efforts se poursuivent pour augmenter encore
-ces capacités. \
-\
-À cela s’ajoutent des importations depuis le mois de mars, livrées
-régulièrement  depuis la Chine via un pont aérien. La semaine du 13
-avril, ce sont ainsi près de 81 millions de masques qui ont été
-importés, soit bien plus que les besoins des établissements hospitaliers
-pour une semaine. \
+À la fin du mois d’avril, la France reçoit désormais près de 100
+millions de masques chirurgicaux par semaine.\
 \
 Les collectivités territoriales et certaines entreprises contribuent
 également à cet effort d’approvisionnement.
@@ -1444,18 +1344,18 @@ Les collectivités territoriales et certaines entreprises contribuent
 
 
 []{#s1325-q1328}
-#### Comment les masques sont-ils distribués ? {#comment-les-masques-sont-ils-distribués .item-question}
+#### Comment les masques sanitaires sont-ils distribués ? {#comment-les-masques-sanitaires-sont-ils-distribués .item-question}
 
 
 
 Depuis le début de la crise, pour préserver les capacités hospitalières,
-les masques sont livrés en priorité :
+les masques sanitaires sont livrés en priorité :
 -   aux professionnels de santé amenés à prendre en charge des patients
     COVID-19 en ville comme à l’hôpital ;
 -   aux personnes qui interviennent auprès des personnes âgées en EHPAD.
 
 \
-Depuis le 21 mars, les masques sont distribués ainsi :
+Depuis le 21 mars, ils sont distribués ainsi :
 -   pour les médecins de ville, les biologistes médicaux et les
     infirmiers de ville : 18 masques par semaine et par professionnel,
     dont des masques FFP2 dans le strict respect des indications ;
@@ -1503,30 +1403,30 @@ pouvoir dans la durée assurer les soins urgents à la population.\
 
 
 []{#s1325-q1329}
-#### Les aidants peuvent-ils obtenir des masques ? {#les-aidants-peuvent-ils-obtenir-des-masques .item-question}
+#### Les aidants peuvent-ils obtenir des masques sanitaires ? {#les-aidants-peuvent-ils-obtenir-des-masques-sanitaires .item-question}
 
 
 
 **Pour les professionnels du secteur médico-social travaillant en
-EHPAD**, le Gouvernement a mis à disposition 500 000 masques par jour,
-comme cela avait été demandé par les directeurs d’établissements.
-Concernant les autres aidants pour personnes âgées, le Gouvernement a
-demandé la création et fabrication de nouveaux masques à usage non
-sanitaire. A ce titre, ils pourront en être équipés.\
+EHPAD**, le Gouvernement a mis à disposition 500 000 masques sanitaires
+par jour, comme cela avait été demandé par les directeurs
+d’établissements. Concernant les autres aidants pour personnes âgées, le
+Gouvernement a demandé la création et fabrication de nouveaux masques à
+usage non sanitaire. A ce titre, ils pourront en être équipés.\
 \
-**Pour le secteur du handicap**, 500 000 masques de plus et par semaine
-(soit 3,5 millions au total) sont désormais distribués par la doctrine
-nationale d’utilisation du ministère des Solidarités et de la Santé. Cet
-assouplissement permettra notamment de couvrir, aux conditions fixées,
-les foyers de vie et d’hébergement accueillant des personnes en
-situation de handicap.
+**Pour le secteur du handicap**, 500 000 masques sanitaires de plus et
+par semaine (soit 3,5 millions au total) sont désormais distribués par
+la doctrine nationale d’utilisation du ministère des Solidarités et de
+la Santé. Cet assouplissement permet notamment de couvrir, aux
+conditions fixées, les foyers de vie et d’hébergement accueillant des
+personnes en situation de handicap.
 
 
 
 
 
 []{#s1325-q1330}
-#### La réquisition des masques concerne-t-elle toute la production française et les stocks des ministères ? {#la-réquisition-des-masques-concerne-t-elle-toute-la-production-française-et-les-stocks-des-ministères .item-question}
+#### La réquisition des masques sanitaires concerne-t-elle toute la production française et les stocks des ministères ? {#la-réquisition-des-masques-sanitaires-concerne-t-elle-toute-la-production-française-et-les-stocks-des-ministères .item-question}
 
 
 
@@ -1548,7 +1448,11 @@ Il semble peu probable qu’ils soient efficaces pour se protéger, car les
 mailles des tissus utilisés laissent passer les virus. Aucune étude à ce
 jour n’en a démontré l’efficacité. De plus, ils exposent au risque de se
 toucher fréquemment le visage, et donc se contaminer à travers les
-mains.
+mains.\
+\
+Au 11 mai, en lien avec de nombreux producteurs nationaux, tous les
+Français pourront se procurer des masques grand public lavables,
+répondant à des normes strictes.
 
 
 
@@ -1600,58 +1504,34 @@ santé et des patients atteints par le coronavirus est passée de 15
 millions de masques FFP2 et chirurgicaux par mois avant la crise, à plus
 de 40 millions en avril.\
 \
-**3. Les masques grand public**\
+**3. Le masque grand public** est un masque à usage non-sanitaire, mais
+qui répond à des normes établies par les autorités sanitaires : il doit
+être respirable et filtrer les gouttelettes qui contiennent du virus,
+pour ne pas qu’elles rentrent ni qu’elles sortent. Ils sont lavables
+pour la grande majorité et réutilisables plusieurs fois (certains
+modèles 20 ou 30 fois).\
 \
-La priorité du Gouvernement en termes de masques est l’équipement des
-professionnels de santé, via des importations massives et l’augmentation
-de nos capacités de production.\
- \
-Mais il y a aussi une demande croissante, dans de nombreux secteurs
-d’activité, d’augmenter la protection des salariés par des masques en
-complément des gestes barrières et des mesures de distanciation
-sociale.\
- \
-Pour contribuer à y répondre et dès le début du mois de mars, le
-Gouvernement a mobilisé les industriels français du textile afin de
-proposer de nouveaux types de masques anti-projections, avec des
-performances adaptées au domaine non médical. Ces masques répondent à
-des normes établies par les autorités sanitaires. Ils doivent être
-respirables et filtrer les gouttelettes qui contiennent du virus, pour
-ne pas qu’elles rentrent ni qu’elles sortent. Ils seront lavables pour
-la grande majorité et réutilisables plusieurs fois (certains modèles 20
-ou 30 fois).\
-\
-La semaine du 13 avril, ce sont 8 millions de masques grand public qui
-ont été produits en France ; l’objectif est de parvenir à une production
-de 17 millions de masques par semaine d’ici au 11 mai, grâce à la
-mobilisation de plus d’une centaine d’entreprises. Cette production
-nationale est complétée par des importations : plusieurs dizaines de
-millions de masques ont été commandés.\
+Depuis le début de la crise, l’État se mobilise pour accroître le stock
+de masques grand public en relançant notamment la production sur le
+territoire national et ainsi permettre aux entreprises, aux
+collectivités locales et aux services de l’État d’équiper les Français.
+Grâce à la mobilisation de l'industrie textile en particulier, la France
+a produit ou importé 41 millions de masques grand public depuis le 30
+mars. \
 \
 L’objectif est ainsi de permettre l’accès aux masques grand public pour
-tous les Français qui le souhaitent à partir du 11 mai.\
+tous les Français à partir du 11 mai. \
 \
-Ces masques sont qualifiés pour des environnements de travail :
--   masques grand public de catégorie 1 : l’usage de ces masques est
-    destiné aux populations amenées à accueillir du public dans le cadre
-    de leurs activités professionnelles (policiers, gendarmes, hôtesses
-    de caisses, etc.). Ils filtrent plus de 90% des particules émises
-    d’une taille supérieure ou égale à 3 microns compatibles avec cette
-    utilisation ;
--   masques grand public de catégorie 2 : ces masques sont destinés à
-    l’usage d’individus ayant des contacts occasionnels avec d’autres
-    personnes, dans le cadre professionnel. Leurs propriétés de
-    filtration des particules supérieures ou égales à 3 microns
-    apportent un complément de protection aux gestes barrières.
-
+Retrouvez toutes les informations sur l’utilisation, l’entretien et
+l’approvisionnement des masques grand public sur cette[page
+dédiée](https://www.gouvernement.fr/info-coronavirus/masques-grand-public).\
 \
-Il faut rappeler que le port de masque doit nécessairement s’accompagner
+Dans tous les cas, le port de masque doit nécessairement s’accompagner
 du respect des gestes barrières ainsi que des mesures de distanciation
 sociale.\
 \
-**4.** **Il existe des masques FFP3**, réservés à certaines utilisations
-très spécifiques. Ils ne sont pas utiles en prévention de la
-transmission COVID-19.\
+**4.** **Le masque FFP3**, réservé à certaines utilisations très
+spécifiques n'est pas utile en prévention de la transmission COVID-19.\
  
 
 
@@ -1690,6 +1570,10 @@ poursuite de l’activité économique. Plusieurs possibilités sont ouvertes
     un dispositif de vente en “click & collect” leur permettant de
     passer des commandes et avoir un accès facilité à ces masques, opéré
     par les enseignes du Groupe Casino.
+-   à  partir de fin avril-début mai, une plateforme de e-commerce sera
+    mise en place par la Poste pour distribuer aux TPE-PME et aux
+    travailleurs indépendants plusieurs millions de masques grand public
+    chaque semaine.
 
 \
 Par ailleurs, le 9 avril 2020, le ministre de l’Economie et des Finances
@@ -1713,8 +1597,7 @@ l’acquisition ou de la fabrication de ces matériels.
 ### Point de situation en France {#point-de-situation-en-france .item-paragraphe-titre .c-onglet data-section="s641" data-picto=""}
 
 
-**Le 29 avril 2020, à 19h30**\
- 
+**Le 29 avril 2020, à 19h30**
 
 Les autorités sanitaires tiennent [un point presse
 quotidien](https://www.dailymotion.com/MinSoliSante) pour vous informer
