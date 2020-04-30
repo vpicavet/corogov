@@ -247,7 +247,9 @@ nommé SARS-CoV-2. La maladie provoquée par ce coronavirus a été nommée
 COVID-19 par l’[Organisation mondiale de la Santé -
 OMS](https://www.who.int/fr/emergencies/diseases/novel-coronavirus-2019/advice-for-public).
 Depuis le 11 mars 2020, l’OMS qualifie la situation mondiale du COVID-19
-de pandémie ; c’est-à-dire que l’épidémie est désormais mondiale.
+de pandémie ; c’est-à-dire que l’épidémie est désormais mondiale.\
+ à dire qu’une personne contaminée, mais qui ne ressent pas encore de
+symptômes peut contaminer d’autres personnes.
 
 
 
@@ -258,10 +260,13 @@ de pandémie ; c’est-à-dire que l’épidémie est désormais mondiale.
 
 
 
-Les premières personnes à avoir contracté le virus s’étaient rendues au
-marché de Wuhan dans la Province de Hubei en Chine. La maladie
-semblerait donc venir d’un animal (zoonose) mais l’origine exacte n’a
-pas été confirmée.
+Le coronavirus est dangereux pour plusieurs raisons :
+
+-   Il est très contagieux : chaque personne infectée va contaminer au
+    moins 3 personnes en l'absence de mesures de protection.
+-   Il est contagieux avant d’être symptomatique, c’est à dire qu’une
+    personne contaminée, mais qui ne ressent pas encore de symptômes
+    peut contaminer d’autres personnes.
 
 
 
@@ -272,21 +277,19 @@ pas été confirmée.
 
 
 
-Le coronavirus est dangereux pour trois raisons :
+Le coronavirus est dangereux pour plusieurs  raisons :
 -   Il est très contagieux : chaque personne infectée va contaminer au
     moins 3 personnes en l'absence de mesures de protection.
 -   Il est contagieux avant d’être symptomatique, c’est-à-dire qu’une
     personne contaminée, mais qui ne ressent pas encore de symptômes,
     peut contaminer d’autres personnes.
--   Environ 15% des cas constatés ont des complications et 5% ont besoin
-    d'être hospitalisés en réanimation.
 
 
 
 
 
 []{#s615-q610}
-#### Quels sont les symptômes du coronavirus COVID-19 ? {#quels-sont-les-symptômes-du-coronavirus-covid-19 .item-question}
+#### Quels sont les symptômes du COVID-19 ? {#quels-sont-les-symptômes-du-covid-19 .item-question}
 
 
 
@@ -339,21 +342,12 @@ L'infection à COViD-19 entraine des décès surtout chez les personnes
 \
 - Les + de 60 ans représentent environ 90% des décès.\
 - Les + de 70 ans représentent environ 80% des décès.\
-- Les + de 80 ans représentent environ 60% des décès.
-
-
-
-
-
-[]{#s615-q1056}
-#### Comment expliquer que certains meurent du virus quand d’autres sont contaminés mais n’ont aucun symptôme ? {#comment-expliquer-que-certains-meurent-du-virus-quand-dautres-sont-contaminés-mais-nont-aucun-symptôme .item-question}
-
-
-
+- Les + de 80 ans représentent environ 60% des décès.\
+\
 L’infection au coronavirus n’a pas les mêmes conséquences chez tous les
 individus. Nos corps, selon notre immunité, notre âge, nos pathologies
 associées, ne réagissent pas tous de la même manière au virus. Les plus
-fragiles sont considérées “personnes à risques”, et il existe des
+fragiles sont considérées "personnes à risques", et il existe des
 recommandations spécifiques de prise en charge dans ces situations.
 
 
@@ -435,7 +429,7 @@ atteintes plus sévères, nécessitant de possibles hospitalisations.
 
 
 []{#s615-q614}
-#### Après avoir guéri du coronavirus, est-on immunisé ou est-il possible de tomber malade une deuxième fois ? {#après-avoir-guéri-du-coronavirus-est-on-immunisé-ou-est-il-possible-de-tomber-malade-une-deuxième-fois .item-question}
+#### Après avoir guéri du Covid-19, est-on immunisé ou est-il possible de tomber malade une deuxième fois ? {#après-avoir-guéri-du-covid-19-est-on-immunisé-ou-est-il-possible-de-tomber-malade-une-deuxième-fois .item-question}
 
 
 
