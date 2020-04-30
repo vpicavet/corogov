@@ -1777,27 +1777,22 @@ les appelle les gestes barrières :
 
 
 
+Les masques sanitaires demeurent prioritairement réservés aux soignants.
+À la fin du  mois d‘avril, la France reçoit près de 100 millions de
+masques chirurgicaux par semaine.\
 \
-En raison des difficultés d’approvisionnement actuelles, les masques
-sanitaires sont réservés aux soignants. De plus, le masque n’est pas la
-bonne réponse systématique pour le grand public car il ne peut être
-porté en permanence et n’a pas d’indication sans contact rapproché et
-prolongé avec un malade.\
+Pour faire face au Covid-19, les gestes barrières et les mesures de
+distanciation sociale sont les mesures les plus efficaces. À ces gestes
+barrières, le port du masque grand public deviendra à partir du 11 mai
+une mesure de protection complémentaire dans certaines situations.\
 \
-Contre le coronavirus, ce sont les gestes barrières et les mesures de
-distanciation sociale qui sont efficaces.\
 \
-Néanmoins, au terme d’une démarche supervisée par l’Agence nationale de
-sécurité du médicament et des produits de santé (ANSM), avec le soutien
-de l’Agence nationale de sécurité sanitaire de l’alimentation, de
-l’environnement et du travail (ANSES), deux nouvelles catégories de
-masques grand public ont été créées. Ces masques auront vocation à être
-utilisés dans des situations professionnelles, en complément des mesures
-barrières (voir la question "Pour l’accès aux masques" dans la rubrique
-"Les mesures prises par le Gouvernement").\
-\
-A partir du 11 mai, l'Etat, en lien avec les maires, permettra à chaque
-Français de se procurer un masque grand public.\
+À partir du 11 mai, l'Etat, en lien avec les élus locaux et grâce à la
+mobilisation de tous, acteurs privés comme associatifs et citoyens,
+permettra à chaque Français de se procurer un masque grand public.\
+Retrouvez toutes les informations sur l’utilisation, l’entretien et
+l’approvisionnement des masques grand public sur cette [page
+dédiée](https://www.gouvernement.fr/info-coronavirus/masques-grand-public).\
  
 
 
@@ -1817,9 +1812,6 @@ le 6 mars :
 -   3 € TTC maximum les 100 ml 
 -   5 € TTC maximum les 300 ml 
 -   15 € TTC maximum le litre 
-
-Les pharmacies pourront prochainement vendre leur propre solution de gel
-hydro-alcoolique. 
 
 Il est à noter que le gel hydro-alcoolique est seulement une solution
 d’appoint pour se laver les mains. Un lavage à l’eau et au savon est
@@ -1867,25 +1859,7 @@ utilisation) et les mesures de distanciation sociale qui sont efficaces.
 
 
 Les frontières avec les pays extérieurs à l’espace Schengen sont fermées
-depuis le 17 mars et le resteront jusqu’à nouvel ordre.
-
-
-
-
-
-[]{#s657-q924}
-#### Je suis un ressortissant français actuellement en déplacement temporaire à l’étranger. Dois-je rentrer immédiatement en France ? {#je-suis-un-ressortissant-français-actuellement-en-déplacement-temporaire-à-létranger.-dois-je-rentrer-immédiatement-en-france .item-question}
-
-
-
-Si vous êtes Français, que vous vous trouvez à l’étranger en déplacement
-temporaire, mais que vous vivez habituellement en France, revenez
-rapidement, tant que les lignes aériennes commerciales restent ouvertes
-; et restez ensuite chez vous confinés.
-
-Pour plus d’informations, consultez la page dédiée du [ministère de
-l’Europe et des Affaires
-étrangères](https://www.diplomatie.gouv.fr/fr/le-ministere-et-son-reseau/actualites-du-ministere/informations-coronavirus-covid-19/coronavirus-les-reponses-a-vos-questions/).
+depuis le 17 mars jusqu’à nouvel ordre.
 
 
 
@@ -1917,6 +1891,10 @@ nécessaire de rentrer en France, notamment au regard de vos conditions
 sanitaires, vous devez vous faire connaître de nos ambassades et
 consulats dès que possible.\
 \
+Pour plus d’informations, consultez la page dédiée du [ministère de
+l’Europe et des Affaires
+étrangères](https://www.diplomatie.gouv.fr/fr/le-ministere-et-son-reseau/actualites-du-ministere/informations-coronavirus-covid-19/coronavirus-les-reponses-a-vos-questions/).\
+\
 **C. Si vous êtes Français actuellement en déplacement temporaire à
 l’étranger.**\
 \
@@ -1937,12 +1915,6 @@ coopération, en fonction des priorités et des urgences locales, avec des
 compagnies aériennes, notamment Air France, et parfois en liaison avec
 l’Union européenne. Ce sont près de 1 600 vols qui ont été réalisés pour
 permettre ces rapatriements.\
-\
-Si des vols commerciaux spéciaux sont encore prévus dans les jours à
-venir, ainsi que des vols affrétés par la France et des vols vers
-l’Europe organisés par l’Union européenne dans le cadre du mécanisme de
-protection civile de l’Union (MPCU), les opérations d'aide au retour des
-Français de passage bloqués à l'étranger touchent à leur fin.\
 \
 Si vous n'avez pas pu bénéficier de ce dispositif d’assistance :
 
@@ -2025,7 +1997,7 @@ l’Europe et des Affaires
 
 
 La durée de validité des documents de séjour qui auront expiré entre le
-16 mars 2020 et le  15 mai  2020  a été prolongée de 3 mois. Cette
+16 mars 2020 et le  15 mai  2020  a été prolongée de 6 mois. Cette
 mesure concerne :\
  
 -   les visas de long séjour,
@@ -2379,13 +2351,12 @@ Je suis un ressortissant français à l’étranger
 
 
 []{#s665-q663}
-#### Quels sont les établissements soumis à l'obligation de fermeture ? {#quels-sont-les-établissements-soumis-à-lobligation-de-fermeture .item-question}
+#### Quels sont les établissements soumis à l'obligation de fermeture pendant le confinement ? {#quels-sont-les-établissements-soumis-à-lobligation-de-fermeture-pendant-le-confinement .item-question}
 
 
 
 Afin de ralentir la propagation du COVID-19, plusieurs catégories
-d'établissement ne peuvent plus accueillir de public, et ce, au moins
-jusqu'au 11 mai 2020 : 
+d'établissement ne peuvent plus accueillir de public : 
 
 -   Salles d'auditions, de conférences, de réunions, de spectacles ou à
     usage multiple (par exemple, les cinémas) ;
@@ -2405,10 +2376,6 @@ boissons”, et ne peuvent donc pas accueillir de public. Les commerces
 qui ne peuvent plus accueillir de clients peuvent maintenir leurs
 activités de livraison et de retrait de commandes.\
 \
-La pluplart des établissements accueillant du public resteront fermés au
-delà du 11 mai, date de la fin du confinement de la population. Les
-festivals ne pourront être organisés avant la mi-juillet.\
-\
 Par ailleurs, les navires de croisière et navires à passagers
 transportant plus de 100 passagers ont interdiction de faire escale en
 Corse, et ont interdiction de faire escale ou de mouiller dans les eaux
@@ -2416,6 +2383,10 @@ intérieures et territoriales des départements et régions d'outre-mer,
 ainsi que de Saint-Barthélemy et Saint-Martin, Saint-Pierre-et-Miquelon,
 et Wallis-et-Futuna, sauf dérogation accordée par le représentant de
 l'Etat compétent pour ces mêmes collectivités.\
+\
+Pour connaître les modalités de réouverture des établissements à partir
+du 11 mai, retrouvez toutes les informations sur cet [espace dédié au
+déconfinement](https://www.gouvernement.fr/info-coronavirus/strategie-de-deconfinement).\
 \
 **Pour les établissements demeurant fermés, la continuité de leur
 activité en “*click and collect*” est possible.**\
@@ -2441,7 +2412,7 @@ que soit la nature du bien.
 
 
 []{#s665-q664}
-#### Quels sont les établissements autorisés à recevoir du public ? {#quels-sont-les-établissements-autorisés-à-recevoir-du-public .item-question}
+#### Quels sont les établissements autorisés à recevoir du public pendant le confinement ? {#quels-sont-les-établissements-autorisés-à-recevoir-du-public-pendant-le-confinement .item-question}
 
 
 
@@ -2593,55 +2564,10 @@ sanitaires et notamment le respect des gestes barrières.\
 ### Pour votre santé {#pour-votre-santé .item-paragraphe-titre .c-onglet data-section="s666" data-picto=""}
 
 
-Les professionnels et établissements de santé ont été informés
-rapidement de la situation et des recommandations sur la prise en charge
-d’éventuels cas en France afin que l’ensemble du système de santé
-Français soit prêt pour faire face à la maladie.
-
-Le 13 février, il a été demandé à chaque Agence régionale de santé
-d’activer le plan d’organisation de la réponse du système de santé
-(dénommé [ORSAN
-REB](https://solidarites-sante.gouv.fr/IMG/pdf/guide_situation_sanitaire_exceptionnelle.pdf))
-dans sa région. L’objectif de ce plan est d’organiser la mobilisation du
-système de santé pour se préparer à une éventuelle circulation active du
-Coronavirus COVID-19 sur le territoire français.
-\
 L’évolution de la situation internationale est suivie de près par les
 autorités sanitaires avec l’ensemble des acteurs concernés en lien avec
-l’OMS.\
+l’OMS.
 \
-Des mesures de protection sont prises dans les établissements de santé
-pour les personnes et pour freiner la propagation du virus :
-
--   les visites dans les structures accueillant des enfants et des
-    adultes sont suspendues, sauf situations particulières pour
-    lesquelles l’absence de lien avec un aidant référent serait
-    particulièrement préjudiciable (risque de décompensation, troubles
-    du comportement…), appréciées par un médecin. Ces visites autorisées
-    à titre exceptionnel doivent être organisées dans le respect strict
-    des recommandations ;
--   les sorties le week-end sont suspendues pour protéger les personnes
-    et limiter les risques d’une diffusion du virus dans le collectif de
-    la structure. Les sorties sont envisageables à titre exceptionnel
-    sous réserve d’un avis médical ;
--   tous les efforts seront faits pour organiser les transmissions et
-    mettre en place des moyens de communication quotidiens avec les
-    familles.
-
-En cas de doute dès l’apparition des premiers symptômes, les services de
-soins, de ville, d’urgence et hospitaliers, sont mobilisés pour prendre
-en charge les personnes en situation de handicap**.** Les professionnels
-médico-sociaux devront être en appui pour accompagner les personnes
-hospitalisées, notamment polyhandicapées, et les professionnels de
-santé.\
- 
-Les professionnels médico-sociaux sont soutenus au vu de l’importance de
-leur mission. Ils comptent parmi les personnels prioritaires pour la
-mobilisation de systèmes de gardes d’enfant**s** organisés par
-l’Education nationale et ses partenaires. L’Etat mobilise également les
-taxis et les hôtels pour les accompagner dans leurs missions. \
- 
-
 L’armée est pleinement mobilisée avec ses cinq hôpitaux d’instruction
 militaire, l’installation d’un hôpital de campagne à Mulhouse ainsi que
 des opérations de transport sanitaire maritime et aérien grâce au
@@ -2652,8 +2578,8 @@ de l’armée de l’Air pour transporter des patients atteints de COVID-19.\
 Le 25 mars, le président de la République a annoncé le lancement de
 l’opération militaire “Résilience”, pour apporter aide et soutien à la
 population mais aussi aux services publics en termes sanitaire,
-logistique et de protection en métropole et dans les Outre-mer. Depuis,
-les porte-hélicoptères Mistral et Dixmude ont été déployés
+logistique et de protection dans l'hexagone et dans les Outre-mer.
+Depuis, les porte-hélicoptères Mistral et Dixmude ont été déployés
 respectivement au sud de l’Océan Indien (Réunion, Mayotte) et dans la
 région Antilles-Guyane.\
 \
@@ -2666,10 +2592,7 @@ la forme d’une cellule d’écoute ouverte 7 jours / 7 de 8h00 à minuit
 grâce à l’engagement de psychologues hospitaliers volontaires et
 bénévoles.\
 \
-Le confinement de la population sera levé le 11 mai à part pour les
-personnes âgées, fragiles ou malade. A partir de cette date, les tests
-de dépistage seront disponibles pour l’ensemble des personnes présentant
-des symptômes et le port du masque grand public sera généralisé.\
+Le confinement de la population est maintenu jusqu'au 11 mai.\
  
 
 
@@ -2699,18 +2622,23 @@ rigoureuse de mesures de prévention :\
 -   Les gestes barrières et les mesures de distanciation physique (plus
     d’un mètre entre chaque personne) devront être rigoureusement
     appliqués ; les masques grand public seront un complément à ces
-    gestes barrières. 
+    gestes barrières ;
 -   Il sera primordial de tester rapidement les personnes qui présentent
     des symptômes et toutes les personnes qui auront été en contact avec
-    elles (“cas contacts”).
+    elles (“cas contacts”) ;
+-   Le port du masque grand public sera conseillé voire obligatoire dans
+    certaines situations quotidiennes ;
 -   Enfin, les personnes porteuses du virus COVID-19 devront être
     isolées. Elles pourront, au choix, être isolées chez elles (auquel
     cas toute personne qui partagerait le même logement serait
     contrainte de rester isolée également) soit dans un autre lieu
     (hôtel) mis à disposition. 
 
-Un plan de déconfinement sera présenté par le Gouvernement à la fin du
-mois d’avril.
+\
+Vous pouvez retrouver l’ensemble des grands axes de la stratégie
+nationale de déconfinement présentés par le Premier ministre le 28
+avril, sur cet [espace dédié au
+déconfinement](https://www.gouvernement.fr/info-coronavirus/strategie-de-deconfinement).
 
 
 
@@ -2722,26 +2650,13 @@ mois d’avril.
 ### Pour votre sécurité {#pour-votre-sécurité .item-paragraphe-titre .c-onglet data-section="s667" data-picto=""}
 
 
-À la suite du passage en stade 3 du plan de lutte contre l’épidémie et
-jusqu’à nouvel ordre, le Premier ministre a décidé le 14 mars 2020 de
-fermer tous les lieux recevant du public qui ne sont pas indispensables
-à la vie du pays.\
+À la suite du passage en stade 3 du plan de lutte contre l’épidémie, le
+Premier ministre a décidé le 14 mars 2020 de fermer tous les lieux
+recevant du public qui ne sont pas indispensables à la vie du pays.\
 \
-Il s’agit notamment des restaurants, cafés, cinémas, discothèques.\
-\
-Le 16 mars 2020, le président de la République a décidé de prendre des
-mesures supplémentaires pour réduire à leur plus strict minimum les
-contacts et les déplacements. Un dispositif de confinement est mis en
-place sur l’ensemble du territoire à compter du mardi 17 mars à 12h00,
-pour quinze jours minimum.\
-\
-Après une première prolongation de deux semaines, annoncée par le
-Premier ministre le 27 mars 2020, le confinement est à nouveau prolongé
-au moins jusqu'au 11 mai. Les mêmes règles que celles actuellement en
-vigueur continuent à s’appliquer.\
-\
-Cette période de confinement pourra être prolongée si la situation
-sanitaire l’exige.\
+Le 16 mars 2020, un dispositif de confinement a été mis en place sur
+l’ensemble du territoire à compter du mardi 17 mars, et ce jusqu'au
+lundi 11 mai\
 \
 Les déplacements sont interdits sauf dans les cas suivants et uniquement
 à condition d'être munis d'une attestation pour :\
@@ -2771,10 +2686,6 @@ Les déplacements sont interdits sauf dans les cas suivants et uniquement
 -   **convocation judiciaire ou administrative** ;
 -   **participation à des missions d’intérêt général** sur demande de
     l’autorité administrative.
-
-La plupart des établissements accueillant du public (restaurants, bars,
-cinémas, musées…) resteront fermés au-delà du 11 mai et jusqu’à nouvel
-ordre.
 
 
 
@@ -2828,9 +2739,17 @@ de l’ensemble des crèches, écoles, collèges, lycées et universités. Les
 crèches, cantines, écoles, collèges et lycées rouvriront progressivement
 à partir du 11 mai. Le retour progressif des élèves, des enseignants et
 des personnels administratifs et techniques se fera dans les écoles dans
-le respect impératif des règles de sécurité sanitaire. Jusqu'au 11 mai,
-les établissements scolaires continueront d'accueillir les enfants de
-professionnels de santé. Les universités ne rouvriront pas avant l’été.\
+le respect impératif des règles de sécurité sanitaire.\
+\
+Pour connaître les modalités de réouverture progressive des
+établissements scolaires à partir du 11 mai, vous pouvez retrouver
+l’ensemble des grands axes de la stratégie nationale de déconfinement
+présentés par le Premier ministre le 28 avril, sur cet [espace dédié au
+déconfinement](https://www.gouvernement.fr/info-coronavirus/strategie-de-deconfinement).\
+\
+Jusqu'au 11 mai, les établissements scolaires continueront d'accueillir
+les enfants de professionnels de santé. Les universités ne rouvriront
+pas avant l’été.\
 \
 Cette mesure, prise sur recommandations des scientifiques au vu de
 l’accélération de l’épidémie, vise à la fois à protéger les plus jeunes
