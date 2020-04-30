@@ -111,14 +111,15 @@ COVID-19
 
 
 
--   [Masques](/info-coronavirus/masques-grand-public){.button-cta
-    .masque}
--   [Désinfox](/info-coronavirus/desinfox){.button-cta .desinfox}
+-   [Informations officielles](/info-coronavirus){.informations .active}
+-   [Déconfinement](/info-coronavirus/strategie-de-deconfinement){.deconfinement}
+-   [Masques](/info-coronavirus/masques-grand-public){.masque}
 -   [Orientation
-    médicale](/info-coronavirus/orientation-medicale){.button-cta
-    .omedicale}
--   [Carte et données](/info-coronavirus/carte-et-donnees){.button-cta
-    .carte}
+    médicale](/info-coronavirus/orientation-medicale){.medicale}
+-   [Questions / réponses](/info-coronavirus#questions){.qr}
+-   [Désinfox](/info-coronavirus/desinfox){.desinfox}
+-   [Carte et données](/info-coronavirus/carte-et-donnees){.carte}
+-   [Handicap](/info-coronavirus/espace-handicap){.handicap}
 
 
 
@@ -10816,6 +10817,10 @@ Rechercher
 
 
 class="block block-pmv6-schema-org block-even">
+
+
+
+
 
 
 

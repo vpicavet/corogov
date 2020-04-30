@@ -105,10 +105,16 @@ Covid-19
 
 
 
--   [Désinfox](/info-coronavirus/desinfox){.button-cta .desinfox}
--   [Questions/réponses](/info-coronavirus#questions){.button-cta}
--   [Carte et données](/info-coronavirus/carte-et-donnees){.button-cta
-    .carte}
+-   [Informations officielles](/info-coronavirus){.informations}
+-   [Déconfinement](/info-coronavirus/strategie-de-deconfinement){.deconfinement
+    .active}
+-   [Masques](/info-coronavirus/masques-grand-public){.masque}
+-   [Orientation
+    médicale](/info-coronavirus/orientation-medicale){.medicale}
+-   [Questions/réponses](/info-coronavirus#questions){.qr}
+-   [Désinfox](/info-coronavirus/desinfox){.desinfox}
+-   [Carte et données](/info-coronavirus/carte-et-donnees){.carte}
+-   [Handicap](/info-coronavirus/espace-handicap){.handicap}
 
 
 
@@ -154,7 +160,7 @@ l'engagement responsable de chaque Français.
 
 \
 [[Télécharger le discours du Premier ministre (PDF - 484.59
-Ko)]{style="color:blue"}](https://www.gouvernement.fr/sites/default/files/document/document/2020/04/discours_de_m._edouard_philippe_sur_la_presentation_de_la_strategie_nationale_de_deconfinement.pdf "Télécharger ")
+Ko)]{style="color:blue"}](https://www.gouvernement.fr/partage/11518-discours-de-m-edouard-philippe-premier-ministre-presentation-de-la-strategie-nationale-de "Télécharger ")
 
 
 
@@ -681,6 +687,10 @@ Rechercher
 -   [Accessibilité](/accessibilite){.footer-menu-item-7499}
 -   [English](/en/news){.footer-menu-item-374}
 -   [Marque de l'État](/marque-Etat){.footer-menu-item-8535}
+
+
+
+
 
 
 
