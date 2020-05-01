@@ -3190,6 +3190,11 @@ Pour les entreprises :
     collectivités locales, les pénalités de retards ne seront pas
     appliquées.
 
+Concernant le fonds de solidarité, un [tableau de
+bord](https://www.economie.gouv.fr/covid19-soutien-entreprises/aides-versees-fonds-solidarite)est
+accessible afin d’offrir de la visibilité sur l’attribution de ces
+aides.\
+\
 Pour en savoir plus sur ces mesures, les modalités d’accès et les
 contacts, consulter l’espace dédié « Mesures de soutien aux entreprises
 » sur
@@ -3515,6 +3520,19 @@ chiffre d’affaires de plus de 50 % : \
     les régions si vous employez des salariés et que vous risquez de
     vous trouver en cessation de paiement. 
 
+Si vous êtes dans l’obligation de rester à domicile parce que vous êtes
+atteint du Covid-19 ou pour garde d’enfant :\
+\
+Une allocation de remplacement peut vous être versée. Elle permet la
+prise en charge du coût du remplacement sur votre exploitation agricole
+dans un plafond de 112 € par jour. \
+\
+Elle sera versée par les caisses de la Mutualité Sociale Agricole (MSA),
+sur justificatifs, aux services de remplacement si vous avez fait appel
+à leur service, ou à vous si vous avez procédé à une embauche directe.\
+\
+Cette mesure sera maintenue pendant toute la période de l’état d’urgence
+sanitaire.\
 \
 **Vous êtes soignant et êtes fortement mobilisé durant cette épidémie du
 COVID-19 :**\
@@ -3557,10 +3575,7 @@ exercer votre activité durant le confinement :**\
 Le Prêt garanti par l’Etat (PGE) est un prêt qu’octroie à une entreprise
 ou un professionnel sa banque habituelle, malgré la forte incertitude
 économique actuelle, grâce à la garantie qu’apporte l’Etat sur une
-partie très significative du prêt.\
-\
-Le Prêt garanti par l’Etat (PGE) est un prêt d’une banque à une
-entreprise : ce n’est pas un prêt de l’Etat.\
+partie très significative du prêt. Ce n'est donc pas un prêt de l'Etat.\
 \
 Ce recours total aux réseaux bancaires pour l’octroi des Prêts garantis
 par l’Etat (PGE) a été voulu pour que le dispositif puisse rapidement et
@@ -3575,8 +3590,21 @@ accompagner dans la phase de reprise. Les sociétés civiles immobilières
 Toutes les modalités du prêt garanti par l’Etat sont à retrouver sur
 [cette page](https://www.economie.gouv.fr/covid19-soutien-entreprises).\
 \
-Au 21 avril 2020, les banques ont accordé 24 milliards € de prêts à 174
-000 entreprises.
+Le prêt peut représenter jusqu’à 3 mois du chiffre d'affaires 2019, ou
+deux années de masse salariale pour les entreprises innovantes ou créées
+depuis le 1er janvier 2019. Aucun remboursement n’est exigé la première
+année et l’entreprise peut choisir ensuite d’amortir le prêt sur une
+durée maximale de cinq ans.\
+\
+Un [tableau de
+bord](https://www.economie.gouv.fr/files/files/directions_services/covid19-soutien-entreprises/Tableau_de_bord_PGE_Situation_24avril_20200429.pdf),
+mis à jour chaque semaine, permet de suivre la distribution des prêts
+garantis par l’État (PGE). Le tableau recense les prêts accordés par
+taille d’entreprise, par secteur d’activité, par région et par cote de
+crédit.\
+\
+Au 30 avril 2020, les banques ont accordé plus de 50 milliards d’euros
+de prêts à plus de 322 000 entreprises.
 
 
 
@@ -4162,7 +4190,12 @@ de protection contre le COVID-19 sur les lieux de travail et assurer la
 continuité de l’activité économique. Pour les retrouver :\
 [Fiches conseils métiers pour les salariés et les employeurs du
 ministère du
-Travail](https://travail-emploi.gouv.fr/actualites/l-actualite-du-ministere/article/coronavirus-covid-19-fiches-conseils-metiers-pour-les-salaries-et-les)
+Travail](https://travail-emploi.gouv.fr/actualites/l-actualite-du-ministere/article/coronavirus-covid-19-fiches-conseils-metiers-pour-les-salaries-et-les)\
+\
+Pour obtenir des renseignements complémentaires sur les entreprises et
+connaître les mesures de soutien à l’économie, rendez-vous sur le [site
+du Ministère de l’Économie et des
+Finances](https://info-entreprises-covid19.economie.gouv.fr/kb).
 
 
 
@@ -4910,46 +4943,6 @@ de la procédure Parcoursup, jusqu’à la proclamation des résultats.\
 
 
 
-[]{#s682-q1101}
-#### Parcoursup est-il toujours ouvert ? {#parcoursup-est-il-toujours-ouvert .item-question}
-
-
-
-La procédure d’inscription des lycéens et étudiants à Parcoursup est
-terminée. Les établissements d’enseignement supérieur examinent
-actuellement les dossiers et apporteront des réponses à partir du 19 mai
-2020.\
-\
-Si vous avez rencontré des difficultés liées au contexte sanitaire, et
-n’avez pas pu confirmer vos voeux dans les délais, vous pouvez vous
-manifester auprès des services d'assistance Parcoursup. Les recteurs
-vous prêteront une attention particulière.\
-\
-*Vous souhaitez en savoir plus ?*\
-\
-La procédure d’inscription dans l’enseignement supérieur via la
-plateforme Parcoursup était ouverte du 13 mars au 2 avril 2020.\
-\
-Toutefois, afin de permettre aux candidats qui auraient rencontré des
-difficultés liées au contexte sanitaire actuel (difficultés de
-connexion, absence d’équipement, etc.) de ne pas être pénalisés, les
-recteurs vont prêter dans les prochains jours une attention particulière
-aux situations des lycéens et étudiants qui n’auraient pas pu confirmer
-leurs voeux dans le temps imparti. Ces candidats pourront confirmer
-leurs veux dans les prochains jours. Les services d’assistance
-Parcoursup restent mobilisés pour prendre en compte la situation
-spécifique de ces candidats.\
-\
-Après cette phase de confirmation, l’examen des candidatures sera
-réalisé pendant les mois d’avril et mai par les établissements de
-l’enseignement supérieur qui apporteront des réponses aux candidats à
-partir du 19 mai 2020.\
- 
-
-
-
-
-
 []{#s682-q685}
 #### L’école de mes enfants est fermée, comment faire pour les garder ? {#lécole-de-mes-enfants-est-fermée-comment-faire-pour-les-garder .item-question}
 
@@ -4985,30 +4978,22 @@ d’arrêt, sans application du délai de carence ;\
 maladie, car c’est la déclaration de votre employeur, accompagné de la
 transmission des éléments de salaires selon les canaux habituels, qui va
 permettre l’indemnisation de votre arrêt de travail ;\
-•    les employeurs sont invités à pratiquer dans le maximum de cas le
-maintien de salaire au bénéfice de leurs salariés, auquel cas ils
-versent le salaire à hauteur du complément sans attendre le versement
-des indemnités journalières par l’assurance maladie ;\
 •    si vous êtes non-salarié (travailleur indépendant ou exploitant
 agricole), vous déclarez directement votre arrêt sur le site Internet
-dédié.
-
-
-
-
-
-[]{#s682-q1225}
-#### L’arrêt de travail pour garde d’enfant peut-il être prolongé pour les vacances scolaires ? {#larrêt-de-travail-pour-garde-denfant-peut-il-être-prolongé-pour-les-vacances-scolaires .item-question}
-
-
-
-Oui, si vous êtes toujours dans l’impossibilité de télétravailler.\
+dédié.\
 \
-La demande de prolongement s’effectue par votre employeur dans les mêmes
-conditions que l’arrêt initial. Le site internet de la sécurité sociale
-présente de façon détaillée la démarche à effectuer : 
-<https://www.ameli.fr/assure/actualites/covid-19-des-arrets-de-travail-simplifies-pour-les-salaries-contraints-de-garder-leurs-enfants>\
- 
+Jusqu’au 30 avril, l’indemnisation de l’arrêt de travail par l’assurance
+maladie est maintenu, puis à compter du 1er mai afin de garantir une
+indemnisation à hauteur de 84% du salaire net, et jusqu’à 100% pour les
+salariés au SMIC, votre employeur vous placera en activité partielle.\
+\
+Votre indemnisation vous sera versée par votre employeur à la date
+habituelle d’échéance de paiement de votre salaire. Les modalités
+pratiques entre l’assurance maladie et votre employeur pour établir la
+demande d’activité partielle sont en cours de définition.\
+\
+Si vous êtes indépendant, contractuel de droit public ou fonctionnaire
+vous continuerez à être indemnisé comme avant.
 
 
 
@@ -5897,12 +5882,11 @@ transport les horaires ou fréquences de passage.\
 
 
 
-Elle est autorisée uniquement pour les cas prévus dans l’attestation
-dérogatoire : aller au travail, faire des achats de première nécessité,
-etc.\
-\
-Elle est autorisée pour les promenades avec les enfants à condition que
-l'adulte qui les accompagne soit à pied.  \
+Elle est autorisée quel que soit le motif de déplacement. Cependant,
+elle est limitée à une heure quotidienne et à un rayon maximal d’un
+kilomètre autour du domicile, dans le cadre des déplacements brefs liés
+soit à l’activité physique individuelle, soit à la promenade avec les
+seules personnes regroupées dans un même domicile.\
 \
 Dans tous les cas, vous devez renseigner l’attestation et l’avoir sur
 vous lors de tout déplacement.\
@@ -7681,15 +7665,15 @@ particulières s'appliquent dans votre commune.\
 
 
 
-Non, il est interdit de pratiquer le vélo pour les loisirs.\
+Oui, le vélo est donc autorisé, comme tout autre moyen de déplacement et
+quel que soit le motif du déplacement. \
 \
-Sauf pour les enfants : ils peuvent faire du vélo s’ils sont accompagnés
-par un adulte qui les accompagne à pied, à raison d’1 heure quotidienne
-au maximum, dans un rayon d’1 km autour du domicile. N’oubliez pas votre
-pièce d’identité et votre attestation de déplacement dérogatoire.\
-\
-En revanche vous pouvez faire du vélo pour vos déplacements
-professionnels, de santé ou pour faire vos courses.\
+Cependant, sa pratique est limitée à une heure quotidienne et à un rayon
+maximal d’un kilomètre autour du domicile, dans le cadre des
+déplacements brefs liés soit à l’activité physique individuelle, soit à
+la promenade avec les seules personnes regroupées dans un même domicile.
+N’oubliez pas votre pièce d’identité et votre attestation de déplacement
+dérogatoire.\
  
 
 
