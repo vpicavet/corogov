@@ -125,7 +125,7 @@ COVID-19
 
 
 
-Mis à jour le jeudi 30 avril 2020, à 21h30
+Mis à jour le vendredi 1er mai 2020, à 19h45
 
 
 -   [Francais](/info-coronavirus){.active}
@@ -305,24 +305,17 @@ observées.\
 \
 Chez les personnes développant des formes plus graves, on retrouve des
 difficultés respiratoires, pouvant mener jusqu’à une hospitalisation en
-réanimation et au décès.
-
-
-
-
-
-[]{#s615-q1382}
-#### Comment bien prendre sa température : {#comment-bien-prendre-sa-température .item-question}
-
-
-
+réanimation et au décès.\
+\
+**Comment bien prendre sa température ?**\
+\
 La prise de la température corporelle permet de déceler l’apparition de
 fièvre. La fièvre désigne classiquement une température corporelle
 supérieure à 38°C le matin (38,3°C le soir). La fièvre n'est pas, en
 général, dangereuse en elle-même. \
  \
-On peut prendre la température avec plusieurs types de thermomètres :\
- 
+On peut prendre la température avec plusieurs types de thermomètres :
+
 -   par le rectum, avec un thermomètre électronique : la fièvre est
     apparente si la température ≥ 38°C ;
 -   par la bouche, avec un thermomètre électronique : la fièvre est
@@ -340,9 +333,8 @@ cristaux, n’est pas recommandée. Cette méthode manque de précision ; de
 plus, en cas de fièvre d’origine infectieuse, la tempé\
 \
 Pour plus d’information et de conseils, visitez le site de l’Assurance
-Maladie
-:<https://www.ameli.fr/assure/sante/bons-gestes/petits-soins/prendre-temperature>\
- 
+Maladie :
+<https://www.ameli.fr/assure/sante/bons-gestes/petits-soins/prendre-temperature>
 
 
 
@@ -1689,7 +1681,7 @@ l’acquisition ou de la fabrication de ces matériels.
 ### Point de situation en France {#point-de-situation-en-france .item-paragraphe-titre .c-onglet data-section="s641" data-picto=""}
 
 
-**Le 30 avril 2020, à 19h15**
+**Le 1er mai 2020, à 19h45**
 
 Les autorités sanitaires tiennent [un point presse
 quotidien](https://www.dailymotion.com/MinSoliSante) pour vous informer
@@ -1701,12 +1693,12 @@ Les informations du jour :
     plusieurs zones de regroupement de cas (clusters). Nous sommes
     actuellement au stade 3 du plan d’actions du Gouvernement qui a pour
     objectif de prévenir et limiter la circulation du virus. 
--   En France, 129 581 cas seraient confirmés selon les estimations de
+-   En France, 130 185 cas seraient confirmés selon les estimations de
     Santé publique France. 
--   Depuis le 1er mars, nous déplorons 24 376 décès liés au COVID-19 :
-    15 244 décès dans les hôpitaux et 9 132 décès dans les
+-   Depuis le 1er mars, nous déplorons 24 594 décès liés au COVID-19 :
+    15 369 décès dans les hôpitaux et 9 225 décès dans les
     établissements sociaux et médico-sociaux.
--   Depuis le début de l’épidémie, 49 476 personnes sont sorties guéries
+-   Depuis le début de l’épidémie, 50 212 personnes sont sorties guéries
     de l’hôpital.
 
 Retrouvez toutes les données sur [le tableau de bord COVID-19 de
