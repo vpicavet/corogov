@@ -125,7 +125,7 @@ COVID-19
 
 
 
-Mis à jour le jeudi 30 avril 2020, à 19h15
+Mis à jour le jeudi 30 avril 2020, à 21h30
 
 
 -   [Francais](/info-coronavirus){.active}
@@ -311,6 +311,43 @@ réanimation et au décès.
 
 
 
+[]{#s615-q1382}
+#### Comment bien prendre sa température : {#comment-bien-prendre-sa-température .item-question}
+
+
+
+La prise de la température corporelle permet de déceler l’apparition de
+fièvre. La fièvre désigne classiquement une température corporelle
+supérieure à 38°C le matin (38,3°C le soir). La fièvre n'est pas, en
+général, dangereuse en elle-même. \
+ \
+On peut prendre la température avec plusieurs types de thermomètres :\
+ 
+-   par le rectum, avec un thermomètre électronique : la fièvre est
+    apparente si la température ≥ 38°C ;
+-   par la bouche, avec un thermomètre électronique : la fièvre est
+    apparente si la température ≥ 37,5°C ;
+-   sous l’aisselle, avec un thermomètre électronique : la fièvre est
+    apparente si la température ≥ 37,3°C ;
+-   par l’oreille, avec un thermomètre à infrarouge : la fièvre est
+    apparente si la température ≥ 38°C ;
+-   sur la tempe, avec un thermomètre à infrarouge : la fièvre est
+    apparente si la température ≥ 37,8°C.
+
+  \
+La prise de température par voie frontale, avec thermomètres frontaux à
+cristaux, n’est pas recommandée. Cette méthode manque de précision ; de
+plus, en cas de fièvre d’origine infectieuse, la tempé\
+\
+Pour plus d’information et de conseils, visitez le site de l’Assurance
+Maladie
+:<https://www.ameli.fr/assure/sante/bons-gestes/petits-soins/prendre-temperature>\
+ 
+
+
+
+
+
 []{#s615-q611}
 #### Quel est le délai d’incubation de la maladie ? {#quel-est-le-délai-dincubation-de-la-maladie .item-question}
 
@@ -414,6 +451,22 @@ Mais ils se diffusent aussi davantage.
 
 
 
+[]{#s615-q1383}
+#### La bactérie Prevotella a-t-elle un rôle dans l’infection au Covid-19 ? {#la-bactérie-prevotella-a-t-elle-un-rôle-dans-linfection-au-covid-19 .item-question}
+
+
+
+À ce jour, il n’existe aucune preuve d’un rôle de la bactérie Prevotella
+dans l’infection au Covid-19. Quelques travaux en pré-publication
+explorent le sujet, mais sont discutés par le reste de la communauté
+scientifique car ils n’apportent pas d’argument sérieux en faveur de
+cette hypothèse. Aucune équipe française n’a travaillé sur le sujet à ce
+jour.
+
+
+
+
+
 []{#s615-q613}
 #### Y aura t-il une seconde vague de virus qui touchera les plus jeunes ? {#y-aura-t-il-une-seconde-vague-de-virus-qui-touchera-les-plus-jeunes .item-question}
 
@@ -424,6 +477,42 @@ fonde sur les observations scientifiques montrant que les sujets jeunes,
 au début de leur contamination, présentent des symptômes peu graves,
 mais qu’après environ une semaine d’évolution, certains présentent des
 atteintes plus sévères, nécessitant de possibles hospitalisations.
+
+
+
+
+
+[]{#s615-q1384}
+#### Existe-t’il un lien entre le Covid-19 et la maladie de Kawasaki ? {#existe-til-un-lien-entre-le-covid-19-et-la-maladie-de-kawasaki .item-question}
+
+
+
+La maladie de Kawasaki est une maladie inflammatoire connue, qui se
+développe chez l’enfant, et dont les causes sont peu claires. Son
+déclenchement pourrait être favorisé par une infection virale
+aspécifique. \
+Il faut suspecter une maladie de Kawasaki chez un enfant devant une
+fièvre qui excède la durée de 5 jours, élevée (&gt; 39,5°C) et non
+réduite par le paracétamol, et d’autres signes cliniques (conjonctivite,
+atteinte buccopharyngée, éruption cutanée, atteinte des extrémités,
+adénopathies cervicales). En cas de doute, appelez votre médecin.\
+C’est une pathologie rare (environ 1 enfant sur 10 000), possiblement
+grave, mais pour laquelle on dispose de traitements. Avec une bonne
+prise en charge, la guérison est la plupart du temps totale en 2 mois.\
+Une accumulation possiblement anormale de maladies de Kawasaki a été
+observée par certains chercheurs et pédiatres en France et à l’étranger.
+Les chercheurs travaillent activement afin de savoir s’il existe un lien
+entre la maladie de Kawasaki et le Covid-19. \
+\
+Néanmoins, la maladie de Kawasaki ne semble vraisemblablement pas être
+une autre présentation du Covid-19. Le Covid-19 étant une maladie virale
+(comme d’autres), il est donc plausible que des enfants, suite au
+contact avec le Covid-19, développent une maladie de Kawasaki à terme,
+comme c’est le cas pour les autres infections virales.\
+\
+La Direction Générale de la Santé reste néanmoins vigilante et en lien
+permanent avec les chercheurs, les sociétés savantes et l’agence
+nationale de santé publique sur ce sujet
 
 
 
@@ -1571,10 +1660,12 @@ poursuite de l’activité économique. Plusieurs possibilités sont ouvertes
     un dispositif de vente en “click & collect” leur permettant de
     passer des commandes et avoir un accès facilité à ces masques, opéré
     par les enseignes du Groupe Casino.
--   à  partir de fin avril-début mai, une plateforme de e-commerce sera
-    mise en place par la Poste pour distribuer aux TPE-PME et aux
-    travailleurs indépendants plusieurs millions de masques grand public
-    chaque semaine.
+-   la Poste, via sa plateforme de e-commerce
+    [masques-pme.laposte.fr](https://masques-pme.laposte.fr/) disponile
+    le 2 mai, permettra aux TPE-PME de moins de 50 salariés et aux
+    indépendants de commander et se faire livrer sur site des masques
+    grand public réutilisables dès le 2 mai. Les entreprises de moins de
+    10 salariés pourront passer commande à partir du 4 mai.
 
 \
 Par ailleurs, le 9 avril 2020, le ministre de l’Economie et des Finances
