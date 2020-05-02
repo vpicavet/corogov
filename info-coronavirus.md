@@ -482,15 +482,18 @@ atteintes plus sévères, nécessitant de possibles hospitalisations.
 La maladie de Kawasaki est une maladie inflammatoire connue, qui se
 développe chez l’enfant, et dont les causes sont peu claires. Son
 déclenchement pourrait être favorisé par une infection virale
-aspécifique. \
+aspécifique.\
+ \
 Il faut suspecter une maladie de Kawasaki chez un enfant devant une
 fièvre qui excède la durée de 5 jours, élevée (&gt; 39,5°C) et non
 réduite par le paracétamol, et d’autres signes cliniques (conjonctivite,
 atteinte buccopharyngée, éruption cutanée, atteinte des extrémités,
 adénopathies cervicales). En cas de doute, appelez votre médecin.\
+\
 C’est une pathologie rare (environ 1 enfant sur 10 000), possiblement
 grave, mais pour laquelle on dispose de traitements. Avec une bonne
 prise en charge, la guérison est la plupart du temps totale en 2 mois.\
+\
 Une accumulation possiblement anormale de maladies de Kawasaki a été
 observée par certains chercheurs et pédiatres en France et à l’étranger.
 Les chercheurs travaillent activement afin de savoir s’il existe un lien
@@ -3292,8 +3295,7 @@ tel :
 
 
 **Vous êtes chef d’une entreprise de 10 salariés ou moins et vous êtes
-concerné par la fermeture par arrêté de votre entreprise :**\
- 
+concerné par la fermeture par arrêté de votre entreprise :**
 -   vos salariés ont le droit au chômage partiel : ils toucheront entre
     100% et 84% de leur salaire net selon leur niveau de salaire,
     remboursés intégralement par l’État à l’entreprise jusqu’à 4.5 SMIC.
@@ -3314,8 +3316,7 @@ La plateforme est ouverte 7 jours sur 7, de 8 heures à 20 heures.\
 \
 **Vous êtes micro-entrepreneur ou indépendant (artisan, commerçante,
 plombier, architecte...) et vous n’avez plus d’activité suite au
-confinement :**\
- 
+confinement :**
 -   vous pouvez suspendre le paiement de vos cotisations sociales et
     impôts directs, de votre loyer et de vos factures d’eau,
     d’électricité et de gaz
@@ -3327,8 +3328,7 @@ confinement :**\
 
 \
 **Vous pratiquez une profession libérale (avocate, comptable,
-traducteur, psychologue...) et vous n’avez plus d’activité suite au
-confinement :**
+psychologue...) et vous n’avez plus d’activité suite au confinement :**
 -   vos salariés ont le droit au chômage partiel : ils toucheront entre
     100% et 84% de leur salaire net selon leur niveau de salaire,
     remboursés intégralement par l’État à l’entreprise jusqu’à 4.5 SMIC.
@@ -3345,8 +3345,7 @@ confinement :**
 
 \
 **Vous dirigez une PME et votre entreprise rencontre une baisse
-d’activité :**\
- 
+d’activité :**
 -   vos salariés ont le droit au chômage partiel : ils toucheront entre
     100% et 84% de leur salaire net selon leur niveau de salaire,
     remboursés intégralement par l’État à l’entreprise jusqu’à 4.5 SMIC.
@@ -3357,8 +3356,7 @@ d’activité :**\
 
 \
 Vous avez moins de 11 salariés et votre chiffre d’affaires a baissé d’au
-moins 50% ?\
- 
+moins 50% ?
 -   vous pouvez suspendre automatiquement votre loyer, votre facture
     d’eau, d’électricité et de gaz. Dans les autres cas, vous pouvez
     solliciter votre bailleur ou votre fournisseur pour obtenir cette
@@ -3373,8 +3371,7 @@ psychologique ? Un numéro Vert est à votre disposition : 0 805 65 505 0.
 La plateforme est ouverte 7 jours sur 7, de 8 heures à 20 heures.\
 \
 **Vous êtes chef d’entreprise et vous ne pouvez pas mettre en place les
-mesures de protection nécessaires à la santé de vos salariés :**\
- 
+mesures de protection nécessaires à la santé de vos salariés :**
 -   vos salariés ont le droit au chômage partiel : ils toucheront entre
     100% et 84% de leur salaire net selon leur niveau de salaire,
     remboursés intégralement par l’État à l’entreprise jusqu’à 4.5 SMIC.
@@ -3383,8 +3380,7 @@ mesures de protection nécessaires à la santé de vos salariés :**\
 
 \
 Vous avez moins de 11 salariés et votre chiffre d’affaires a baissé d’au
-moins 50% ?\
- 
+moins 50% ?
 -   vous pouvez suspendre automatiquement votre loyer, votre facture
     d’eau, d’électricité et de gaz. Dans les autres cas, vous pouvez
     solliciter votre bailleur ou votre fournisseur pour obtenir cette
@@ -3399,17 +3395,14 @@ psychologique ? Un numéro Vert est à votre disposition : 0 805 65 505 0.
 La plateforme est ouverte 7 jours sur 7, de 8 heures à 20 heures.\
 \
 **Vous êtes chef d’entreprise et vous souhaitez utiliser la période de
-chômage partiel pour former vos salariés :**\
- 
+chômage partiel pour former vos salariés :**
 -   vos salariés ont le droit au chômage partiel : ils toucheront entre
     100% et 84% de leur salaire net selon leur niveau de salaire,
     remboursés intégralement par l’État à l’entreprise jusqu’à 4.5 SMIC.
 -   les frais pédagogiques seront également pris en charge par l’État.
 
-\
 **Vous êtes chef d’entreprise et vous souhaitez utiliser la période de
-chômage partiel pour former vos salariés :**\
- 
+chômage partiel pour former vos salariés :**
 -   vos salariés ont le droit au chômage partiel : ils toucheront entre
     100% et 84% de leur salaire net selon leur niveau de salaire,
     remboursés intégralement par l’État à l’entreprise jusqu’à 4,5 SMIC
@@ -3420,14 +3413,12 @@ chômage partiel pour former vos salariés :**\
 **Vous devez faire garder vos enfants et vous êtes salarié, salarié
 agricole, marin, clerc, employé de notaire, travailleur indépendant
 (hors professions libérales), travailleurs non salarié agricole ou agent
-contractuel de la fonction publique :**\
- 
+contractuel de la fonction publique :**
 -   vous bénéficiez d’un arrêt de travail de 1 à 21 jours renouvelable
     sans jour de carence et sans condition d’ancienneté.
 
 **Vous êtes demandeur d’emploi et vos droits au chômage s’arrêtent en
-mars :**\
- 
+mars :**
 -   vous aurez droit au maintien exceptionnel de votre indemnisation
     pendant la durée du confinement.
 
@@ -3475,23 +3466,20 @@ chômage involontaireet pourrez ouvrir droit à l’allocation d’aide au
 retour à l’emploi.\
 \
 **Vous êtes saisonnier et la station où vous travaillez a été fermée le
-15 mars alors que votre contrat allait jusqu’au 15 avril :**\
- 
+15 mars alors que votre contrat allait jusqu’au 15 avril :**
 -   votre entreprise peut vous mettre en chômage partiel sans coût pour
     elle et vous aurez droit au maintien de 100% de votre salaire net si
     vous êtes au SMIC et à 84% si vous êtes au-delà du SMIC, et ce
     jusqu’à la fin prévue de votre contrat**.**
 
 **Vous êtes intermittent du spectacle et vous n’avez pas pu faire vos
-507 heures de travail :**\
- 
+507 heures de travail :**
 -   votre « date anniversaire » qui acte l’ouverture à vos droits a été
     repoussée et vous continuerez en attendant à toucher vos indemnités.
 
 \
 **Vous êtes agriculteur et vous êtes concerné par une baisse d’activité
-à cause de l’épidémie du COVID-19 :**\
- 
+à cause de l’épidémie du COVID-19 :**
 -   vos salariés ont le droit au chômage partiel : ils toucheront entre
     100% et 84% de leur salaire net selon leur niveau de salaire,
     remboursés intégralement par l’État à l’entreprise jusqu’à 4.5 SMIC.
@@ -3503,8 +3491,7 @@ retour à l’emploi.\
 
 \
 Si vous avez moins de 11 salariés et vous avez connu une baisse de
-chiffre d’affaires de plus de 50 % : \
- 
+chiffre d’affaires de plus de 50 % : 
 -   vous pouvez suspendre votre loyer et vos factures d’eau,
     d’électricités et de gaz.
 -   vous pouvez solliciter une aide allant jusqu’à 1500 euros sur le
@@ -3527,8 +3514,7 @@ Cette mesure sera maintenue pendant toute la période de l’état d’urgence
 sanitaire.\
 \
 **Vous êtes soignant et êtes fortement mobilisé durant cette épidémie du
-COVID-19 :**\
- 
+COVID-19 :**
 -   une prime exceptionnelle et défiscalisée de 1 500 € sera accordés
     aux personnels soignants des services de santé dans les départements
     les plus touchés par l'épidémie et à ceux des services ayant
@@ -3543,8 +3529,7 @@ COVID-19 :**\
 
 \
 **Vous travaillez dans un service à la personne et vous ne pouvez plus
-exercer votre activité durant le confinement :**\
- 
+exercer votre activité durant le confinement :**
 -   un dispositif d’indemnisation est mis en place : votre employeur
     vous versera 80% du montant net des heures non réalisées. Ce montant
     lui sera intégralement remboursé, directement sur son compte en
