@@ -203,7 +203,11 @@ verte (circulation limitée du virus).\
 \
 Dès jeudi 30 avril, le Directeur général de la Santé présentera chaque
 soir une carte avec ces résultats, département par département. Cette
-carte guidera chaque département dans la préparation du 11 mai.
+carte guidera chaque département dans la préparation du 11 mai.\
+[]{#plandeconfinement}\
+[Téléchargez ici l'infographie sur le plan de déconfinement expliquant
+l'organisation la vie
+quotidienne](https://www.gouvernement.fr/sites/default/files/cimages/infographie_deconfinement_-_020520.jpg)
 
 
 
