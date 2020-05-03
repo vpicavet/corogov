@@ -125,7 +125,7 @@ COVID-19
 
 
 
-Mis à jour le vendredi 1er mai 2020, à 19h45
+Mis à jour le vendredi 1er mai 2020, à 20h00
 
 
 -   [Francais](/info-coronavirus){.active}
@@ -1684,7 +1684,7 @@ l’acquisition ou de la fabrication de ces matériels.
 ### Point de situation en France {#point-de-situation-en-france .item-paragraphe-titre .c-onglet data-section="s641" data-picto=""}
 
 
-**Le 1er mai 2020, à 19h45**
+**Le 3 mai 2020, à 20h00**
 
 Les autorités sanitaires tiennent [un point presse
 quotidien](https://www.dailymotion.com/MinSoliSante) pour vous informer
@@ -1696,12 +1696,12 @@ Les informations du jour :
     plusieurs zones de regroupement de cas (clusters). Nous sommes
     actuellement au stade 3 du plan d’actions du Gouvernement qui a pour
     objectif de prévenir et limiter la circulation du virus. 
--   En France, 130 185 cas seraient confirmés selon les estimations de
+-   En France, 131 287 cas seraient confirmés selon les estimations de
     Santé publique France. 
--   Depuis le 1er mars, nous déplorons 24 594 décès liés au COVID-19 :
-    15 369 décès dans les hôpitaux et 9 225 décès dans les
+-   Depuis le 1er mars, nous déplorons 24 895 décès liés au COVID-19 :
+    15 583 décès dans les hôpitaux et 9 312 décès dans les
     établissements sociaux et médico-sociaux.
--   Depuis le début de l’épidémie, 50 212 personnes sont sorties guéries
+-   Depuis le début de l’épidémie, 50 784 personnes sont sorties guéries
     de l’hôpital.
 
 Retrouvez toutes les données sur [le tableau de bord COVID-19 de
