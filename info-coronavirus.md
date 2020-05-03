@@ -125,7 +125,7 @@ COVID-19
 
 
 
-Mis à jour le vendredi 1er mai 2020, à 20h00
+Mis à jour le dimanche 3 mai 2020, à 20h00
 
 
 -   [Francais](/info-coronavirus){.active}
