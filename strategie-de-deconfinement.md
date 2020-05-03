@@ -211,7 +211,7 @@ l'organisation de la vie quotidienne** (vie sociale et activités,
 déplacements, commerces, écoles et crèches, transports, sports) :
 
 [Ensemble des mesures sur la vie
-quotidienne](http://Ensemble%20des%20mesures%20sur%20la%20vie%20quotidienne "Téléchargez ici l'infographie, sur le plan de déconfinement expliquant l'organisation de la vie quotidienne (vie sociale et activités, déplacements, commerces, écoles et crèches, transport) - jpg 900ko"){.button-cta}
+quotidienne](https://gouvernement.fr/sites/default/files/cimages/infographie_deconfinement_-_020520.jpg "Téléchargez ici l'infographie, sur le plan de déconfinement expliquant l'organisation de la vie quotidienne (vie sociale et activités, déplacements, commerces, écoles et crèches, transport) - jpg 900ko"){.button-cta}
 
 
 
