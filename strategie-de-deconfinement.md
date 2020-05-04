@@ -108,7 +108,8 @@ Covid-19
 -   [Informations officielles](/info-coronavirus){.informations}
 -   [Déconfinement](/info-coronavirus/strategie-de-deconfinement){.deconfinement
     .active}
--   [Masques](/info-coronavirus/masques-grand-public){.masque}
+-   [Masques grand
+    public](/info-coronavirus/masques-grand-public){.masque}
 -   [Orientation
     médicale](/info-coronavirus/orientation-medicale){.medicale}
 -   [Questions/réponses](/info-coronavirus#questions){.qr}
