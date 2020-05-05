@@ -9586,6 +9586,18 @@ complémentaires ont été adoptées en conseil des ministres le 22 avril : 
     prolongement de la trêve hivernale pour son application à
     Saint-Barthélemy, à Saint-Martin et à Saint-Pierre-et-Miquelon.
 
+\
+Dans le cadre de l’état d’urgence sanitaire, 2 ordonnances
+complémentaires ont été adoptées en conseil des ministres le 2 mai : 
+1.  Aide aux acteurs de santé conventionnés dont l’activité est
+    particulièrement affectée par l’épidémie de COVID-19 : l’ordonnance
+    permet à l’assurance maladie d’attribuer des aides financières aux
+    professionnels de santé libéraux afin de leur permettre de couvrir
+    leurs charges face à la baisse d’activité qu’ils subissent.
+2.  Adaptation temporaire des délais applicables pour la consultation et
+    l’information du comité social et économique afin de faire face à
+    l'épidémie de COVID-19.
+
 
 
 
@@ -10094,6 +10106,86 @@ efficace et sûr qui est désormais opérationnel.
 
 
 
+[]{#s808-q1398}
+#### Selon quels critères la carte provisoire du déconfinement a-t-elle été établie ? {#selon-quels-critères-la-carte-provisoire-du-déconfinement-a-t-elle-été-établie .item-question}
+
+
+
+Depuis le jeudi 30 avril, le Directeur général de la Santé présente
+chaque soir une carte indicative, département par département, dont les
+critères permettent de mesurer la circulation du virus, la tension
+hospitalière en réanimation et les capacités de test locales :
+1.  **La circulation active du virus est mesurée à l’aide de
+    l’indicateur OSCOUR**, remontant les diagnostics codés dans près de
+    90% des services d’urgence. Santé publique France évalue le
+    pourcentage de passage aux urgences en lien avec une suspicion de
+    COVID-19. Trois seuils ont été retenus : vert (0 à 6% des passages
+    suspects COVID-19), orange (6 à 10%) et rouge (&gt;10 %).
+    L’indicateur OSCOUR permet un suivi fin à l’échelon des département.
+    Il a montré une bonne performance pour le suivi de l’épidémie, car
+    il est basé sur des événements chronologiquement proches du début
+    des symptômes et sur des données éprouvées, spécifiques et sensibles
+    à l’évolution de la dynamique de l’infection. L’indicateur de
+    circulation active pourra être enrichi des données du réseau
+    Sentinelles (médecins généralistes) ou de SOS médecins, de même que
+    le taux de positivité des prélèvements.
+2.  **La tension hospitalière en réanimation** est mesurée à l’aide des
+    données SI-VIC, outil  sécurisée de recensement des cas de COVID-19
+    dans les hôpitaux. Nous évaluons le taux d’occupation des lits de
+    réanimation par des patients COVID-19, par rapport à la capacité
+    initiale avant le début de l’épidémie. Trois seuils ont été retenus
+    : vert (0 à 60% des lits de réanimation occupés par des patients
+    COVID-19), orange (60 à 80%) et rouge (&gt; 80%). Cet indicateur
+    s’interprète au niveau régional car les soins critiques ont une
+    organisation cohérente à ce niveau territorial et les transferts et
+    évacuations sanitaires sont fréquents au sein d’une même région.
+    Cela permet donc une prise en compte non seulement de la situation
+    d’un département mais aussi des capacités opérationnelles autour de
+    celui-ci.
+3.  **La capacité à réaliser des tests**, pour l’ensemble des personnes
+    le nécessitant ainsi qu’à identifier et isoler leurs contacts, est
+    en cours de consolidation. Cet indicateur fera l’objet d’une analyse
+    approfondie en vue de l’échéance du 11 mai prochain.
+
+ \
+Les deux cartes “circulation active du virus” et “tension hospitalière
+sur les capacités en réanimation” permettent d’élaborer la carte
+synthétique de la situation épidémique (synthèse des 2 indicateurs).
+Cette carte comporte 3 seuils, pour montrer l’évolution différentielle
+de l’épidémie en fonction des territoires : 
+-   En vert : les territoires dans lesquels les deux paramètres
+    précédents sont au-dessous des seuils,
+-   En orange : les territoires pour lesquels un ou deux paramètres sont
+    dans les seuils intermédiaires, 
+-   En rouge : les territoires dans lesquels un paramètre est au-dessus
+    des seuils définis.
+
+ \
+**Comment 2 départements adjacents peuvent-ils passer directement du
+rouge au vert ?**\
+ \
+Cette carte donne une indication, à un instant T, de la situation dans
+chaque territoire. Elle n’est pas figée, la situation reste évolutive.\
+Certains départements continuent d’être classés en rouge ou en orange
+sur la carte de synthèse alors que l’activité épidémique y est faible.
+Cela est lié à une approche régionale concernant l’offre de soins
+critiques. Ainsi, les départements appartenant à une région où les
+tensions sur l’offre de soins en réanimation restent importantes sont
+aujourd’hui classés en rouge, car ce critère est fondamental. En effet,
+le déconfinement ne peut se faire dans de bonnes conditions que si le
+système de santé est à nouveau capable de fonctionner dans des
+conditions proches de la normale.\
+\
+Pour consulter la stratégie nationale de déconfinement présentée par le
+Premier ministre à l’Assemblée nationale le 28 avril 2020, retrouvez
+toutes les informations sur cet [espace dédié au
+déconfinement](https://www.gouvernement.fr/info-coronavirus/strategie-de-deconfinement).\
+ 
+
+
+
+
+
 
 
 
@@ -10514,17 +10606,17 @@ Vous trouverez plus d’informations sur le site :
 
 
 []{#s1351-q1354}
-#### Quelles démarches pour bénéficier de l'aide du fond de solidarité ? {#quelles-démarches-pour-bénéficier-de-laide-du-fond-de-solidarité .item-question}
+#### Quelles démarches pour bénéficier de l'aide du Fonds de solidarité ? {#quelles-démarches-pour-bénéficier-de-laide-du-fonds-de-solidarité .item-question}
 
 
 
 **Pour le premier volet de l’aide :**\
 \
 Depuis le vendredi 3 avril 2020, toutes les entreprises éligibles pour
-l’aide au titre du mois de mars peuvent faire leur demande sur le
-siteimpots.gouv.fr en renseignant les éléments suivants : SIREN, SIRET,
-RIB, chiffre d’affaires, montant de l’aide demandée, déclaration sur
-l’honneur.\
+l’aide au titre du mois de mars peuvent faire leur demande sur le site
+[impots.gouv.fr](https://www.impots.gouv.fr/portail/)en renseignant les
+éléments suivants : SIREN, SIRET, RIB, chiffre d’affaires, montant de
+l’aide demandée, déclaration sur l’honneur.\
 \
 A partir du 1er mai 2020, toutes les entreprises éligibles ayant subi
 une perte de chiffre d’affaires de plus de 50% en avril 2020 par rapport
@@ -10546,7 +10638,15 @@ joint une description succincte de sa situation, accompagnée d’un plan
 de trésorerie à trente jours ainsi que le nom de la banque dont
 l’entreprise est cliente lui ayant refusé un prêt de trésorerie d’un
 montant raisonnable, le montant du prêt demandé et son contact dans la
-banque.\
+banque.  Ce second volet d'aide est élargi aux entreprises sans salariés
+et aux indépendants qui ont été obligés de fermer sur décision
+administrative.\
+\
+Le Fonds de solidarité est maintenu jusqu’au 31 mai pour toutes les
+entreprises. Après le 1er juin, il sera maintenu pour les activités qui
+ne pourront pas redémarrer lors du déconfinement, comme les restaurants
+ou les bars.\
+\
 Vous trouverez plus d’informations sur le site :
 <https://info-entreprises-covid19.economie.gouv.fr/kb>\
  
