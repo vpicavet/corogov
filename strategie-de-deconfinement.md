@@ -113,7 +113,6 @@ COVID-19
 -   [Orientation
     médicale](/info-coronavirus/orientation-medicale){.medicale}
 -   [Questions/réponses](/info-coronavirus#questions){.qr}
--   [Désinfox](/info-coronavirus/desinfox){.desinfox}
 -   [Carte et données](/info-coronavirus/carte-et-donnees){.carte}
 -   [Handicap](/info-coronavirus/espace-handicap){.handicap}
 
