@@ -101,7 +101,7 @@ Suggestions :
 
 
 
-Covid-19
+COVID-19
 
 
 
@@ -696,6 +696,10 @@ Rechercher
 -   [Accessibilité](/accessibilite){.footer-menu-item-7499}
 -   [English](/en/news){.footer-menu-item-374}
 -   [Marque de l'État](/marque-Etat){.footer-menu-item-8535}
+
+
+
+
 
 
 
