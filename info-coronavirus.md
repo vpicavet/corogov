@@ -476,7 +476,7 @@ atteintes plus sévères, nécessitant de possibles hospitalisations.
 
 
 []{#s615-q1384}
-#### Existe-t’il un lien entre le Covid-19 et la maladie de Kawasaki ? {#existe-til-un-lien-entre-le-covid-19-et-la-maladie-de-kawasaki .item-question}
+#### Existe-t-il un lien entre le Covid-19 et la maladie de Kawasaki ? {#existe-t-il-un-lien-entre-le-covid-19-et-la-maladie-de-kawasaki .item-question}
 
 
 
@@ -508,7 +508,7 @@ comme c’est le cas pour les autres infections virales.\
 \
 La Direction Générale de la Santé reste néanmoins vigilante et en lien
 permanent avec les chercheurs, les sociétés savantes et l’agence
-nationale de santé publique sur ce sujet
+nationale de santé publique sur ce sujet.
 
 
 
@@ -1040,6 +1040,35 @@ médicale entre patients testés ou non restent identiques.
 
 
 
+[]{#s631-q1394}
+#### La prise de température est-elle un bon moyen pour le dépistage du COVID-19 ? {#la-prise-de-température-est-elle-un-bon-moyen-pour-le-dépistage-du-covid-19 .item-question}
+
+
+
+Selon le Haut Conseil de la Santé Publique, la prise de température dans
+les établissements recevant du public (ERP), les entreprises et les
+transports, n’est pas utile pour dépister le COVID-19. En effet, la
+fièvre n’est pas toujours présente chez les malades (asymptomatiques,
+pré-symptomatiques), la fièvre peut être masquée par des médicaments et
+les contrôles peuvent être à risque de diffusion du virus. \
+ \
+Ainsi, la prise de température dans un objectif de dépistage n'apparaît
+pas comme une mesure fiable pour repérer les personnes infectées ; le
+dépistage par prise de température n’est donc pas recommandé. \
+ \
+Il convient de favoriser l’auto-surveillance, la déclaration spontanée
+et la consultation d’un médecin en cas de symptômes évocateurs de
+COVID-19.
+
+
+
+
+
+[]{#s631-q1395}
+
+
+
+
 
 
 []{#s638}
@@ -1083,10 +1112,10 @@ contre le COVID-19. Les molécules testées sont le Remdesivir,
 l’association Lopinavir + Ritonavir, l’association Lopinavir + Ritonavir
 + interféron bêta et enfin l’hydroxychloroquine. Au  24 avril, 620
 patients ont pu être recrutés en France, sur un objectif de 800
-patients. Il y a donc de nombreuses pistes thérapeutiques potentielles,
-mais dont l’efficacité et l’innocuité doivent être démontrées. Pour le
-moment aucune n’est favorisée ; aucun traitement spécifique n’est donc
-validé.
+patients. Des résultats sont attendus sur cet essai le 14 mai. Il y a
+donc de nombreuses pistes thérapeutiques potentielles, mais dont
+l’efficacité et l’innocuité doivent être démontrées. Pour le moment
+aucune n’est favorisée ; aucun traitement spécifique n’est donc validé.
 
 
 
@@ -1579,6 +1608,12 @@ coronavirus, à transmission gouttelettes, mais aussi d’éviter de
 contaminer les autres quand on est malade. Il est suffisant dans la
 plupart des situations pour se protéger efficacement.\
 \
+Le prix des masques à usage unique de type chirurgical a été réglementé
+: le prix maximum de vente aux consommateurs de ces masques est fixé à
+95 centimes d’euros toutes taxes comprises, l’unité (soit 47,50 euros la
+boîte de 50 masques). Il s’agit d’un prix plafond que la DGCCRF
+contrôlera pour s’assurer qu’il ne soit pas dépassé.\
+\
 **2. Le masque FFP2** filtre l’inhalation d’aérosols contaminés, il
 protège donc le porteur du masque contre les virus circulant dans l’air.
 Dans le cas du coronavirus, il est réservé aux situations à risque,
@@ -1607,6 +1642,15 @@ mars. \
 \
 L’objectif est ainsi de permettre l’accès aux masques grand public pour
 tous les Français à partir du 11 mai. \
+\
+Le Gouvernement s’est engagé à mettre en place un suivi des prix des
+masques grand public, afin de s’assurer qu’il n’existe pas de hausses
+injustifiées qui pénaliseraient les consommateurs. Cette surveillance
+s’exercera au travers de relevés de prix, effectués dans les différents
+circuits de distribution, y compris en ligne, et d’un suivi des
+signalements via la plateforme
+[SignalConso](http://anws.co/bIkSd/%7b7bdc0699-f68a-47d3-9009-bcc8ed9f6c41%7d).
+En cas d’abus, des actions complémentaires seront décidées.\
 \
 Retrouvez toutes les informations sur l’utilisation, l’entretien et
 l’approvisionnement des masques grand public sur cette[page
@@ -1699,7 +1743,7 @@ Les informations du jour :
     objectif de prévenir et limiter la circulation du virus. 
 -   En France, 131 863 cas seraient confirmés selon les estimations de
     Santé publique France. 
--   Depuis le 1er mars, nous déplorons 25 548 décès liés au COVID-19 :
+-   Depuis le 1er mars, nous déplorons 25 201 décès liés au COVID-19 :
     15 826 décès dans les hôpitaux et 9 375 décès dans les
     établissements sociaux et médico-sociaux.
 -   Depuis le début de l’épidémie, 51 371 personnes sont sorties guéries
@@ -1735,6 +1779,15 @@ En Polynésie française et en Nouvelle-Calédonie, où les gouvernements
 sont compétents en matière de santé publique comme de gestion de crise,
 l'État réaffirme son soutien plein et entier aux collectivités pour les
 accompagner dans la lutte contre ce virus
+
+
+
+
+
+
+
+[]{#s1396}
+###  {#section .item-paragraphe-titre .c-onglet data-section="s1396" data-picto=""}
 
 
 
@@ -3027,25 +3080,30 @@ conditions sanitaires possibles lorsqu’ils le souhaitent, le ministère
 des Outre-mer a ouvert le 19 avril 2020 une plateforme d’entraide leur
 permettant d’en signifier la demande.\
 \
-Les étudiants concernés peuvent se manifester, et ce jusqu’au samedi 2
-mai, sur la plateforme d’entraide
+Les étudiants concernés, au regard de leurs conditions d’examens
+universitaires,  ont pu  se manifester sur la plateforme d’entraide
 [www.outremersolidaires.gouv.fr](http://www.outremersolidaires.gouv.fr/)
-par le biais d’un questionnaire de recensement dédié : **le formulaire
-est disponible** [en cliquant
-ici](https://outremersolidaires.gouv.fr/questionnaire-ultramarins-mobilite/).\
+par le biais d’un questionnaire de recensement dédié.\
 \
-Néanmoins, ces étudiants doivent avoir pris connaissance des modalités
-d’examen de fin d’année mises en œuvre par leur établissement
-d’enseignement supérieur avant d’envisager un retour sur leur territoire
-d’origine.\
 \
-Ce questionnaire permettra d’anticiper et organiser les besoins et les
-modalités de mise en quatorzaine de ces étudiants à leur retour, en lien
-avec les territoires concernés. En effet, il est rappelé dans l’article
-5.1 du décret n°2020-337 du 23 mars 2020 la mise en quarantaine des
-personnes se déplaçant sur le territoire d’une collectivité
-d’outre-mer.\
+Le retour de ces étudiants à leur domicile, qui s’effectuera à partir du
+11 mai, impliquera leur mise en quatorzaine dans des centres dédiés mis
+en place par les autorités, soit en région parisienne avant leur départ,
+soit à l’arrivée sur leur territoire.\
 \
+Les bénéficiaires du programme “passeport pour la mobilité études” de
+LADOM se verront financé leur billet d’avion, en tout ou partie dans les
+conditions habituelles de prise en charge des billets retours du
+programme. Dans les autres cas, les billets seront à la charge des
+étudiants.\
+\
+Une [fiche d’information et d’accompagnement ainsi qu’une liste
+d’associations
+mobilisées](http://www.outre-mer.gouv.fr/sites/default/files/annexe_lettre_aux_etudiants_om_en_mobilite_hexagone_0.pdf)
+pour aider les étudiants au quotidien est à leur disposition.\
+Par ailleurs, les étudiants d’outre-mer de moins de 25 ans qui sont
+restés dans l’hexagone et touchent l’APL vont bénéficier d’une aide de
+200 euros, qui sera versée début juin.\
 \
 **Pour l’accès au numérique et le suivi éducatif dans les quartiers
 prioritaires**\
@@ -3151,9 +3209,10 @@ Pour les agents de la fonction publique d’Etat :
 Pour les entreprises :
 -   des **délais de paiement d’échéances sociales et/ou fiscales**
     (URSSAF, impôts) ;
--   si à la fin du confinement, des entreprises sont menacées de
-    disparaître, des **annulations de charges pourront être envisagées**
-    au cas par cas ;
+-   des **reports de charge autorisés jusqu’à fin mai** et la conversion
+    de ces reports en exonérations définitives pour les secteurs de la
+    restauration et du tourisme et pour les TPE ayant fait l’objet de
+    mesures de fermetures ;
 -   dans les situations les plus difficiles, des **remises d’impôts
     directs** pouvant être décidées dans le cadre d'un examen
     individualisé des demandes ;
@@ -3167,17 +3226,18 @@ Pour les entreprises :
     a permis d’octroyer plus d’1 milliard d’euros d’aides à près de 800
     000 bénéficiaires, au titre de son 1er volet mis en oeuvre. Le 2ème
     volet, directement instruit par les Régions à destination des TPE,
-    est ouvert depuis le 15 avril. Il est accessible depuis le site
-    internet de chaque région ;
+    aux entreprises sans salarié et aux indépendants, est ouvert depuis
+    le 15 avril. Il est accessible depuis le site internet de chaque
+    région ;
 -    la mobilisation de l’État à hauteur de 300 milliards d’euros pour
     la mise en place de prêts bancaires garantis par l’État ;
 -   un soutien de l’État et de la Banque de France (médiation du crédit)
     pour négocier avec sa banque **un rééchelonnement des crédits
     bancaires** ;
 -   le maintien de l'emploi dans les entreprises par le dispositif de
-    chômage partiel simplifié et renforcé , dont bénéficient au 19 avril
-    9 millions de salariés qui travaillent dans plus de 700 000
-    entreprises (près de la moitié des entreprises du pays) ;
+    chômage partiel simplifié et renforcé , dont bénéficient au 4 mai,
+    11,7 millions de salariés qui travaillent dans plus de 911 000
+    entreprises ;
 -   l’appui au traitement d’un conflit avec des clients ou fournisseurs
     par le Médiateur des entreprises ;
 -   la reconnaissance par l’État et les collectivités locales du
@@ -3739,11 +3799,6 @@ l’activité ou de fermeture de l’établissement.\
 Le délai de carence est supprimé pour tous les malades pendant l’état
 d’urgence sanitaire.\
 \
-Afin de soutenir les étudiants, 10 millions d'euros supplémentaires
-seront attribués pour le financement des aides spécifiques d'urgence
-attribuées par les Centres régionaux des œuvres universitaires et
-scolaires (CROUS).\
-\
 Le 23 avril 2020, un plan de soutien d’urgence de 39 millions d’euros a
 été débloqué en faveur de l’aide alimentaire :
 -   25 millions d’euros pour soutenir financièrement les associations
@@ -3770,15 +3825,15 @@ Pour l’année 2020, la fin de la trêve hivernale est repoussée au 31 mai.
 Cela signifie que les 14 000 places exceptionnelles ouvertes cet hiver
 resteront ouvertes jusqu’à cette date.\
 \
-Par ailleurs, depuis le premier jour du confinement, plus de 17 000
-places d’hébergement en plus sont sont ouvertes. Depuis le 23 avril au
-soir, 10 600 chambres d’hôtel supplémentaires sont mobilisées pour
-accueillir les sans-abri. Ainsi, 177 000 places sont ouvertes pour
-mettre à l’abri les plus fragiles. \
+Par ailleurs, depuis le début de la crise sanitaire, plus de 21 000
+places d’hébergement en plus sont sont ouvertes. Au 4 mai, 11 400
+chambres d’hôtel supplémentaires sont mobilisées pour accueillir les
+sans-abri. Ainsi, 178 500 places sont ouvertes pour mettre à l’abri les
+plus fragiles. \
 \
-Par ailleurs, 92 centres d’hébergement spécialisés, répartis dans 77
+Par ailleurs, 97 centres d’hébergement spécialisés, répartis dans 80
 départements, sont dédiés aux sans-abri malades du Covid-19 mais ne
-relevant pas d’une hospitalisation, soit près de 3400 places. \
+relevant pas d’une hospitalisation, soit près de 3600 places. \
 \
 Au total, l’Etat débloque une enveloppe d’urgence de 65 millions d’euros
 supplémentaires pour héberger les sans-abri.
@@ -3806,6 +3861,28 @@ Ce dispositif, d’un montant de plus de 15 millions d’euros, complète les
 actions des collectivités locales et des associations, maraudes et
 distributions alimentaires, qui restent indispensables.\
  
+
+
+
+
+
+[]{#s930-q1397}
+#### Quelles sont les aides pour soutenir les étudiants en situation de précarité pendant cette période ? {#quelles-sont-les-aides-pour-soutenir-les-étudiants-en-situation-de-précarité-pendant-cette-période .item-question}
+
+
+
+Afin de soutenir les étudiants, 10 millions d'euros supplémentaires
+seront attribués pour le financement des aides spécifiques d'urgence
+attribuées par les Centres régionaux des œuvres universitaires et
+scolaires (CROUS).\
+\
+Par ailleurs, le Premier ministre a annoncé le 4 mai le versement au
+début du mois de juin d’une aide de 200 euros à 800 000 jeunes précaires
+ou modestes de moins de 25 ans. Cette aide concerne les étudiants ayant
+perdu leur travail ou leur stage, et les étudiants ultra marins isolés
+qui n’ont pas pu rentrer chez eux. Les jeunes de moins de 25 ans
+précaires ou modestes qui touchent des APL se verront voir versée cette
+aide mi-juin.
 
 
 
@@ -4162,13 +4239,38 @@ Questions / Réponses
 ### Travail et pension {#travail-et-pension .item-paragraphe-titre .c-onglet data-section="s681" data-picto="https://www.gouvernement.fr/sites/default/files/cimages/qr_travail_et_pension_04.svg"}
 
 
-Des fiches conseils et des guides sectoriels sont disponibles, pour
-aider les salariés et les employeurs dans la mise en œuvre des mesures
-de protection contre le COVID-19 sur les lieux de travail et assurer la
-continuité de l’activité économique. Pour les retrouver :\
+La responsabilité de la sécurité et de la santé des travailleurs incombe
+à l’employeur. Des fiches conseils et des guides sectoriels sont
+disponibles, pour aider les salariés et les employeurs dans la mise en
+œuvre des mesures de protection contre le COVID-19 sur les lieux de
+travail et assurer la continuité de l’activité économique. Chaque fiche
+détaille, par métier ou secteur d’activité, la façon dont doivent
+s’appliquer les gestes barrières et les règles de distanciation sociale.
+Ces fiches seront mises à jour en fonction de l’évolution de la
+connaissance sur le virus et ses modes de transmission. Pour les
+retrouver :\
+\
 [Fiches conseils métiers pour les salariés et les employeurs du
 ministère du
 Travail](https://travail-emploi.gouv.fr/actualites/l-actualite-du-ministere/article/coronavirus-covid-19-fiches-conseils-metiers-pour-les-salaries-et-les)\
+\
+\
+Ces fiches sont complétées par la publication d’un [protocole national
+de
+déconfinement](https://travail-emploi.gouv.fr/IMG/pdf/protocole-national-de-deconfinement.pdf)
+afin d’accompagner les entreprises et les associations, quelles que
+soient leur taille, leur activité et leur situation géographique, grâce
+à des règles universelles. Ce protocole apporte des précisions relatives
+:
+-   aux recommandations en termes de jauge par espace ouvert ;
+-   à la gestion des flux ;
+-   aux équipements de protection individuelle ;
+-   aux tests de dépistage ;
+-   au protocole de prise en charge d’une personne symptomatique et de
+    ses contacts rapprochés ;
+-   à la prise de température ; 
+-   au nettoyage et à désinfection des locaux.
+
 \
 Pour obtenir des renseignements complémentaires sur les entreprises et
 connaître les mesures de soutien à l’économie, rendez-vous sur le [site
@@ -4248,7 +4350,7 @@ travail aux prescriptions sanitaires.\
 Pour en savoir plus sur ce que doit faire votre employeur, le ministère
 du Travail propose [un document rappelant les obligations des employeurs
 en matière de protection de la santé des
-travailleurs](https://travail-emploi.gouv.fr/IMG/pdf/covid19_obligations_employeur.pdf).
+travailleurs](https://travail-emploi.gouv.fr/IMG/pdf/covid19_obligations_employeurs.pdf).
 Dans certains secteurs, ces obligations peuvent être complétées des
 [guides par métiers publiées par la branche
 professionnelle](https://travail-emploi.gouv.fr/le-ministere-en-action/coronavirus-covid-19/proteger-les-travailleurs/article/fiches-conseils-metiers-et-guides-pour-les-salaries-et-les-employeurs).\
@@ -4294,9 +4396,9 @@ sur le [site de la Direccte de votre région.](http://direccte.gouv.fr/)\
 
 
 **Non mais l’employeur doit mettre en place des mesures rappelées par le
-ministère du Travail** : l[es obligations des employeurs en matière de
-protection de la santé des
-travailleurs.](https://travail-emploi.gouv.fr/IMG/pdf/covid19_obligations_employeur.pdf)\
+ministère du Travail** : l[es mesures que doivent prendre les employeurs
+pour protéger la santé de leurs
+salariés.](https://travail-emploi.gouv.fr/IMG/pdf/covid19_obligations_employeurs.pdf)\
 \
 **Principales obligations des employeurs :**
 -   respect des gestes barrière ;
@@ -10306,7 +10408,7 @@ municipaux pourvus au 1er tour).
 
 
 []{#s1222}
-###  {#section .item-paragraphe-titre .c-onglet data-section="s1222" data-picto=""}
+###  {#section-1 .item-paragraphe-titre .c-onglet data-section="s1222" data-picto=""}
 
 
 
