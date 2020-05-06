@@ -1457,65 +1457,6 @@ Les collectivités territoriales et certaines entreprises contribuent
 
 
 
-[]{#s1325-q1328}
-#### Comment les masques sanitaires sont-ils distribués ? {#comment-les-masques-sanitaires-sont-ils-distribués .item-question}
-
-
-
-Depuis le début de la crise, pour préserver les capacités hospitalières,
-les masques sanitaires sont livrés en priorité :
--   aux professionnels de santé amenés à prendre en charge des patients
-    COVID-19 en ville comme à l’hôpital ;
--   aux personnes qui interviennent auprès des personnes âgées en EHPAD.
-
-\
-Depuis le 21 mars, ils sont distribués ainsi :
--   pour les médecins de ville, les biologistes médicaux et les
-    infirmiers de ville : 18 masques par semaine et par professionnel,
-    dont des masques FFP2 dans le strict respect des indications ;
--   pour les pharmaciens de ville : 18 masques chirurgicaux par semaine
-    et par professionnel ;
--   pour les masseurs-kinésithérapeutes : 6 masques par semaine et par
-    professionnel, chirurgicaux ou aux normes FFP2, dans le strict
-    respect des indications et selon les disponibilités, pour la
-    réalisation des actes prioritaires et non reportables ;
--   pour les sages-femmes : 6 masques chirurgicaux par semaine pour la
-    prise en charge des femmes confirmées COVID-19 ;
--   pour les prestataires de service et les distributeurs de matériel :
-    1 boîte de 50 masques chirurgicaux par semaine et, en moyenne, par
-    entreprise pour assurer les visites prioritaires ;
--   pour les personnes exerçant des activités de services d’aide et de
-    soins à domicile : 9 masques chirurgicaux par semaine et par
-    professionnel exerçant au sein de la structure pour assurer les
-    visites prioritaires ;
--   pour les EHPAD et les structures médico-sociales accueillant des
-    personnes fragiles, notamment les personnes en situation de handicap
-    ou des patients COVID-19 sans domicile ne relevant pas d’une
-    hospitalisation : 5 masques chirurgicaux par lit ou place et par
-    semaine. Les EHPAD disposeront dans la durée de 500 000 masques
-    chirurgicaux par jour, comme le demandaient les responsables de
-    leurs fédérations ;
--   pour l’hospitalisation conventionnelle dans les établissements de
-    santé : 3 masques chirurgicaux par jour et par professionnel de
-    santé dans les services de soins prenant en charge les cas possibles
-    ou confirmés et, pour la réalisation des gestes à risque, des
-    masques FFP2 dans les services d’urgence, d’accueil des malades
-    COVID-19 et de soins critiques ;
--   pour l’hospitalisation à domicile : 2 boîtes de 50 masques
-    chirurgicaux par semaine et en moyenne, par structure ;
--   pour les transporteurs sanitaires et les centres de secours : 1
-    boîte de 50 masques par semaine et par structure.
-
-\
-Les chirurgiens-dentistes disposent désormais d’un stock dédié de
-masques qu’ils ont eux-mêmes réparti sur le territoire de façon à
-pouvoir dans la durée assurer les soins urgents à la population.\
- 
-
-
-
-
-
 []{#s1325-q1329}
 #### Les aidants peuvent-ils obtenir des masques sanitaires ? {#les-aidants-peuvent-ils-obtenir-des-masques-sanitaires .item-question}
 
@@ -1662,6 +1603,88 @@ sociale.\
 **4.** **Le masque FFP3**, réservé à certaines utilisations très
 spécifiques n'est pas utile en prévention de la transmission COVID-19.\
  
+
+
+
+
+
+[]{#s1325-q1400}
+#### Je suis professionnel de santé : comment accéder aux masques ? {#je-suis-professionnel-de-santé-comment-accéder-aux-masques .item-question}
+
+
+
+Depuis le début de l’épidémie de COVID-19, l’État a organisé la
+distribution de masques aux professionnels des secteurs sanitaires et
+médico-sociaux, avec pour objectif prioritaire leur protection et la
+préservation de notre capacité sanitaire.\
+\
+En phase de sortie de confinement, les distributions se poursuivent,
+avec pour objectif prioritaire la limitation au maximum de la diffusion
+du virus et l’accompagnement de la reprise d’activité. Dans ce cadre, la
+stratégie de répartition des masques sanitaires par l’État évolue.\
+\
+La cible est fixée à **100 millions de masques sanitaires distribués par
+l’État chaque semaine**. Les professionnels des secteurs sanitaires et
+médico-sociaux voient ainsi leur dotation globale **fortement
+augmenter**. De **nouvelles professions de santé** peuvent bénéficier
+des dotations en masques sanitaires de l’État, ainsi que les étudiants
+que les professionnels accueillent.\
+\
+Le mode de délivrance n’évolue pas par rapport au système mis en place
+depuis le début de l’épidémie. **Les masques sont distribués en officine
+de pharmacie, sur présentation d’un justificatif de leur profession**.\
+\
+Pour les professionnels travaillant en établissements de santé et en
+établissements médico-sociaux, les approvisionnements en masques
+évoluent également fortement dans le cadre du doublement du volume total
+des dotations.\
+\
+Pour plus détails concernant les dotations par catégorie
+professionnelle, rendez-vous sur le site du [Ministère des Solidarités
+et de la
+Santé](https://solidarites-sante.gouv.fr/soins-et-maladies/maladies/maladies-infectieuses/coronavirus/professionnels-de-sante/article/protection-des-professionnels-de-sante-face-au-covid-19).
+
+
+
+
+
+[]{#s1325-q1401}
+#### Masques sanitaires en pharmacie pour le grand public : pour qui ? comment ? {#masques-sanitaires-en-pharmacie-pour-le-grand-public-pour-qui-comment .item-question}
+
+
+
+Dans le cadre du déconfinement, les pharmacies sont également en
+première ligne pour fournir des **masques sanitaires remboursés** à
+certaines catégories de la population : les **personnes atteintes du
+COVID-19**, les **personnes ayant été identifiées comme contact**, et
+les personnes les **plus à risque de développer une forme grave**.\
+\
+Pour les **personnes atteintes du COVID-19**, la délivrance de masques
+se fait sur prescription médicale et sur présentation d’un résultat
+positif à un test virologique COVID-19. Elles sont dotées de **14
+masques par semaine**.\
+\
+Pour les **personnes ayant été identifiées comme une personne contact**,
+la délivrance de masques se fera sur indication de l’Assurance maladie
+via son téléservice « Contact covid », dédié sur la plateforme Ameli
+Pro. Elles sont dotées de **14 masques par semaine**.\
+\
+Pour les personnes les **plus à risque de développer une forme grave**
+de COVID-19 du fait de leur état de santé, la délivrance de masques se
+fait sur prescription médicale. Elles sont dotées de **10 masques par
+semaine**.\
+\
+Pour toutes les personnes auxquelles il délivre des masques, le
+pharmacien vérifie le nombre de masques déjà retirés par cette personne
+et inscrit le nombre de masques délivrés dans le téléservice utilisé par
+les officines.\
+\
+Les masques délivrés sur ordonnance sont **remboursables par l’Assurance
+Maladie**.\
+\
+De même, pour le reste du grand-public, les pharmaciens peuvent à
+nouveau **vendre des masques issus de leur propre stock**, en plus des
+masques du stock Etat distribués gratuitement aux populations éligibles.
 
 
 
