@@ -330,6 +330,8 @@ ne sera prise qu’après un vote du Parlement.
 ### Pour vos déplacements {#pour-vos-déplacements .item-paragraphe-titre .c-onglet data-section="s1380" data-picto="https://www.gouvernement.fr/sites/default/files/cimages/deplacement.svg"}
 
 
+![](/sites/default/files/cimages/deplacements.jpg){width="960"
+height="681"}\
 L’offre de transport urbaine et régionale va être augmentée
 progressivement selon des modalités à définir par région. A Paris par
 exemple, 70% des métros et bus de la RATP seront progressivement
@@ -359,6 +361,7 @@ la réservation sera obligatoire dans tous les trains.
 ### Pour vos enfants et leur scolarité {#pour-vos-enfants-et-leur-scolarité .item-paragraphe-titre .c-onglet data-section="s1376" data-picto="https://www.gouvernement.fr/sites/default/files/cimages/enfantscolarite.svg"}
 
 
+![](/sites/default/files/cimages/ecoles.jpg){width="960" height="921"}\
 **Le retour sur le chemin de l’école se fera, de façon progressive,
 suivant le calendrier suivant :**\
  
@@ -456,6 +459,8 @@ travail](https://travail-emploi.gouv.fr/le-ministere-en-action/coronavirus-covid
 ### Pour vos achats et besoins essentiels {#pour-vos-achats-et-besoins-essentiels .item-paragraphe-titre .c-onglet data-section="s1378" data-picto="https://www.gouvernement.fr/sites/default/files/cimages/achatsbesoins_essentiels.svg"}
 
 
+![](/sites/default/files/cimages/commerces.jpg){width="960"
+height="860"}\
 La majorité des commerces ouvriront à partir du 11 mai, en respectant
 des mesures de protection sanitaire :\
  
@@ -491,6 +496,8 @@ Cas spécifiques :\
 ### Pour votre vie sociale {#pour-votre-vie-sociale .item-paragraphe-titre .c-onglet data-section="s1379" data-picto="https://www.gouvernement.fr/sites/default/files/cimages/vie_sociale.svg"}
 
 
+![](/sites/default/files/cimages/vie_sociale_et_activites_.jpg){width="960"
+height="1318"}\
 À partir du 11 mai, la vie sociale reprendra progressivement son cours.\
 \
 Vous pourrez, tout en respectant les règles de distanciation sociale :\
