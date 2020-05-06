@@ -133,39 +133,6 @@ Mis à jour le mardi 28 avril 2020, à 15h
 ==========================================
 
 
-[]{#point}
-
-
-REDIFFUSION
------------
-
-
-
-Présentation des grands axes du plan de déconfinement à compter du 11
-mai 2020 : retrouvez ici le discours du Premier ministre prononcé à
-l’Assemblée nationale le mardi 28 avril.\
-\
-La sécurité des Français est la priorité de ce plan, progressif et qui
-sera adapté dans trois semaines en fonction de l’évolution de
-l’épidémie. Le principe est national mais des aménagements peuvent être
-opérés au niveau territorial, sur l’impulsion des préfets et des
-maires.\
-\
-La réussite de ce plan de déconfinement progressif dépendra de
-l'engagement responsable de chaque Français.
-
-
- 
-
-
-\
-[[Télécharger le discours du Premier ministre (PDF - 484.59
-Ko)]{style="color:blue"}](https://www.gouvernement.fr/partage/11518-discours-de-m-edouard-philippe-premier-ministre-presentation-de-la-strategie-nationale-de "Télécharger ")
-
-
-
-
-
 []{#informations}
 
 
@@ -548,6 +515,41 @@ personnes devront respecter les précautions nécessaires à la
 préservation de leur santé fragile.
 
 
+
+
+
+
+
+[]{#consignes}
+
+
+Présentation de la stratégie nationale de déconfinement à l’Assemblée nationale.
+--------------------------------------------------------------------------------
+
+
+
+
+
+Présentation des grands axes du plan de déconfinement à compter du 11
+mai 2020 : retrouvez ici le discours du Premier ministre prononcé à
+l’Assemblée nationale le mardi 28 avril.\
+\
+La sécurité des Français est la priorité de ce plan, progressif et qui
+sera adapté dans trois semaines en fonction de l’évolution de
+l’épidémie. Le principe est national mais des aménagements peuvent être
+opérés au niveau territorial, sur l’impulsion des préfets et des
+maires.\
+\
+La réussite de ce plan de déconfinement progressif dépendra de
+l'engagement responsable de chaque Français.
+
+
+ 
+
+
+\
+[[Télécharger le discours du Premier ministre (PDF - 484.59
+Ko)]{style="color:blue"}](https://www.gouvernement.fr/partage/11518-discours-de-m-edouard-philippe-premier-ministre-presentation-de-la-strategie-nationale-de "Télécharger ")
 
 
 
