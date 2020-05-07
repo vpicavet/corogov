@@ -151,8 +151,8 @@ en fonction de 3 grands critères : la circulation du virus, la tension
 hospitalière en réanimation et les capacités de tests locales. Elle
 détermine certaines réglementations, notamment sur la scolarisation des
 collégiens et l’ouverture des parcs et espaces verts.\
-![](/sites/default/files/cimages/carte_deconfinement.png){width="960"
-height="541"}
+[![](/sites/default/files/cimages/carte_deconfinement.png){width="960"
+height="541"}](https://www.gouvernement.fr/info-coronavirus/carte-et-donnees#activite-epidemique)
 
 [Télécharger la présentation détaillée de la stratégie nationale de
 déconfinement](/sites/default/files/document/document/2020/05/conference_de_presse_sur_le_deconfinement.pdf "Téléchargement Conférence de presse sur le déconfinement (PDF - 887.78 Ko) - nouvelle fenêtre")\
@@ -164,6 +164,10 @@ Premier ministre et six membres du Gouvernement.
 
  
 
+
+[Discours de M. Édouard PHILIPPE, Premier ministre, Conférence de presse
+sur la préparation de l'étape du 11
+mai](/sites/default/files/document/document/2020/05/declaration_de_m._edouard_philippe_premier_ministre_-_conference_de_presse_sur_la_preparation_de_letape_du_11_mai_-_07.05.2020.pdf "Télécharger  (PDF - 581.54 Ko) - nouvelle fenêtre")
 
 
 
