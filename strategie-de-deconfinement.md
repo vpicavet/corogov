@@ -112,7 +112,7 @@ COVID-19
     public](/info-coronavirus/masques-grand-public){.masque}
 -   [Orientation
     médicale](/info-coronavirus/orientation-medicale){.medicale}
--   [Questions/réponses](/info-coronavirus#questions){.qr}
+-   [Questions / réponses](/info-coronavirus#questions){.qr}
 -   [Carte et données](/info-coronavirus/carte-et-donnees){.carte}
 -   [Handicap](/info-coronavirus/espace-handicap){.handicap}
 
@@ -551,6 +551,25 @@ Ko)]{style="color:blue"}](https://www.gouvernement.fr/partage/11518-discours-de-
 
 
 
+
+
+
+
+
+
+
+[  ](# "Fermer la demande abonnement aux notification")
+
+Restez au courant
+
+Vous pouvez recevoir les prochaines informations officielles à propos du
+COVID-19.
+
+[J'active les notifications](#){#get-notifications .notifmilieu
+.button-cta .red}
+
+[Consulter le traitement des données
+personnelles](/donnees-personnelles-et-cookies#notifications).
 
 
 
