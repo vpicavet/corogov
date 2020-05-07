@@ -157,9 +157,11 @@ hospitalière en réanimation et les capacités de tests locales. Elle
 détermine certaines réglementations, notamment sur la scolarisation des
 collégiens et l’ouverture des parcs et espaces verts.\
 ![](/sites/default/files/cimages/carte_deconfinement.png){width="960"
-height="541"}\
+height="541"}
+
 [Télécharger la présentation détaillée de la stratégie nationale de
-déconfinement](/sites/default/files/document/document/2020/05/conference_de_presse_sur_le_deconfinement.pdf "Téléchargement Conférence de presse sur le déconfinement (PDF - 887.78 Ko) - nouvelle fenêtre")\
+déconfinement](/sites/default/files/document/document/2020/05/conference_de_presse_sur_le_deconfinement.pdf "Téléchargement Conférence de presse sur le déconfinement (PDF - 887.78 Ko) - nouvelle fenêtre")
+
 \
 \
 En application de l’état d’urgence sanitaire, jusqu’au 11 mai, les
