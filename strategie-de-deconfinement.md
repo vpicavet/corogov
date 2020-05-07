@@ -133,6 +133,27 @@ Mis à jour le mardi 28 avril 2020, à 15h
 ==========================================
 
 
+[]{#point}
+
+
+EN DIRECT
+---------
+
+\#Déconfinement
+
+
+
+Conférence de presse sur la préparation de l'étape du 11 mai par le
+Premier ministre et six membres du Gouvernement.
+
+
+ 
+
+
+
+
+
+
 []{#informations}
 
 
