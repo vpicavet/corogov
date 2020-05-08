@@ -143,23 +143,55 @@ EN DIRECT
 
 
 
-Le déconfinement est prévu pour le 11 mai. Il se prépare en surveillant
-tous les indicateurs pour vérifier, département par département,
-l’évolution de l’épidémie. Retrouvez ci-dessous la carte des
-départements placés en catégorie rouge ou verte. Cette carte est établie
-en fonction de 3 grands critères : la circulation du virus, la tension
-hospitalière en réanimation et les capacités de tests locales. Elle
-détermine certaines réglementations, notamment sur la scolarisation des
-collégiens et l’ouverture des parcs et espaces verts.\
-[![](/sites/default/files/cimages/carte_deconfinement.png){width="960"
-height="541"}](https://www.gouvernement.fr/info-coronavirus/carte-et-donnees#activite-epidemique)
+Le déconfinement débute le 11 mai. Il se prépare en surveillant tous les
+indicateurs pour vérifier, département par département, l’évolution de
+l’épidémie. C’est cette observation qui a permis de décider le lancement
+effectif des opérations à cette date.\
+Cette phase s’étendra jusqu’au 2 juin. Elle permettra de vérifier que
+les mesures mises en œuvre permettent de contenir l’épidémie. Et
+d’envisager les mesures pour la phase suivante : du 2 juin jusqu’à
+l’été.\
+\
+Le déconfinement prendra une forme plus stricte dans les départements
+qui sont dans une ou plusieurs de ces situations :
+
+-   le taux de passage aux urgences pour suspicion de maladie covid
+    reste élevé ;
+-   les capacités hospitalières en réanimation restent saturées ;
+-   le système local de tests n'est pas suffisamment prêt.
+
+Retrouvez ici les départements placés en catégorie rouge (circulation
+élevée du virus) ou verte (circulation limitée du virus).
+![](/sites/default/files/cimages/carte_deconfinement.png){width="960"
+height="541"}
 
 [Télécharger la présentation détaillée de la stratégie nationale de
-déconfinement](/sites/default/files/document/document/2020/05/conference_de_presse_sur_le_deconfinement.pdf "Téléchargement Conférence de presse sur le déconfinement (PDF - 887.78 Ko) - nouvelle fenêtre")\
- 
+déconfinement](/sites/default/files/document/document/2020/05/conference_de_presse_sur_le_deconfinement.pdf "Téléchargement Conférence de presse sur le déconfinement (PDF - 887.78 Ko) - nouvelle fenêtre")
 
-Conférence de presse sur la préparation de l'étape du 11 mai par le
-Premier ministre et six membres du Gouvernement.
+\
+Cette carte est établie en fonction de 3 grands critères : la
+circulation du virus, la tension hospitalière en réanimation, et les
+capacités de tests locales. Elle détermine certaines réglementations,
+notamment sur la scolarisation des collégiens et l’ouverture des parcs
+et espaces verts.\
+\
+Si les départements verts se maintiennent dans cette situation dans 3
+semaines, l’ouverture des lycées et restaurants sera envisagée.\
+\
+Dans les départements rouges, 2 situations particulières sont à relever
+: Mayotte et l'Île-de-France. Le nombre de cas est plus élevés qu'espéré
+et induit une vigilance particulière : 
+
+-   A Mayotte, la dynamique de l’épidémie reste orientée à la hausse. Le
+    déconfinement à Mayotte est donc retardé ;
+-   en Ile-de-France, la dynamique est orientée à la baisse mais le
+    nombre de cas reste élevé. Le déconfinement aura lieu mais la
+    discipline sera renforcée, notamment dans les transports. Le
+    télétravail devra encore être largement privilégié, les horaires
+    étalés et les personnes vulnérables se protéger.
+
+Retrouvez **ici** la présentation du plan de déconfinement par le
+Premier ministre et les membres du Gouvernement le jeudi 7 mai.
 
 
  
@@ -399,28 +431,114 @@ Parlement français l’autorise. Son utilisation sera alors facultative.\
 
 
 []{#s1380}
-### Pour vos déplacements {#pour-vos-déplacements .item-paragraphe-titre .c-onglet data-section="s1380" data-picto="https://www.gouvernement.fr/sites/default/files/cimages/deplacement.svg"}
+### Pour se déplacer {#pour-se-déplacer .item-paragraphe-titre .c-onglet data-section="s1380" data-picto="https://www.gouvernement.fr/sites/default/files/cimages/deplacement.svg"}
 
 
+La norme des 100 km
+-------------------
+
+ 
+-   Chacun peut de nouveau circuler sans attestation avec, s’il est en
+    voiture, un justificatif de domicile tel qu'un chéquier, une pièce
+    d'identité, un justificatif d’assurance de la voiture, une facture.
+-   En revanche, les déplacements au-delà de 100 km à vol d’oiseau de
+    son lieu de résidence actuel sont interdits, sauf si ces 100 km se
+    font au sein d’un même département.
+-   Des dérogations sont possibles pour des motifs professionnels ou
+    familiaux impérieux comme un décès, l’assistance à une personne
+    vulnérable ou l’exercice par exemple de son métier de transporteur. 
+-   L’attestation dérogatoire sera disponible sur le site du
+    gouvernement ou du ministère de l’Intérieur.
+-   Des contrôles seront effectués dans les gares, aérogares, sur les
+    routes et les autoroutes et l’amende sera de 135€ pour les personnes
+    qui ne seraient pas en règle.
+
+La question des frontières
+--------------------------
+
+\
+Pas de changement notable par rapport à la règle actuelle.\
+\
+La circulation en dehors ou en provenance de l’espace européen est
+interdite. Une réévaluation sera opérée au niveau européen le 15 juin. \
+\
+Des mesures de quatorzaine ou d’isolement sont possibles pour les
+personnes qui entrent sur le territoire et ne proviennent pas de
+l’espace européen.\
+\
+En savoir plus : rendez-vous sur le [site du ministère de l’Europe et
+des Affaires
+Etrangères](https://www.diplomatie.gouv.fr/fr/le-ministere-et-son-reseau/actualites-du-ministere/informations-coronavirus-covid-19/).\
+\
+La libre circulation des travailleurs frontaliers est préservée.\
+\
+Pour les travailleurs saisonniers -en particulier agricoles-, des
+mesures spécifiques sont prises : ils peuvent se déplacer à condition de
+disposer d’un justificatif économique impérieux.
+Les transports en commun
+------------------------
+
+\
 L’offre de transport urbaine et régionale va être augmentée
-progressivement selon des modalités à définir par région. A Paris par
-exemple, 70% des métros et bus de la RATP seront progressivement
-rétablis d’ici au 11 mai. Cependant, la capacité d’accueil sera réduite
-pour respecter la distanciation physique, pendant au moins trois
-semaines à partir du 11 mai.\
+progressivement selon des modalités définies par chaque région. Le
+retour à la normale devrait intervenir au début du mois de juin.\
+ \
+La capacité d’accueil sera réduite pour respecter la distanciation
+physique, pendant au moins trois semaines à partir du 11 mai. Les
+opérateurs de transport s’organisent pour assurer le respect des mesures
+de distanciation physique et des gestes barrières : condamnation d’un
+siège sur deux dans les bus et métros, marquage au sol dans le métro,
+etc. Les métros, trams, trains et bus seront désinfectés chaque jour. \
 \
-Les opérateurs de transport doivent s’organiser pour assurer le respect
-des mesures de distanciation physique et des gestes barrières :
-condamnation d’un siège sur deux dans les bus et métros, marquage au sol
-dans le métro, etc.\
+Certaines gares et stations pourront être fermées en cas de
+surfréquentation. \
 \
-Le port du masque sera obligatoire dans les transports en commun, les
-trains, les taxis, VTC et véhicules de covoiturage (en absence de
-protection physique séparant le conducteur du passager) et les avions.\
+Pour limiter la fréquentation aux heures de pointe, les employeurs sont
+incités à étaler les horaires de travail.\
 \
-Les déplacements longue distance (&gt;100 km) ne seront possibles que
-pour motif impérieux, personnel ou professionnel. L’offre sera réduite,
-la réservation sera obligatoire dans tous les trains.
+*A noter : en Ile-de-France, aux heures de pointe, l’accès aux
+transports en commun sera réservé aux personnes munies d’une attestation
+de déplacement de leur employeur. Cette mesure a été prise à la demande
+de l’autorité organisatrice des transports (la Région) et une telle
+mesure pourrait être étendue à une toute métropole à la demande de
+l’autorité responsable localement.*
+Réglementation :
+----------------
+
+ 
+-   la réservation des trains sera obligatoire et l’occupation plafonnée
+    à 50% des places ; 
+-   le port du masque sera obligatoire pour les usagers de 11 ans et
+    plus dans les transports en commun, les trains, les taxis, VTC et
+    véhicules de covoiturage (en absence de protection physique séparant
+    le conducteur du passager) et les avions ;
+-   une amende de 135 euros sera attribuée en cas de non-port du masque,
+    d’accès à un TGV sans réservation ou en cas d’utilisation des
+    transports de la région Ile-de-France aux heures de pointe sans
+    attestation de l’employeur.
+
+*A noter : l'État mettra des masques à disposition des personnes n’ayant
+pas pu s’en procurer *
+\
+La place du vélo
+----------------
+
+\
+La pratique du vélo dans le cadre de déplacements réduits sera
+facilitée, grâce au développement de pistes cyclables temporaires, et la
+mobilisation d’un plan de 20 millions d’euros pour prendre en charge : \
+ 
+-   les réparations et remises en état des vélos, à hauteur de 50% d’un
+    montant hors taxe, auprès de réparateurs référencés ;
+-   les places de stationnement temporaires pour vélo, jusqu’à 60% des
+    coûts d’installation ;
+-   les formations gratuites pour apprendre à circuler en sécurité, avec
+    un moniteur expérimenté.
+
+\
+La liste des réparateurs engagés dans la démarche et des moniteurs
+agréés est accessible sur [cette plateforme en
+ligne](https://coupdepoucevelo.fr/auth/home).
 
 
 
@@ -431,8 +549,15 @@ la réservation sera obligatoire dans tous les trains.
 ### Pour vos enfants et leur scolarité {#pour-vos-enfants-et-leur-scolarité .item-paragraphe-titre .c-onglet data-section="s1376" data-picto="https://www.gouvernement.fr/sites/default/files/cimages/enfantscolarite.svg"}
 
 
-**Le retour sur le chemin de l’école se fera, de façon progressive,
-suivant le calendrier suivant :**\
+**Le retour sur le chemin de l’école se fera, de façon progressive. 80 à
+85% des écoles maternelles et élémentaires seront ouvertes dans la
+semaine du 11 mai, dans 87 à 90% des communes.\
+\
+Les parents pourront faire le choix de l’enseignement à domicile, avec
+une possibilité d’inscription gratuite au CNED (Centre national
+d’enseignement à distance). \
+\
+Le calendrier de reprise est le suivant :**\
  
 -   pour les écoles maternelles et élémentaires : à partir du 11 mai,
     sur la base du volontariat ;
@@ -450,15 +575,35 @@ Selon les modalités suivantes :\
     distanciation physique ;
 -   mise à disposition de gel hydroalcoolique.
 
+Et avec des publics prioritaires : \
+ 
+-   enfants handicapés ;
+-   enfants de personnels soignants ou sans solution de garde ; 
+-   enfants d’enseignants ; 
+-   enfants décrocheurs ou en voie de dérochage.
+
+Les parents doivent être informés cette semaine des modalités de la
+reprise qui s’effectuera à partir du 11 mai et qui concernent 1 million
+d’élèves, 130 000 enseignants et 12 000 personnels médicaux et sociaux
+mobilisés pour accompagner, accueillir, dialoguer avec le personnel et
+les élèves, définir la continuité pédagogique.\
+\
 Le port du masque est :\
  
--   fortement déconseillé  pour les enfants en école maternelle ;
--   non recommandé pour les enfants en école élémentaire, mais des
-    masques pédiatriques seront mis à disposition dans les écoles ;
--   obligatoire pour les collégiens, y compris dans les cars scolaires,
-    des masques seront mis à disposition dans les collèges notamment
-    pour la fourniture des élèves qui n’auront pas pu s’en procurer ;
--   obligatoire pour les encadrants et enseignants.
+-   obligatoire pour les personnels (en maternelle, primaire, collège et
+    lycée) dans toutes les situations où les règles de de distanciation
+    ne peuvent (ou risquent de ne pas) être respectées.  C’est notamment
+    le cas des personnels intervenant auprès des plus jeunes avec
+    lesquels la distanciation d’un mètre peut difficilement être
+    respectée. Il est recommandé dans toutes les autres situations ;
+-   obligatoire pour les collégiens/lycéens dans toutes les situations
+    où les règles de distanciation ne peuvent (ou risquent de ne pas)
+    être respectées ;
+-   à proscrire pour les élèves en école maternelle ;
+-   non recommandé pour les élèves en école élémentaire. Les enfants
+    peuvent en être équipés s’ils le souhaitent et s’ils sont en mesure
+    de le porter dans des conditions satisfaisantes. Des masques seront
+    mis à disposition dans les écoles.
 
 \
 Les enfants suivront leur scolarité dans les lieux suivants :\
@@ -470,6 +615,25 @@ Les enfants suivront leur scolarité dans les lieux suivants :\
     locaux périscolaires mis à disposition par les collectivités
     territoriales pour des activités culturelles, de sport, santé, ou
     civisme.
+-   soit dans des locaux périscolaires mis à disposition par les
+    collectivités territoriales pour des activités culturelles, de
+    sport, santé, ou civisme.
+
+Des [recommandations pour les établissements scolaires et les
+personnels](https://www.education.gouv.fr/coronavirus-covid-19-informations-et-recommandations-pour-les-etablissements-scolaires-et-les-274253)
+précisent les modalités pratiques de réouverture et de fonctionnement
+des établissements. Ces recommandations présentent :\
+ 
+-   une
+    [circulaire](https://www.education.gouv.fr/circulaire-relative-la-reouverture-des-ecoles-et-etablissements-et-aux-conditions-de-poursuite-des-303552)relative
+    à la réouverture des écoles et établissements et aux conditions de
+    poursuite des apprentissages ;
+-   [deux protocoles
+    sanitaires](https://www.education.gouv.fr/coronavirus-covid-19-reouverture-des-ecoles-colleges-et-lycees-303546),
+    l’un pour la réouverture des écoles, l’autre pour la réouverture des
+    collèges et lycées ;
+-   des [documents liés à la reprise
+    pédagogique](https://eduscol.education.fr/cid151499/reouverture-des-ecoles.html).
 
 Dans tous les cas, les directeurs d’écoles, parents d’élèves,
 collectivités locales trouveront ensemble les meilleures solutions.\
