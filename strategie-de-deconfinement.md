@@ -275,7 +275,24 @@ Des mesures de soutien à l’achat de masques sont mises en place :\
 -   une enveloppe hebdomadaire de 5 millions de masques lavables sera
     destinée aux citoyens les plus précaires, via les CCAS et les
     acteurs associatifs.
+-   [réglementation des prix des
+    masques](https://www.economie.gouv.fr/encadrement-prix-masques-chirurgicaux-et-enquetes-DGCCRF)
+    :\
+    - prix maximum de vente aux consommateurs des masques à usage unique
+    de type chirurgical fixé à 95 centimes d’euros TTC l’unité ;\
+    - mise en place d’un suivi des prix des masques grand public
+    permettant de s’assurer qu’il n’existe pas de hausses injustifiées
+    qui pénaliseraient les consommateurs (relevés de prix et suivi des
+    signalements grâce à la
+    plateforme[SignalConso](http://anws.co/bIkSd/%7b7bdc0699-f68a-47d3-9009-bcc8ed9f6c41%7d)).
 
+Chaque semaine, 100 millions de masques chirurgicaux et FFP2 vont être
+distribués aux professionnels de santé (médecins, sages-femmes,
+dentistes, pharmaciens, infirmiers, kinésithérapeutes, orthophonistes,
+podologues, orthoptistes, opticiens, psychomotriciens, etc.) afin de
+leur permettre de reprendre une activité normale. Les médecins,
+pharmaciens et infirmiers, se verront distribuer 3 à 4 masques
+chirurgicaux ou FFP2 par jour.\
 \
 **2. Tester**\
 \
@@ -283,6 +300,9 @@ L'objectif fixé est d'effectuer 700 000 tests virologiques par semaine à
 partir du 11 mai. Ces tests pourront être faits dans les laboratoires
 publics et privés, y compris les laboratoires de recherche et
 vétérinaires et seront pris en charge à 100% par l'assurance-maladie.\
+\
+C’est votre médecin qui vous prescrira le test sauf si vous avez déjà
+des symptômes graves, auquel cas vous devez appeler le 15.\
 \
 Si une personne est testée positive, un travail d’identification sera
 engagé et tous ceux qui auront eu un contact rapproché avec elle seront
@@ -296,9 +316,9 @@ L'identification de ces cas-contacts sera assurée par :\
     contacts dans la cellule familiale ;
 -   les équipes de l'assurance maladie mobilisées pour l'identification
     des cas contacts au-delà de la cellule familiale ;
--   des brigades créées dans chaque département, chargées de remonter la
-    liste des cas contacts, de les appeler et de les inviter à se faire
-    tester en vue d'un éventuel isolement.
+-   les Agences régionales de santé (ARS), chargées de remonter la liste
+    des cas contacts, de les appeler et de les inviter à se faire tester
+    en vue d'un éventuel isolement.
 
 \
 **3. Isoler**\
@@ -312,7 +332,7 @@ place.\
 \
 Concrètement :\
  
--   les Préfets et les collectivités territoriales définiront ensemble,
+-   les préfets et les collectivités territoriales définiront ensemble,
     avec les acteurs associatifs, les professionnels de santé, et les
     acteurs de la prise en charge à domicile, le plan d'accompagnement
     des personnes placées en isolement ;
@@ -321,12 +341,57 @@ Concrètement :\
     ou dans un  lieu mis à sa disposition, notamment les hôtels
     réquisitionnés.
 
+Il sera conseillé aux personnes isolées de :\
+ 
+-   aérer régulièrement leur domicile ;
+-   éviter de toucher les objets touchés par d’autres personnes ;
+-   désinfecter régulièrement les poignées de porte, téléphones mobiles,
+    surfaces exposées ;
+-   porter en permanence un masque - les masques seront alors pris en
+    charge à 100% par l’assurance maladie.
+
+Si vous êtes “cas contact” :\
+ 
+-   vous serez directement contacté par l’assurance maladie ou l’Agence
+    régionale de santé qui vous informera que vous avez été
+    potentiellement en contact avec une personne atteinte par le virus ;
+-   un test vous sera proposé 7 jours après le dernier contact avec la
+    personne malade. Si vous êtes testé négatif, il conviendra quand
+    même de vous isoler pour une durée supplémentaire de 7 jours ; 
+-   si l’isolement n’est pas possible à domicile, un hébergement dans
+    une structure vous sera proposé.
+
+Des cellules d’appui seront à disposition des personnes malades ou cas
+contact, qui pourront signaler les difficultés rencontrées dans leur
+quotidien, et bénéficier d’une aide.\
 \
-Un consortium européen a lancé un travail pour la création de
-l’application Stop Covid. Il s’agit de permettre aux personnes qui ont
-croisé une personne testée positive d’intégrer un parcours sanitaire.
-Son développement n’est pas achevé et la décision de la mettre en œuvre
-ne sera prise qu’après un vote du Parlement.
+Par ailleurs, un consortium européen a lancé un travail pour la création
+de l’application StopCovid. Il s’agit de permettre aux personnes qui ont
+croisé une personne testée positive d’intégrer un parcours sanitaire. Sa
+mise à disposition est prévue le 2 juin prochain, uniquement si le
+Parlement français l’autorise. Son utilisation sera alors facultative.\
+\
+**Reprise des soins courants hors COVID-19 :**\
+ 
+-   dès le 11 mai, il vous est recommandé de reprendre le chemin des
+    cabinets médicaux et des soins pour vos maladies chroniques, la
+    consultation sera prise en charge à 100% ; 
+-   privilégiez autant que possible la télémédecine, qui est devenue une
+    habitude pour beaucoup d’entre nous ces dernières semaines,
+    notamment si vous faites partie des personnes vulnérables.
+
+**Financements et primes exceptionnels :**\
+ 
+-   475 millions d’euros de crédits supplémentaires sont affectés aux
+    EHPAD, pour renforcer l’aide aux personnes âgées vulnérables
+-   Les personnels soignants, les personnels des EHPAD, tout comme les
+    personnels des établissements accueillant des personnes handicapées
+    qui sont subventionnés par l’Etat, percevront une prime venant
+    valoriser leur engagement sans faille. Cette prime sera de 1500
+    euros dans les 33 départements les plus touchés (classés en zones
+    “rouges”), 1000 euros dans les autres départements. Cette prime sera
+    défiscalisée. De même dans les établissements pour personnes en
+    situation de handicap
 
 
 
