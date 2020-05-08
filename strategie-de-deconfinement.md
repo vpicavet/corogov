@@ -256,7 +256,7 @@ quotidienne](https://gouvernement.fr/sites/default/files/cimages/infographie_dec
 
 
 []{#s1374}
-### Pour votre santé {#pour-votre-santé .item-paragraphe-titre .c-onglet data-section="s1374" data-picto="https://www.gouvernement.fr/sites/default/files/cimages/sante.svg"}
+### POUR VOTRE SANTÉ {#pour-votre-santé .item-paragraphe-titre .c-onglet data-section="s1374" data-picto="https://www.gouvernement.fr/sites/default/files/cimages/sante.svg"}
 
 
 Les 3 priorités du gouvernement : protéger, tester, isoler.\
@@ -431,7 +431,7 @@ Parlement français l’autorise. Son utilisation sera alors facultative.\
 
 
 []{#s1380}
-### Pour se déplacer {#pour-se-déplacer .item-paragraphe-titre .c-onglet data-section="s1380" data-picto="https://www.gouvernement.fr/sites/default/files/cimages/deplacement.svg"}
+### POUR VOUS DÉPLACER {#pour-vous-déplacer .item-paragraphe-titre .c-onglet data-section="s1380" data-picto="https://www.gouvernement.fr/sites/default/files/cimages/deplacement.svg"}
 
 
 La norme des 100 km
@@ -502,10 +502,9 @@ de déplacement de leur employeur. Cette mesure a été prise à la demande
 de l’autorité organisatrice des transports (la Région) et une telle
 mesure pourrait être étendue à une toute métropole à la demande de
 l’autorité responsable localement.*
-Réglementation :
-----------------
+\
+**Réglementation :**
 
- 
 -   la réservation des trains sera obligatoire et l’occupation plafonnée
     à 50% des places ; 
 -   le port du masque sera obligatoire pour les usagers de 11 ans et
@@ -546,7 +545,7 @@ ligne](https://coupdepoucevelo.fr/auth/home).
 
 
 []{#s1376}
-### Pour vos enfants et leur scolarité {#pour-vos-enfants-et-leur-scolarité .item-paragraphe-titre .c-onglet data-section="s1376" data-picto="https://www.gouvernement.fr/sites/default/files/cimages/enfantscolarite.svg"}
+### POUR VOUS ENFANTS ET LEUR SCOLARITÉ {#pour-vous-enfants-et-leur-scolarité .item-paragraphe-titre .c-onglet data-section="s1376" data-picto="https://www.gouvernement.fr/sites/default/files/cimages/enfantscolarite.svg"}
 
 
 **Le retour sur le chemin de l’école se fera, de façon progressive. 80 à
@@ -659,14 +658,54 @@ etc.
 
 
 []{#s1377}
-### Pour votre travail {#pour-votre-travail .item-paragraphe-titre .c-onglet data-section="s1377" data-picto="https://www.gouvernement.fr/sites/default/files/cimages/travail.svg"}
+### POUR VOTRE TRAVAIL {#pour-votre-travail .item-paragraphe-titre .c-onglet data-section="s1377" data-picto="https://www.gouvernement.fr/sites/default/files/cimages/travail.svg"}
 
 
+La santé des salariés est la priorité. 
+---------------------------------------
+
+\
 Le télétravail doit être maintenu partout où cela est possible.\
 \
 Si le télétravail n’est pas possible : les horaires décalés devront être
 encouragés, pour réduire au maximum la présence simultanée des personnes
 à la fois sur le lieu de travail et dans les transports.\
+\
+**60 guides métiers**, élaborés avec les fédérations professionnelles et
+soumis à la consultation des les partenaires sociaux, vont être publiés
+d’ici au 11 mai pour aider les entreprises à s’organiser, secteur par
+secteur. 54 sont déjà disponibles sur le [site du ministère du
+Travail](https://travail-emploi.gouv.fr/le-ministere-en-action/coronavirus-covid-19/proteger-les-travailleurs/article/fiches-conseils-metiers-et-guides-pour-les-salaries-et-les-employeurs).
+Ces guides sectoriels sont complétés par un[protocole national de
+déconfinement](https://travail-emploi.gouv.fr/actualites/presse/communiques-de-presse/article/protocole-national-de-deconfinement-pour-les-entreprises-pour-assurer-la),
+afin d’accompagner les entreprises et les associations, quelles que
+soient leur taille, leur activité et leur situation géographique, à
+reprendre leur activité tout en assurant la protection de la santé de
+leurs salariés grâce à des règles universelles (recommandations en
+termes de jauge par espace ouvert, gestion des flux, équipements de
+protection individuelle, tests de dépistage, protocole de prise en
+charge d’une personne symptomatique et de ses contacts rapprochés, prise
+de température, nettoyage et à désinfection des locaux).\
+\
+Le dialogue social permettra de décliner les mesures du protocole
+national au niveau de chaque entreprise.\
+\
+Dans les 24 heures sera publié un guide pour accompagner les entreprises
+non habituées au télétravail.
+Aides de l’État
+---------------
+
+\
+L’Etat maintient le fonds de solidarité jusqu’à la fin du mois de mai
+pour tenir compte des baisses d’activité. \
+\
+Les charges sociales patronales de mars, avril et mai seront totalement
+supprimées pour les secteurs contraints à une fermeture
+administrative. \
+\
+Pour permettre la reprise de l’activité, des masques seront disponibles
+chez les pharmaciens, buralistes, dans les grandes surfaces, sur des
+plateformes numériques, avec une TVA à 5,5%.\
 \
 **Les entreprises en difficulté pourront continuer à bénéficier :**\
  
@@ -678,10 +717,9 @@ encouragés, pour réduire au maximum la présence simultanée des personnes
     de personnes.
 
 \
-60 guides métiers vont être publiés d’ici au 11 mai pour aider les
-entreprises à s’organiser, secteur par secteur. 33 sont déjà disponibles
-sur le site du [Ministère du
-travail](https://travail-emploi.gouv.fr/le-ministere-en-action/coronavirus-covid-19/proteger-les-travailleurs/article/fiches-conseils-metiers-et-guides-pour-les-salaries-et-les-employeurs).
+S’agissant des CFA et des centres de formation continue,  l’objectif est
+d’ouvrir progressivement et rapidement pour accueillir les équipes puis
+les stagiaires. Un guide-métier spécifique sera publié.
 
 
 
@@ -689,7 +727,7 @@ travail](https://travail-emploi.gouv.fr/le-ministere-en-action/coronavirus-covid
 
 
 []{#s1378}
-### Pour vos achats et besoins essentiels {#pour-vos-achats-et-besoins-essentiels .item-paragraphe-titre .c-onglet data-section="s1378" data-picto="https://www.gouvernement.fr/sites/default/files/cimages/achatsbesoins_essentiels.svg"}
+### POUR VOS ACHATS ET BESOINS ESSENTIELS {#pour-vos-achats-et-besoins-essentiels .item-paragraphe-titre .c-onglet data-section="s1378" data-picto="https://www.gouvernement.fr/sites/default/files/cimages/achatsbesoins_essentiels.svg"}
 
 
 La majorité des commerces ouvriront à partir du 11 mai, en respectant
@@ -724,7 +762,7 @@ Cas spécifiques :\
 
 
 []{#s1379}
-### Pour votre vie sociale {#pour-votre-vie-sociale .item-paragraphe-titre .c-onglet data-section="s1379" data-picto="https://www.gouvernement.fr/sites/default/files/cimages/vie_sociale.svg"}
+### POUR VOTRE VIE SOCIALE {#pour-votre-vie-sociale .item-paragraphe-titre .c-onglet data-section="s1379" data-picto="https://www.gouvernement.fr/sites/default/files/cimages/vie_sociale.svg"}
 
 
 À partir du 11 mai, la vie sociale reprendra progressivement son cours.\
@@ -775,6 +813,53 @@ imposées durant la période de confinement, et donc à limiter leurs
 contacts et leurs sorties. Les personnes qui rendront visite à ces
 personnes devront respecter les précautions nécessaires à la
 préservation de leur santé fragile.
+
+
+
+
+
+
+[]{#s1431}
+### POUR LES TERRITOIRES D’OUTRE-MER {#pour-les-territoires-doutre-mer .item-paragraphe-titre .c-onglet data-section="s1431" data-picto=""}
+
+
+Le plan de déconfinement s’applique dans les territoires d’outre-mer –
+excepté en Nouvelle-Calédonie, en Polynésie française et à
+Wallis-et-Futuna, compétentes en matière de santé. Le calendrier et les
+modalités du déconfinement sont cependant adaptées aux spécificités de
+ces territoires.\
+\
+Le déconfinement commencera le 11 mai, sauf :\
+ 
+-   à Saint-Barthélémy, à Saint-Martin et à Saint-Pierre-et-Miquelon, où
+    il a été anticipé ;
+-   à Mayotte, où il est décalé à une date qui sera précisée
+    ultérieurement - étant donnée la hausse du nombre de cas de
+    contamination observés.
+
+Si vous vous trouvez en métropole et que vous souhaitez vous rendre en
+outre-mer :\
+ 
+-   vous devrez justifier d’un motif impérieux d’ordre sanitaire,
+    familial ou professionnel. A votre arrivée en Guadeloupe, en Guyane,
+    à La Réunion, en Martinique, à Saint-Martin, à Saint-Barthélemy et à
+    Saint-Pierre-et-Miquelon, vous devrez rester isolé durant 14 jours
+    dans un centre d’hébergement. Ces mesures visent à protéger ces
+    territoires de l’arrivée de personnes porteuses du virus.
+-   si vous êtes étudiant en métropole et que vous souhaitez rejoindre
+    votre famille dans l’un de ces territoires, vous devrez également
+    effectuer une quatorzaine en centre d’hébergement, avant votre
+    départ ou à votre arrivée.
+
+Si vous vous trouvez en outre-mer et que vous souhaitez vous rendre dans
+un autre territoire d’outre-mer ou en métropole :\
+ 
+-   vous devrez justifier d’un motif impérieux d’ordre sanitaire,
+    familial ou professionnel ;
+-   en métropole, vous n’aurez pas à effectuer une quatorzaine à votre
+    arrivée ;
+-   dans un autre territoire d’outre-mer, vous devrez effectuer une
+    quatorzaine en centre d’hébergement à votre arrivée.
 
 
 
