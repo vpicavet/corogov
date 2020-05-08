@@ -1097,3 +1097,16 @@ Rechercher
 
 
 
+N’hésitez pas à partager cette page :
+
+-   [Partager par mail](#){.ds-icon-mail .colorbox-link}
+-   [Partager sur Twitter](#){.ds-icon-twitter}
+-   [Partager sur Facebook](#){.ds-icon-facebook}
+-   [Partager sur LinkedIn](#){.ds-icon-linkedin}
+
+
+
+
+
+
+
