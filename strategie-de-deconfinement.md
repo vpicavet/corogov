@@ -143,63 +143,19 @@ EN DIRECT
 
 
 
-Le déconfinement débute le 11 mai. Il se prépare en surveillant tous les
-indicateurs pour vérifier, département par département, l’évolution de
-l’épidémie. C’est cette observation qui a permis de décider le lancement
-effectif des opérations à cette date.\
-Cette phase s’étendra jusqu’au 2 juin. Elle permettra de vérifier que
-les mesures mises en œuvre permettent de contenir l’épidémie. Et
-d’envisager les mesures pour la phase suivante : du 2 juin jusqu’à
-l’été.\
-\
-Le déconfinement prendra une forme plus stricte dans les départements
-qui sont dans une ou plusieurs de ces situations :
-
--   le taux de passage aux urgences pour suspicion de maladie covid
-    reste élevé ;
--   les capacités hospitalières en réanimation restent saturées ;
--   le système local de tests n'est pas suffisamment prêt.
-
-Retrouvez ici les départements placés en catégorie rouge (circulation
-élevée du virus) ou verte (circulation limitée du virus).
+Depuis le début de l’épidémie de coronavirus, le Gouvernement s’est
+mobilisé pour garantir la sécurité sanitaire de tous les français. La
+mobilisation des services de l’État et la responsabilité collective a
+permis de limiter la propagation du virus sur le territoire. **Le 11 mai
+ouvre un nouveau chapitre avec la mise en place du plan de
+déconfinement.** Son objectif : préserver un équilibre entre la
+nécessité de reprendre l’activité économique et celle de préserver la
+santé des Français.  
 ![](/sites/default/files/cimages/carte_deconfinement.png){width="960"
 height="541"}
 
 [Télécharger la présentation détaillée de la stratégie nationale de
 déconfinement](/sites/default/files/document/document/2020/05/conference_de_presse_sur_le_deconfinement.pdf "Téléchargement Conférence de presse sur le déconfinement (PDF - 887.78 Ko) - nouvelle fenêtre")
-
-\
-Cette carte est établie en fonction de 3 grands critères : la
-circulation du virus, la tension hospitalière en réanimation, et les
-capacités de tests locales. Elle détermine certaines réglementations,
-notamment sur la scolarisation des collégiens et l’ouverture des parcs
-et espaces verts.\
-\
-Si les départements verts se maintiennent dans cette situation dans 3
-semaines, l’ouverture des lycées et restaurants sera envisagée.\
-\
-Dans les départements rouges, 2 situations particulières sont à relever
-: Mayotte et l'Île-de-France. Le nombre de cas est plus élevés qu'espéré
-et induit une vigilance particulière : 
-
--   A Mayotte, la dynamique de l’épidémie reste orientée à la hausse. Le
-    déconfinement à Mayotte est donc retardé ;
--   en Ile-de-France, la dynamique est orientée à la baisse mais le
-    nombre de cas reste élevé. Le déconfinement aura lieu mais la
-    discipline sera renforcée, notamment dans les transports. Le
-    télétravail devra encore être largement privilégié, les horaires
-    étalés et les personnes vulnérables se protéger.
-
-Retrouvez **ici** la présentation du plan de déconfinement par le
-Premier ministre et les membres du Gouvernement le jeudi 7 mai.
-
-
- 
-
-
-[Discours de M. Édouard PHILIPPE, Premier ministre, Conférence de presse
-sur la préparation de l'étape du 11
-mai](/sites/default/files/document/document/2020/05/declaration_de_m._edouard_philippe_premier_ministre_-_conference_de_presse_sur_la_preparation_de_letape_du_11_mai_-_07.05.2020.pdf "Télécharger  (PDF - 581.54 Ko) - nouvelle fenêtre")
 
 
 
@@ -215,40 +171,29 @@ Les informations essentielles du plan
 
 
 
-Le déconfinement est prévu pour le 11 mai. Il se prépare en surveillant
-tous les indicateurs pour vérifier, département par département,
-l’évolution de l’épidémie. C’est cette observation qui permettra de
-décider si les opérations peuvent bien être lancées à cette date ou si
-des mesures plus strictes doivent être prises.\
-\
-Si la situation sanitaire au 11 mai le permet, alors commencera une
-seconde phase qui s’étendra jusqu’au 2 juin. Elle permettra de vérifier
-que les mesures mises en œuvre permettent de contenir l’épidémie. Et
-d’envisager les mesures pour la phase suivante : du 2 juin jusqu’à
-l’été.\
-\
-Le déconfinement prendra une forme plus stricte dans les départements
-qui sont dans une ou plusieurs de ces situations :\
- 
--   le taux de nouveaux cas dans la population sur une période de 7
-    jours reste élevé ;
--   les capacités hospitalières en réanimation restent saturées ;
--   le système local de tests et de détection des cas contacts n'est pas
-    suffisamment prêt.
 
-Le 7 mai, les résultats permettront d'indiquer les départements qui
-basculent le 11 mai en catégorie rouge (circulation élevée du virus) ou
-verte (circulation limitée du virus).\
+ 
+
+
+[Discours de M. Édouard PHILIPPE, Premier ministre, Conférence de presse
+sur la préparation de l'étape du 11
+mai](/sites/default/files/document/document/2020/05/declaration_de_m._edouard_philippe_premier_ministre_-_conference_de_presse_sur_la_preparation_de_letape_du_11_mai_-_07.05.2020.pdf "Télécharger  (PDF - 581.54 Ko) - nouvelle fenêtre")
+
 \
-Dès jeudi 30 avril, le Directeur général de la Santé présentera chaque
-soir une carte avec ces résultats, département par département. Cette
-carte guidera chaque département dans la préparation du 11 mai.\
+Le 11 mai marque le début d’un déconfinement progressif. Il s’est
+préparé en surveillant tous les indicateurs (le taux de nouveaux cas
+dans la population sur une période de sept jours, les capacités
+hospitalières en réanimation restent saturées, le système local de tests
+et de détection des cas contacts n’est pas suffisamment prêt). \
+Cette phase s’étendra jusqu’au 2 juin.\
+\
 \
 []{#plandeconfinement}
 **Retrouvez ici l'infographie du plan de déconfinement expliquant
 l'organisation de la vie quotidienne** (vie sociale et activités,
 déplacements, commerces, écoles et crèches, transports, sports) :
 
+ 
 [Ensemble des mesures sur la vie
 quotidienne](https://gouvernement.fr/sites/default/files/cimages/infographie_deconfinement.jpg "Téléchargez ici l'infographie, sur le plan de déconfinement expliquant l'organisation de la vie quotidienne (vie sociale et activités, déplacements, commerces, écoles et crèches, transport) - jpg 900ko"){.button-cta}
 
@@ -877,19 +822,6 @@ Présentation de la stratégie nationale de déconfinement à l’Assemblée nat
 
 
 
-Présentation des grands axes du plan de déconfinement à compter du 11
-mai 2020 : retrouvez ici le discours du Premier ministre prononcé à
-l’Assemblée nationale le mardi 28 avril.\
-\
-La sécurité des Français est la priorité de ce plan, progressif et qui
-sera adapté dans trois semaines en fonction de l’évolution de
-l’épidémie. Le principe est national mais des aménagements peuvent être
-opérés au niveau territorial, sur l’impulsion des préfets et des
-maires.\
-\
-La réussite de ce plan de déconfinement progressif dépendra de
-l'engagement responsable de chaque Français.
-
 
  
 
@@ -897,6 +829,393 @@ l'engagement responsable de chaque Français.
 \
 [[Télécharger le discours du Premier ministre (PDF - 484.59
 Ko)]{style="color:blue"}](https://www.gouvernement.fr/partage/11518-discours-de-m-edouard-philippe-premier-ministre-presentation-de-la-strategie-nationale-de "Télécharger ")
+
+
+
+
+
+[]{#questions}
+
+
+Chronologie des actions
+-----------------------
+
+
+
+**2 janvier** : début de veille sanitaire au Centre opérationnel de
+réception et de régulation des urgences sanitaires et sociales
+(CORRUSS).\
+\
+**10 janvier** : envoi aux Agences régionales de Santé et aux sociétés
+savantes (urgentistes, SAMU, infectiologues) de fiches de conduites à
+tenir et de définition de cas de patients atteints de COVID-19 par le
+ministère des Solidarités et de la Santé.\
+\
+**14 janvier** : sensibilisation des établissements hospitaliers,
+médico-sociaux et des professionnels de santé libéraux à la situation et
+aux recommandations sanitaires.\
+\
+**22 janvier** : activation du Centre opérationnel de régulation et de
+réponse aux urgences sanitaires et sociales (CORRUSS) en niveau 2 de
+mobilisation renforcée.\
+\
+**23 janvier** : mise en place d’un dispositif de suivi et de réponse
+aux préoccupations des Français présents en Chine par le Centre de crise
+et de soutien du ministère de l’Europe et des Affaires étrangères, en
+coordination avec l’Ambassade de France à Pékin et l’ensemble des
+consulats généraux en Chine.\
+\
+**24 janvier** :
+-   confirmation des premiers cas de COVID-19 par Agnès Buzyn, ministre
+    des solidarités et de la Santé ;
+-   déploiement de flyers et d’affiches d’information en français,
+    anglais et mandarin dans les aéroports.
+
+**25 janvier** :
+-   mise en place d’une procédure d’identification et de suivi des cas
+    contacts personnalisée et quotidienne via les Agences régionales de
+    Santé (ARS) ;
+-   mise en place d’un accueil spécifique des voyageurs en provenance de
+    Chine, Hong-Kong et Macao à Paris Charles de Gaulle et Saint-Denis
+    de la Réunion. Cet accueil est assuré par des personnels
+    d’associations agréées de sécurité civile en lien avec le service
+    médical de l’aéroport, et renforcé de professionnels de santé
+    médicaux et paramédicaux issus de la réserve sanitaire du ministère
+    des Solidarités et de la Santé.
+
+**26 janvier** : première réunion interministérielle présidée par le
+Premier Ministre.\
+\
+**27 janvier** :
+-   activation du Centre de Crise Sanitaire ;
+-   développement d’un test diagnostique rapide par l’institut Pasteur
+    permettant de donner un résultat en quelques heures.
+
+**31 janvier** :
+-   première opération de retour des ressortissants français vivant dans
+    la province du Hubei, par vol direct depuis Wuhan accompagné d’une
+    équipe médicale ;
+-   confinement des passagers pendant 14 jours à Carry-le-Rouet.
+
+**2 février** : deuxième opération de retour des ressortissants français
+du Hubei et confinement des passagers à Aix-en-Provence.\
+\
+**8 février** : apparition d’un cluster (regroupement de plusieurs cas
+autour d’un cas initial) en Haute-Savoie. Les 5 cas confirmés de
+COVID-19, 4 adultes et un enfant, sont hospitalisés ainsi que 6 autres
+contacts proches. Une cellule de crise est mise en place par l’Agence
+régionale de Santé d’Auvergne-Rhône-Alpes pour suivre la situation et
+retrouver l’ensemble des cas contacts. Les trois établissements
+scolaires fréquentés par l’enfant malade sont fermés pendant deux
+semaines par mesure de précaution et pour mener les investigations
+nécessaires (test diagnostique). L’opération de recherche et de tests
+auprès des cas contacts est engagée immédiatement.\
+\
+**9 février** :
+-   un centre de consultation exceptionnel est installé dans la salle
+    d’animation de la commune de Contamines-Montjoie afin de dépister
+    les enfants de l’école où était scolarisé l’enfant malade ;
+-   troisième opération de retour de ressortissants français de Hubei
+    sur un vol britannique.
+
+**13 février** : activation du plan d’organisation de la réponse du
+système de santé (ORSAN) qui vise à organiser la mobilisation du système
+de santé pour se préparer à une éventuelle circulation active du
+COVID-19 sur le territoire français.\
+\
+**14 février** :
+-   levée des mesures de confinement pour les passagers du premier vol
+    de retour des Français de Wuhan suite à la fin de la période
+    d’incubation de 14 jours et la réalisation de tests de diagnostic
+    revenus négatifs ;
+-   premier décès en France d’un patient âgé de 80 ans hospitalisé en
+    France des suites du COVID-19.
+
+**16 février** : levée des mesures de confinement pour les passagers du
+deuxième vol de retour.\
+\
+**17 février** : envoi d’un guide pratique sur le covid 19 aux
+professionnels de santé par le ministère des Solidarités et de la
+santé.\
+\
+**18 février** : confirmation de trois passagers français atteints de
+COVID-19 à bord du paquebot de croisière Diamond Princess en confinement
+au large du Japon.\
+\
+**19 février** : envoi de fret médical en solidarité avec la Chine à
+destination des structures hospitalières de Wuhan et de la province du
+Hubei.\
+\
+**21 février** :
+-   quatrième opération de retour de Français, Européens et
+    ayants-droit.
+-   rencontre de M. Bruno Le Maire et Mme Agnès Pannier-Runacher avec
+    les acteurs économiques nationaux sur les conséquences de l’épidémie
+    de COVID-19.
+
+**23 février** : levée des mesures de confinement pour les passagers du
+troisième vol de retour.\
+\
+**24 février** :
+-   activation de 70 établissements de santé pourvus d’un service SAMU.
+    107 établissements de santé sont donc en capacité d’accueillir des
+    patients atteints de COVID-19, soit au moins un par département
+    métropolitain et d’Outre-mer ;
+-   augmentation des capacités de diagnostic biologique et commande de
+    plusieurs millions de masques FFP2 supplémentaires pour les
+    professionnels de santé.
+
+**25 février** : déploiement d’affiches d’information sur le COVID-19
+dans les gares.\
+\
+**27 février** : sommet Italie-France à Naples (Italie).\
+\
+**28 février** :
+-   déclaration du COVID-19 comme “cas de force majeure” pour les
+    entreprises ;
+-   diffusion de spots de prévention nationaux en radio et télévision.
+
+**29 février** :
+-   conseil restreint de défense et de sécurité (Élysée) ;
+-   tenue d’un conseil de défense et d’un conseil des ministres
+    exceptionnels sous l’autorité du président de la République,
+    consacré au coronavirus.
+-   officialisation du passage du stade 1 au stade 2 du plan de
+    prévention et de gestion de la crise sanitaire impliquant de prendre
+    de nouvelles mesures afin de limiter la diffusion du virus ;
+-   interdiction des rassemblements de plus de 5000 personnes en espace
+    clos.
+
+**2 mars** : Bpifrance devient garante des prêts demandés par les PME
+afin de les accompagner dans la gestion de la situation.\
+\
+**3 mars** : mise en place d’une cellule de continuité économique au
+ministère de l’Economie et des Finances.\
+\
+**4 mars** : conseil restreint de défense consacré au COVID-19
+(Élysée).\
+\
+**5 mars** : réunion de travail avec des acteurs de la recherche
+publique et privée engagés dans la lutte contre le COVID-19.\
+\
+**6 mars** :
+-   réunion des ministres de la Santé de l'Union Européenne à Bruxelles
+    ;
+-   activation du plan blanc dans les hôpitaux et du plan bleu dans les
+    EHPAD ;
+-   publication du décret encadrant les prix de vente du gel
+    hydroalcoolique.
+
+**8 mars** :
+-   conseil de défense consacré au suivi de la crise du COVID-19 ;
+-   interdiction des rassemblements de plus de 1000 personnes non
+    indispensables à la continuité de la vie de la Nation.
+
+**9 mars** : diffusion d’une circulaire du ministre de l’Intérieur pour
+garantir la sécurité et la sincérité des opérations de vote ainsi que
+des mesures de précautions sanitaires avant les élections municipales et
+communautaires des 15 et 22 mars.\
+\
+**10 mars** : visioconférence de coordination européenne sur le
+COVID-19.\
+\
+**11 mars** : conseil restreint de défense et de sécurité nationale
+(Élysée).\
+\
+**12 mars** :
+-   réunion sur le COVID-19 du Premier ministre avec les présidents des
+    Assemblées, les présidents des groupes parlementaires, les chefs de
+    partis et les présidents des associations d'élus ;
+-   allocution du président de la République ;
+-   fermeture des crèches, écoles, collèges, lycées et universités
+    jusqu’à nouvel ordre et mise en place d’un service de garde, région
+    par région, pour les personnels qui sont indispensables à la gestion
+    de la crise sanitaire ;
+-   mobilisation des médecins, des soignants, mais aussi d’étudiants et
+    de jeunes retraités et report des soins non essentiels et opérations
+    non urgentes à l’hôpital ;
+-   prolongement de deux mois de la trêve hivernale ;
+-   mise en oeuvre d’un mécanisme exceptionnel et massif de chômage
+    partiel, avec prise en charge par l’État de l'indemnisation des
+    salariés contraints à rester chez eux ;
+-   possibilité de reporter le paiement des cotisations et impôts dus en
+    mars pour toutes les entreprises qui le souhaitent sans
+    justification ni pénalité.
+
+**13 mars** :
+-   réunion interministérielle sur la recherche et la coordination
+    sanitaire ;
+-   réunion interministérielle pour la mobilisation économique ;
+-   annonce de l’interdiction des rassemblements de plus de 100
+    personnes par le Premier ministre.
+
+**14 mars** : annonce du passage en stade 3 par le Premier ministre.\
+\
+**16 mars** :
+-   conseil restreint de défense consacré au COVID-19 (Élysée).
+-   réunion du Premier ministre avec Bruno Le Maire, Muriel Pénicaud,
+    Didier Guillaume, Jean-Baptiste Lemoyne, Agnès Pannier-Runacher et
+    les différents acteurs économiques nationaux ;
+-   conférence téléphonique du président de la République avec la
+    Chancelière de la République fédérale d’Allemagne, Mme Angela
+    Merkel, le Président du Conseil européen, M. Charles Michel et la
+    Présidente de la Commission européenne, Mme Ursula Von der Leyen ;
+-   allocution du président de la République
+
+**17 mars** :
+-   conseil européen extraordinaire par visioconférence ;
+-   restriction des déplacements au strict minimum dans l’Union
+    Européenne ;
+-   fermeture des frontières de l’espace Schengen ;
+-   activation de la cellule interministérielle de crise par le Premier
+    ministre.
+
+**18 mars** : 1re mission entre Mulhouse et Toulon d’un A330 de l’armée
+de l’air équipé du kit MORPHEE (Module de Réanimation pour Patient à
+Haute Élongation d'Évacuation) pour le transfert de 6 patients vers les
+hôpitaux de Laveran et de Sainte Anne.\
+\
+**20 mars** :
+-   conseil de défense consacré au suivi de la crise du COVID-19 ;
+-   mobilisation du porte-hélicoptère amphibie “Tonnerre” de la Marine
+    nationale pour l’évacuation des patients en réanimation en Corse
+    vers des établissements de santé du continent.
+
+**21 mars** :
+-   le ministre des Solidarités et de la Santé Olivier Véran annonce que
+    des commandes de plus de 250 millions de masques sont faites et
+    seront livrées progressivement ;
+-   2ème mission MORPHEE (Module de Réanimation pour Patient à Haute
+    Élongation d'Évacuation) entre Mulhouse et Bordeaux pour le
+    transfert par A330 de l’armée de l’air de 6 patients vers l’hôpital
+    Pellegrin.
+
+**22 mars** :
+-   évacuation de Corse de 12 patients atteints du coronavirus à bord du
+    “Tonnerre” pour être admis dans plusieurs hôpitaux des
+    Bouches-du-Rhône ;
+-   prévision de l’accueil de 22 patients hospitalisés dans le Grand Est
+    et placés sous assistance respiratoire dans des hôpitaux situés dans
+    trois pays frontaliers de la France : en Allemagne, en Suisse et au
+    Luxembourg.
+
+**23 mars** :
+-   réunion par audioconférence du président de la République avec les
+    autorités morales et religieuses ;
+-   installation d’un hôpital de campagne militaire à Mulhouse.
+
+**24 mars** : 3ème mission MORPHEE (Module de Réanimation pour Patient à
+Haute Élongation d'Évacuation) entre Mulhouse et Brest pour le transfert
+par A330 de l’armée de l’air de 6 patients.\
+\
+**25 mars** :
+-   affrètement d’un TGV médicalisé entre Mulhouse et les Pays de la
+    Loire ;
+-   conseil de défense consacré au suivi de la crise du COVID-19 ;
+-   adoption de 25 ordonnances dans le cadre de l’état d’urgence
+    sanitaire en conseil des ministres.
+
+**26 mars** :
+-   publication du décret encadrant l’utilisation de la chloroquine ;
+-   annonce par le G20 de l’injection de 5 000 milliards de dollars dans
+    l’économie mondiale.
+
+**27 mars** : annonce par le Premier ministre de la prolongation de la
+période de confinement jusqu’au mercredi 15 avril 2020.\
+\
+**28 mars** : annonce de la commande de plus d’un milliard de masques,
+de l’augmentation de la capacité du nombre de lits en réanimation qui
+sera portée à 14 000 lits et de la massification de la politique de
+tests.\
+\
+**30 mars** : échange entre le Premier ministre et les acteurs
+économiques.\
+\
+**31 mars** :
+-   intervention du président de la République depuis une usine
+    française de masques à Saint-Barthélemy-d'Anjou sur la stratégie
+    d’importation et de production en France de masques, respirateurs et
+    gel hydroalcoolique ; 4 milliards d’euros seront alloués à Santé
+    publique France pour commander des médicaments et du matériel ;
+-   la période de déclaration de l’impôt sur le revenu est décalée de
+    quelques semaines et débutera le 20 avril ;
+-   10 millions d'euros supplémentaires seront attribués pour le
+    financement des aides spécifiques d'urgence attribuées par les
+    Centres régionaux des œuvres universitaires et scolaires (CROUS).
+
+**1er avril** :
+-   conseil de défense consacré au suivi de la crise du COVID-19 ;
+-   adoption de 7 ordonnances dans le cadre de l’état d’urgence
+    sanitaire en conseil des ministres.
+
+**2 avril** : 
+-   visioconférence du Premier ministre avec les chefs de partis et de
+    groupes parlementaires.
+-   Jean Castex est nommé par le président de la République pour
+    conduire une mission visant à encadrer la politique de déconfinement
+    à partir du 11 mai
+
+**4 avril** : financement d’un projet de test de dépistage du COVID-19
+par le ministère des Armées, à hauteur de 1 million d’euros.\
+\
+**6 avril** : opération de dépistage des personnes les plus vulnérables,
+en mettant la priorité sur les personnes âgées, les personnes
+handicapées les plus fragiles et les professionnels qui les accompagnent
+en établissement.\
+\
+**7 avril** : financement d’un projet portant sur la nouvelle
+technologie de détection rapide du COVID-19 par le ministère des Armées,
+à hauteur de 1,8 million d’euros.\
+\
+**8 avril** : conseil de défense consacré au suivi de la crise du
+COVID-19 ;\
+\
+**9 avril** : renforcement du plan d’urgence de soutien à l’économie :
+il passe de 45 milliards d'euros, à 100 milliards d'euros.\
+\
+**13 avril** : annonce de la prolongation du confinement de la
+population jusqu’au 11 mai par le président de la République.\
+\
+**15 avril** : conseil de défense et de sécurité autour du président de
+la République\
+\
+**22 avril** : conseil de défense et de sécurité autour du président de
+la République\
+\
+**28 avril** : présentation par le Premier ministre de la stratégie
+nationale de déconfinement, à l’Assemblée nationale\
+\
+**4 mai** : discours du Premier ministre au Sénat sur la stratégie
+nationale de déconfinement\
+\
+**7 mai** : 
+-   conseil de défense et de sécurité autour du président de la
+    République (Elysée)
+-   présentation de la carte de France du déconfinement et précisions
+    des modalités de déconfinement par le Premier ministre, le ministre
+    de l’Intérieur, le ministre de la Santé, la ministre des Transports,
+    le ministre de l’Education nationale, le ministre de l’Economie et
+    des Finances, la ministre du Travail.
+-   envoi de la circulaire sur les modalités du déconfinement à
+    l’ensemble des préfets
+
+**11 mai** : déconfinement progressif de la France.
+
+
+
+
+
+
+[]{#s1366}
+###  {#section .item-paragraphe-titre .c-onglet data-section="s1366" data-picto=""}
+
+
+\
+ 
+
+
+
+
 
 
 
