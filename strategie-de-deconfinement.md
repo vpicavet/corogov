@@ -250,7 +250,7 @@ l'organisation de la vie quotidienne** (vie sociale et activités,
 déplacements, commerces, écoles et crèches, transports, sports) :
 
 [Ensemble des mesures sur la vie
-quotidienne](https://gouvernement.fr/sites/default/files/filefield_paths/infographie_deconfinement.jpg "Téléchargez ici l'infographie, sur le plan de déconfinement expliquant l'organisation de la vie quotidienne (vie sociale et activités, déplacements, commerces, écoles et crèches, transport) - jpg 900ko"){.button-cta}
+quotidienne](https://gouvernement.fr/sites/default/files/cimages/infographie_deconfinement.jpg "Téléchargez ici l'infographie, sur le plan de déconfinement expliquant l'organisation de la vie quotidienne (vie sociale et activités, déplacements, commerces, écoles et crèches, transport) - jpg 900ko"){.button-cta}
 
 
 
@@ -569,7 +569,7 @@ Le calendrier de reprise est le suivant :**\
 \
 Selon les modalités suivantes :\
  
--   15 élèves par classe maximum ;
+-   15 élèves par classe maximum ; 10 en école maternelle
 -   une vie scolaire organisée autour des gestes barrière et la
     distanciation physique ;
 -   mise à disposition de gel hydroalcoolique.
@@ -608,7 +608,7 @@ Le port du masque est :\
 Les enfants suivront leur scolarité dans les lieux suivants :\
  
 -   soit dans leur établissement scolaire, dans la limite de 15 élèves
-    par classe ;
+    par classe ; 10 en école maternelle
 -   soit chez eux, avec un enseignement à distance ;
 -   soit en étude (si les locaux scolaires le permettent), ou dans des
     locaux périscolaires mis à disposition par les collectivités
