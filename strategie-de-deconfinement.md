@@ -389,14 +389,15 @@ La norme des 100 km
 -   En revanche, les déplacements au-delà de 100 km à vol d’oiseau de
     son lieu de résidence actuel sont interdits, sauf si ces 100 km se
     font au sein d’un même département.
--   Des dérogations sont possibles pour des motifs professionnels ou
-    familiaux impérieux comme un décès, l’assistance à une personne
-    vulnérable ou l’exercice par exemple de son métier de transporteur. 
--   L’attestation dérogatoire sera disponible sur le site du
-    gouvernement ou du ministère de l’Intérieur.
--   Des contrôles seront effectués dans les gares, aérogares, sur les
-    routes et les autoroutes et l’amende sera de 135€ pour les personnes
-    qui ne seraient pas en règle.
+    -   des dérogations sont possibles pour des motifs professionnels ou
+        familiaux impérieux comme un décès, l’assistance à une personne
+        vulnérable ou l’exercice par exemple de son métier de
+        transporteur. 
+    -   l’attestation dérogatoire sera disponible sur le site du
+        gouvernement ou du ministère de l’Intérieur.
+    -   des contrôles seront effectués dans les gares, aérogares, sur
+        les routes et les autoroutes et l’amende sera de 135€ pour les
+        personnes qui ne seraient pas en règle.
 
 La question des frontières
 --------------------------
@@ -428,7 +429,7 @@ L’offre de transport urbaine et régionale va être augmentée
 progressivement selon des modalités définies par chaque région. Le
 retour à la normale devrait intervenir au début du mois de juin.\
  \
-La capacité d’accueil sera réduite pour respecter la distanciation
+La capacité d’accueil est réduite pour respecter la distanciation
 physique, pendant au moins trois semaines à partir du 11 mai. Les
 opérateurs de transport s’organisent pour assurer le respect des mesures
 de distanciation physique et des gestes barrières : condamnation d’un
@@ -438,38 +439,42 @@ etc. Les métros, trams, trains et bus seront désinfectés chaque jour. \
 Certaines gares et stations pourront être fermées en cas de
 surfréquentation. \
 \
-Pour limiter la fréquentation aux heures de pointe, les employeurs sont
-incités à étaler les horaires de travail.\
+Pour limiter la fréquentation aux heures de pointe :\
+ 
+-   les employeurs sont incités à étaler les horaires de travail.
+-   les motifs de déplacement autorisés sont : trajet domicile-travail,
+    rendez-vous médical, trajet scolaire.
+
 \
 *A noter : en Ile-de-France, aux heures de pointe, l’accès aux
-transports en commun sera réservé aux personnes munies d’une attestation
+transports en commun est réservé aux personnes munies d’une attestation
 de déplacement de leur employeur. Cette mesure a été prise à la demande
-de l’autorité organisatrice des transports (la Région) et une telle
-mesure pourrait être étendue à une toute métropole à la demande de
-l’autorité responsable localement.*
+de l’autorité organisatrice des transports (la Région) ; elle pourrait
+être étendue à une autre métropole si l’autorité responsable localement
+le demande.*
 \
 **Réglementation :**
 
--   la réservation des trains sera obligatoire et l’occupation plafonnée
+-   la réservation des trains est obligatoire et l’occupation plafonnée
     à 50% des places ; 
--   le port du masque sera obligatoire pour les usagers de 11 ans et
-    plus dans les transports en commun, les trains, les taxis, VTC et
+-   le port du masque est obligatoire pour les usagers de 11 ans et plus
+    dans les transports en commun, les trains, les taxis, VTC et
     véhicules de covoiturage (en absence de protection physique séparant
     le conducteur du passager) et les avions ;
--   une amende de 135 euros sera attribuée en cas de non-port du masque,
+-   une amende de 135 euros est attribuée en cas de non-port du masque,
     d’accès à un TGV sans réservation ou en cas d’utilisation des
     transports de la région Ile-de-France aux heures de pointe sans
     attestation de l’employeur.
 
-*A noter : l'État mettra des masques à disposition des personnes n’ayant
+*A noter : l'État met des masques à disposition des personnes n’ayant
 pas pu s’en procurer *
 \
 La place du vélo
 ----------------
 
 \
-La pratique du vélo dans le cadre de déplacements réduits sera
-facilitée, grâce au développement de pistes cyclables temporaires, et la
+La pratique du vélo dans le cadre de déplacements réduits est facilitée,
+grâce au développement de pistes cyclables temporaires, et la
 mobilisation d’un plan de 20 millions d’euros pour prendre en charge : \
  
 -   les réparations et remises en état des vélos, à hauteur de 50% d’un
@@ -493,11 +498,11 @@ ligne](https://coupdepoucevelo.fr/auth/home).
 ### POUR VOUS ENFANTS ET LEUR SCOLARITÉ {#pour-vous-enfants-et-leur-scolarité .item-paragraphe-titre .c-onglet data-section="s1376" data-picto="https://www.gouvernement.fr/sites/default/files/cimages/enfantscolarite.svg"}
 
 
-**Le retour sur le chemin de l’école se fera, de façon progressive. 80 à
+**Le retour sur le chemin de l’école se fait, de façon progressive. 80 à
 85% des écoles maternelles et élémentaires seront ouvertes dans la
 semaine du 11 mai, dans 87 à 90% des communes.\
 \
-Les parents pourront faire le choix de l’enseignement à domicile, avec
+Les parents peuvent faire le choix de l’enseignement à domicile, avec
 une possibilité d’inscription gratuite au CNED (Centre national
 d’enseignement à distance). \
 \
@@ -526,31 +531,33 @@ Et avec des publics prioritaires : \
 -   enfants d’enseignants ; 
 -   enfants décrocheurs ou en voie de dérochage.
 
-Les parents doivent être informés cette semaine des modalités de la
-reprise qui s’effectuera à partir du 11 mai et qui concernent 1 million
-d’élèves, 130 000 enseignants et 12 000 personnels médicaux et sociaux
-mobilisés pour accompagner, accueillir, dialoguer avec le personnel et
-les élèves, définir la continuité pédagogique.\
+Les parents doivent être informés des modalités de la reprise qui
+s’effectue à partir du 11 mai et qui concernent 1 million d’élèves, 130
+000 enseignants et 12 000 personnels médicaux et sociaux mobilisés pour
+accompagner, accueillir, dialoguer avec le personnel et les élèves,
+définir la continuité pédagogique.\
 \
 Le port du masque est :\
  
 -   obligatoire pour les personnels (en maternelle, primaire, collège et
-    lycée) dans toutes les situations où les règles de de distanciation
-    ne peuvent (ou risquent de ne pas) être respectées.  C’est notamment
-    le cas des personnels intervenant auprès des plus jeunes avec
-    lesquels la distanciation d’un mètre peut difficilement être
-    respectée. Il est recommandé dans toutes les autres situations ;
+    lycée) dans toutes les situations où les règles de distanciation ne
+    peuvent (ou risquent de ne pas) être respectées.  C’est notamment le
+    cas des personnels intervenant auprès des plus jeunes avec lesquels
+    la distanciation d’un mètre peut difficilement être respectée. Il
+    est recommandé dans toutes les autres situations ;
 -   obligatoire pour les collégiens/lycéens dans toutes les situations
     où les règles de distanciation ne peuvent (ou risquent de ne pas)
     être respectées ;
 -   à proscrire pour les élèves en école maternelle ;
+-   mis à disposition des enfants de plus de 6 ans en cas de symptôme ;
 -   non recommandé pour les élèves en école élémentaire. Les enfants
     peuvent en être équipés s’ils le souhaitent et s’ils sont en mesure
     de le porter dans des conditions satisfaisantes. Des masques seront
     mis à disposition dans les écoles.
 
 \
-Les enfants suivront leur scolarité dans les lieux suivants :\
+Les enfants suivent leur scolarité dans les lieux suivants - selon les
+modalités décidées localement et la volonté des parents :\
  
 -   soit dans leur établissement scolaire, dans la limite de 15 élèves
     par classe ; 10 en école maternelle
@@ -591,11 +598,10 @@ collectivités locales trouveront ensemble les meilleures solutions.\
 -   port du masque grand public obligatoire pour les professionnels de
     la petite enfance.
 
-La définition des priorités d'accueil ne sera pas définie par l'Etat,
-mais sera assurée par les gestionnaires. Pourraient être privilégiés les
-enfants des couples dans l’impossibilité de télétravailler, les enfants
-des soignants et professeurs, les enfants des familles monoparentales,
-etc.
+La définition des priorités d'accueil n'est pas définie par l'Etat, mais
+par les gestionnaires. Pourraient être privilégiés les enfants des
+couples dans l’impossibilité de télétravailler, les enfants des
+soignants et professeurs, les enfants des familles monoparentales, etc.
 
 
 
@@ -616,32 +622,33 @@ Si le télétravail n’est pas possible : les horaires décalés devront être
 encouragés, pour réduire au maximum la présence simultanée des personnes
 à la fois sur le lieu de travail et dans les transports.\
 \
-**60 guides métiers**, élaborés avec les fédérations professionnelles et
-soumis à la consultation des les partenaires sociaux, vont être publiés
-d’ici au 11 mai pour aider les entreprises à s’organiser, secteur par
-secteur. 54 sont déjà disponibles sur le [site du ministère du
-Travail](https://travail-emploi.gouv.fr/le-ministere-en-action/coronavirus-covid-19/proteger-les-travailleurs/article/fiches-conseils-metiers-et-guides-pour-les-salaries-et-les-employeurs).
-Ces guides sectoriels sont complétés par un[protocole national de
-déconfinement](https://travail-emploi.gouv.fr/actualites/presse/communiques-de-presse/article/protocole-national-de-deconfinement-pour-les-entreprises-pour-assurer-la),
-afin d’accompagner les entreprises et les associations, quelles que
-soient leur taille, leur activité et leur situation géographique, à
-reprendre leur activité tout en assurant la protection de la santé de
-leurs salariés grâce à des règles universelles (recommandations en
-termes de jauge par espace ouvert, gestion des flux, équipements de
-protection individuelle, tests de dépistage, protocole de prise en
-charge d’une personne symptomatique et de ses contacts rapprochés, prise
-de température, nettoyage et à désinfection des locaux).\
+**Plus de 60 guides métiers**, élaborés avec les fédérations
+professionnelles et soumis à la consultation des partenaires sociaux,
+sont disponibles sur le[site du ministère du
+Travail](https://travail-emploi.gouv.fr/le-ministere-en-action/coronavirus-covid-19/proteger-les-travailleurs-les-emplois-les-savoir-faire-et-les-competences/proteger-les-travailleurs/article/fiches-conseils-metiers-et-guides-pour-les-salaries-et-les-employeurs).
+Leur vocation : aider les entreprises à s’organiser, secteur par
+secteur. Ces guides sectoriels sont complétés par un [protocole national
+de
+déconfinement](https://travail-emploi.gouv.fr/actualites/presse/communiques-de-presse/article/protocole-national-de-deconfinement-pour-les-entreprises-pour-assurer-la).
+Il s’agit d’accompagner les entreprises et les associations dans la
+reprise de leur activité, tout en assurant la protection de la santé de
+leurs salariés. Des règles sont définies : recommandations en termes de
+jauge par espace ouvert, gestion des flux, équipements de protection
+individuelle, tests de dépistage, protocole de prise en charge d’une
+personne symptomatique et de ses contacts rapprochés, prise de
+température, nettoyage et à désinfection des locaux.\
 \
-Le dialogue social permettra de décliner les mesures du protocole
+C’est le dialogue social qui permet de décliner les mesures du protocole
 national au niveau de chaque entreprise.\
 \
-Dans les 24 heures sera publié un guide pour accompagner les entreprises
-non habituées au télétravail.
+Un guide est par ailleurs publié pour accompagner les entreprises non
+habituées au télétravail.\
+ 
 Aides de l’État
 ---------------
 
 \
-L’Etat maintient le fonds de solidarité jusqu’à la fin du mois de mai
+ L’État maintient le fonds de solidarité jusqu’à la fin du mois de mai
 pour tenir compte des baisses d’activité. \
 \
 Les charges sociales patronales de mars, avril et mai seront totalement
@@ -652,7 +659,7 @@ Pour permettre la reprise de l’activité, des masques seront disponibles
 chez les pharmaciens, buralistes, dans les grandes surfaces, sur des
 plateformes numériques, avec une TVA à 5,5%.\
 \
-**Les entreprises en difficulté pourront continuer à bénéficier :**\
+**Les entreprises en difficulté peuvent continuer à bénéficier :**\
  
 -   du dispositif d'activité partielle, jusqu'au 1er juin. Il sera
     ensuite adapté progressivement, afin d'accompagner la reprise
@@ -675,28 +682,31 @@ les stagiaires. Un guide-métier spécifique sera publié.
 ### POUR VOS ACHATS ET BESOINS ESSENTIELS {#pour-vos-achats-et-besoins-essentiels .item-paragraphe-titre .c-onglet data-section="s1378" data-picto="https://www.gouvernement.fr/sites/default/files/cimages/achatsbesoins_essentiels.svg"}
 
 
-La majorité des commerces ouvriront à partir du 11 mai, en respectant
-des mesures de protection sanitaire :\
+La majorité des commerces (représentant 400 000 entreprises, 875 000
+emplois) ouvrent à partir du 11 mai, en respectant des mesures de
+protection sanitaire :\
  
--   le nombre de personnes dans les magasins sera limité ;
--   la distanciation physique de 1 mètre entre chaque personne devra
-    être respectée ;
--   le personnel devra être protégé ;
--   le port du masque sera recommandé pour le personnel comme pour les
+-   le nombre de personnes dans les magasins est limité ;
+-   la distanciation physique de 1 mètre entre chaque personne doit être
+    respectée ;
+-   le personnel doit être protégé ;
+-   le port du masque est recommandé pour le personnel comme pour les
     clients lorsque la distanciation physique n’est pas possible. Un
-    commerçant pourra imposer le port du masque dans son magasin.
+    commerçant peut imposer le port du masque dans son magasin.
 
 Cas spécifiques :\
  
 -   concernant les cafés et restaurants, une décision sera prise fin mai
     pour une éventuelle réouverture le 2 juin ;
--   les marchés de plein air et halles couvertes rouvriront à partir du
-    11 mai si les distances de sécurité entre les consommateurs sont
+-   concernant les coiffeurs et instituts de beauté : ils rouvrent à
+    condition de respecter des guides sanitaires spécifiques ;
+-   les marchés de plein air et halles couvertes rouvrent à partir du 11
+    mai si les distances de sécurité entre les consommateurs sont
     garanties. Les maires ou préfets pourront revenir sur cette
     autorisation s’ils constatent l’impossibilité de garantir le respect
-    des gestes barrières ;
+    des mesures barrières ;
 -   concernant les centres commerciaux de plus de 40 000 m² : les
-    préfets pourront décider de les maintenir fermés s’ils estiment que
+    préfets peuvent décider de les maintenir fermés s’ils estiment que
     la zone de chalandise de ces commerces va au-delà du bassin de vie.
     Dans ce cas, seuls les magasins alimentaires et essentiels déjà
     ouverts situés à l’intérieur du  centre commercial restent ouverts.
@@ -710,17 +720,18 @@ Cas spécifiques :\
 ### POUR VOTRE VIE SOCIALE {#pour-votre-vie-sociale .item-paragraphe-titre .c-onglet data-section="s1379" data-picto="https://www.gouvernement.fr/sites/default/files/cimages/vie_sociale.svg"}
 
 
-À partir du 11 mai, la vie sociale reprendra progressivement son cours.\
-\
-Vous pourrez, tout en respectant les règles de distanciation sociale :\
+À partir du 11 mai, la vie sociale reprend progressivement son cours.
+Vous pouvez, tout en respectant les règles de distanciation sociale :\
  
 -   circuler librement dans votre région, sauf pour les déplacements à
-    plus de 100 km de votre domicile, qui ne seront possibles que pour
-    un motif impérieux, qu’il soit familial ou professionnel ;
+    plus de 100 km à vol d'oiseau de votre domicile, qui ne seront
+    possibles que pour un motif impérieux, qu’il soit familial ou
+    professionnel ;
 -   pratiquer un sport individuel en extérieur ;
 -   vous rendre à nouveau dans les parcs et jardins , uniquement dans
     les départements où le virus circule faiblement et sous réserve des
     décisions des gestionnaires de ces espaces ;
+-   vous rendre dans les forêts ;
 -   vous rendre dans les médiathèques, bibliothèques, les petits musées
     et les petits monuments ;
 -   vous rendre dans les lieux de cultes, qui resteront ouverts. Ils
@@ -728,21 +739,28 @@ Vous pourrez, tout en respectant les règles de distanciation sociale :\
     ;
 -   vous rendre aux cérémonies funéraires qui resteront limitées à 20
     personnes ;
--   vous rendre dans les cimetières, qui seront rouverts au public ;
--   participer à des rassemblements limités à 10 personnes.
+-   vous rendre dans les cimetières ;
+-   participer à des rassemblements limités à 10 personnes. Un nouveau
+    seuil pourra être défini fin mai
 
 Cependant :\
  
--   vous ne pourrez pas pratiquer de sport dans les lieux couverts, ni
-    de sport collectif, ni de sport de contact (la liste précise sera
+-   vous ne pouvez pas pratiquer de sport dans les lieux couverts, ni de
+    sport collectif, ni de sport de contact (la liste précise est
     diffusée par le ministère des sports) ;
--   les plages seront inaccessibles au moins jusqu’au 2 juin ;
--   les grands musées, grands monuments, cinémas, salles de théâtres,
-    salles de concert, salles des fêtes, salles polyvalentes resteront
-    fermés ;
+-   les plages, lacs, bases nautiques, sont inaccessibles - sauf demande
+    des maires effectuées aux Préfets et indiquant les mesures de
+    distanciation physiques prises. Une décision sera prise fin mai ;
 -   les manifestations de plus de 5000 participants (sportives,
     culturelles, etc.) ne pourront pas se tenir avant le mois de
     septembre ;
+-   les parcs et jardins sont fermés jusqu’au 1er juin dans les
+    départements rouges où la circulation épidémique est élevée ;
+-   les musées, monuments, parcs zoologiques sont fermés - sauf décision
+    contraire du préfet après avis du maire et du gestionnaire de
+    l’établissement ;
+-   les manifestations de plus de 5000 participants (sportives,
+    culturelles, etc.) ne peuvent pas se tenir jusqu’au 31 août ;
 -   la saison actuelle des sports professionnels dont le football ne
     reprendra pas ;
 -   les mariages continueront d’être reportés, sauf urgences ;
@@ -752,11 +770,11 @@ Cependant :\
 Le respect par chacun d’entre nous de ces règles contraignantes est
 important : notre santé collective en dépend !\
 \
-**Les personnes âgées et vulnérables** seront invitées (sans obligation
-ni besoin d’attestation) à respecter les règles similaires à celles
+**Les personnes âgées et vulnérables** sont invitées (sans obligation ni
+besoin d’attestation) à respecter les règles similaires à celles
 imposées durant la période de confinement, et donc à limiter leurs
-contacts et leurs sorties. Les personnes qui rendront visite à ces
-personnes devront respecter les précautions nécessaires à la
+contacts et leurs sorties. Les personnes qui rendent visite à ces
+personnes doivent respecter les précautions nécessaires à la
 préservation de leur santé fragile.
 
 
@@ -774,7 +792,7 @@ Wallis-et-Futuna, compétentes en matière de santé. Le calendrier et les
 modalités du déconfinement sont cependant adaptées aux spécificités de
 ces territoires.\
 \
-Le déconfinement commencera le 11 mai, sauf :\
+Le déconfinement commence le 11 mai, sauf :\
  
 -   à Saint-Barthélémy, à Saint-Martin et à Saint-Pierre-et-Miquelon, où
     il a été anticipé ;
@@ -785,25 +803,25 @@ Le déconfinement commencera le 11 mai, sauf :\
 Si vous vous trouvez en métropole et que vous souhaitez vous rendre en
 outre-mer :\
  
--   vous devrez justifier d’un motif impérieux d’ordre sanitaire,
+-   vous devez justifier d’un motif impérieux d’ordre sanitaire,
     familial ou professionnel. A votre arrivée en Guadeloupe, en Guyane,
     à La Réunion, en Martinique, à Saint-Martin, à Saint-Barthélemy et à
     Saint-Pierre-et-Miquelon, vous devrez rester isolé durant 14 jours
     dans un centre d’hébergement. Ces mesures visent à protéger ces
     territoires de l’arrivée de personnes porteuses du virus.
 -   si vous êtes étudiant en métropole et que vous souhaitez rejoindre
-    votre famille dans l’un de ces territoires, vous devrez également
+    votre famille dans l’un de ces territoires, vous devez également
     effectuer une quatorzaine en centre d’hébergement, avant votre
     départ ou à votre arrivée.
 
 Si vous vous trouvez en outre-mer et que vous souhaitez vous rendre dans
 un autre territoire d’outre-mer ou en métropole :\
  
--   vous devrez justifier d’un motif impérieux d’ordre sanitaire,
+-   vous devez justifier d’un motif impérieux d’ordre sanitaire,
     familial ou professionnel ;
--   en métropole, vous n’aurez pas à effectuer une quatorzaine à votre
+-   en métropole, vous n’avez pas à effectuer une quatorzaine à votre
     arrivée ;
--   dans un autre territoire d’outre-mer, vous devrez effectuer une
+-   dans un autre territoire d’outre-mer, vous devez effectuer une
     quatorzaine en centre d’hébergement à votre arrivée.
 
 
