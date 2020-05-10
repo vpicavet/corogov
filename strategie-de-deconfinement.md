@@ -4,7 +4,7 @@ robots: noarchive
 title: 'Info Coronavirus COVID-19 - Stratégie de déconfinement | Gouvernement.fr'
 twitter:card: 'summary\_large\_image'
 twitter:description: 'Le Gouvernement agit pour vous.'
-twitter:image: 'https://www.gouvernement.fr/sites/default/files/header\_deconfinement.png'
+twitter:image: 'https://www.gouvernement.fr/sites/default/files/strategie\_du\_gouvernement.jpg'
 twitter:site: '@gouvernementfr'
 twitter:title: 'Info Coronavirus COVID-19 - Stratégie de déconfinement'
 twitter:url: 'https://www.gouvernement.fr/info-coronavirus/strategie-de-deconfinement'
@@ -120,7 +120,7 @@ COVID-19
 
 
 
-Mis à jour le mardi 28 avril 2020, à 15h
+Mis à jour le vendredi 8 mai 2020, à 15h
 
 
 -   [Français](/info-coronavirus)
@@ -136,8 +136,8 @@ Mis à jour le mardi 28 avril 2020, à 15h
 []{#point}
 
 
-EN DIRECT
----------
+11 mai
+------
 
 \#Déconfinement
 
