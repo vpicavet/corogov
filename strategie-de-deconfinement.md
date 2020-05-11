@@ -792,36 +792,29 @@ préservation de leur santé fragile.
 
 
 Le plan de déconfinement s’applique dans les territoires d’outre-mer –
-excepté en Nouvelle-Calédonie, en Polynésie française et à
-Wallis-et-Futuna, compétentes en matière de santé. Le calendrier et les
-modalités du déconfinement sont cependant adaptées aux spécificités de
-ces territoires.\
+excepté en Nouvelle-Calédonie et en Polynésie française, compétentes en
+matière de santé. Le calendrier et les modalités du déconfinement sont
+cependant adaptés aux spécificités de ces territoires.\
 \
-Le déconfinement commence le 11 mai, sauf :\
- 
+\
+**Le déconfinement commence le 11 mai, sauf :**
 -   à Saint-Barthélémy, à Saint-Martin et à Saint-Pierre-et-Miquelon, où
     il a été anticipé ;
--   à Mayotte, où il est décalé à une date qui sera précisée
-    ultérieurement - étant donnée la hausse du nombre de cas de
-    contamination observés.
+-   à Mayotte, où il est décalé au 18 mai 2020 - étant donnée la hausse
+    du nombre de cas de contamination observés.
 
-Si vous vous trouvez en métropole et que vous souhaitez vous rendre en
-outre-mer :\
- 
+**Si vous vous trouvez en métropole et que vous souhaitez vous rendre en
+outre-mer :**
 -   vous devez justifier d’un motif impérieux d’ordre sanitaire,
-    familial ou professionnel. A votre arrivée en Guadeloupe, en Guyane,
-    à La Réunion, en Martinique, à Saint-Martin, à Saint-Barthélemy et à
-    Saint-Pierre-et-Miquelon, vous devrez rester isolé durant 14 jours
-    dans un centre d’hébergement. Ces mesures visent à protéger ces
-    territoires de l’arrivée de personnes porteuses du virus.
+    familial ou professionnel. A votre arrivée, vous devrez rester isolé
+    durant 14 jours dans un centre d’hébergement.
 -   si vous êtes étudiant en métropole et que vous souhaitez rejoindre
     votre famille dans l’un de ces territoires, vous devez également
-    effectuer une quatorzaine en centre d’hébergement, avant votre
-    départ ou à votre arrivée.
+    effectuer une quatorzaine en centre d’hébergement, à votre arrivée
+    ou avant votre départ.
 
-Si vous vous trouvez en outre-mer et que vous souhaitez vous rendre dans
-un autre territoire d’outre-mer ou en métropole :\
- 
+**Si vous vous trouvez en outre-mer et que vous souhaitez vous rendre
+dans un autre territoire d’outre-mer ou en métropole :**
 -   vous devez justifier d’un motif impérieux d’ordre sanitaire,
     familial ou professionnel ;
 -   en métropole, vous n’avez pas à effectuer une quatorzaine à votre
