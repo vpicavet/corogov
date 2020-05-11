@@ -185,8 +185,13 @@ préparé en surveillant tous les indicateurs (le taux de nouveaux cas
 dans la population sur une période de sept jours, les capacités
 hospitalières en réanimation restent saturées, le système local de tests
 et de détection des cas contacts n’est pas suffisamment prêt). \
-Cette phase s’étendra jusqu’au 2 juin.\
+Cette phase s’étendra jusqu’au 2 juin.
+
 \
+[Télécharger le rapport de Jean
+Castex](/sites/default/files/rapport_jean_castex_-_preparation_de_la_sortie_du_confinement.pdf){.boutonds}
+
+
 \
 []{#plandeconfinement}
 **Retrouvez ici l'infographie du plan de déconfinement expliquant
@@ -195,7 +200,7 @@ déplacements, commerces, écoles et crèches, transports, sports) :
 
  
 [Ensemble des mesures sur la vie
-quotidienne](https://gouvernement.fr/sites/default/files/cimages/infographie_deconfinement.jpg "Téléchargez ici l'infographie, sur le plan de déconfinement expliquant l'organisation de la vie quotidienne (vie sociale et activités, déplacements, commerces, écoles et crèches, transport) - jpg 900ko"){.button-cta}
+quotidienne](https://gouvernement.fr/sites/default/files/cimages/infographie_deconfinement.jpg "Téléchargez ici l'infographie, sur le plan de déconfinement expliquant l'organisation de la vie quotidienne (vie sociale et activités, déplacements, commerces, écoles et crèches, transport) - jpg 900ko"){.boutonds}
 
 
 
