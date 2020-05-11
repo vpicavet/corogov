@@ -144,8 +144,6 @@ Mis à jour le dimanche 10 mai 2020, à 20h45
 Point de situation
 ------------------
 
-\#RestezChezVous
-
 
 
 Le déconfinement est prévu pour le 11 mai. Il se prépare en surveillant
@@ -162,37 +160,7 @@ height="541"}
 [Télécharger la présentation détaillée de la stratégie nationale de
 déconfinement](/sites/default/files/document/document/2020/05/conference_de_presse_sur_le_deconfinement.pdf "Téléchargement Conférence de presse sur le déconfinement (PDF - 887.78 Ko) - nouvelle fenêtre")
 
-\
-\
-En application de l’état d’urgence sanitaire, jusqu’au 11 mai, les
-déplacements sont interdits sauf dans les cas suivants et uniquement à
-condition d'être munis d'une attestation pour :
-
--   **Déplacements entre le domicile et le lieu d’exercice de l’activité
-    professionnelle**, lorsqu’ils sont indispensables à l’exercice
-    d’activités ne pouvant être organisées sous forme de télétravail ou
-    déplacements professionnels ne pouvant être différés.
--   **Déplacements pour effectuer des achats de fournitures nécessaires
-    à l’activité professionnelle et des achats de première nécessité,**
-    y compris les acquisitions à titre gratuit (distribution de denrées
-    alimentaires…) et les déplacements liés à la perception de
-    prestations sociales et au retrait d’espèces, dans des
-    établissements dont les activités demeurent autorisées.
--   **Consultations et soins** ne pouvant être assurés à distance et ne
-    pouvant être différés  ; soin des patients atteints d'une affection
-    de longue durée.
--   **Déplacements pour motif familial impérieux**, pour l’assistance
-    aux personnes vulnérables ou la garde d’enfants.
--   **Déplacements brefs, dans la limite d'une heure quotidienne et dans
-    un rayon maximal d'un kilomètre autour du domicile**, liés soit à
-    l'activité physique individuelle des personnes, à l'exclusion de
-    toute pratique sportive collective et de toute proximité avec
-    d'autres personnes, soit à la promenade avec les seules personnes
-    regroupées dans un même domicile, soit aux besoins des animaux de
-    compagnie.
--   **Convocation judiciaire ou administrative**.
--   **Participation à des missions d’intérêt général** sur demande de
-    l’autorité administrative.
+ 
 
 Le Premier ministre a présenté le mardi 28 avril 2020 la stratégie
 nationale de déconfinement à l'Assemblée nationale. Retrouvez toutes les
@@ -10454,52 +10422,6 @@ voyageurs.](https://www.diplomatie.gouv.fr/fr/le-ministere-et-son-reseau/actuali
 
 
 
-
-
-
-### Attestations {#attestations .c-onglet}
-
-
-[Attestation dérogatoire[ PDF - 134.44
-Ko]{}](https://www.gouvernement.fr/sites/default/files/cfiles/attestation-deplacement-fr-20200324.pdf){.download-link}
-
-
-
-[Attestation professionnelle[ PDF - 122.97
-Ko]{}](https://www.gouvernement.fr/sites/default/files/cfiles/justificatif-deplacement-professionnel-fr_20200330.pdf){.download-link}
-
-
-
-[Attestation dérogatoire[ DOCX - 18.64
-Ko]{}](https://www.gouvernement.fr/sites/default/files/cfiles/attestation-deplacement-fr-20200324.docx){.download-link}
-
-
-
-[Attestation professionnelle[ DOCX - 19.76
-Ko]{}](https://www.gouvernement.fr/sites/default/files/cfiles/justificatif-deplacement-professionnel-fr_20200330.docx){.download-link}
-
-
-
-[Attestation dérogatoire[ TXT - 2.66
-Ko]{}](https://www.gouvernement.fr/sites/default/files/cfiles/attestation-deplacement-fr-20200324.txt){.download-link}
-
-
-
-[Attestation professionnelle[ TXT - 2.42
-Ko]{}](https://www.gouvernement.fr/sites/default/files/cfiles/justificatif-deplacement-professionnel-fr_20200330.txt){.download-link}
-
-
--   [Attestation dérogatoire
-    numérique](https://media.interieur.gouv.fr/deplacement-covid-19/)
--   [Attestation pour un déplacement dérogatoire de la France
-    métropolitaine vers
-    l'Outre-mer](https://www.interieur.gouv.fr/content/download/121920/978794/file/Attestation-om-depuis-la-metropole.pdf)
--   [Attestation pour une voyage international depuis l'étranger vers la
-    France
-    métropolitaine](https://www.interieur.gouv.fr/content/download/121915/978769/file/07-04-20-Attestation-etranger-metropole-FR.pdf)
--   [Attestation pour un voyage international depuis l'étranger vers une
-    collectivité
-    d'Outre-mer](https://www.interieur.gouv.fr/content/download/121918/978784/file/Attestation-outre-mer-depuis-l-etranger.pdf)
 
 
 
