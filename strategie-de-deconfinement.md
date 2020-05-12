@@ -758,8 +758,10 @@ Vous pouvez, tout en respectant les règles de distanciation sociale :\
 -   vous rendre aux cérémonies funéraires qui resteront limitées à 20
     personnes ;
 -   vous rendre dans les cimetières ;
--   participer à des rassemblements limités à 10 personnes. Un nouveau
-    seuil pourra être défini fin mai
+-   participer à des rassemblements limités à 10 personnes dans l’espace
+    public dans le respect des règles de distanciation physique et des
+    mesures barrières (distance physique, lavage de main...). Un nouveau
+    seuil pourra être défini fin mai.
 
 Cependant :\
  
