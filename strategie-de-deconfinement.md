@@ -1,23 +1,25 @@
 ---
 description: 'Le Gouvernement agit pour vous.'
 robots: noarchive
-title: 'Info Coronavirus COVID-19 - Stratégie de déconfinement | Gouvernement.fr'
+title: |
+    Info Coronavirus COVID-19 - Les actions du Gouvernement |
+    Gouvernement.fr
 twitter:card: 'summary\_large\_image'
 twitter:description: 'Le Gouvernement agit pour vous.'
 twitter:image: 'https://www.gouvernement.fr/sites/default/files/strategie\_du\_gouvernement.jpg'
 twitter:site: '@gouvernementfr'
-twitter:title: 'Info Coronavirus COVID-19 - Stratégie de déconfinement'
-twitter:url: 'https://www.gouvernement.fr/info-coronavirus/strategie-de-deconfinement'
+twitter:title: 'Info Coronavirus COVID-19 - Les actions du Gouvernement'
+twitter:url: 'https://www.gouvernement.fr/info-coronavirus/les-actions-du-gouvernement'
 viewport: 'width=device-width'
 ---
 
 
 
 [Aller au
-contenu](/info-coronavirus/strategie-de-deconfinement#content)[Aller à
+contenu](/info-coronavirus/les-actions-du-gouvernement#content)[Aller à
 la
-recherche](/info-coronavirus/strategie-de-deconfinement#search-block-form)[Aller
-au menu](/info-coronavirus/strategie-de-deconfinement#nav)
+recherche](/info-coronavirus/les-actions-du-gouvernement#search-block-form)[Aller
+au menu](/info-coronavirus/les-actions-du-gouvernement#nav)
 
 
 [![Gouvernement.fr - Retour à
@@ -106,15 +108,21 @@ COVID-19
 
 
 -   [Informations officielles](/info-coronavirus){.informations}
--   [Déconfinement](/info-coronavirus/strategie-de-deconfinement){.deconfinement
-    .active}
+-   [Comprendre le
+    Covid-19](/info-coronavirus/comprendre-le-covid-19){.comprendre}
+-   [Ressources à
+    partager](/info-coronavirus/ressources-a-partager){.ressources}
 -   [Masques grand
     public](/info-coronavirus/masques-grand-public){.masque}
 -   [Orientation
     médicale](/info-coronavirus/orientation-medicale){.medicale}
--   [Questions / réponses](/info-coronavirus#questions){.qr}
--   [Carte et données](/info-coronavirus/carte-et-donnees){.carte}
 -   [Handicap](/info-coronavirus/espace-handicap){.handicap}
+-   [Les actions du
+    Gouvernement](/info-coronavirus/les-actions-du-gouvernement){.actionsgvt
+    .active}
+-   [Carte et données](/info-coronavirus/carte-et-donnees){.carte}
+-   [Questions / réponses](/info-coronavirus#questions){.qr}
+-   [Numéros utiles](/info-coronavirus#ressources){.numeros}
 
 
 
@@ -125,12 +133,11 @@ Mis à jour le vendredi 8 mai 2020, à 15h
 
 -   [Français](/info-coronavirus)
 -   [FALC](/info-coronavirus/francais-simplifie-falc)
--   [English](/en/coronavirus-covid-19)
 
 
 
-[information]{} Stratégie de déconfinement
-==========================================
+[Les actions]{} du Gouvernement
+===============================
 
 
 []{#point}
@@ -1424,16 +1431,16 @@ Rechercher
 
 
 
-
-
-
-
 N’hésitez pas à partager cette page :
 
 -   [Partager par mail](#){.ds-icon-mail .colorbox-link}
 -   [Partager sur Twitter](#){.ds-icon-twitter}
 -   [Partager sur Facebook](#){.ds-icon-facebook}
 -   [Partager sur LinkedIn](#){.ds-icon-linkedin}
+
+
+
+
 
 
 
