@@ -221,7 +221,7 @@ Les 3 priorités du gouvernement : protéger, tester, isoler.\
 **1. Protéger**\
 \
 Les occasions de contact augmentant à nouveau à partir du début du
-déconfinement, le respect des gestes barrières et de distanciation
+déconfinement, le respect des mesures barrières et de distanciation
 physique prendra encore plus d’importance. Le port du masque s’imposera
 dans certaines situations.\
 \
@@ -405,8 +405,9 @@ La norme des 100 km
         familiaux impérieux comme un décès, l’assistance à une personne
         vulnérable ou l’exercice par exemple de son métier de
         transporteur. 
-    -   l’attestation dérogatoire sera disponible sur le site du
-        gouvernement ou du ministère de l’Intérieur.
+    -   l’attestation dérogatoire est disponible sur le site du
+        [gouvernement](https://www.gouvernement.fr/info-coronavirus/ressources-a-partager#section-b1658)ou
+        du ministère de l’Intérieur.
     -   des contrôles seront effectués dans les gares, aérogares, sur
         les routes et les autoroutes et l’amende sera de 135€ pour les
         personnes qui ne seraient pas en règle.
@@ -444,7 +445,7 @@ retour à la normale devrait intervenir au début du mois de juin.\
 La capacité d’accueil est réduite pour respecter la distanciation
 physique, pendant au moins trois semaines à partir du 11 mai. Les
 opérateurs de transport s’organisent pour assurer le respect des mesures
-de distanciation physique et des gestes barrières : condamnation d’un
+de distanciation physique et des mesures barrières : condamnation d’un
 siège sur deux dans les bus et métros, marquage au sol dans le métro,
 etc. Les métros, trams, trains et bus seront désinfectés chaque jour. \
 \
@@ -459,20 +460,25 @@ Pour limiter la fréquentation aux heures de pointe :\
 
 \
 *A noter : en Ile-de-France, aux heures de pointe, l’accès aux
-transports en commun est réservé aux personnes munies d’une attestation
-de déplacement de leur employeur. Cette mesure a été prise à la demande
-de l’autorité organisatrice des transports (la Région) ; elle pourrait
-être étendue à une autre métropole si l’autorité responsable localement
-le demande.*
+transports en commun est réservé aux personnes munies d’[une attestation
+de déplacement de leur
+employeur](https://www.prefectures-regions.gouv.fr/ile-de-france/Region-et-institutions/L-action-de-l-Etat/Amenagement-du-territoire-transport-et-environnement/Les-transports-du-quotidien/Deconfinement-les-attestations-pour-se-deplacer-dans-les-transports-en-commun-en-heure-de-pointe)
+ou attestation justifiant d’un motif précis ([liste des motifs sur le
+site de la
+PRIF](https://www.prefectures-regions.gouv.fr/ile-de-france/Region-et-institutions/L-action-de-l-Etat/Amenagement-du-territoire-transport-et-environnement/Les-transports-du-quotidien/Deconfinement-les-attestations-pour-se-deplacer-dans-les-transports-en-commun-en-heure-de-pointe)).
+Cette mesure a été prise à la demande de l’autorité organisatrice des
+transports (la Région) ; elle pourrait être étendue à une autre
+métropole si l’autorité responsable localement le demande.*
 \
 **Réglementation :**
 
 -   la réservation des trains est obligatoire et l’occupation plafonnée
     à 50% des places ; 
 -   le port du masque est obligatoire pour les usagers de 11 ans et plus
-    dans les transports en commun, les trains, les taxis, VTC et
-    véhicules de covoiturage (en absence de protection physique séparant
-    le conducteur du passager) et les avions ;
+    dans les transports en commun, les transports inter-régionaux
+    (trains), les taxis, VTC et véhicules de covoiturage (en absence de
+    protection physique séparant le conducteur du passager) et les
+    avions ;
 -   une amende de 135 euros est attribuée en cas de non-port du masque,
     d’accès à un TGV sans réservation ou en cas d’utilisation des
     transports de la région Ile-de-France aux heures de pointe sans
@@ -532,7 +538,7 @@ Le calendrier de reprise est le suivant :**\
 Selon les modalités suivantes :\
  
 -   15 élèves par classe maximum ; 10 en école maternelle
--   une vie scolaire organisée autour des gestes barrière et la
+-   une vie scolaire organisée autour des mesures barrières et la
     distanciation physique ;
 -   mise à disposition de gel hydroalcoolique.
 
@@ -744,8 +750,8 @@ Vous pouvez, tout en respectant les règles de distanciation sociale :\
     les départements où le virus circule faiblement et sous réserve des
     décisions des gestionnaires de ces espaces ;
 -   vous rendre dans les forêts ;
--   vous rendre dans les médiathèques, bibliothèques, les petits musées
-    et les petits monuments ;
+-   vous rendre dans les les lieux culturels de proximité :
+    médiathèques, bibliothèques, petits musées et petits monuments ;
 -   vous rendre dans les lieux de cultes, qui resteront ouverts. Ils
     n’organiseront cependant pas de cérémonie, au moins jusqu’au 2 juin
     ;
@@ -813,12 +819,15 @@ cependant adaptés aux spécificités de ces territoires.\
 **Si vous vous trouvez en métropole et que vous souhaitez vous rendre en
 outre-mer :**
 -   vous devez justifier d’un motif impérieux d’ordre sanitaire,
-    familial ou professionnel. A votre arrivée, vous devrez rester isolé
-    durant 14 jours dans un centre d’hébergement.
+    familial ou professionnel. A votre arrivée en Guadeloupe, en Guyane,
+    à La Réunion, en Martinique, à Saint-Martin, à Saint-Barthélemy et à
+    Saint-Pierre-et-Miquelon, vous êtes invité à rester isolé durant 14
+    jours, éventuellement dans un centre d’hébergement. Ces mesures
+    visent à protéger ces territoires de l’arrivée de personnes
+    porteuses du virus ;
 -   si vous êtes étudiant en métropole et que vous souhaitez rejoindre
-    votre famille dans l’un de ces territoires, vous devez également
-    effectuer une quatorzaine en centre d’hébergement, à votre arrivée
-    ou avant votre départ.
+    votre famille dans l’un de ces territoires, vous pourrez effectuer
+    une quatorzaine en centre d’hébergement, avant votre départ.
 
 **Si vous vous trouvez en outre-mer et que vous souhaitez vous rendre
 dans un autre territoire d’outre-mer ou en métropole :**
@@ -826,8 +835,8 @@ dans un autre territoire d’outre-mer ou en métropole :**
     familial ou professionnel ;
 -   en métropole, vous n’avez pas à effectuer une quatorzaine à votre
     arrivée ;
--   dans un autre territoire d’outre-mer, vous devez effectuer une
-    quatorzaine en centre d’hébergement à votre arrivée.
+-   dans un autre territoire d’outre-mer, vous êtes invité à rester
+    isolé durant 14 jours, éventuellementdans un centre d’hébergement.
 
 
 

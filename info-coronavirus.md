@@ -255,13 +255,14 @@ ou de contamination.**
 pour nos activités professionnelles, scolaires et nos déplacements
 essentiels. Elle doit s’accompagner du respect des règles sanitaires par
 chacun d’entre nous. Et, pour limiter la diffusion du virus, il convient
-d’éviter la promiscuité dans les transports collectifs.**\
+d’éviter la promiscuité dans les transports collectifs.**
 ###### **Je dois :**
 
 -   je dois respecter les mesures barrières et la distanciation physique
     ;
--   je dois porter le masque dans les transports en commun, les trains,
-    les taxis, VTC et véhicules de covoiturage, les avions.
+-   je dois porter le masque obligatoirement dans les transports en
+    commun, les trains (transports inter-régionaux), les taxis, VTC et
+    véhicules de covoiturage, les avions.
 
 \
 **Je peux :**
@@ -274,7 +275,6 @@ d’éviter la promiscuité dans les transports collectifs.**\
         sécurité, avec [un moniteur expérimenté dont je peux trouver les
         coordonnées ici](https://coupdepoucevelo.fr).
 
-\
 ###### Je ne dois pas :
 
 -   en Île-de-France et dans les zones où les autorités organisatrices
@@ -288,6 +288,15 @@ d’éviter la promiscuité dans les transports collectifs.**\
     Cette mesure a été prise à la demande de la Région, autorité
     organisatrice des transports ; elle pourrait être étendue à une
     autre métropole si l’autorité responsable localement la demande.
+
+**Cas particulier** : en Île-de-France, aux heures de pointe (6h30 -
+9h30 / 16h - 19h), l’accès aux transports en commun est réservé aux
+personnes munies d’une attestation de déplacement pour aller travailler,
+se soigner ou faire garder ses enfants. Cette mesure a été prise à la
+demande de la Région, autorité organisatrice des transports ; elle
+pourrait être étendue à une autre métropole si l’autorité responsable
+localement la demande.\
+ 
 -   je ne dois pas prendre les transports en commun si je ne suis pas
     équipé d’un masque - dans le cas contraire je peux me voir refuser
     l’accès au véhicule ou à la gare, et à m’exposer à une contravention
@@ -533,7 +542,7 @@ Soyons vigilants car avec le déconfinement, les occasions de contact
 augmentent tout autant que les risques de diffusion du COVID-19. Le
 respect par chacun d’entre nous des mesures barrières et de la
 distanciation physique est important : notre santé individuelle et
-collective en dépend !**\
+collective en dépend !**
 ###### **Je peux :**
 
 -   je peux à nouveau circuler librement - dans un rayon de 100 km à vol
@@ -561,7 +570,7 @@ collective en dépend !**\
     -   elle rassemble 10 personnes maximum
     -   elle soit exercée à l’extérieur
     -   la distance entre deux personnes pratiquant cette activité soit
-        largement supérieure à la distance de sécurité d’1mètre : elle
+        largement supérieure à la distance de sécurité d’1 mètre : elle
         est de 5 mètres pour une activité dont l’intensité est
         équivalente à une marche rapide, et de 10 mètres pour une
         activité à haute intensité ;
@@ -582,7 +591,7 @@ collective en dépend !**\
     proximité), je me rends sur la plateforme « *Réserve civique
     Covid-19* »
 
-\
+ 
 ###### Je ne peux pas :
 
 -   je ne peux pas pratiquer de sport dans les lieux couverts, ni de
@@ -690,8 +699,9 @@ d’éviter la promiscuité dans les transports collectifs.**
 
 -   je dois respecter les mesures barrière et la distanciation physique
     ;
--   je dois porter le masque dans les transports en commun, les trains,
-    les taxis, VTC, les véhicules de covoiturage, et les avions.
+-   je dois porter le masque obligatoirement dans les transports en
+    commun, les trains (transports inter-régionaux), les taxis, VTC, les
+    véhicules de covoiturage, et les avions.
 
 \
 **Je peux :**
@@ -709,27 +719,29 @@ d’éviter la promiscuité dans les transports collectifs.**
 
 -   je ne dois pas prendre les transports en commun aux heures de
     pointe. Sauf si je me déplace pour : une consultation médicale,
-    aller au travail, à l’école ou dans un lieu de garde. **Cas
-    particulier** : en Île-de-France, aux heures de pointe, l’accès aux
-    transports en commun est réservé aux personnes munies d’[une
-    attestation de déplacement de leur
-    employeur](https://www.prefectures-regions.gouv.fr/ile-de-france/Region-et-institutions/L-action-de-l-Etat/Amenagement-du-territoire-transport-et-environnement/Les-transports-du-quotidien/Deconfinement-les-attestations-pour-se-deplacer-dans-les-transports-en-commun-en-heure-de-pointe).
-    Cette mesure a été prise à la demande de la Région, autorité
-    organisatrice des transports ; elle pourrait être étendue à d’autres
-    zones si l’autorité responsable localement la demande.
+    aller au travail, à l’école ou dans un lieu de garde.
+
+**Cas particulier** : en Île-de-France, aux heures de pointe, l’accès
+aux transports en commun est réservé aux personnes munies d’[une
+attestation de déplacement de leur
+employeur](https://www.prefectures-regions.gouv.fr/ile-de-france/Region-et-institutions/L-action-de-l-Etat/Amenagement-du-territoire-transport-et-environnement/Les-transports-du-quotidien/Deconfinement-les-attestations-pour-se-deplacer-dans-les-transports-en-commun-en-heure-de-pointe).
+Cette mesure a été prise à la demande de la Région, autorité
+organisatrice des transports ; elle pourrait être étendue à d’autres
+zones si l’autorité responsable localement la demande.
 -   je ne dois pas prendre les transports en commun si je ne suis pas
     équipé d’un masque - dans le cas contraire je peux me voir refuser
     l’accès au véhicule ou à la gare, et à m’exposer à une contravention
     ;
 -   je ne dois pas me déplacer à longue distance : je ne me rends pas
     au-delà de 100 km à vol d’oiseau. Je peux faire plus de 100 km
-    uniquement si je ne sors pas de mon département. **Exception** : si
-    j’ai un motif impérieux, personnel ou professionnel, je peux me
-    déplacer au-delà. [Je dois remplir une
-    déclaration](https://www.gouvernement.fr/info-coronavirus/ressources-a-partager#section-b1658)
-    et pouvoir justifier mon déplacement. Si je prends le train, la
-    réservation est obligatoire (TGV, Intercités, TER inter-régionaux,
-    etc.) tout comme le port du masque ;
+    uniquement si je ne sors pas de mon département.
+
+**Exception** : si j’ai un motif impérieux, personnel ou professionnel,
+je peux me déplacer au-delà. [Je dois remplir une
+déclaration](https://www.gouvernement.fr/info-coronavirus/ressources-a-partager#section-b1658)
+et pouvoir justifier mon déplacement. Si je prends le train, la
+réservation est obligatoire (TGV, Intercités, TER inter-régionaux, etc.)
+tout comme le port du masque ;
 -   je ne dois pas voyager à l’extérieur de l’espace européen : les
     frontières sont fermées, sauf pour quelques liaisons de rapatriement
     de nationaux.
@@ -1020,7 +1032,7 @@ collective en dépend !**
     concert, salles des fêtes, salles polyvalentes, conservatoires -
     fermés au moins jusquà fin mai ;
 -   je ne peux pas accéder aux musées, monuments, parcs zoologiques -
-    sauf décision contraire du préfet après avi du maire et du
+    sauf décision contraire du préfet après avis du maire et du
     gestionnaire de l’établissement ;
 -   je ne peux pas participer à une saison de sports professionnels y
     compris du football – car elles ne reprennent pas pour le moment ;
