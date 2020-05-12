@@ -128,7 +128,7 @@ COVID-19
 
 
 
-Mis à jour le vendredi 8 mai 2020, à 15h
+Mis à jour le mardi 12 mai 2020, à 20h
 
 
 -   [Français](/info-coronavirus)
@@ -207,7 +207,7 @@ déplacements, commerces, écoles et crèches, transports, sports) :
 
  
 [Ensemble des mesures sur la vie
-quotidienne](https://gouvernement.fr/sites/default/files/cimages/infographie_deconfinement.jpg "Téléchargez ici l'infographie, sur le plan de déconfinement expliquant l'organisation de la vie quotidienne (vie sociale et activités, déplacements, commerces, écoles et crèches, transport) - jpg 900ko"){.boutonds}
+quotidienne](https://www.gouvernement.fr/sites/default/files/cimages/infog_deconfinement.jpg "Téléchargez ici l'infographie, sur le plan de déconfinement expliquant l'organisation de la vie quotidienne (vie sociale et activités, déplacements, commerces, écoles et crèches, transport) - jpg 900ko"){.boutonds}
 
 
 
