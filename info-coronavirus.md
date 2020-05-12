@@ -1201,7 +1201,7 @@ Les recommandations du Haut conseil de la Santé :\
 -   approvisionnement personnel dans des commerces, pharmacies,
 -   distribution dans certains cas par des collectivités territoriales.
 
-\
+ 
 **Pour les salariés (fonction publique et secteur privé) :**
 
 -   fourniture par les employeurs ;
@@ -1209,8 +1209,9 @@ Les recommandations du Haut conseil de la Santé :\
 \
 **Pour les très petites entreprises (TPE) et indépendants :**
 
--   mise à disposition par l’État d’une plateforme d’approvisionnement
-    gérée par La Poste ;
+-   mise à disposition par l’État d’une [plateforme
+    d’approvisionnement](https://masques-pme.laposte.fr/) gérée par La
+    Poste ;
 
 \
 **Pour les personnes précaires :**
