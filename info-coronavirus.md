@@ -3594,6 +3594,25 @@ Numéro vert : infos sur le Coronavirus COVID-19, 24h/24 et 7j/7 : [0 800
 
 
 
+[  ](# "Fermer la demande abonnement aux notification")
+
+Restez au courant
+
+Vous pouvez recevoir les prochaines informations officielles à propos du
+COVID-19.
+
+[J'active les notifications](#){#get-notifications .notifmilieu
+.button-cta .red}
+
+[Consulter le traitement des données
+personnelles](/donnees-personnelles-et-cookies#notifications).
+
+
+
+
+
+
+
 []{#ressource-link}
 
 
@@ -3764,7 +3783,7 @@ Rechercher
 
 
 
-class="block block-pmv6-schema-org block-odd">
+class="block block-pmv6-schema-org block-even">
 
 
 
