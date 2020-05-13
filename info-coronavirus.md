@@ -1148,7 +1148,7 @@ dépistages](/info-coronavirus/tests-et-depistage){.bouttonds}
 
 
 []{#s1415}
-### L'usage des masques grand pulic {#lusage-des-masques-grand-pulic .item-paragraphe-titre .c-onglet data-section="s1415" data-picto=""}
+### L'usage des masques grand public {#lusage-des-masques-grand-public .item-paragraphe-titre .c-onglet data-section="s1415" data-picto=""}
 
 
 L’usage des masques vient en complément des mesures barrières et de la
@@ -1210,13 +1210,13 @@ Les recommandations du Haut conseil de la Santé :\
 
 **Pour le grand public et l’usage domestique :**
 
--   approvisionnement personnel dans des commerces, pharmacies,
+-   approvisionnement personnel dans des commerces, pharmacies ;
 -   distribution dans certains cas par des collectivités territoriales.
 
  
 **Pour les salariés (fonction publique et secteur privé) :**
 
--   fourniture par les employeurs ;
+-   fourniture par les employeurs.
 
 \
 **Pour les très petites entreprises (TPE) et indépendants :**
@@ -1339,8 +1339,8 @@ préfets.\
 -   pour les personnes malades, elles durent jusqu’à 2 jours après la
     fin des symptômes ;
 -   pour les « cas contacts », même négatifs, elles s’exercent jusqu’à
-    14 jours après le contact avec la personne infectée et s’accompagner
-    de surveillance d’apparition de symptômes ;
+    14 jours après le contact avec la personne infectée et elles
+    s’accompagnent de surveillance d’apparition de symptômes ;
 -   un suivi téléphonique bi-quotidien sera effectué.
 
 
@@ -1961,8 +1961,6 @@ mobilisée pour :\
 []{#s1418}
 ### Pour mes déplacements {#pour-mes-déplacements .item-paragraphe-titre .c-onglet data-section="s1418" data-picto=""}
 
-
-Texte Intro
 
 
 
