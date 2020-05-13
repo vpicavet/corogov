@@ -123,7 +123,7 @@ COVID-19
 
 
 
-Mis à jour le 11 mai 2020 à 22H30
+Mis à jour le 13 mai 2020 à 19H30
 
 
 -   [Français](/info-coronavirus)
