@@ -281,21 +281,16 @@ d’éviter la promiscuité dans les transports collectifs.**
     des mobilités en décideront, je ne dois pas prendre les transports
     en commun aux heures de pointe, sauf si je me déplace pour : une
     consultation médicale, aller au travail, à l’école ou dans un lieu
-    de garde. **Cas particulier en Île-de-France :** aux heures de
-    pointe, l’accès aux transports en commun est réservé aux personnes
-    munies d’[une attestation de déplacement de leur
-    employeur](https://www.prefectures-regions.gouv.fr/ile-de-france/Region-et-institutions/L-action-de-l-Etat/Amenagement-du-territoire-transport-et-environnement/Les-transports-du-quotidien/Deconfinement-les-attestations-pour-se-deplacer-dans-les-transports-en-commun-en-heure-de-pointe).
-    Cette mesure a été prise à la demande de la Région, autorité
-    organisatrice des transports ; elle pourrait être étendue à une
-    autre métropole si l’autorité responsable localement la demande.
+    de garde.
 
 **Cas particulier** : en Île-de-France, aux heures de pointe (6h30 -
 9h30 / 16h - 19h), l’accès aux transports en commun est réservé aux
-personnes munies d’une attestation de déplacement pour aller travailler,
-se soigner ou faire garder ses enfants. Cette mesure a été prise à la
-demande de la Région, autorité organisatrice des transports ; elle
-pourrait être étendue à une autre métropole si l’autorité responsable
-localement la demande.\
+personnes munies d’une[attestation de déplacement de leur
+employeur](http://www.prefectures-regions.gouv.fr/ile-de-france/Region-et-institutions/L-action-de-l-Etat/Amenagement-du-territoire-transport-et-environnement/Les-transports-du-quotidien/Deconfinement-les-attestations-pour-se-deplacer-dans-les-transports-en-commun-en-heure-de-pointe),
+pour aller travailler, se soigner ou faire garder ses enfants. Cette
+mesure a été prise à la demande de la Région, autorité organisatrice des
+transports ; elle pourrait être étendue à une autre métropole si
+l’autorité responsable localement la demande.\
  
 -   je ne dois pas prendre les transports en commun si je ne suis pas
     équipé d’un masque - dans le cas contraire je peux me voir refuser
