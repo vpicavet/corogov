@@ -391,8 +391,7 @@ Parlement français l’autorise. Son utilisation sera alors facultative.\
 ### POUR VOUS DÉPLACER {#pour-vous-déplacer .item-paragraphe-titre .c-onglet data-section="s1380" data-picto="https://www.gouvernement.fr/sites/default/files/cimages/deplacement.svg"}
 
 
-La norme des 100 km
--------------------
+### La norme des 100 km
 
  
 -   Chacun peut de nouveau circuler sans attestation avec, s’il est en
@@ -412,8 +411,7 @@ La norme des 100 km
         les routes et les autoroutes et l’amende sera de 135€ pour les
         personnes qui ne seraient pas en règle.
 
-La question des frontières
---------------------------
+### La question des frontières
 
 \
 Pas de changement notable par rapport à la règle actuelle.\
@@ -433,9 +431,9 @@ La libre circulation des travailleurs frontaliers est préservée.\
 \
 Pour les travailleurs saisonniers -en particulier agricoles-, des
 mesures spécifiques sont prises : ils peuvent se déplacer à condition de
-disposer d’un justificatif économique impérieux.
-Les transports en commun
-------------------------
+disposer d’un justificatif économique impérieux.\
+ 
+### Les transports en commun
 
 \
 L’offre de transport urbaine et régionale va être augmentée
@@ -486,9 +484,7 @@ métropole si l’autorité responsable localement le demande.*
 
 *A noter : l'État met des masques à disposition des personnes n’ayant
 pas pu s’en procurer *
-\
-La place du vélo
-----------------
+### La place du vélo
 
 \
 La pratique du vélo dans le cadre de déplacements réduits est facilitée,
@@ -630,8 +626,7 @@ soignants et professeurs, les enfants des familles monoparentales, etc.
 ### POUR VOTRE TRAVAIL {#pour-votre-travail .item-paragraphe-titre .c-onglet data-section="s1377" data-picto="https://www.gouvernement.fr/sites/default/files/cimages/travail.svg"}
 
 
-La santé des salariés est la priorité. 
----------------------------------------
+### La santé des salariés est la priorité. 
 
 \
 Le télétravail doit être maintenu partout où cela est possible.\
@@ -662,8 +657,7 @@ national au niveau de chaque entreprise.\
 Un guide est par ailleurs publié pour accompagner les entreprises non
 habituées au télétravail.\
  
-Aides de l’État
----------------
+### Aides de l’État
 
 \
  L’État maintient le fonds de solidarité jusqu’à la fin du mois de mai
