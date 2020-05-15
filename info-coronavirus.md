@@ -99,6 +99,10 @@ Suggestions :
 
 
 
+
+
+
+
 COVID-19
 
 
@@ -131,8 +135,8 @@ Mis à jour le 13 mai 2020 à 19H30
 
 
 
-[informations]{} CORONAVIRUS
-============================
+Informations Coronavirus
+========================
 
 
 []{#point}
@@ -3760,6 +3764,10 @@ Rechercher
 -   [Accessibilité](/accessibilite){.footer-menu-item-7499}
 -   [English](/en/news){.footer-menu-item-374}
 -   [Marque de l'État](/marque-Etat){.footer-menu-item-8535}
+
+
+
+
 
 
 

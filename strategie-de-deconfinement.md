@@ -103,6 +103,10 @@ Suggestions :
 
 
 
+
+
+
+
 COVID-19
 
 
@@ -136,8 +140,8 @@ Mis à jour le mardi 12 mai 2020, à 20h
 
 
 
-[Les actions]{} du Gouvernement
-===============================
+Les actions du Gouvernement
+===========================
 
 
 []{#point}
@@ -1417,6 +1421,10 @@ Rechercher
 -   [Accessibilité](/accessibilite){.footer-menu-item-7499}
 -   [English](/en/news){.footer-menu-item-374}
 -   [Marque de l'État](/marque-Etat){.footer-menu-item-8535}
+
+
+
+
 
 
 
