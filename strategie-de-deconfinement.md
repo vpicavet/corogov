@@ -6,7 +6,7 @@ title: |
     Gouvernement.fr
 twitter:card: 'summary\_large\_image'
 twitter:description: 'Le Gouvernement agit pour vous.'
-twitter:image: 'https://www.gouvernement.fr/sites/default/files/strategie\_du\_gouvernement.jpg'
+twitter:image: 'https://www.gouvernement.fr/sites/default/files/actions\_du\_gouvernement.jpg'
 twitter:site: '@gouvernementfr'
 twitter:title: 'Info Coronavirus COVID-19 - Les actions du Gouvernement'
 twitter:url: 'https://www.gouvernement.fr/info-coronavirus/les-actions-du-gouvernement'
