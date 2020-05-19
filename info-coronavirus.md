@@ -131,7 +131,7 @@ Mis à jour le 13 mai 2020 à 19H30
 
 
 -   [Français](/info-coronavirus)
--   [FALC](/info-coronavirus/francais-simplifie-falc)
+-   [Français simplifié](/info-coronavirus/francais-simplifie-falc)
 
 
 style="background-image:  url('https://www.gouvernement.fr/sites/default/files/bandeaux/header_informations_essentielles.jpg')">
