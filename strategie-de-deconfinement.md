@@ -137,6 +137,7 @@ Mis à jour le mardi 12 mai 2020, à 20h
 
 -   [Français](/info-coronavirus)
 -   [Français simplifié](/info-coronavirus/francais-simplifie-falc)
+-   [English](/en/coronavirus-covid-19)
 
 
 
