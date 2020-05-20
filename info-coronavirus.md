@@ -3532,16 +3532,17 @@ arretonslesviolences.gouv.fr](https://arretonslesviolences.gouv.fr/))\
 \
 Plateforme nationale d’appui médico-psychologique pour tous les
 professionnels de santé : [0800 73 09 58 (n°
-vert)](tel:0800730958 "Appeler le 0800 73 09 58 (n° vert)")\
-\
+vert)](tel:0800730958 "Appeler le 0800 73 09 58 (n° vert)")
+
 **Urgence pour ma santé ou celle de mes proches :**\
 \
-Si j’ai des symptômes (toux, fièvre) qui me font penser au COVID-19 :\
- 
+Si j’ai des symptômes (toux, fièvre) qui me font penser au COVID-19 :
+
 -   je reste à domicile, j’évite les contacts, j’appelle un médecin
     avant de me rendre à son cabinet ou j’appelle le numéro de
     permanence de soins de ma région. Je peux également bénéficier d’une
     téléconsultation ;
+
 -   si les symptômes s’aggravent avec des difficultés respiratoires et
     signes d’étouffement, j'appelle le SAMU
     ([15]{.mise-en-avant-refcom}) ou j'envoie un message au numéro
@@ -3556,8 +3557,20 @@ Numéro vert : infos sur le Coronavirus COVID-19, 24h/24 et 7j/7 : [0 800
 Si vous avez des difficultés pour entendre ou parler par téléphone en
 raison d’un handicap, vous pouvez vous rendre sur [[l'espace de contact
 ouvert dédié aux personnes sourdes, malentendantes ou
-aveugles](https://www.gouvernement.fr/info-coronavirus/espace-handicap)]{.mise-en-avant-refcom}.\
-\
+aveugles](https://www.gouvernement.fr/info-coronavirus/espace-handicap)]{.mise-en-avant-refcom}.
+
+data-apple-banner-context="Engagez la conversation avec le chatbot du Gouvernement et trouvez des informations et des liens utiles, ainsi que les réponses aux questions fréquentes."
+data-apple-banner-cta="Une question sur le COVID-19 ? Notre chatbot vous aide à trouver la réponse !"
+data-apple-banner-icon-background-color="rgb(178,178,178)"
+data-apple-banner-icon-color="rgba(255,255,254,1)"
+data-apple-banner-rounded-corners="false"
+data-apple-business-body="Faites envoyer pour commencer la conversation"
+data-apple-business-id="c89f57a6-4a1c-460e-a164-9c79fd47064d"
+style="max-width:300px">
+
+ 
+
+
 Vous pouvez également vous tenir informé sur [[le compte du Gouvernement
 sur WhatsApp
 ]{.mise-en-avant-refcom}](https://wa.me/33755531212?text=Bonjour)en
@@ -3565,11 +3578,10 @@ cliquant ici, ou en enregistrant le numéro "[07 55 53 12
 12](tel:0755531212 "Appeler le 07 55 53 12 12")" au nom de Gouvernement
 puis en envoyant à ce contact un message sur l'application pour
 commencer la discussion.\
-\
 **Attention, la plateforme téléphonique et le bot WhatsApp ne dispensent
-pas de conseils médicaux.\
-\
-J’habite à l’étranger, qui appeler ?**\
+pas de conseils médicaux.**
+
+**J’habite à l’étranger, qui appeler ?**\
 \
 L’Ambassade et consulat de votre lieu de résidence. Par ailleurs, le
 ministère met à jour régulièrement [son site de conseils aux
@@ -3787,6 +3799,10 @@ Rechercher
 
 
 class="block block-pmv6-schema-org block-even">
+
+
+
+
 
 
 
