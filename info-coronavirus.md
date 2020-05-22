@@ -2091,7 +2091,7 @@ Non, cela n'est pas possible sauf motif familial impérieux (deuil,
 assistance à personne fragile...). \
 \
 En savoir plus
-:[https://www.diplomatie.gouv.fr/fr/le-ministere-et-son-reseau/actualites-du-ministere/informations-coronavirus-covid-19](www.diplomatie.gouv.fr/fr/le-ministere-et-son-reseau/actualites-du-ministere/informations-coronavirus-covid-19)
+:<https://www.diplomatie.gouv.fr/fr/le-ministere-et-son-reseau/actualites-du-ministere/informations-coronavirus-covid-19>
 
 
 
