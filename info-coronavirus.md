@@ -4,7 +4,7 @@ robots: noarchive
 title: 'Info Coronavirus COVID-19 | Gouvernement.fr'
 twitter:card: 'summary\_large\_image'
 twitter:description: 'Le Gouvernement agit pour vous.'
-twitter:image: 'https://www.gouvernement.fr/sites/default/files/informations\_essentielles.jpg'
+twitter:image: 'https://www.gouvernement.fr/sites/default/files/informations\_essentielles\_header\_homepage.jpg'
 twitter:site: '@gouvernementfr'
 twitter:title: 'Info Coronavirus COVID-19 '
 twitter:url: 'https://www.gouvernement.fr/info-coronavirus'
