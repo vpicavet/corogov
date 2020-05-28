@@ -160,6 +160,14 @@ Les actions du Gouvernement
 
 
 
+\
+[Présentation de la conférence de presse de M. Édouard PHILIPPE (PDF -
+4.04
+Mo),](/sites/default/files/document/document/2020/05/presentation_-_2eme_etape_du_plan_de_deconfinement_-_28.05.2020.pdf "Présentation de la conférence de presse de M. Édouard PHILIPPE, sur la deuxième étape du plan de déconfinement du jeudi 28 mai 2020. PDF - nouvelle fenêtre")
+sur la deuxième étape du plan de déconfinement du jeudi 28 mai 2020.
+
+
+
 
 
 
