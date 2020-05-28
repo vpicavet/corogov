@@ -132,7 +132,7 @@ COVID-19
 
 
 
-Mis à jour le mardi 12 mai 2020, à 20h
+Mis à jour le jeudi 28 mai 2020, à 17h
 
 
 -   [Français](/info-coronavirus)
@@ -148,26 +148,16 @@ Les actions du Gouvernement
 []{#point}
 
 
-11 mai
+28 mai
 ------
 
 \#Déconfinement
 
 
 
-Depuis le début de l’épidémie de coronavirus, le Gouvernement s’est
-mobilisé pour garantir la sécurité sanitaire de tous les français. La
-mobilisation des services de l’État et la responsabilité collective a
-permis de limiter la propagation du virus sur le territoire. **Le 11 mai
-ouvre un nouveau chapitre avec la mise en place du plan de
-déconfinement.** Son objectif : préserver un équilibre entre la
-nécessité de reprendre l’activité économique et celle de préserver la
-santé des Français.  
-![](/sites/default/files/cimages/carte_deconfinement.png){width="960"
-height="541"}
 
-[Télécharger la présentation détaillée de la stratégie nationale de
-déconfinement](/sites/default/files/document/document/2020/05/conference_de_presse_sur_le_deconfinement.pdf "Téléchargement Conférence de presse sur le déconfinement (PDF - 887.78 Ko) - nouvelle fenêtre")
+ 
+
 
 
 
