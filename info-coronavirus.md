@@ -149,17 +149,16 @@ POINT DE SITUATION
 
 
 
-Nous vivons depuis le mois de mars 2020 une situation inédite due à une
-maladie nouvelle et très contagieuse. Elle sera vaincue grâce à
-l’engagement et la responsabilité de chacun d’entre nous.\
+Grâce à l’engagement et la responsabilité de chacun, aussi bien pendant
+le confinement que dans le déconfinement, la crise sanitaire du COVID-19
+qui touche la France depuis le mois de mars 2020 marque le pas.\
 \
-Retrouvez ici les informations sur la crise du Coronavirus COVID-19 en
-France :
--   les données sur la maladie ;
--   les conséquences sur votre santé et votre vie quotidienne ;
--   les bonnes pratiques ;
--   les mesures gouvernementales prises pour vous aider ;
--   les modalités de déconfinement.
+La vigilance reste nécessaire et l’État se tient plus que jamais aux
+côtés des Français fragilisés par la crise.\
+\
+Retrouvez ici les informations sur la maladie, les bonnes pratiques à
+observer, les modalités concrètes de déconfinement et les mesures prises
+par le Gouvernement pour vous aider.
 
 
 
